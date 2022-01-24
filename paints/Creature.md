@@ -1,2 +1,2 @@
 # Creature
-![Creature](/logos/Creature.png?raw=true)
+![Creature](/logos/Creature.png?raw=true | width=250)

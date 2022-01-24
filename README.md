@@ -11,14 +11,14 @@ Feel free to use or improve any of these paints in your own personal projects.
 <!--- START -->
 |  |  |  |
 | --- | --- | --- |
-| [![AK](/logos/AK.png?raw=true =250x)](/paints/AK.md)| [![Apple Barrel](/logos/AppleBarrel.png?raw=true =250x)](/paints/AppleBarrel.md)| [![Army Painter](/logos/Army_Painter.png?raw=true =250x)](/paints/Army_Painter.md)|
-| [![Arteza](/logos/Arteza.png?raw=true =250x)](/paints/Arteza.md)| [![Citadel Colour](/logos/Citadel_Colour.png?raw=true =250x)](/paints/Citadel_Colour.md)| [![Coat D Armes](/logos/CoatDArmes.png?raw=true =250x)](/paints/CoatDArmes.md)|
-| [![Creature](/logos/Creature.png?raw=true =250x)](/paints/Creature.md)| [![Folk Art](/logos/FolkArt.png?raw=true =250x)](/paints/FolkArt.md)| [![Foundry](/logos/Foundry.png?raw=true =250x)](/paints/Foundry.md)|
-| [![Green Stuff World](/logos/GreenStuffWorld.png?raw=true =250x)](/paints/GreenStuffWorld.md)| [![Humbrol](/logos/Humbrol.png?raw=true =250x)](/paints/Humbrol.md)| [![Italeri](/logos/Italeri.png?raw=true =250x)](/paints/Italeri.md)|
-| [![Kimera Kolors](/logos/KimeraKolors.png?raw=true =250x)](/paints/KimeraKolors.md)| [![MPP](/logos/MPP.png?raw=true =250x)](/paints/MPP.md)| [![Mig](/logos/Mig.png?raw=true =250x)](/paints/Mig.md)|
-| [![Monument](/logos/Monument.png?raw=true =250x)](/paints/Monument.md)| [![P3](/logos/P3.png?raw=true =250x)](/paints/P3.md)| [![Pantone](/logos/Pantone.png?raw=true =250x)](/paints/Pantone.md)|
-| [![RAL](/logos/RAL.png?raw=true =250x)](/paints/RAL.md)| [![Reaper](/logos/Reaper.png?raw=true =250x)](/paints/Reaper.md)| [![Scale75](/logos/Scale75.png?raw=true =250x)](/paints/Scale75.md)|
-| [![Tamiya](/logos/Tamiya.png?raw=true =250x)](/paints/Tamiya.md)| [![Vallejo](/logos/Vallejo.png?raw=true =250x)](/paints/Vallejo.md)| [![Warcolours](/logos/Warcolours.png?raw=true =250x)](/paints/Warcolours.md)|
+| [![AK](/logos/AK.png?raw=true | width=250)](/paints/AK.md)| [![Apple Barrel](/logos/AppleBarrel.png?raw=true | width=250)](/paints/AppleBarrel.md)| [![Army Painter](/logos/Army_Painter.png?raw=true | width=250)](/paints/Army_Painter.md)|
+| [![Arteza](/logos/Arteza.png?raw=true | width=250)](/paints/Arteza.md)| [![Citadel Colour](/logos/Citadel_Colour.png?raw=true | width=250)](/paints/Citadel_Colour.md)| [![Coat D Armes](/logos/CoatDArmes.png?raw=true | width=250)](/paints/CoatDArmes.md)|
+| [![Creature](/logos/Creature.png?raw=true | width=250)](/paints/Creature.md)| [![Folk Art](/logos/FolkArt.png?raw=true | width=250)](/paints/FolkArt.md)| [![Foundry](/logos/Foundry.png?raw=true | width=250)](/paints/Foundry.md)|
+| [![Green Stuff World](/logos/GreenStuffWorld.png?raw=true | width=250)](/paints/GreenStuffWorld.md)| [![Humbrol](/logos/Humbrol.png?raw=true | width=250)](/paints/Humbrol.md)| [![Italeri](/logos/Italeri.png?raw=true | width=250)](/paints/Italeri.md)|
+| [![Kimera Kolors](/logos/KimeraKolors.png?raw=true | width=250)](/paints/KimeraKolors.md)| [![MPP](/logos/MPP.png?raw=true | width=250)](/paints/MPP.md)| [![Mig](/logos/Mig.png?raw=true | width=250)](/paints/Mig.md)|
+| [![Monument](/logos/Monument.png?raw=true | width=250)](/paints/Monument.md)| [![P3](/logos/P3.png?raw=true | width=250)](/paints/P3.md)| [![Pantone](/logos/Pantone.png?raw=true | width=250)](/paints/Pantone.md)|
+| [![RAL](/logos/RAL.png?raw=true | width=250)](/paints/RAL.md)| [![Reaper](/logos/Reaper.png?raw=true | width=250)](/paints/Reaper.md)| [![Scale75](/logos/Scale75.png?raw=true | width=250)](/paints/Scale75.md)|
+| [![Tamiya](/logos/Tamiya.png?raw=true | width=250)](/paints/Tamiya.md)| [![Vallejo](/logos/Vallejo.png?raw=true | width=250)](/paints/Vallejo.md)| [![Warcolours](/logos/Warcolours.png?raw=true | width=250)](/paints/Warcolours.md)|
 
 <!--- END -->
 

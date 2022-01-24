@@ -1,2 +1,2 @@
 # AK
-![AK](/logos/AK.png?raw=true)
+![AK](/logos/AK.png?raw=true | width=250)
