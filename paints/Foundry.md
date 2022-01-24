@@ -22,7 +22,7 @@
 <td>72</td>
 <td>79</td>
 <td>#73484F</td>
-<td style="{ background: '#73484F' }" ></td>
+<td style="background-color: #73484F" ></td>
 </tr>
 <tr>
 <td>African Flesh Light</td>
@@ -32,7 +32,7 @@
 <td>79</td>
 <td>80</td>
 <td>#8F4F50</td>
-<td style="{ background: '#8F4F50' }" ></td>
+<td style="background-color: #8F4F50" ></td>
 </tr>
 <tr>
 <td>African Flesh Shade</td>
@@ -42,7 +42,7 @@
 <td>68</td>
 <td>74</td>
 <td>#5B444A</td>
-<td style="{ background: '#5B444A' }" ></td>
+<td style="background-color: #5B444A" ></td>
 </tr>
 <tr>
 <td>American Green</td>
@@ -52,7 +52,7 @@
 <td>113</td>
 <td>107</td>
 <td>#76716B</td>
-<td style="{ background: '#76716B' }" ></td>
+<td style="background-color: #76716B" ></td>
 </tr>
 <tr>
 <td>American Green Light</td>
@@ -62,7 +62,7 @@
 <td>130</td>
 <td>116</td>
 <td>#808274</td>
-<td style="{ background: '#808274' }" ></td>
+<td style="background-color: #808274" ></td>
 </tr>
 <tr>
 <td>American Green Shade</td>
@@ -72,7 +72,7 @@
 <td>85</td>
 <td>79</td>
 <td>#5A554F</td>
-<td style="{ background: '#5A554F' }" ></td>
+<td style="background-color: #5A554F" ></td>
 </tr>
 <tr>
 <td>American Olive Green</td>
@@ -82,7 +82,7 @@
 <td>62</td>
 <td>68</td>
 <td>#313E44</td>
-<td style="{ background: '#313E44' }" ></td>
+<td style="background-color: #313E44" ></td>
 </tr>
 <tr>
 <td>American Olive Green Light</td>
@@ -92,7 +92,7 @@
 <td>89</td>
 <td>79</td>
 <td>#37594F</td>
-<td style="{ background: '#37594F' }" ></td>
+<td style="background-color: #37594F" ></td>
 </tr>
 <tr>
 <td>American Olive Green Shade</td>
@@ -102,7 +102,7 @@
 <td>54</td>
 <td>62</td>
 <td>#2F363E</td>
-<td style="{ background: '#2F363E' }" ></td>
+<td style="background-color: #2F363E" ></td>
 </tr>
 <tr>
 <td>American Tan</td>
@@ -112,7 +112,7 @@
 <td>176</td>
 <td>138</td>
 <td>#C2B08A</td>
-<td style="{ background: '#C2B08A' }" ></td>
+<td style="background-color: #C2B08A" ></td>
 </tr>
 <tr>
 <td>American Tan Light</td>
@@ -122,7 +122,7 @@
 <td>202</td>
 <td>164</td>
 <td>#DCCAA4</td>
-<td style="{ background: '#DCCAA4' }" ></td>
+<td style="background-color: #DCCAA4" ></td>
 </tr>
 <tr>
 <td>American Tan Shade</td>
@@ -132,7 +132,7 @@
 <td>159</td>
 <td>122</td>
 <td>#AD9F7A</td>
-<td style="{ background: '#AD9F7A' }" ></td>
+<td style="background-color: #AD9F7A" ></td>
 </tr>
 <tr>
 <td>Arctic Grey</td>
@@ -142,7 +142,7 @@
 <td>192</td>
 <td>191</td>
 <td>#BEC0BF</td>
-<td style="{ background: '#BEC0BF' }" ></td>
+<td style="background-color: #BEC0BF" ></td>
 </tr>
 <tr>
 <td>Arctic Grey Shade</td>
@@ -152,7 +152,7 @@
 <td>146</td>
 <td>146</td>
 <td>#929292</td>
-<td style="{ background: '#929292' }" ></td>
+<td style="background-color: #929292" ></td>
 </tr>
 <tr>
 <td>Armour</td>
@@ -162,7 +162,7 @@
 <td>211</td>
 <td>210</td>
 <td>#D1D3D2</td>
-<td style="{ background: '#D1D3D2' }" ></td>
+<td style="background-color: #D1D3D2" ></td>
 </tr>
 <tr>
 <td>Armour Light</td>
@@ -172,7 +172,7 @@
 <td>201</td>
 <td>204</td>
 <td>#C5C9CC</td>
-<td style="{ background: '#C5C9CC' }" ></td>
+<td style="background-color: #C5C9CC" ></td>
 </tr>
 <tr>
 <td>Armour Shade</td>
@@ -182,7 +182,7 @@
 <td>145</td>
 <td>145</td>
 <td>#919191</td>
-<td style="{ background: '#919191' }" ></td>
+<td style="background-color: #919191" ></td>
 </tr>
 <tr>
 <td>Austrian Gun Ochre</td>
@@ -192,7 +192,7 @@
 <td>196</td>
 <td>109</td>
 <td>#C0C46D</td>
-<td style="{ background: '#C0C46D' }" ></td>
+<td style="background-color: #C0C46D" ></td>
 </tr>
 <tr>
 <td>Austrian Gun Ochre Light</td>
@@ -202,7 +202,7 @@
 <td>207</td>
 <td>102</td>
 <td>#DCCF66</td>
-<td style="{ background: '#DCCF66' }" ></td>
+<td style="background-color: #DCCF66" ></td>
 </tr>
 <tr>
 <td>Austrian Gun Ochre Shade</td>
@@ -212,7 +212,7 @@
 <td>182</td>
 <td>105</td>
 <td>#A1B669</td>
-<td style="{ background: '#A1B669' }" ></td>
+<td style="background-color: #A1B669" ></td>
 </tr>
 <tr>
 <td>Austrian White</td>
@@ -222,7 +222,7 @@
 <td>225</td>
 <td>221</td>
 <td>#DCE1DD</td>
-<td style="{ background: '#DCE1DD' }" ></td>
+<td style="background-color: #DCE1DD" ></td>
 </tr>
 <tr>
 <td>Austrian White Light</td>
@@ -232,7 +232,7 @@
 <td>230</td>
 <td>230</td>
 <td>#E6E6E6</td>
-<td style="{ background: '#E6E6E6' }" ></td>
+<td style="background-color: #E6E6E6" ></td>
 </tr>
 <tr>
 <td>Austrian White Shade</td>
@@ -242,7 +242,7 @@
 <td>212</td>
 <td>204</td>
 <td>#CDD4CC</td>
-<td style="{ background: '#CDD4CC' }" ></td>
+<td style="background-color: #CDD4CC" ></td>
 </tr>
 <tr>
 <td>Base Sand</td>
@@ -252,7 +252,7 @@
 <td>195</td>
 <td>132</td>
 <td>#E9C384</td>
-<td style="{ background: '#E9C384' }" ></td>
+<td style="background-color: #E9C384" ></td>
 </tr>
 <tr>
 <td>Base Sand Light</td>
@@ -262,7 +262,7 @@
 <td>222</td>
 <td>178</td>
 <td>#F5DEB2</td>
-<td style="{ background: '#F5DEB2' }" ></td>
+<td style="background-color: #F5DEB2" ></td>
 </tr>
 <tr>
 <td>Base Sand Shade</td>
@@ -272,7 +272,7 @@
 <td>169</td>
 <td>107</td>
 <td>#D7A96B</td>
-<td style="{ background: '#D7A96B' }" ></td>
+<td style="background-color: #D7A96B" ></td>
 </tr>
 <tr>
 <td>Bavarian Cornflower Blue</td>
@@ -282,7 +282,7 @@
 <td>114</td>
 <td>219</td>
 <td>#0B72DB</td>
-<td style="{ background: '#0B72DB' }" ></td>
+<td style="background-color: #0B72DB" ></td>
 </tr>
 <tr>
 <td>Bavarian Cornflower Blue Light</td>
@@ -292,7 +292,7 @@
 <td>149</td>
 <td>237</td>
 <td>#2395ED</td>
-<td style="{ background: '#2395ED' }" ></td>
+<td style="background-color: #2395ED" ></td>
 </tr>
 <tr>
 <td>Bavarian Cornflower Blue Shade</td>
@@ -302,7 +302,7 @@
 <td>62</td>
 <td>103</td>
 <td>#1E3E67</td>
-<td style="{ background: '#1E3E67' }" ></td>
+<td style="background-color: #1E3E67" ></td>
 </tr>
 <tr>
 <td>Bay Brown</td>
@@ -312,7 +312,7 @@
 <td>48</td>
 <td>32</td>
 <td>#6B3020</td>
-<td style="{ background: '#6B3020' }" ></td>
+<td style="background-color: #6B3020" ></td>
 </tr>
 <tr>
 <td>Bay Brown Light</td>
@@ -322,7 +322,7 @@
 <td>60</td>
 <td>0</td>
 <td>#823C00</td>
-<td style="{ background: '#823C00' }" ></td>
+<td style="background-color: #823C00" ></td>
 </tr>
 <tr>
 <td>Bay Brown Shade</td>
@@ -332,7 +332,7 @@
 <td>17</td>
 <td>10</td>
 <td>#2C110A</td>
-<td style="{ background: '#2C110A' }" ></td>
+<td style="background-color: #2C110A" ></td>
 </tr>
 <tr>
 <td>Blackened Barrel</td>
@@ -342,7 +342,7 @@
 <td>25</td>
 <td>25</td>
 <td>#191919</td>
-<td style="{ background: '#191919' }" ></td>
+<td style="background-color: #191919" ></td>
 </tr>
 <tr>
 <td>Blackened Barrel Light</td>
@@ -352,7 +352,7 @@
 <td>50</td>
 <td>50</td>
 <td>#323232</td>
-<td style="{ background: '#323232' }" ></td>
+<td style="background-color: #323232" ></td>
 </tr>
 <tr>
 <td>Blackened Barrel Shade</td>
@@ -362,7 +362,7 @@
 <td>1</td>
 <td>1</td>
 <td>#010101</td>
-<td style="{ background: '#010101' }" ></td>
+<td style="background-color: #010101" ></td>
 </tr>
 <tr>
 <td>Bone yard</td>
@@ -372,7 +372,7 @@
 <td>206</td>
 <td>149</td>
 <td>#E3CE95</td>
-<td style="{ background: '#E3CE95' }" ></td>
+<td style="background-color: #E3CE95" ></td>
 </tr>
 <tr>
 <td>Bone yard Light</td>
@@ -382,7 +382,7 @@
 <td>247</td>
 <td>211</td>
 <td>#FDF7D3</td>
-<td style="{ background: '#FDF7D3' }" ></td>
+<td style="background-color: #FDF7D3" ></td>
 </tr>
 <tr>
 <td>Bone yard Shade</td>
@@ -392,7 +392,7 @@
 <td>165</td>
 <td>82</td>
 <td>#D2A552</td>
-<td style="{ background: '#D2A552' }" ></td>
+<td style="background-color: #D2A552" ></td>
 </tr>
 <tr>
 <td>Bright Bottle Green</td>
@@ -402,7 +402,7 @@
 <td>70</td>
 <td>19</td>
 <td>#0D4613</td>
-<td style="{ background: '#0D4613' }" ></td>
+<td style="background-color: #0D4613" ></td>
 </tr>
 <tr>
 <td>Bright Bottle Green Light</td>
@@ -412,7 +412,7 @@
 <td>113</td>
 <td>37</td>
 <td>#207125</td>
-<td style="{ background: '#207125' }" ></td>
+<td style="background-color: #207125" ></td>
 </tr>
 <tr>
 <td>Bright Bottle Green Shade</td>
@@ -422,7 +422,7 @@
 <td>26</td>
 <td>0</td>
 <td>#001A00</td>
-<td style="{ background: '#001A00' }" ></td>
+<td style="background-color: #001A00" ></td>
 </tr>
 <tr>
 <td>Bright Green</td>
@@ -432,7 +432,7 @@
 <td>150</td>
 <td>59</td>
 <td>#00963B</td>
-<td style="{ background: '#00963B' }" ></td>
+<td style="background-color: #00963B" ></td>
 </tr>
 <tr>
 <td>Bright Green Light</td>
@@ -442,7 +442,7 @@
 <td>198</td>
 <td>134</td>
 <td>#63C686</td>
-<td style="{ background: '#63C686' }" ></td>
+<td style="background-color: #63C686" ></td>
 </tr>
 <tr>
 <td>Bright Green Shade</td>
@@ -452,7 +452,7 @@
 <td>110</td>
 <td>51</td>
 <td>#056E33</td>
-<td style="{ background: '#056E33' }" ></td>
+<td style="background-color: #056E33" ></td>
 </tr>
 <tr>
 <td>Bright Red</td>
@@ -462,7 +462,7 @@
 <td>41</td>
 <td>21</td>
 <td>#E22915</td>
-<td style="{ background: '#E22915' }" ></td>
+<td style="background-color: #E22915" ></td>
 </tr>
 <tr>
 <td>Bright Red Light</td>
@@ -472,7 +472,7 @@
 <td>91</td>
 <td>9</td>
 <td>#CA5B09</td>
-<td style="{ background: '#CA5B09' }" ></td>
+<td style="background-color: #CA5B09" ></td>
 </tr>
 <tr>
 <td>Bright Red Shade</td>
@@ -482,7 +482,7 @@
 <td>43</td>
 <td>35</td>
 <td>#962B23</td>
-<td style="{ background: '#962B23' }" ></td>
+<td style="background-color: #962B23" ></td>
 </tr>
 <tr>
 <td>British Blanco Green</td>
@@ -492,7 +492,7 @@
 <td>143</td>
 <td>128</td>
 <td>#7A8F80</td>
-<td style="{ background: '#7A8F80' }" ></td>
+<td style="background-color: #7A8F80" ></td>
 </tr>
 <tr>
 <td>British Blanco Green Light</td>
@@ -502,7 +502,7 @@
 <td>128</td>
 <td>109</td>
 <td>#65806D</td>
-<td style="{ background: '#65806D' }" ></td>
+<td style="background-color: #65806D" ></td>
 </tr>
 <tr>
 <td>British Blanco Green Shade</td>
@@ -512,7 +512,7 @@
 <td>86</td>
 <td>75</td>
 <td>#4C564B</td>
-<td style="{ background: '#4C564B' }" ></td>
+<td style="background-color: #4C564B" ></td>
 </tr>
 <tr>
 <td>British Blue Grey</td>
@@ -522,7 +522,7 @@
 <td>119</td>
 <td>144</td>
 <td>#5D7790</td>
-<td style="{ background: '#5D7790' }" ></td>
+<td style="background-color: #5D7790" ></td>
 </tr>
 <tr>
 <td>British Blue Grey Light</td>
@@ -532,7 +532,7 @@
 <td>150</td>
 <td>176</td>
 <td>#7896B0</td>
-<td style="{ background: '#7896B0' }" ></td>
+<td style="background-color: #7896B0" ></td>
 </tr>
 <tr>
 <td>British Blue Grey Shade</td>
@@ -542,7 +542,7 @@
 <td>69</td>
 <td>108</td>
 <td>#0E456C</td>
-<td style="{ background: '#0E456C' }" ></td>
+<td style="background-color: #0E456C" ></td>
 </tr>
 <tr>
 <td>British Denison Brown</td>
@@ -552,7 +552,7 @@
 <td>87</td>
 <td>70</td>
 <td>#6A5746</td>
-<td style="{ background: '#6A5746' }" ></td>
+<td style="background-color: #6A5746" ></td>
 </tr>
 <tr>
 <td>British Denison Brown Light</td>
@@ -562,7 +562,7 @@
 <td>215</td>
 <td>192</td>
 <td>#EDD7C0</td>
-<td style="{ background: '#EDD7C0' }" ></td>
+<td style="background-color: #EDD7C0" ></td>
 </tr>
 <tr>
 <td>British Denison Brown Shade</td>
@@ -572,7 +572,7 @@
 <td>162</td>
 <td>137</td>
 <td>#B2A289</td>
-<td style="{ background: '#B2A289' }" ></td>
+<td style="background-color: #B2A289" ></td>
 </tr>
 <tr>
 <td>British Denison Green</td>
@@ -582,7 +582,7 @@
 <td>84</td>
 <td>71</td>
 <td>#4E5447</td>
-<td style="{ background: '#4E5447' }" ></td>
+<td style="background-color: #4E5447" ></td>
 </tr>
 <tr>
 <td>British Denison Green Light</td>
@@ -592,7 +592,7 @@
 <td>109</td>
 <td>92</td>
 <td>#626D5C</td>
-<td style="{ background: '#626D5C' }" ></td>
+<td style="background-color: #626D5C" ></td>
 </tr>
 <tr>
 <td>British Denison Green Shade</td>
@@ -602,7 +602,7 @@
 <td>49</td>
 <td>51</td>
 <td>#303133</td>
-<td style="{ background: '#303133' }" ></td>
+<td style="background-color: #303133" ></td>
 </tr>
 <tr>
 <td>British Denison Tan</td>
@@ -612,7 +612,7 @@
 <td>121</td>
 <td>96</td>
 <td>#9D7960</td>
-<td style="{ background: '#9D7960' }" ></td>
+<td style="background-color: #9D7960" ></td>
 </tr>
 <tr>
 <td>British Denison Tan Light</td>
@@ -622,7 +622,7 @@
 <td>149</td>
 <td>124</td>
 <td>#B3957C</td>
-<td style="{ background: '#B3957C' }" ></td>
+<td style="background-color: #B3957C" ></td>
 </tr>
 <tr>
 <td>British Denison Tan Shade</td>
@@ -632,7 +632,7 @@
 <td>107</td>
 <td>98</td>
 <td>#7F6B62</td>
-<td style="{ background: '#7F6B62' }" ></td>
+<td style="background-color: #7F6B62" ></td>
 </tr>
 <tr>
 <td>British Equipment Canvas</td>
@@ -642,7 +642,7 @@
 <td>195</td>
 <td>133</td>
 <td>#CBC385</td>
-<td style="{ background: '#CBC385' }" ></td>
+<td style="background-color: #CBC385" ></td>
 </tr>
 <tr>
 <td>British Equipment Canvas Light</td>
@@ -652,7 +652,7 @@
 <td>235</td>
 <td>183</td>
 <td>#F2EBB7</td>
-<td style="{ background: '#F2EBB7' }" ></td>
+<td style="background-color: #F2EBB7" ></td>
 </tr>
 <tr>
 <td>British Equipment Canvas Shade</td>
@@ -662,7 +662,7 @@
 <td>81</td>
 <td>53</td>
 <td>#585135</td>
-<td style="{ background: '#585135' }" ></td>
+<td style="background-color: #585135" ></td>
 </tr>
 <tr>
 <td>British Equipment Tan</td>
@@ -672,7 +672,7 @@
 <td>121</td>
 <td>109</td>
 <td>#85796D</td>
-<td style="{ background: '#85796D' }" ></td>
+<td style="background-color: #85796D" ></td>
 </tr>
 <tr>
 <td>British Equipment Tan Light</td>
@@ -682,7 +682,7 @@
 <td>156</td>
 <td>135</td>
 <td>#AA9C87</td>
-<td style="{ background: '#AA9C87' }" ></td>
+<td style="background-color: #AA9C87" ></td>
 </tr>
 <tr>
 <td>British Equipment Tan Shade</td>
@@ -692,7 +692,7 @@
 <td>115</td>
 <td>105</td>
 <td>#7D7369</td>
-<td style="{ background: '#7D7369' }" ></td>
+<td style="background-color: #7D7369" ></td>
 </tr>
 <tr>
 <td>British Gun Grey</td>
@@ -702,7 +702,7 @@
 <td>160</td>
 <td>168</td>
 <td>#89A0A8</td>
-<td style="{ background: '#89A0A8' }" ></td>
+<td style="background-color: #89A0A8" ></td>
 </tr>
 <tr>
 <td>British Gun Grey Light</td>
@@ -712,7 +712,7 @@
 <td>178</td>
 <td>184</td>
 <td>#9FB2B8</td>
-<td style="{ background: '#9FB2B8' }" ></td>
+<td style="background-color: #9FB2B8" ></td>
 </tr>
 <tr>
 <td>British Gun Grey Shade</td>
@@ -722,7 +722,7 @@
 <td>151</td>
 <td>162</td>
 <td>#7997A2</td>
-<td style="{ background: '#7997A2' }" ></td>
+<td style="background-color: #7997A2" ></td>
 </tr>
 <tr>
 <td>British Redcoat</td>
@@ -732,7 +732,7 @@
 <td>4</td>
 <td>12</td>
 <td>#E5040C</td>
-<td style="{ background: '#E5040C' }" ></td>
+<td style="background-color: #E5040C" ></td>
 </tr>
 <tr>
 <td>British Redcoat Light</td>
@@ -742,7 +742,7 @@
 <td>145</td>
 <td>116</td>
 <td>#F39174</td>
-<td style="{ background: '#F39174' }" ></td>
+<td style="background-color: #F39174" ></td>
 </tr>
 <tr>
 <td>British Redcoat Shade</td>
@@ -752,7 +752,7 @@
 <td>24</td>
 <td>30</td>
 <td>#AD181E</td>
-<td style="{ background: '#AD181E' }" ></td>
+<td style="background-color: #AD181E" ></td>
 </tr>
 <tr>
 <td>British Royal Blue</td>
@@ -762,7 +762,7 @@
 <td>57</td>
 <td>83</td>
 <td>#213953</td>
-<td style="{ background: '#213953' }" ></td>
+<td style="background-color: #213953" ></td>
 </tr>
 <tr>
 <td>British Royal Blue Light</td>
@@ -772,7 +772,7 @@
 <td>56</td>
 <td>108</td>
 <td>#0F386C</td>
-<td style="{ background: '#0F386C' }" ></td>
+<td style="background-color: #0F386C" ></td>
 </tr>
 <tr>
 <td>British Royal Blue Shade</td>
@@ -782,7 +782,7 @@
 <td>59</td>
 <td>66</td>
 <td>#283B42</td>
-<td style="{ background: '#283B42' }" ></td>
+<td style="background-color: #283B42" ></td>
 </tr>
 <tr>
 <td>British Uniform Brown</td>
@@ -792,7 +792,7 @@
 <td>85</td>
 <td>63</td>
 <td>#75553F</td>
-<td style="{ background: '#75553F' }" ></td>
+<td style="background-color: #75553F" ></td>
 </tr>
 <tr>
 <td>British Uniform Brown Light</td>
@@ -802,7 +802,7 @@
 <td>99</td>
 <td>65</td>
 <td>#886341</td>
-<td style="{ background: '#886341' }" ></td>
+<td style="background-color: #886341" ></td>
 </tr>
 <tr>
 <td>British Uniform Brown Shade</td>
@@ -812,7 +812,7 @@
 <td>88</td>
 <td>60</td>
 <td>#63583C</td>
-<td style="{ background: '#63583C' }" ></td>
+<td style="background-color: #63583C" ></td>
 </tr>
 <tr>
 <td>Bronze Barrel</td>
@@ -822,7 +822,7 @@
 <td>98</td>
 <td>65</td>
 <td>#836241</td>
-<td style="{ background: '#836241' }" ></td>
+<td style="background-color: #836241" ></td>
 </tr>
 <tr>
 <td>Bronze Barrel Light</td>
@@ -832,7 +832,7 @@
 <td>164</td>
 <td>84</td>
 <td>#C1A454</td>
-<td style="{ background: '#C1A454' }" ></td>
+<td style="background-color: #C1A454" ></td>
 </tr>
 <tr>
 <td>Bronze Barrel Shade</td>
@@ -842,7 +842,7 @@
 <td>100</td>
 <td>75</td>
 <td>#74644B</td>
-<td style="{ background: '#74644B' }" ></td>
+<td style="background-color: #74644B" ></td>
 </tr>
 <tr>
 <td>Buff Leather</td>
@@ -852,7 +852,7 @@
 <td>187</td>
 <td>90</td>
 <td>#EDBB5A</td>
-<td style="{ background: '#EDBB5A' }" ></td>
+<td style="background-color: #EDBB5A" ></td>
 </tr>
 <tr>
 <td>Buff Leather Light</td>
@@ -862,7 +862,7 @@
 <td>205</td>
 <td>141</td>
 <td>#F6CD8D</td>
-<td style="{ background: '#F6CD8D' }" ></td>
+<td style="background-color: #F6CD8D" ></td>
 </tr>
 <tr>
 <td>Buff Leather Shade</td>
@@ -872,7 +872,7 @@
 <td>151</td>
 <td>80</td>
 <td>#D79750</td>
-<td style="{ background: '#D79750' }" ></td>
+<td style="background-color: #D79750" ></td>
 </tr>
 <tr>
 <td>Burning Gold</td>
@@ -882,7 +882,7 @@
 <td>255</td>
 <td>186</td>
 <td>#FFFFBA</td>
-<td style="{ background: '#FFFFBA' }" ></td>
+<td style="background-color: #FFFFBA" ></td>
 </tr>
 <tr>
 <td>Burning Gold Light</td>
@@ -892,7 +892,7 @@
 <td>246</td>
 <td>208</td>
 <td>#F8F6D0</td>
-<td style="{ background: '#F8F6D0' }" ></td>
+<td style="background-color: #F8F6D0" ></td>
 </tr>
 <tr>
 <td>Burning Gold Shade</td>
@@ -902,7 +902,7 @@
 <td>224</td>
 <td>124</td>
 <td>#ECE07C</td>
-<td style="{ background: '#ECE07C' }" ></td>
+<td style="background-color: #ECE07C" ></td>
 </tr>
 <tr>
 <td>Burnished Copper</td>
@@ -912,7 +912,7 @@
 <td>145</td>
 <td>92</td>
 <td>#AC915C</td>
-<td style="{ background: '#AC915C' }" ></td>
+<td style="background-color: #AC915C" ></td>
 </tr>
 <tr>
 <td>Burnished Copper Light</td>
@@ -922,7 +922,7 @@
 <td>238</td>
 <td>196</td>
 <td>#F3EEC4</td>
-<td style="{ background: '#F3EEC4' }" ></td>
+<td style="background-color: #F3EEC4" ></td>
 </tr>
 <tr>
 <td>Burnished Copper Shade</td>
@@ -932,7 +932,7 @@
 <td>82</td>
 <td>25</td>
 <td>#795219</td>
-<td style="{ background: '#795219' }" ></td>
+<td style="background-color: #795219" ></td>
 </tr>
 <tr>
 <td>Butter Fudge</td>
@@ -942,7 +942,7 @@
 <td>122</td>
 <td>8</td>
 <td>#D87A08</td>
-<td style="{ background: '#D87A08' }" ></td>
+<td style="background-color: #D87A08" ></td>
 </tr>
 <tr>
 <td>Butter Fudge Light</td>
@@ -952,7 +952,7 @@
 <td>155</td>
 <td>5</td>
 <td>#E99B05</td>
-<td style="{ background: '#E99B05' }" ></td>
+<td style="background-color: #E99B05" ></td>
 </tr>
 <tr>
 <td>Butter Fudge Shade</td>
@@ -962,7 +962,7 @@
 <td>82</td>
 <td>3</td>
 <td>#915203</td>
-<td style="{ background: '#915203' }" ></td>
+<td style="background-color: #915203" ></td>
 </tr>
 <tr>
 <td>Cadaverous Green</td>
@@ -972,7 +972,7 @@
 <td>197</td>
 <td>144</td>
 <td>#8FC590</td>
-<td style="{ background: '#8FC590' }" ></td>
+<td style="background-color: #8FC590" ></td>
 </tr>
 <tr>
 <td>Cadaverous Green Light</td>
@@ -982,7 +982,7 @@
 <td>222</td>
 <td>183</td>
 <td>#B8DEB7</td>
-<td style="{ background: '#B8DEB7' }" ></td>
+<td style="background-color: #B8DEB7" ></td>
 </tr>
 <tr>
 <td>Cadaverous Green Shade</td>
@@ -992,7 +992,7 @@
 <td>153</td>
 <td>121</td>
 <td>#629979</td>
-<td style="{ background: '#629979' }" ></td>
+<td style="background-color: #629979" ></td>
 </tr>
 <tr>
 <td>Canvas</td>
@@ -1002,7 +1002,7 @@
 <td>210</td>
 <td>150</td>
 <td>#FCD296</td>
-<td style="{ background: '#FCD296' }" ></td>
+<td style="background-color: #FCD296" ></td>
 </tr>
 <tr>
 <td>Canvas Light</td>
@@ -1012,7 +1012,7 @@
 <td>243</td>
 <td>227</td>
 <td>#FFF3E3</td>
-<td style="{ background: '#FFF3E3' }" ></td>
+<td style="background-color: #FFF3E3" ></td>
 </tr>
 <tr>
 <td>Canvas Shade</td>
@@ -1022,7 +1022,7 @@
 <td>163</td>
 <td>102</td>
 <td>#DBA366</td>
-<td style="{ background: '#DBA366' }" ></td>
+<td style="background-color: #DBA366" ></td>
 </tr>
 <tr>
 <td>Charcoal Black</td>
@@ -1032,7 +1032,7 @@
 <td>63</td>
 <td>60</td>
 <td>#433F3C</td>
-<td style="{ background: '#433F3C' }" ></td>
+<td style="background-color: #433F3C" ></td>
 </tr>
 <tr>
 <td>Charcoal Black Light</td>
@@ -1042,7 +1042,7 @@
 <td>88</td>
 <td>86</td>
 <td>#595856</td>
-<td style="{ background: '#595856' }" ></td>
+<td style="background-color: #595856" ></td>
 </tr>
 <tr>
 <td>Charcoal Black Shade</td>
@@ -1052,7 +1052,7 @@
 <td>0</td>
 <td>0</td>
 <td>#000000</td>
-<td style="{ background: '#000000' }" ></td>
+<td style="background-color: #000000" ></td>
 </tr>
 <tr>
 <td>Chestnut</td>
@@ -1062,7 +1062,7 @@
 <td>63</td>
 <td>0</td>
 <td>#833F00</td>
-<td style="{ background: '#833F00' }" ></td>
+<td style="background-color: #833F00" ></td>
 </tr>
 <tr>
 <td>Chestnut Light</td>
@@ -1072,7 +1072,7 @@
 <td>133</td>
 <td>67</td>
 <td>#CC8543</td>
-<td style="{ background: '#CC8543' }" ></td>
+<td style="background-color: #CC8543" ></td>
 </tr>
 <tr>
 <td>Chestnut Shade</td>
@@ -1082,7 +1082,7 @@
 <td>57</td>
 <td>43</td>
 <td>#56392B</td>
-<td style="{ background: '#56392B' }" ></td>
+<td style="background-color: #56392B" ></td>
 </tr>
 <tr>
 <td>Confederate Grey</td>
@@ -1092,7 +1092,7 @@
 <td>100</td>
 <td>119</td>
 <td>#526477</td>
-<td style="{ background: '#526477' }" ></td>
+<td style="background-color: #526477" ></td>
 </tr>
 <tr>
 <td>Confederate Grey Light</td>
@@ -1102,7 +1102,7 @@
 <td>110</td>
 <td>133</td>
 <td>#5A6E85</td>
-<td style="{ background: '#5A6E85' }" ></td>
+<td style="background-color: #5A6E85" ></td>
 </tr>
 <tr>
 <td>Confederate Grey Shade</td>
@@ -1112,7 +1112,7 @@
 <td>88</td>
 <td>102</td>
 <td>#4C5866</td>
-<td style="{ background: '#4C5866' }" ></td>
+<td style="background-color: #4C5866" ></td>
 </tr>
 <tr>
 <td>Conker Brown</td>
@@ -1122,7 +1122,7 @@
 <td>54</td>
 <td>6</td>
 <td>#603606</td>
-<td style="{ background: '#603606' }" ></td>
+<td style="background-color: #603606" ></td>
 </tr>
 <tr>
 <td>Conker Brown Light</td>
@@ -1132,7 +1132,7 @@
 <td>69</td>
 <td>9</td>
 <td>#804509</td>
-<td style="{ background: '#804509' }" ></td>
+<td style="background-color: #804509" ></td>
 </tr>
 <tr>
 <td>Conker Brown Shade</td>
@@ -1142,7 +1142,7 @@
 <td>23</td>
 <td>24</td>
 <td>#371718</td>
-<td style="{ background: '#371718' }" ></td>
+<td style="background-color: #371718" ></td>
 </tr>
 <tr>
 <td>Dark African Flesh</td>
@@ -1152,7 +1152,7 @@
 <td>79</td>
 <td>67</td>
 <td>#5B4F43</td>
-<td style="{ background: '#5B4F43' }" ></td>
+<td style="background-color: #5B4F43" ></td>
 </tr>
 <tr>
 <td>Dark African Flesh Light</td>
@@ -1162,7 +1162,7 @@
 <td>103</td>
 <td>85</td>
 <td>#786755</td>
-<td style="{ background: '#786755' }" ></td>
+<td style="background-color: #786755" ></td>
 </tr>
 <tr>
 <td>Dark African Flesh Shade</td>
@@ -1172,7 +1172,7 @@
 <td>76</td>
 <td>74</td>
 <td>#4D4C4A</td>
-<td style="{ background: '#4D4C4A' }" ></td>
+<td style="background-color: #4D4C4A" ></td>
 </tr>
 <tr>
 <td>Deep Blue</td>
@@ -1182,7 +1182,7 @@
 <td>62</td>
 <td>114</td>
 <td>#003E72</td>
-<td style="{ background: '#003E72' }" ></td>
+<td style="background-color: #003E72" ></td>
 </tr>
 <tr>
 <td>Deep Blue Light</td>
@@ -1192,7 +1192,7 @@
 <td>81</td>
 <td>146</td>
 <td>#005192</td>
-<td style="{ background: '#005192' }" ></td>
+<td style="background-color: #005192" ></td>
 </tr>
 <tr>
 <td>Deep Blue Shade</td>
@@ -1202,7 +1202,7 @@
 <td>42</td>
 <td>71</td>
 <td>#052A47</td>
-<td style="{ background: '#052A47' }" ></td>
+<td style="background-color: #052A47" ></td>
 </tr>
 <tr>
 <td>Deep Brown Leather</td>
@@ -1212,7 +1212,7 @@
 <td>147</td>
 <td>106</td>
 <td>#BA936A</td>
-<td style="{ background: '#BA936A' }" ></td>
+<td style="background-color: #BA936A" ></td>
 </tr>
 <tr>
 <td>Deep Brown Leather Light</td>
@@ -1222,7 +1222,7 @@
 <td>104</td>
 <td>8</td>
 <td>#9E6808</td>
-<td style="{ background: '#9E6808' }" ></td>
+<td style="background-color: #9E6808" ></td>
 </tr>
 <tr>
 <td>Deep Brown Leather Shade</td>
@@ -1232,7 +1232,7 @@
 <td>37</td>
 <td>4</td>
 <td>#3F2504</td>
-<td style="{ background: '#3F2504' }" ></td>
+<td style="background-color: #3F2504" ></td>
 </tr>
 <tr>
 <td>Deep Maroon</td>
@@ -1242,7 +1242,7 @@
 <td>46</td>
 <td>85</td>
 <td>#662E55</td>
-<td style="{ background: '#662E55' }" ></td>
+<td style="background-color: #662E55" ></td>
 </tr>
 <tr>
 <td>Deep Maroon Light</td>
@@ -1252,7 +1252,7 @@
 <td>110</td>
 <td>138</td>
 <td>#BA6E8A</td>
-<td style="{ background: '#BA6E8A' }" ></td>
+<td style="background-color: #BA6E8A" ></td>
 </tr>
 <tr>
 <td>Deep Maroon Shade</td>
@@ -1262,7 +1262,7 @@
 <td>15</td>
 <td>37</td>
 <td>#390F25</td>
-<td style="{ background: '#390F25' }" ></td>
+<td style="background-color: #390F25" ></td>
 </tr>
 <tr>
 <td>Deep Mauve</td>
@@ -1272,7 +1272,7 @@
 <td>0</td>
 <td>41</td>
 <td>#560029</td>
-<td style="{ background: '#560029' }" ></td>
+<td style="background-color: #560029" ></td>
 </tr>
 <tr>
 <td>Deep Mauve Light</td>
@@ -1282,7 +1282,7 @@
 <td>12</td>
 <td>88</td>
 <td>#9C0C58</td>
-<td style="{ background: '#9C0C58' }" ></td>
+<td style="background-color: #9C0C58" ></td>
 </tr>
 <tr>
 <td>Deep Mauve Shade</td>
@@ -1292,7 +1292,7 @@
 <td>2</td>
 <td>25</td>
 <td>#2F0219</td>
-<td style="{ background: '#2F0219' }" ></td>
+<td style="background-color: #2F0219" ></td>
 </tr>
 <tr>
 <td>Drab</td>
@@ -1302,7 +1302,7 @@
 <td>123</td>
 <td>65</td>
 <td>#917B41</td>
-<td style="{ background: '#917B41' }" ></td>
+<td style="background-color: #917B41" ></td>
 </tr>
 <tr>
 <td>Drab Butternut</td>
@@ -1312,7 +1312,7 @@
 <td>102</td>
 <td>81</td>
 <td>#7E6651</td>
-<td style="{ background: '#7E6651' }" ></td>
+<td style="background-color: #7E6651" ></td>
 </tr>
 <tr>
 <td>Drab Butternut Light</td>
@@ -1322,7 +1322,7 @@
 <td>113</td>
 <td>84</td>
 <td>#8A7154</td>
-<td style="{ background: '#8A7154' }" ></td>
+<td style="background-color: #8A7154" ></td>
 </tr>
 <tr>
 <td>Drab Butternut Shade</td>
@@ -1332,7 +1332,7 @@
 <td>98</td>
 <td>70</td>
 <td>#776246</td>
-<td style="{ background: '#776246' }" ></td>
+<td style="background-color: #776246" ></td>
 </tr>
 <tr>
 <td>Drab Light</td>
@@ -1342,7 +1342,7 @@
 <td>163</td>
 <td>126</td>
 <td>#B7A37E</td>
-<td style="{ background: '#B7A37E' }" ></td>
+<td style="background-color: #B7A37E" ></td>
 </tr>
 <tr>
 <td>Drab Shade</td>
@@ -1352,7 +1352,7 @@
 <td>78</td>
 <td>26</td>
 <td>#5A4E1A</td>
-<td style="{ background: '#5A4E1A' }" ></td>
+<td style="background-color: #5A4E1A" ></td>
 </tr>
 <tr>
 <td>Dusky Flesh</td>
@@ -1362,7 +1362,7 @@
 <td>89</td>
 <td>26</td>
 <td>#93591A</td>
-<td style="{ background: '#93591A' }" ></td>
+<td style="background-color: #93591A" ></td>
 </tr>
 <tr>
 <td>Dusky Flesh Light</td>
@@ -1372,7 +1372,7 @@
 <td>149</td>
 <td>82</td>
 <td>#CE9552</td>
-<td style="{ background: '#CE9552' }" ></td>
+<td style="background-color: #CE9552" ></td>
 </tr>
 <tr>
 <td>Dusky Flesh Shade</td>
@@ -1382,7 +1382,7 @@
 <td>59</td>
 <td>32</td>
 <td>#6E3B20</td>
-<td style="{ background: '#6E3B20' }" ></td>
+<td style="background-color: #6E3B20" ></td>
 </tr>
 <tr>
 <td>Equipment Black</td>
@@ -1392,7 +1392,7 @@
 <td>57</td>
 <td>65</td>
 <td>#323941</td>
-<td style="{ background: '#323941' }" ></td>
+<td style="background-color: #323941" ></td>
 </tr>
 <tr>
 <td>Equipment Black Light</td>
@@ -1402,7 +1402,7 @@
 <td>76</td>
 <td>94</td>
 <td>#3B4C5E</td>
-<td style="{ background: '#3B4C5E' }" ></td>
+<td style="background-color: #3B4C5E" ></td>
 </tr>
 <tr>
 <td>Equipment Black Shade</td>
@@ -1412,7 +1412,7 @@
 <td>46</td>
 <td>57</td>
 <td>#2A2E39</td>
-<td style="{ background: '#2A2E39' }" ></td>
+<td style="background-color: #2A2E39" ></td>
 </tr>
 <tr>
 <td>Expert Flesh</td>
@@ -1422,7 +1422,7 @@
 <td>163</td>
 <td>106</td>
 <td>#FEA36A</td>
-<td style="{ background: '#FEA36A' }" ></td>
+<td style="background-color: #FEA36A" ></td>
 </tr>
 <tr>
 <td>Expert Flesh Deep Shade</td>
@@ -1432,7 +1432,7 @@
 <td>89</td>
 <td>71</td>
 <td>#D45947</td>
-<td style="{ background: '#D45947' }" ></td>
+<td style="background-color: #D45947" ></td>
 </tr>
 <tr>
 <td>Expert Flesh Final Highlight</td>
@@ -1442,7 +1442,7 @@
 <td>237</td>
 <td>206</td>
 <td>#F9EDCE</td>
-<td style="{ background: '#F9EDCE' }" ></td>
+<td style="background-color: #F9EDCE" ></td>
 </tr>
 <tr>
 <td>Expert Flesh Light</td>
@@ -1452,7 +1452,7 @@
 <td>178</td>
 <td>127</td>
 <td>#FBB27F</td>
-<td style="{ background: '#FBB27F' }" ></td>
+<td style="background-color: #FBB27F" ></td>
 </tr>
 <tr>
 <td>Expert Flesh Shade</td>
@@ -1462,7 +1462,7 @@
 <td>119</td>
 <td>91</td>
 <td>#ED775B</td>
-<td style="{ background: '#ED775B' }" ></td>
+<td style="background-color: #ED775B" ></td>
 </tr>
 <tr>
 <td>Expert Flesh Ultra Light</td>
@@ -1472,7 +1472,7 @@
 <td>200</td>
 <td>157</td>
 <td>#FCC89D</td>
-<td style="{ background: '#FCC89D' }" ></td>
+<td style="background-color: #FCC89D" ></td>
 </tr>
 <tr>
 <td>Flesh</td>
@@ -1482,7 +1482,7 @@
 <td>157</td>
 <td>77</td>
 <td>#FC9D4D</td>
-<td style="{ background: '#FC9D4D' }" ></td>
+<td style="background-color: #FC9D4D" ></td>
 </tr>
 <tr>
 <td>Flesh Light</td>
@@ -1492,7 +1492,7 @@
 <td>205</td>
 <td>165</td>
 <td>#FDCDA5</td>
-<td style="{ background: '#FDCDA5' }" ></td>
+<td style="background-color: #FDCDA5" ></td>
 </tr>
 <tr>
 <td>Flesh Shade</td>
@@ -1502,7 +1502,7 @@
 <td>100</td>
 <td>36</td>
 <td>#C26424</td>
-<td style="{ background: '#C26424' }" ></td>
+<td style="background-color: #C26424" ></td>
 </tr>
 <tr>
 <td>Forest Green</td>
@@ -1512,7 +1512,7 @@
 <td>121</td>
 <td>69</td>
 <td>#497945</td>
-<td style="{ background: '#497945' }" ></td>
+<td style="background-color: #497945" ></td>
 </tr>
 <tr>
 <td>Forest Green Light</td>
@@ -1522,7 +1522,7 @@
 <td>156</td>
 <td>132</td>
 <td>#7E9C84</td>
-<td style="{ background: '#7E9C84' }" ></td>
+<td style="background-color: #7E9C84" ></td>
 </tr>
 <tr>
 <td>Forest Green Shade</td>
@@ -1532,7 +1532,7 @@
 <td>52</td>
 <td>34</td>
 <td>#153422</td>
-<td style="{ background: '#153422' }" ></td>
+<td style="background-color: #153422" ></td>
 </tr>
 <tr>
 <td>French Blue</td>
@@ -1542,7 +1542,7 @@
 <td>52</td>
 <td>96</td>
 <td>#1D3460</td>
-<td style="{ background: '#1D3460' }" ></td>
+<td style="background-color: #1D3460" ></td>
 </tr>
 <tr>
 <td>French Blue Light</td>
@@ -1552,7 +1552,7 @@
 <td>73</td>
 <td>109</td>
 <td>#19496D</td>
-<td style="{ background: '#19496D' }" ></td>
+<td style="background-color: #19496D" ></td>
 </tr>
 <tr>
 <td>French Blue Shade</td>
@@ -1562,7 +1562,7 @@
 <td>36</td>
 <td>55</td>
 <td>#152437</td>
-<td style="{ background: '#152437' }" ></td>
+<td style="background-color: #152437" ></td>
 </tr>
 <tr>
 <td>French Chasseur A Cheval Green</td>
@@ -1572,7 +1572,7 @@
 <td>59</td>
 <td>52</td>
 <td>#1A3B34</td>
-<td style="{ background: '#1A3B34' }" ></td>
+<td style="background-color: #1A3B34" ></td>
 </tr>
 <tr>
 <td>French Chasseur A Cheval Green Light</td>
@@ -1582,7 +1582,7 @@
 <td>81</td>
 <td>67</td>
 <td>#2D5143</td>
-<td style="{ background: '#2D5143' }" ></td>
+<td style="background-color: #2D5143" ></td>
 </tr>
 <tr>
 <td>French Chasseur A Cheval Green Shade</td>
@@ -1592,7 +1592,7 @@
 <td>43</td>
 <td>44</td>
 <td>#172B2C</td>
-<td style="{ background: '#172B2C' }" ></td>
+<td style="background-color: #172B2C" ></td>
 </tr>
 <tr>
 <td>French Dragoon Green</td>
@@ -1602,7 +1602,7 @@
 <td>99</td>
 <td>50</td>
 <td>#356332</td>
-<td style="{ background: '#356332' }" ></td>
+<td style="background-color: #356332" ></td>
 </tr>
 <tr>
 <td>French Dragoon Green Light</td>
@@ -1612,7 +1612,7 @@
 <td>233</td>
 <td>181</td>
 <td>#D2E9B5</td>
-<td style="{ background: '#D2E9B5' }" ></td>
+<td style="background-color: #D2E9B5" ></td>
 </tr>
 <tr>
 <td>French Dragoon Green Shade</td>
@@ -1622,7 +1622,7 @@
 <td>127</td>
 <td>109</td>
 <td>#627F6D</td>
-<td style="{ background: '#627F6D' }" ></td>
+<td style="background-color: #627F6D" ></td>
 </tr>
 <tr>
 <td>French Gun Olive Green</td>
@@ -1632,7 +1632,7 @@
 <td>178</td>
 <td>110</td>
 <td>#89B26E</td>
-<td style="{ background: '#89B26E' }" ></td>
+<td style="background-color: #89B26E" ></td>
 </tr>
 <tr>
 <td>French Gun Olive Green Light</td>
@@ -1642,7 +1642,7 @@
 <td>191</td>
 <td>130</td>
 <td>#A5BF82</td>
-<td style="{ background: '#A5BF82' }" ></td>
+<td style="background-color: #A5BF82" ></td>
 </tr>
 <tr>
 <td>French Gun Olive Green Shade</td>
@@ -1652,7 +1652,7 @@
 <td>134</td>
 <td>85</td>
 <td>#508655</td>
-<td style="{ background: '#508655' }" ></td>
+<td style="background-color: #508655" ></td>
 </tr>
 <tr>
 <td>French Hussar Sky Blue</td>
@@ -1662,7 +1662,7 @@
 <td>200</td>
 <td>242</td>
 <td>#9EC8F2</td>
-<td style="{ background: '#9EC8F2' }" ></td>
+<td style="background-color: #9EC8F2" ></td>
 </tr>
 <tr>
 <td>French Hussar Sky Blue Light</td>
@@ -1672,7 +1672,7 @@
 <td>170</td>
 <td>209</td>
 <td>#7EAAD1</td>
-<td style="{ background: '#7EAAD1' }" ></td>
+<td style="background-color: #7EAAD1" ></td>
 </tr>
 <tr>
 <td>French Hussar Sky Blue Shade</td>
@@ -1682,7 +1682,7 @@
 <td>90</td>
 <td>149</td>
 <td>#2C5A95</td>
-<td style="{ background: '#2C5A95' }" ></td>
+<td style="background-color: #2C5A95" ></td>
 </tr>
 <tr>
 <td>German Early Field Grey</td>
@@ -1692,7 +1692,7 @@
 <td>141</td>
 <td>130</td>
 <td>#798D82</td>
-<td style="{ background: '#798D82' }" ></td>
+<td style="background-color: #798D82" ></td>
 </tr>
 <tr>
 <td>German Early Field Grey Light</td>
@@ -1702,7 +1702,7 @@
 <td>155</td>
 <td>142</td>
 <td>#859B8E</td>
-<td style="{ background: '#859B8E' }" ></td>
+<td style="background-color: #859B8E" ></td>
 </tr>
 <tr>
 <td>German Early Field Grey Shade</td>
@@ -1712,7 +1712,7 @@
 <td>114</td>
 <td>111</td>
 <td>#69726F</td>
-<td style="{ background: '#69726F' }" ></td>
+<td style="background-color: #69726F" ></td>
 </tr>
 <tr>
 <td>German Late Field Grey</td>
@@ -1722,7 +1722,7 @@
 <td>120</td>
 <td>120</td>
 <td>#687878</td>
-<td style="{ background: '#687878' }" ></td>
+<td style="background-color: #687878" ></td>
 </tr>
 <tr>
 <td>German Late Field Grey Light</td>
@@ -1732,7 +1732,7 @@
 <td>138</td>
 <td>141</td>
 <td>#828A8D</td>
-<td style="{ background: '#828A8D' }" ></td>
+<td style="background-color: #828A8D" ></td>
 </tr>
 <tr>
 <td>German Late Field Grey Shade</td>
@@ -1742,7 +1742,7 @@
 <td>101</td>
 <td>101</td>
 <td>#5F6565</td>
-<td style="{ background: '#5F6565' }" ></td>
+<td style="background-color: #5F6565" ></td>
 </tr>
 <tr>
 <td>German Oak Leaf Orange</td>
@@ -1752,7 +1752,7 @@
 <td>118</td>
 <td>59</td>
 <td>#D9763B</td>
-<td style="{ background: '#D9763B' }" ></td>
+<td style="background-color: #D9763B" ></td>
 </tr>
 <tr>
 <td>German Oak Leaf Orange Light</td>
@@ -1762,7 +1762,7 @@
 <td>147</td>
 <td>103</td>
 <td>#F29367</td>
-<td style="{ background: '#F29367' }" ></td>
+<td style="background-color: #F29367" ></td>
 </tr>
 <tr>
 <td>German Oak Leaf Orange Shade</td>
@@ -1772,7 +1772,7 @@
 <td>124</td>
 <td>81</td>
 <td>#BB7C51</td>
-<td style="{ background: '#BB7C51' }" ></td>
+<td style="background-color: #BB7C51" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Green</td>
@@ -1782,7 +1782,7 @@
 <td>147</td>
 <td>62</td>
 <td>#85933E</td>
-<td style="{ background: '#85933E' }" ></td>
+<td style="background-color: #85933E" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Green Light</td>
@@ -1792,7 +1792,7 @@
 <td>170</td>
 <td>86</td>
 <td>#9EAA56</td>
-<td style="{ background: '#9EAA56' }" ></td>
+<td style="background-color: #9EAA56" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Green Shade</td>
@@ -1802,7 +1802,7 @@
 <td>123</td>
 <td>70</td>
 <td>#727B46</td>
-<td style="{ background: '#727B46' }" ></td>
+<td style="background-color: #727B46" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Tan</td>
@@ -1812,7 +1812,7 @@
 <td>132</td>
 <td>96</td>
 <td>#AC8460</td>
-<td style="{ background: '#AC8460' }" ></td>
+<td style="background-color: #AC8460" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Tan Light</td>
@@ -1822,7 +1822,7 @@
 <td>163</td>
 <td>128</td>
 <td>#CBA380</td>
-<td style="{ background: '#CBA380' }" ></td>
+<td style="background-color: #CBA380" ></td>
 </tr>
 <tr>
 <td>German Pea Pattern Tan Shade</td>
@@ -1832,7 +1832,7 @@
 <td>124</td>
 <td>100</td>
 <td>#987C64</td>
-<td style="{ background: '#987C64' }" ></td>
+<td style="background-color: #987C64" ></td>
 </tr>
 <tr>
 <td>German Splinter Brown</td>
@@ -1842,7 +1842,7 @@
 <td>62</td>
 <td>46</td>
 <td>#4E3E2E</td>
-<td style="{ background: '#4E3E2E' }" ></td>
+<td style="background-color: #4E3E2E" ></td>
 </tr>
 <tr>
 <td>German Splinter Brown Light</td>
@@ -1852,7 +1852,7 @@
 <td>85</td>
 <td>58</td>
 <td>#6A553A</td>
-<td style="{ background: '#6A553A' }" ></td>
+<td style="background-color: #6A553A" ></td>
 </tr>
 <tr>
 <td>German Splinter Brown Shade</td>
@@ -1862,7 +1862,7 @@
 <td>50</td>
 <td>45</td>
 <td>#3B322D</td>
-<td style="{ background: '#3B322D' }" ></td>
+<td style="background-color: #3B322D" ></td>
 </tr>
 <tr>
 <td>German Splinter Green</td>
@@ -1872,7 +1872,7 @@
 <td>91</td>
 <td>69</td>
 <td>#425B45</td>
-<td style="{ background: '#425B45' }" ></td>
+<td style="background-color: #425B45" ></td>
 </tr>
 <tr>
 <td>German Splinter Green Light</td>
@@ -1882,7 +1882,7 @@
 <td>127</td>
 <td>93</td>
 <td>#5A7F5D</td>
-<td style="{ background: '#5A7F5D' }" ></td>
+<td style="background-color: #5A7F5D" ></td>
 </tr>
 <tr>
 <td>German Splinter Green Shade</td>
@@ -1892,7 +1892,7 @@
 <td>89</td>
 <td>80</td>
 <td>#4F5950</td>
-<td style="{ background: '#4F5950' }" ></td>
+<td style="background-color: #4F5950" ></td>
 </tr>
 <tr>
 <td>German Splinter Tan</td>
@@ -1902,7 +1902,7 @@
 <td>120</td>
 <td>101</td>
 <td>#7F7865</td>
-<td style="{ background: '#7F7865' }" ></td>
+<td style="background-color: #7F7865" ></td>
 </tr>
 <tr>
 <td>German Splinter Tan Light</td>
@@ -1912,7 +1912,7 @@
 <td>147</td>
 <td>119</td>
 <td>#9A9377</td>
-<td style="{ background: '#9A9377' }" ></td>
+<td style="background-color: #9A9377" ></td>
 </tr>
 <tr>
 <td>German Splinter Tan Shade</td>
@@ -1922,7 +1922,7 @@
 <td>99</td>
 <td>82</td>
 <td>#666352</td>
-<td style="{ background: '#666352' }" ></td>
+<td style="background-color: #666352" ></td>
 </tr>
 <tr>
 <td>Gold</td>
@@ -1932,7 +1932,7 @@
 <td>197</td>
 <td>128</td>
 <td>#E0C580</td>
-<td style="{ background: '#E0C580' }" ></td>
+<td style="background-color: #E0C580" ></td>
 </tr>
 <tr>
 <td>Gold Shade</td>
@@ -1942,7 +1942,7 @@
 <td>127</td>
 <td>18</td>
 <td>#9F7F12</td>
-<td style="{ background: '#9F7F12' }" ></td>
+<td style="background-color: #9F7F12" ></td>
 </tr>
 <tr>
 <td>Granite</td>
@@ -1952,7 +1952,7 @@
 <td>91</td>
 <td>78</td>
 <td>#5D5B4E</td>
-<td style="{ background: '#5D5B4E' }" ></td>
+<td style="background-color: #5D5B4E" ></td>
 </tr>
 <tr>
 <td>Granite Light</td>
@@ -1962,7 +1962,7 @@
 <td>135</td>
 <td>121</td>
 <td>#868779</td>
-<td style="{ background: '#868779' }" ></td>
+<td style="background-color: #868779" ></td>
 </tr>
 <tr>
 <td>Granite Shade</td>
@@ -1972,7 +1972,7 @@
 <td>71</td>
 <td>65</td>
 <td>#4C4741</td>
-<td style="{ background: '#4C4741' }" ></td>
+<td style="background-color: #4C4741" ></td>
 </tr>
 <tr>
 <td>Gun Metal</td>
@@ -1982,7 +1982,7 @@
 <td>158</td>
 <td>159</td>
 <td>#9D9E9F</td>
-<td style="{ background: '#9D9E9F' }" ></td>
+<td style="background-color: #9D9E9F" ></td>
 </tr>
 <tr>
 <td>Gun Metal Light</td>
@@ -1992,7 +1992,7 @@
 <td>232</td>
 <td>233</td>
 <td>#E7E8E9</td>
-<td style="{ background: '#E7E8E9' }" ></td>
+<td style="background-color: #E7E8E9" ></td>
 </tr>
 <tr>
 <td>Gun Metal Shade</td>
@@ -2002,7 +2002,7 @@
 <td>102</td>
 <td>103</td>
 <td>#656667</td>
-<td style="{ background: '#656667' }" ></td>
+<td style="background-color: #656667" ></td>
 </tr>
 <tr>
 <td>Leather & Metal Washes</td>
@@ -2012,7 +2012,7 @@
 <td>161</td>
 <td>142</td>
 <td>#B6A18E</td>
-<td style="{ background: '#B6A18E' }" ></td>
+<td style="background-color: #B6A18E" ></td>
 </tr>
 <tr>
 <td>Leather & Metal Washes Light</td>
@@ -2022,7 +2022,7 @@
 <td>190</td>
 <td>190</td>
 <td>#BEBEBE</td>
-<td style="{ background: '#BEBEBE' }" ></td>
+<td style="background-color: #BEBEBE" ></td>
 </tr>
 <tr>
 <td>Leather & Metal Washes Shade</td>
@@ -2032,7 +2032,7 @@
 <td>186</td>
 <td>158</td>
 <td>#DDBA9E</td>
-<td style="{ background: '#DDBA9E' }" ></td>
+<td style="background-color: #DDBA9E" ></td>
 </tr>
 <tr>
 <td>Lemon</td>
@@ -2042,7 +2042,7 @@
 <td>235</td>
 <td>43</td>
 <td>#FFEB2B</td>
-<td style="{ background: '#FFEB2B' }" ></td>
+<td style="background-color: #FFEB2B" ></td>
 </tr>
 <tr>
 <td>Lemon Light</td>
@@ -2052,7 +2052,7 @@
 <td>247</td>
 <td>123</td>
 <td>#FFF77B</td>
-<td style="{ background: '#FFF77B' }" ></td>
+<td style="background-color: #FFF77B" ></td>
 </tr>
 <tr>
 <td>Lemon Shade</td>
@@ -2062,7 +2062,7 @@
 <td>171</td>
 <td>3</td>
 <td>#E1AB03</td>
-<td style="{ background: '#E1AB03' }" ></td>
+<td style="background-color: #E1AB03" ></td>
 </tr>
 <tr>
 <td>Madder Red</td>
@@ -2072,7 +2072,7 @@
 <td>35</td>
 <td>19</td>
 <td>#8E2313</td>
-<td style="{ background: '#8E2313' }" ></td>
+<td style="background-color: #8E2313" ></td>
 </tr>
 <tr>
 <td>Madder Red Light</td>
@@ -2082,7 +2082,7 @@
 <td>30</td>
 <td>24</td>
 <td>#B31E18</td>
-<td style="{ background: '#B31E18' }" ></td>
+<td style="background-color: #B31E18" ></td>
 </tr>
 <tr>
 <td>Madder Red Shade</td>
@@ -2092,7 +2092,7 @@
 <td>10</td>
 <td>10</td>
 <td>#560A0A</td>
-<td style="{ background: '#560A0A' }" ></td>
+<td style="background-color: #560A0A" ></td>
 </tr>
 <tr>
 <td>Mediterranean Flesh</td>
@@ -2102,7 +2102,7 @@
 <td>128</td>
 <td>102</td>
 <td>#E48066</td>
-<td style="{ background: '#E48066' }" ></td>
+<td style="background-color: #E48066" ></td>
 </tr>
 <tr>
 <td>Mediterranean Flesh Light</td>
@@ -2112,7 +2112,7 @@
 <td>150</td>
 <td>106</td>
 <td>#FB966A</td>
-<td style="{ background: '#FB966A' }" ></td>
+<td style="background-color: #FB966A" ></td>
 </tr>
 <tr>
 <td>Mediterranean Flesh Shade</td>
@@ -2122,7 +2122,7 @@
 <td>108</td>
 <td>74</td>
 <td>#D76C4A</td>
-<td style="{ background: '#D76C4A' }" ></td>
+<td style="background-color: #D76C4A" ></td>
 </tr>
 <tr>
 <td>Moss</td>
@@ -2132,7 +2132,7 @@
 <td>137</td>
 <td>66</td>
 <td>#978942</td>
-<td style="{ background: '#978942' }" ></td>
+<td style="background-color: #978942" ></td>
 </tr>
 <tr>
 <td>Moss Light</td>
@@ -2142,7 +2142,7 @@
 <td>164</td>
 <td>116</td>
 <td>#B0A474</td>
-<td style="{ background: '#B0A474' }" ></td>
+<td style="background-color: #B0A474" ></td>
 </tr>
 <tr>
 <td>Moss Shade</td>
@@ -2152,7 +2152,7 @@
 <td>95</td>
 <td>39</td>
 <td>#605F27</td>
-<td style="{ background: '#605F27' }" ></td>
+<td style="background-color: #605F27" ></td>
 </tr>
 <tr>
 <td>Musket Stock Brown</td>
@@ -2162,7 +2162,7 @@
 <td>50</td>
 <td>48</td>
 <td>#513230</td>
-<td style="{ background: '#513230' }" ></td>
+<td style="background-color: #513230" ></td>
 </tr>
 <tr>
 <td>Musket Stock Brown Light</td>
@@ -2172,7 +2172,7 @@
 <td>57</td>
 <td>56</td>
 <td>#5F3938</td>
-<td style="{ background: '#5F3938' }" ></td>
+<td style="background-color: #5F3938" ></td>
 </tr>
 <tr>
 <td>Musket Stock Brown Shade</td>
@@ -2182,7 +2182,7 @@
 <td>31</td>
 <td>38</td>
 <td>#2C1F26</td>
-<td style="{ background: '#2C1F26' }" ></td>
+<td style="background-color: #2C1F26" ></td>
 </tr>
 <tr>
 <td>Native American Flesh</td>
@@ -2192,7 +2192,7 @@
 <td>111</td>
 <td>87</td>
 <td>#E96F57</td>
-<td style="{ background: '#E96F57' }" ></td>
+<td style="background-color: #E96F57" ></td>
 </tr>
 <tr>
 <td>Native American Flesh Light</td>
@@ -2202,7 +2202,7 @@
 <td>136</td>
 <td>98</td>
 <td>#F88862</td>
-<td style="{ background: '#F88862' }" ></td>
+<td style="background-color: #F88862" ></td>
 </tr>
 <tr>
 <td>Native American Flesh Shade</td>
@@ -2212,7 +2212,7 @@
 <td>88</td>
 <td>81</td>
 <td>#B95851</td>
-<td style="{ background: '#B95851' }" ></td>
+<td style="background-color: #B95851" ></td>
 </tr>
 <tr>
 <td>Near Eastern Flesh</td>
@@ -2222,7 +2222,7 @@
 <td>132</td>
 <td>115</td>
 <td>#AF8473</td>
-<td style="{ background: '#AF8473' }" ></td>
+<td style="background-color: #AF8473" ></td>
 </tr>
 <tr>
 <td>Near Eastern Flesh Light</td>
@@ -2232,7 +2232,7 @@
 <td>146</td>
 <td>120</td>
 <td>#C19278</td>
-<td style="{ background: '#C19278' }" ></td>
+<td style="background-color: #C19278" ></td>
 </tr>
 <tr>
 <td>Near Eastern Flesh Shade</td>
@@ -2242,7 +2242,7 @@
 <td>112</td>
 <td>100</td>
 <td>#A07064</td>
-<td style="{ background: '#A07064' }" ></td>
+<td style="background-color: #A07064" ></td>
 </tr>
 <tr>
 <td>Night Sky</td>
@@ -2252,7 +2252,7 @@
 <td>101</td>
 <td>118</td>
 <td>#326576</td>
-<td style="{ background: '#326576' }" ></td>
+<td style="background-color: #326576" ></td>
 </tr>
 <tr>
 <td>Night Sky Light</td>
@@ -2262,7 +2262,7 @@
 <td>120</td>
 <td>135</td>
 <td>#4A7887</td>
-<td style="{ background: '#4A7887' }" ></td>
+<td style="background-color: #4A7887" ></td>
 </tr>
 <tr>
 <td>Night Sky Shade</td>
@@ -2272,7 +2272,7 @@
 <td>84</td>
 <td>112</td>
 <td>#2B5470</td>
-<td style="{ background: '#2B5470' }" ></td>
+<td style="background-color: #2B5470" ></td>
 </tr>
 <tr>
 <td>Nipple Pink</td>
@@ -2282,7 +2282,7 @@
 <td>165</td>
 <td>161</td>
 <td>#F4A5A1</td>
-<td style="{ background: '#F4A5A1' }" ></td>
+<td style="background-color: #F4A5A1" ></td>
 </tr>
 <tr>
 <td>Nipple Pink Light</td>
@@ -2292,7 +2292,7 @@
 <td>211</td>
 <td>206</td>
 <td>#ECD3CE</td>
-<td style="{ background: '#ECD3CE' }" ></td>
+<td style="background-color: #ECD3CE" ></td>
 </tr>
 <tr>
 <td>Nipple Pink Shade</td>
@@ -2302,7 +2302,7 @@
 <td>90</td>
 <td>109</td>
 <td>#EF5A6D</td>
-<td style="{ background: '#EF5A6D' }" ></td>
+<td style="background-color: #EF5A6D" ></td>
 </tr>
 <tr>
 <td>North African Flesh</td>
@@ -2312,7 +2312,7 @@
 <td>105</td>
 <td>97</td>
 <td>#B66961</td>
-<td style="{ background: '#B66961' }" ></td>
+<td style="background-color: #B66961" ></td>
 </tr>
 <tr>
 <td>North African Flesh Light</td>
@@ -2322,7 +2322,7 @@
 <td>121</td>
 <td>97</td>
 <td>#D17961</td>
-<td style="{ background: '#D17961' }" ></td>
+<td style="background-color: #D17961" ></td>
 </tr>
 <tr>
 <td>North African Flesh Shade</td>
@@ -2332,7 +2332,7 @@
 <td>85</td>
 <td>68</td>
 <td>#865544</td>
-<td style="{ background: '#865544' }" ></td>
+<td style="background-color: #865544" ></td>
 </tr>
 <tr>
 <td>Ochre</td>
@@ -2342,7 +2342,7 @@
 <td>176</td>
 <td>76</td>
 <td>#F1B04C</td>
-<td style="{ background: '#F1B04C' }" ></td>
+<td style="background-color: #F1B04C" ></td>
 </tr>
 <tr>
 <td>Ochre Light</td>
@@ -2352,7 +2352,7 @@
 <td>211</td>
 <td>82</td>
 <td>#FFD352</td>
-<td style="{ background: '#FFD352' }" ></td>
+<td style="background-color: #FFD352" ></td>
 </tr>
 <tr>
 <td>Ochre Shade</td>
@@ -2362,7 +2362,7 @@
 <td>148</td>
 <td>17</td>
 <td>#E39411</td>
-<td style="{ background: '#E39411' }" ></td>
+<td style="background-color: #E39411" ></td>
 </tr>
 <tr>
 <td>Orange</td>
@@ -2372,7 +2372,7 @@
 <td>148</td>
 <td>20</td>
 <td>#FA9414</td>
-<td style="{ background: '#FA9414' }" ></td>
+<td style="background-color: #FA9414" ></td>
 </tr>
 <tr>
 <td>Orange Light</td>
@@ -2382,7 +2382,7 @@
 <td>191</td>
 <td>15</td>
 <td>#FFBF0F</td>
-<td style="{ background: '#FFBF0F' }" ></td>
+<td style="background-color: #FFBF0F" ></td>
 </tr>
 <tr>
 <td>Orange Shade</td>
@@ -2392,7 +2392,7 @@
 <td>122</td>
 <td>19</td>
 <td>#E17A13</td>
-<td style="{ background: '#E17A13' }" ></td>
+<td style="background-color: #E17A13" ></td>
 </tr>
 <tr>
 <td>Oriental Flesh</td>
@@ -2402,7 +2402,7 @@
 <td>159</td>
 <td>91</td>
 <td>#E29F5B</td>
-<td style="{ background: '#E29F5B' }" ></td>
+<td style="background-color: #E29F5B" ></td>
 </tr>
 <tr>
 <td>Oriental Flesh Light</td>
@@ -2412,7 +2412,7 @@
 <td>181</td>
 <td>139</td>
 <td>#F0B58B</td>
-<td style="{ background: '#F0B58B' }" ></td>
+<td style="background-color: #F0B58B" ></td>
 </tr>
 <tr>
 <td>Oriental Flesh Shade</td>
@@ -2422,7 +2422,7 @@
 <td>126</td>
 <td>84</td>
 <td>#C17E54</td>
-<td style="{ background: '#C17E54' }" ></td>
+<td style="background-color: #C17E54" ></td>
 </tr>
 <tr>
 <td>Palomino</td>
@@ -2432,7 +2432,7 @@
 <td>154</td>
 <td>83</td>
 <td>#DE9A53</td>
-<td style="{ background: '#DE9A53' }" ></td>
+<td style="background-color: #DE9A53" ></td>
 </tr>
 <tr>
 <td>Palomino Light</td>
@@ -2442,7 +2442,7 @@
 <td>188</td>
 <td>110</td>
 <td>#D9BC6E</td>
-<td style="{ background: '#D9BC6E' }" ></td>
+<td style="background-color: #D9BC6E" ></td>
 </tr>
 <tr>
 <td>Palomino Shade</td>
@@ -2452,7 +2452,7 @@
 <td>103</td>
 <td>10</td>
 <td>#9E670A</td>
-<td style="{ background: '#9E670A' }" ></td>
+<td style="background-color: #9E670A" ></td>
 </tr>
 <tr>
 <td>Peaty Brown</td>
@@ -2462,7 +2462,7 @@
 <td>61</td>
 <td>56</td>
 <td>#563D38</td>
-<td style="{ background: '#563D38' }" ></td>
+<td style="background-color: #563D38" ></td>
 </tr>
 <tr>
 <td>Peaty Brown Light</td>
@@ -2472,7 +2472,7 @@
 <td>99</td>
 <td>78</td>
 <td>#72634E</td>
-<td style="{ background: '#72634E' }" ></td>
+<td style="background-color: #72634E" ></td>
 </tr>
 <tr>
 <td>Peaty Brown Shade</td>
@@ -2482,7 +2482,7 @@
 <td>29</td>
 <td>29</td>
 <td>#2F1D1D</td>
-<td style="{ background: '#2F1D1D' }" ></td>
+<td style="background-color: #2F1D1D" ></td>
 </tr>
 <tr>
 <td>Phlegm Green</td>
@@ -2492,7 +2492,7 @@
 <td>112</td>
 <td>51</td>
 <td>#667033</td>
-<td style="{ background: '#667033' }" ></td>
+<td style="background-color: #667033" ></td>
 </tr>
 <tr>
 <td>Phlegm Green Light</td>
@@ -2502,7 +2502,7 @@
 <td>156</td>
 <td>68</td>
 <td>#8E9C44</td>
-<td style="{ background: '#8E9C44' }" ></td>
+<td style="background-color: #8E9C44" ></td>
 </tr>
 <tr>
 <td>Phlegm Green Shade</td>
@@ -2512,7 +2512,7 @@
 <td>91</td>
 <td>38</td>
 <td>#525B26</td>
-<td style="{ background: '#525B26' }" ></td>
+<td style="background-color: #525B26" ></td>
 </tr>
 <tr>
 <td>Prussian Blue</td>
@@ -2522,7 +2522,7 @@
 <td>29</td>
 <td>55</td>
 <td>#111D37</td>
-<td style="{ background: '#111D37' }" ></td>
+<td style="background-color: #111D37" ></td>
 </tr>
 <tr>
 <td>Prussian Blue Light</td>
@@ -2532,7 +2532,7 @@
 <td>39</td>
 <td>75</td>
 <td>#0F274B</td>
-<td style="{ background: '#0F274B' }" ></td>
+<td style="background-color: #0F274B" ></td>
 </tr>
 <tr>
 <td>Prussian Blue Shade</td>
@@ -2542,7 +2542,7 @@
 <td>15</td>
 <td>21</td>
 <td>#080F15</td>
-<td style="{ background: '#080F15' }" ></td>
+<td style="background-color: #080F15" ></td>
 </tr>
 <tr>
 <td>Prussian Gun Mid Blue</td>
@@ -2552,7 +2552,7 @@
 <td>118</td>
 <td>158</td>
 <td>#46769E</td>
-<td style="{ background: '#46769E' }" ></td>
+<td style="background-color: #46769E" ></td>
 </tr>
 <tr>
 <td>Prussian Gun Mid Blue Light</td>
@@ -2562,7 +2562,7 @@
 <td>152</td>
 <td>188</td>
 <td>#5C98BC</td>
-<td style="{ background: '#5C98BC' }" ></td>
+<td style="background-color: #5C98BC" ></td>
 </tr>
 <tr>
 <td>Prussian Gun Mid Blue Shade</td>
@@ -2572,7 +2572,7 @@
 <td>96</td>
 <td>125</td>
 <td>#45607D</td>
-<td style="{ background: '#45607D' }" ></td>
+<td style="background-color: #45607D" ></td>
 </tr>
 <tr>
 <td>Quagmire</td>
@@ -2582,7 +2582,7 @@
 <td>73</td>
 <td>56</td>
 <td>#464938</td>
-<td style="{ background: '#464938' }" ></td>
+<td style="background-color: #464938" ></td>
 </tr>
 <tr>
 <td>Quagmire Light</td>
@@ -2592,7 +2592,7 @@
 <td>109</td>
 <td>81</td>
 <td>#6E6D51</td>
-<td style="{ background: '#6E6D51' }" ></td>
+<td style="background-color: #6E6D51" ></td>
 </tr>
 <tr>
 <td>Quagmire Shade</td>
@@ -2602,7 +2602,7 @@
 <td>52</td>
 <td>52</td>
 <td>#3A3434</td>
-<td style="{ background: '#3A3434' }" ></td>
+<td style="background-color: #3A3434" ></td>
 </tr>
 <tr>
 <td>Raw Linen</td>
@@ -2612,7 +2612,7 @@
 <td>165</td>
 <td>5</td>
 <td>#D5A505</td>
-<td style="{ background: '#D5A505' }" ></td>
+<td style="background-color: #D5A505" ></td>
 </tr>
 <tr>
 <td>Raw Linen Light</td>
@@ -2622,7 +2622,7 @@
 <td>217</td>
 <td>97</td>
 <td>#E5D961</td>
-<td style="{ background: '#E5D961' }" ></td>
+<td style="background-color: #E5D961" ></td>
 </tr>
 <tr>
 <td>Raw Linen Shade</td>
@@ -2632,7 +2632,7 @@
 <td>125</td>
 <td>52</td>
 <td>#817D34</td>
-<td style="{ background: '#817D34' }" ></td>
+<td style="background-color: #817D34" ></td>
 </tr>
 <tr>
 <td>Rawhide</td>
@@ -2642,7 +2642,7 @@
 <td>132</td>
 <td>89</td>
 <td>#9F8459</td>
-<td style="{ background: '#9F8459' }" ></td>
+<td style="background-color: #9F8459" ></td>
 </tr>
 <tr>
 <td>Rawhide Light</td>
@@ -2652,7 +2652,7 @@
 <td>155</td>
 <td>129</td>
 <td>#AC9B81</td>
-<td style="{ background: '#AC9B81' }" ></td>
+<td style="background-color: #AC9B81" ></td>
 </tr>
 <tr>
 <td>Rawhide Shade</td>
@@ -2662,7 +2662,7 @@
 <td>89</td>
 <td>55</td>
 <td>#775937</td>
-<td style="{ background: '#775937' }" ></td>
+<td style="background-color: #775937" ></td>
 </tr>
 <tr>
 <td>Rebel Grey</td>
@@ -2672,7 +2672,7 @@
 <td>105</td>
 <td>112</td>
 <td>#606970</td>
-<td style="{ background: '#606970' }" ></td>
+<td style="background-color: #606970" ></td>
 </tr>
 <tr>
 <td>Rebel Grey Light</td>
@@ -2682,7 +2682,7 @@
 <td>120</td>
 <td>131</td>
 <td>#6C7883</td>
-<td style="{ background: '#6C7883' }" ></td>
+<td style="background-color: #6C7883" ></td>
 </tr>
 <tr>
 <td>Rebel Grey Shade</td>
@@ -2692,7 +2692,7 @@
 <td>90</td>
 <td>97</td>
 <td>#515A61</td>
-<td style="{ background: '#515A61' }" ></td>
+<td style="background-color: #515A61" ></td>
 </tr>
 <tr>
 <td>Red Oxide</td>
@@ -2702,7 +2702,7 @@
 <td>67</td>
 <td>69</td>
 <td>#594345</td>
-<td style="{ background: '#594345' }" ></td>
+<td style="background-color: #594345" ></td>
 </tr>
 <tr>
 <td>Red Oxide Light</td>
@@ -2712,7 +2712,7 @@
 <td>68</td>
 <td>72</td>
 <td>#674448</td>
-<td style="{ background: '#674448' }" ></td>
+<td style="background-color: #674448" ></td>
 </tr>
 <tr>
 <td>Red Oxide Shade</td>
@@ -2722,7 +2722,7 @@
 <td>70</td>
 <td>68</td>
 <td>#514644</td>
-<td style="{ background: '#514644' }" ></td>
+<td style="background-color: #514644" ></td>
 </tr>
 <tr>
 <td>Rich Butternut</td>
@@ -2732,7 +2732,7 @@
 <td>108</td>
 <td>81</td>
 <td>#976C51</td>
-<td style="{ background: '#976C51' }" ></td>
+<td style="background-color: #976C51" ></td>
 </tr>
 <tr>
 <td>Rich Butternut Light</td>
@@ -2742,7 +2742,7 @@
 <td>133</td>
 <td>91</td>
 <td>#A2855B</td>
-<td style="{ background: '#A2855B' }" ></td>
+<td style="background-color: #A2855B" ></td>
 </tr>
 <tr>
 <td>Rich Butternut Shade</td>
@@ -2752,7 +2752,7 @@
 <td>92</td>
 <td>73</td>
 <td>#815C49</td>
-<td style="{ background: '#815C49' }" ></td>
+<td style="background-color: #815C49" ></td>
 </tr>
 <tr>
 <td>Royal Purple</td>
@@ -2762,7 +2762,7 @@
 <td>76</td>
 <td>149</td>
 <td>#664C95</td>
-<td style="{ background: '#664C95' }" ></td>
+<td style="background-color: #664C95" ></td>
 </tr>
 <tr>
 <td>Royal Purple Light</td>
@@ -2772,7 +2772,7 @@
 <td>124</td>
 <td>160</td>
 <td>#8D7CA0</td>
-<td style="{ background: '#8D7CA0' }" ></td>
+<td style="background-color: #8D7CA0" ></td>
 </tr>
 <tr>
 <td>Royal Purple Shade</td>
@@ -2782,7 +2782,7 @@
 <td>19</td>
 <td>90</td>
 <td>#45135A</td>
-<td style="{ background: '#45135A' }" ></td>
+<td style="background-color: #45135A" ></td>
 </tr>
 <tr>
 <td>Russian Green</td>
@@ -2792,7 +2792,7 @@
 <td>52</td>
 <td>40</td>
 <td>#223428</td>
-<td style="{ background: '#223428' }" ></td>
+<td style="background-color: #223428" ></td>
 </tr>
 <tr>
 <td>Russian Green Light</td>
@@ -2802,7 +2802,7 @@
 <td>62</td>
 <td>49</td>
 <td>#303E31</td>
-<td style="{ background: '#303E31' }" ></td>
+<td style="background-color: #303E31" ></td>
 </tr>
 <tr>
 <td>Russian Green Shade</td>
@@ -2812,7 +2812,7 @@
 <td>42</td>
 <td>32</td>
 <td>#1E2A20</td>
-<td style="{ background: '#1E2A20' }" ></td>
+<td style="background-color: #1E2A20" ></td>
 </tr>
 <tr>
 <td>Russian Gun Apple Green</td>
@@ -2822,7 +2822,7 @@
 <td>117</td>
 <td>81</td>
 <td>#497551</td>
-<td style="{ background: '#497551' }" ></td>
+<td style="background-color: #497551" ></td>
 </tr>
 <tr>
 <td>Russian Gun Apple Green Light</td>
@@ -2832,7 +2832,7 @@
 <td>162</td>
 <td>122</td>
 <td>#72A27A</td>
-<td style="{ background: '#72A27A' }" ></td>
+<td style="background-color: #72A27A" ></td>
 </tr>
 <tr>
 <td>Russian Gun Apple Green Shade</td>
@@ -2842,7 +2842,7 @@
 <td>94</td>
 <td>83</td>
 <td>#3D5E53</td>
-<td style="{ background: '#3D5E53' }" ></td>
+<td style="background-color: #3D5E53" ></td>
 </tr>
 <tr>
 <td>Scarlet</td>
@@ -2852,7 +2852,7 @@
 <td>51</td>
 <td>0</td>
 <td>#E23300</td>
-<td style="{ background: '#E23300' }" ></td>
+<td style="background-color: #E23300" ></td>
 </tr>
 <tr>
 <td>Scarlet Light</td>
@@ -2862,7 +2862,7 @@
 <td>86</td>
 <td>6</td>
 <td>#F15606</td>
-<td style="{ background: '#F15606' }" ></td>
+<td style="background-color: #F15606" ></td>
 </tr>
 <tr>
 <td>Scarlet Shade</td>
@@ -2872,7 +2872,7 @@
 <td>0</td>
 <td>2</td>
 <td>#B60002</td>
-<td style="{ background: '#B60002' }" ></td>
+<td style="background-color: #B60002" ></td>
 </tr>
 <tr>
 <td>Shadow Pink</td>
@@ -2882,7 +2882,7 @@
 <td>58</td>
 <td>137</td>
 <td>#B33A89</td>
-<td style="{ background: '#B33A89' }" ></td>
+<td style="background-color: #B33A89" ></td>
 </tr>
 <tr>
 <td>Shadow Pink Light</td>
@@ -2892,7 +2892,7 @@
 <td>103</td>
 <td>159</td>
 <td>#D7679F</td>
-<td style="{ background: '#D7679F' }" ></td>
+<td style="background-color: #D7679F" ></td>
 </tr>
 <tr>
 <td>Shadow Pink Shade</td>
@@ -2902,7 +2902,7 @@
 <td>29</td>
 <td>71</td>
 <td>#6A1D47</td>
-<td style="{ background: '#6A1D47' }" ></td>
+<td style="background-color: #6A1D47" ></td>
 </tr>
 <tr>
 <td>Shiny</td>
@@ -2912,7 +2912,7 @@
 <td>250</td>
 <td>184</td>
 <td>#FFFAB8</td>
-<td style="{ background: '#FFFAB8' }" ></td>
+<td style="background-color: #FFFAB8" ></td>
 </tr>
 <tr>
 <td>Sky Blue</td>
@@ -2922,7 +2922,7 @@
 <td>138</td>
 <td>199</td>
 <td>#4A8AC7</td>
-<td style="{ background: '#4A8AC7' }" ></td>
+<td style="background-color: #4A8AC7" ></td>
 </tr>
 <tr>
 <td>Sky Blue Light</td>
@@ -2932,7 +2932,7 @@
 <td>157</td>
 <td>196</td>
 <td>#7D9DC4</td>
-<td style="{ background: '#7D9DC4' }" ></td>
+<td style="background-color: #7D9DC4" ></td>
 </tr>
 <tr>
 <td>Sky Blue Shade</td>
@@ -2942,7 +2942,7 @@
 <td>82</td>
 <td>151</td>
 <td>#025297</td>
-<td style="{ background: '#025297' }" ></td>
+<td style="background-color: #025297" ></td>
 </tr>
 <tr>
 <td>Slate Grey</td>
@@ -2952,7 +2952,7 @@
 <td>100</td>
 <td>103</td>
 <td>#606467</td>
-<td style="{ background: '#606467' }" ></td>
+<td style="background-color: #606467" ></td>
 </tr>
 <tr>
 <td>Slate Grey Light</td>
@@ -2962,7 +2962,7 @@
 <td>123</td>
 <td>125</td>
 <td>#7A7B7D</td>
-<td style="{ background: '#7A7B7D' }" ></td>
+<td style="background-color: #7A7B7D" ></td>
 </tr>
 <tr>
 <td>Slate Grey Shade</td>
@@ -2972,7 +2972,7 @@
 <td>77</td>
 <td>81</td>
 <td>#484D51</td>
-<td style="{ background: '#484D51' }" ></td>
+<td style="background-color: #484D51" ></td>
 </tr>
 <tr>
 <td>South American Flesh</td>
@@ -2982,7 +2982,7 @@
 <td>110</td>
 <td>91</td>
 <td>#B26E5B</td>
-<td style="{ background: '#B26E5B' }" ></td>
+<td style="background-color: #B26E5B" ></td>
 </tr>
 <tr>
 <td>South American Flesh Light</td>
@@ -2992,7 +2992,7 @@
 <td>133</td>
 <td>114</td>
 <td>#D08572</td>
-<td style="{ background: '#D08572' }" ></td>
+<td style="background-color: #D08572" ></td>
 </tr>
 <tr>
 <td>South American Flesh Shade</td>
@@ -3002,7 +3002,7 @@
 <td>85</td>
 <td>83</td>
 <td>#955553</td>
-<td style="{ background: '#955553' }" ></td>
+<td style="background-color: #955553" ></td>
 </tr>
 <tr>
 <td>Soviet Equipment Green</td>
@@ -3012,7 +3012,7 @@
 <td>91</td>
 <td>57</td>
 <td>#555B39</td>
-<td style="{ background: '#555B39' }" ></td>
+<td style="background-color: #555B39" ></td>
 </tr>
 <tr>
 <td>Soviet Equipment Green Light</td>
@@ -3022,7 +3022,7 @@
 <td>129</td>
 <td>81</td>
 <td>#7B8151</td>
-<td style="{ background: '#7B8151' }" ></td>
+<td style="background-color: #7B8151" ></td>
 </tr>
 <tr>
 <td>Soviet Equipment Green Shade</td>
@@ -3032,7 +3032,7 @@
 <td>66</td>
 <td>47</td>
 <td>#3F422F</td>
-<td style="{ background: '#3F422F' }" ></td>
+<td style="background-color: #3F422F" ></td>
 </tr>
 <tr>
 <td>Soviet Helmet Green</td>
@@ -3042,7 +3042,7 @@
 <td>162</td>
 <td>106</td>
 <td>#A3A26A</td>
-<td style="{ background: '#A3A26A' }" ></td>
+<td style="background-color: #A3A26A" ></td>
 </tr>
 <tr>
 <td>Soviet Helmet Green Light</td>
@@ -3052,7 +3052,7 @@
 <td>178</td>
 <td>124</td>
 <td>#B3B27C</td>
-<td style="{ background: '#B3B27C' }" ></td>
+<td style="background-color: #B3B27C" ></td>
 </tr>
 <tr>
 <td>Soviet Helmet Green Shade</td>
@@ -3062,7 +3062,7 @@
 <td>133</td>
 <td>89</td>
 <td>#848559</td>
-<td style="{ background: '#848559' }" ></td>
+<td style="background-color: #848559" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Drab</td>
@@ -3072,7 +3072,7 @@
 <td>168</td>
 <td>138</td>
 <td>#ADA88A</td>
-<td style="{ background: '#ADA88A' }" ></td>
+<td style="background-color: #ADA88A" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Drab Light</td>
@@ -3082,7 +3082,7 @@
 <td>195</td>
 <td>163</td>
 <td>#C9C3A3</td>
-<td style="{ background: '#C9C3A3' }" ></td>
+<td style="background-color: #C9C3A3" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Drab Shade</td>
@@ -3092,7 +3092,7 @@
 <td>159</td>
 <td>136</td>
 <td>#A19F88</td>
-<td style="{ background: '#A19F88' }" ></td>
+<td style="background-color: #A19F88" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Tan</td>
@@ -3102,7 +3102,7 @@
 <td>120</td>
 <td>79</td>
 <td>#81784F</td>
-<td style="{ background: '#81784F' }" ></td>
+<td style="background-color: #81784F" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Tan Light</td>
@@ -3112,7 +3112,7 @@
 <td>140</td>
 <td>95</td>
 <td>#998C5F</td>
-<td style="{ background: '#998C5F' }" ></td>
+<td style="background-color: #998C5F" ></td>
 </tr>
 <tr>
 <td>Soviet Summer Tan Shade</td>
@@ -3122,7 +3122,7 @@
 <td>107</td>
 <td>84</td>
 <td>#6D6B54</td>
-<td style="{ background: '#6D6B54' }" ></td>
+<td style="background-color: #6D6B54" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Brown</td>
@@ -3132,7 +3132,7 @@
 <td>50</td>
 <td>62</td>
 <td>#44323E</td>
-<td style="{ background: '#44323E' }" ></td>
+<td style="background-color: #44323E" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Brown Light</td>
@@ -3142,7 +3142,7 @@
 <td>84</td>
 <td>97</td>
 <td>#6C5461</td>
-<td style="{ background: '#6C5461' }" ></td>
+<td style="background-color: #6C5461" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Brown Shade</td>
@@ -3152,7 +3152,7 @@
 <td>54</td>
 <td>70</td>
 <td>#473646</td>
-<td style="{ background: '#473646' }" ></td>
+<td style="background-color: #473646" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Green</td>
@@ -3162,7 +3162,7 @@
 <td>99</td>
 <td>100</td>
 <td>#676364</td>
-<td style="{ background: '#676364' }" ></td>
+<td style="background-color: #676364" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Green Light</td>
@@ -3172,7 +3172,7 @@
 <td>119</td>
 <td>106</td>
 <td>#7F776A</td>
-<td style="{ background: '#7F776A' }" ></td>
+<td style="background-color: #7F776A" ></td>
 </tr>
 <tr>
 <td>Soviet Winter Green Shade</td>
@@ -3182,7 +3182,7 @@
 <td>78</td>
 <td>81</td>
 <td>#504E51</td>
-<td style="{ background: '#504E51' }" ></td>
+<td style="background-color: #504E51" ></td>
 </tr>
 <tr>
 <td>Spearshaft</td>
@@ -3192,7 +3192,7 @@
 <td>98</td>
 <td>59</td>
 <td>#A0623B</td>
-<td style="{ background: '#A0623B' }" ></td>
+<td style="background-color: #A0623B" ></td>
 </tr>
 <tr>
 <td>Spearshaft Light</td>
@@ -3202,7 +3202,7 @@
 <td>155</td>
 <td>83</td>
 <td>#B39B53</td>
-<td style="{ background: '#B39B53' }" ></td>
+<td style="background-color: #B39B53" ></td>
 </tr>
 <tr>
 <td>Spearshaft Shade</td>
@@ -3212,7 +3212,7 @@
 <td>52</td>
 <td>28</td>
 <td>#68341C</td>
-<td style="{ background: '#68341C' }" ></td>
+<td style="background-color: #68341C" ></td>
 </tr>
 <tr>
 <td>Stone</td>
@@ -3222,7 +3222,7 @@
 <td>117</td>
 <td>124</td>
 <td>#66757C</td>
-<td style="{ background: '#66757C' }" ></td>
+<td style="background-color: #66757C" ></td>
 </tr>
 <tr>
 <td>Stone Light</td>
@@ -3232,7 +3232,7 @@
 <td>151</td>
 <td>168</td>
 <td>#8297A8</td>
-<td style="{ background: '#8297A8' }" ></td>
+<td style="background-color: #8297A8" ></td>
 </tr>
 <tr>
 <td>Stone Shade</td>
@@ -3242,7 +3242,7 @@
 <td>81</td>
 <td>94</td>
 <td>#49515E</td>
-<td style="{ background: '#49515E' }" ></td>
+<td style="background-color: #49515E" ></td>
 </tr>
 <tr>
 <td>Storm Blue</td>
@@ -3252,7 +3252,7 @@
 <td>78</td>
 <td>100</td>
 <td>#324E64</td>
-<td style="{ background: '#324E64' }" ></td>
+<td style="background-color: #324E64" ></td>
 </tr>
 <tr>
 <td>Storm Blue Light</td>
@@ -3262,7 +3262,7 @@
 <td>105</td>
 <td>115</td>
 <td>#576973</td>
-<td style="{ background: '#576973' }" ></td>
+<td style="background-color: #576973" ></td>
 </tr>
 <tr>
 <td>Storm Blue Shade</td>
@@ -3272,7 +3272,7 @@
 <td>64</td>
 <td>71</td>
 <td>#254047</td>
-<td style="{ background: '#254047' }" ></td>
+<td style="background-color: #254047" ></td>
 </tr>
 <tr>
 <td>Storm Green</td>
@@ -3282,7 +3282,7 @@
 <td>90</td>
 <td>77</td>
 <td>#445A4D</td>
-<td style="{ background: '#445A4D' }" ></td>
+<td style="background-color: #445A4D" ></td>
 </tr>
 <tr>
 <td>Storm Green Light</td>
@@ -3292,7 +3292,7 @@
 <td>108</td>
 <td>87</td>
 <td>#566C57</td>
-<td style="{ background: '#566C57' }" ></td>
+<td style="background-color: #566C57" ></td>
 </tr>
 <tr>
 <td>Storm Green Shade</td>
@@ -3302,7 +3302,7 @@
 <td>63</td>
 <td>36</td>
 <td>#353F24</td>
-<td style="{ background: '#353F24' }" ></td>
+<td style="background-color: #353F24" ></td>
 </tr>
 <tr>
 <td>Tan</td>
@@ -3312,7 +3312,7 @@
 <td>89</td>
 <td>19</td>
 <td>#9F5913</td>
-<td style="{ background: '#9F5913' }" ></td>
+<td style="background-color: #9F5913" ></td>
 </tr>
 <tr>
 <td>Tan Light</td>
@@ -3322,7 +3322,7 @@
 <td>123</td>
 <td>58</td>
 <td>#C57B3A</td>
-<td style="{ background: '#C57B3A' }" ></td>
+<td style="background-color: #C57B3A" ></td>
 </tr>
 <tr>
 <td>Tan Shade</td>
@@ -3332,7 +3332,7 @@
 <td>47</td>
 <td>21</td>
 <td>#542F15</td>
-<td style="{ background: '#542F15' }" ></td>
+<td style="background-color: #542F15" ></td>
 </tr>
 <tr>
 <td>Teal Blue</td>
@@ -3342,7 +3342,7 @@
 <td>132</td>
 <td>131</td>
 <td>#008483</td>
-<td style="{ background: '#008483' }" ></td>
+<td style="background-color: #008483" ></td>
 </tr>
 <tr>
 <td>Teal Blue Light</td>
@@ -3352,7 +3352,7 @@
 <td>156</td>
 <td>146</td>
 <td>#0A9C92</td>
-<td style="{ background: '#0A9C92' }" ></td>
+<td style="background-color: #0A9C92" ></td>
 </tr>
 <tr>
 <td>Teal Blue Shade</td>
@@ -3362,7 +3362,7 @@
 <td>74</td>
 <td>87</td>
 <td>#004A57</td>
-<td style="{ background: '#004A57' }" ></td>
+<td style="background-color: #004A57" ></td>
 </tr>
 <tr>
 <td>Teracotta</td>
@@ -3372,7 +3372,7 @@
 <td>26</td>
 <td>6</td>
 <td>#791A06</td>
-<td style="{ background: '#791A06' }" ></td>
+<td style="background-color: #791A06" ></td>
 </tr>
 <tr>
 <td>Teracotta Light</td>
@@ -3382,7 +3382,7 @@
 <td>83</td>
 <td>84</td>
 <td>#915354</td>
-<td style="{ background: '#915354' }" ></td>
+<td style="background-color: #915354" ></td>
 </tr>
 <tr>
 <td>Teracotta Shade</td>
@@ -3392,7 +3392,7 @@
 <td>40</td>
 <td>34</td>
 <td>#5D2822</td>
-<td style="{ background: '#5D2822' }" ></td>
+<td style="background-color: #5D2822" ></td>
 </tr>
 <tr>
 <td>Tomb Blue</td>
@@ -3402,7 +3402,7 @@
 <td>166</td>
 <td>205</td>
 <td>#57A6CD</td>
-<td style="{ background: '#57A6CD' }" ></td>
+<td style="background-color: #57A6CD" ></td>
 </tr>
 <tr>
 <td>Tomb Blue Light</td>
@@ -3412,7 +3412,7 @@
 <td>183</td>
 <td>199</td>
 <td>#7CB7C7</td>
-<td style="{ background: '#7CB7C7' }" ></td>
+<td style="background-color: #7CB7C7" ></td>
 </tr>
 <tr>
 <td>Tomb Blue Shade</td>
@@ -3422,7 +3422,7 @@
 <td>123</td>
 <td>170</td>
 <td>#3D7BAA</td>
-<td style="{ background: '#3D7BAA' }" ></td>
+<td style="background-color: #3D7BAA" ></td>
 </tr>
 <tr>
 <td>Union Blue</td>
@@ -3432,7 +3432,7 @@
 <td>64</td>
 <td>77</td>
 <td>#2A404D</td>
-<td style="{ background: '#2A404D' }" ></td>
+<td style="background-color: #2A404D" ></td>
 </tr>
 <tr>
 <td>Union Blue Light</td>
@@ -3442,7 +3442,7 @@
 <td>80</td>
 <td>102</td>
 <td>#2D5066</td>
-<td style="{ background: '#2D5066' }" ></td>
+<td style="background-color: #2D5066" ></td>
 </tr>
 <tr>
 <td>Union Blue Shade</td>
@@ -3452,7 +3452,7 @@
 <td>52</td>
 <td>63</td>
 <td>#26343F</td>
-<td style="{ background: '#26343F' }" ></td>
+<td style="background-color: #26343F" ></td>
 </tr>
 <tr>
 <td>Union Trouser Blue</td>
@@ -3462,7 +3462,7 @@
 <td>147</td>
 <td>176</td>
 <td>#2A93B0</td>
-<td style="{ background: '#2A93B0' }" ></td>
+<td style="background-color: #2A93B0" ></td>
 </tr>
 <tr>
 <td>Union Trouser Blue Light</td>
@@ -3472,7 +3472,7 @@
 <td>188</td>
 <td>250</td>
 <td>#5EBCFA</td>
-<td style="{ background: '#5EBCFA' }" ></td>
+<td style="background-color: #5EBCFA" ></td>
 </tr>
 <tr>
 <td>Union Trouser Blue Shade</td>
@@ -3482,7 +3482,7 @@
 <td>113</td>
 <td>146</td>
 <td>#577192</td>
-<td style="{ background: '#577192' }" ></td>
+<td style="background-color: #577192" ></td>
 </tr>
 <tr>
 <td>Violet</td>
@@ -3492,7 +3492,7 @@
 <td>74</td>
 <td>129</td>
 <td>#434A81</td>
-<td style="{ background: '#434A81' }" ></td>
+<td style="background-color: #434A81" ></td>
 </tr>
 <tr>
 <td>Violet Light</td>
@@ -3502,7 +3502,7 @@
 <td>98</td>
 <td>202</td>
 <td>#7362CA</td>
-<td style="{ background: '#7362CA' }" ></td>
+<td style="background-color: #7362CA" ></td>
 </tr>
 <tr>
 <td>Violet Shade</td>
@@ -3512,7 +3512,7 @@
 <td>23</td>
 <td>90</td>
 <td>#1C175A</td>
-<td style="{ background: '#1C175A' }" ></td>
+<td style="background-color: #1C175A" ></td>
 </tr>
 <tr>
 <td>Vivid Blue</td>
@@ -3522,7 +3522,7 @@
 <td>167</td>
 <td>233</td>
 <td>#20A7E9</td>
-<td style="{ background: '#20A7E9' }" ></td>
+<td style="background-color: #20A7E9" ></td>
 </tr>
 <tr>
 <td>Vivid Blue Light</td>
@@ -3532,7 +3532,7 @@
 <td>195</td>
 <td>231</td>
 <td>#87C3E7</td>
-<td style="{ background: '#87C3E7' }" ></td>
+<td style="background-color: #87C3E7" ></td>
 </tr>
 <tr>
 <td>Vivid Blue Shade</td>
@@ -3542,7 +3542,7 @@
 <td>147</td>
 <td>206</td>
 <td>#0893CE</td>
-<td style="{ background: '#0893CE' }" ></td>
+<td style="background-color: #0893CE" ></td>
 </tr>
 <tr>
 <td>White</td>
@@ -3552,7 +3552,7 @@
 <td>255</td>
 <td>255</td>
 <td>#FFFFFF</td>
-<td style="{ background: '#FFFFFF' }" ></td>
+<td style="background-color: #FFFFFF" ></td>
 </tr>
 <tr>
 <td>Wine Stain Red</td>
@@ -3562,7 +3562,7 @@
 <td>68</td>
 <td>106</td>
 <td>#C2446A</td>
-<td style="{ background: '#C2446A' }" ></td>
+<td style="background-color: #C2446A" ></td>
 </tr>
 <tr>
 <td>Wine Stain Red Light</td>
@@ -3572,7 +3572,7 @@
 <td>121</td>
 <td>149</td>
 <td>#BE7995</td>
-<td style="{ background: '#BE7995' }" ></td>
+<td style="background-color: #BE7995" ></td>
 </tr>
 <tr>
 <td>Wine Stain Red Shade</td>
@@ -3582,7 +3582,7 @@
 <td>48</td>
 <td>50</td>
 <td>#763032</td>
-<td style="{ background: '#763032' }" ></td>
+<td style="background-color: #763032" ></td>
 </tr>
 <tr>
 <td>Yellow</td>
@@ -3592,7 +3592,7 @@
 <td>214</td>
 <td>11</td>
 <td>#FFD60B</td>
-<td style="{ background: '#FFD60B' }" ></td>
+<td style="background-color: #FFD60B" ></td>
 </tr>
 <tr>
 <td>Yellow Light</td>
@@ -3602,7 +3602,7 @@
 <td>233</td>
 <td>88</td>
 <td>#FEE958</td>
-<td style="{ background: '#FEE958' }" ></td>
+<td style="background-color: #FEE958" ></td>
 </tr>
 <tr>
 <td>Yellow Shade</td>
@@ -3612,7 +3612,7 @@
 <td>180</td>
 <td>9</td>
 <td>#F8B409</td>
-<td style="{ background: '#F8B409' }" ></td>
+<td style="background-color: #F8B409" ></td>
 </tr>
 <tr>
 </tbody>

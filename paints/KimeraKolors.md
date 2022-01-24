@@ -22,7 +22,7 @@
 <td>42</td>
 <td>45</td>
 <td>#2D2A2D</td>
-<td style="{ background: '#2D2A2D' }" ></td>
+<td style="background-color: #2D2A2D" ></td>
 </tr>
 <tr>
 <td>Cold Yellow</td>
@@ -32,7 +32,7 @@
 <td>216</td>
 <td>40</td>
 <td>#E5D828</td>
-<td style="{ background: '#E5D828' }" ></td>
+<td style="background-color: #E5D828" ></td>
 </tr>
 <tr>
 <td>Magenta</td>
@@ -42,7 +42,7 @@
 <td>25</td>
 <td>91</td>
 <td>#A1195B</td>
-<td style="{ background: '#A1195B' }" ></td>
+<td style="background-color: #A1195B" ></td>
 </tr>
 <tr>
 <td>Orange</td>
@@ -52,7 +52,7 @@
 <td>85</td>
 <td>46</td>
 <td>#CB552E</td>
-<td style="{ background: '#CB552E' }" ></td>
+<td style="background-color: #CB552E" ></td>
 </tr>
 <tr>
 <td>Phtalo Green</td>
@@ -62,7 +62,7 @@
 <td>76</td>
 <td>80</td>
 <td>#344C50</td>
-<td style="{ background: '#344C50' }" ></td>
+<td style="background-color: #344C50" ></td>
 </tr>
 <tr>
 <td>Phthalo Blu (Green Shade)</td>
@@ -72,7 +72,7 @@
 <td>52</td>
 <td>121</td>
 <td>#203479</td>
-<td style="{ background: '#203479' }" ></td>
+<td style="background-color: #203479" ></td>
 </tr>
 <tr>
 <td>Phthalo Blu (Red Shade)</td>
@@ -82,7 +82,7 @@
 <td>48</td>
 <td>123</td>
 <td>#44307B</td>
-<td style="{ background: '#44307B' }" ></td>
+<td style="background-color: #44307B" ></td>
 </tr>
 <tr>
 <td>Red Oxide</td>
@@ -92,7 +92,7 @@
 <td>47</td>
 <td>12</td>
 <td>#6B2F0C</td>
-<td style="{ background: '#6B2F0C' }" ></td>
+<td style="background-color: #6B2F0C" ></td>
 </tr>
 <tr>
 <td>The Red</td>
@@ -102,7 +102,7 @@
 <td>33</td>
 <td>53</td>
 <td>#A82135</td>
-<td style="{ background: '#A82135' }" ></td>
+<td style="background-color: #A82135" ></td>
 </tr>
 <tr>
 <td>The White</td>
@@ -112,7 +112,7 @@
 <td>228</td>
 <td>228</td>
 <td>#E4E4E4</td>
-<td style="{ background: '#E4E4E4' }" ></td>
+<td style="background-color: #E4E4E4" ></td>
 </tr>
 <tr>
 <td>Violet</td>
@@ -122,7 +122,7 @@
 <td>15</td>
 <td>127</td>
 <td>#3E0F7F</td>
-<td style="{ background: '#3E0F7F' }" ></td>
+<td style="background-color: #3E0F7F" ></td>
 </tr>
 <tr>
 <td>Warm Yellow</td>
@@ -132,7 +132,7 @@
 <td>169</td>
 <td>29</td>
 <td>#E6A91D</td>
-<td style="{ background: '#E6A91D' }" ></td>
+<td style="background-color: #E6A91D" ></td>
 </tr>
 <tr>
 <td>Yellow Oxide</td>
@@ -142,7 +142,7 @@
 <td>152</td>
 <td>37</td>
 <td>#C69825</td>
-<td style="{ background: '#C69825' }" ></td>
+<td style="background-color: #C69825" ></td>
 </tr>
 <tr>
 </tbody>
