@@ -22,7 +22,7 @@
 <td>166</td>
 <td>79</td>
 <td>#D8A64F</td>
-<td bgcolor="#D8A64F" />
+<td style="{ background: '#D8A64F' }" ></td>
 </tr>
 <tr>
 <td>3b Au Basic Protector Alkidno-uretanovaya</td>
@@ -32,7 +32,7 @@
 <td>51</td>
 <td>26</td>
 <td>#3D331A</td>
-<td bgcolor="#3D331A" />
+<td style="{ background: '#3D331A' }" ></td>
 </tr>
 <tr>
 <td>4bo Russian Green</td>
@@ -42,7 +42,7 @@
 <td>81</td>
 <td>41</td>
 <td>#4F5129</td>
-<td bgcolor="#4F5129" />
+<td style="{ background: '#4F5129' }" ></td>
 </tr>
 <tr>
 <td>6k Russian Brown</td>
@@ -52,7 +52,7 @@
 <td>49</td>
 <td>40</td>
 <td>#3B3128</td>
-<td bgcolor="#3B3128" />
+<td style="{ background: '#3B3128' }" ></td>
 </tr>
 <tr>
 <td>7k Russian Tan</td>
@@ -62,7 +62,7 @@
 <td>96</td>
 <td>62</td>
 <td>#70603E</td>
-<td bgcolor="#70603E" />
+<td style="{ background: '#70603E' }" ></td>
 </tr>
 <tr>
 <td>Afrika Korps Wash</td>
@@ -72,7 +72,7 @@
 <td>42</td>
 <td>29</td>
 <td>#322A1D</td>
-<td bgcolor="#322A1D" />
+<td style="{ background: '#322A1D' }" ></td>
 </tr>
 <tr>
 <td>Apc Interior Light Green</td>
@@ -82,7 +82,7 @@
 <td>161</td>
 <td>134</td>
 <td>#8DA186</td>
-<td bgcolor="#8DA186" />
+<td style="{ background: '#8DA186' }" ></td>
 </tr>
 <tr>
 <td>Basic Skin Tone</td>
@@ -92,7 +92,7 @@
 <td>180</td>
 <td>164</td>
 <td>#E3B4A4</td>
-<td bgcolor="#E3B4A4" />
+<td style="{ background: '#E3B4A4' }" ></td>
 </tr>
 <tr>
 <td>Black Wash</td>
@@ -102,7 +102,7 @@
 <td>14</td>
 <td>14</td>
 <td>#0E0E0E</td>
-<td bgcolor="#0E0E0E" />
+<td style="{ background: '#0E0E0E' }" ></td>
 </tr>
 <tr>
 <td>Blood Red</td>
@@ -112,7 +112,7 @@
 <td>43</td>
 <td>37</td>
 <td>#AC2B25</td>
-<td bgcolor="#AC2B25" />
+<td style="{ background: '#AC2B25' }" ></td>
 </tr>
 <tr>
 <td>Blue (RAL 5019)</td>
@@ -122,7 +122,7 @@
 <td>79</td>
 <td>136</td>
 <td>#1B4F88</td>
-<td bgcolor="#1B4F88" />
+<td style="{ background: '#1B4F88' }" ></td>
 </tr>
 <tr>
 <td>Blue Green</td>
@@ -132,7 +132,7 @@
 <td>60</td>
 <td>35</td>
 <td>#283C23</td>
-<td bgcolor="#283C23" />
+<td style="{ background: '#283C23' }" ></td>
 </tr>
 <tr>
 <td>Blue Wash For Panzer Grey</td>
@@ -142,7 +142,7 @@
 <td>36</td>
 <td>42</td>
 <td>#1F242A</td>
-<td bgcolor="#1F242A" />
+<td style="{ background: '#1F242A' }" ></td>
 </tr>
 <tr>
 <td>Bluish Titanium</td>
@@ -152,7 +152,7 @@
 <td>145</td>
 <td>133</td>
 <td>#619185</td>
-<td bgcolor="#619185" />
+<td style="{ background: '#619185' }" ></td>
 </tr>
 <tr>
 <td>Bone</td>
@@ -162,7 +162,7 @@
 <td>238</td>
 <td>220</td>
 <td>#EDEEDC</td>
-<td bgcolor="#EDEEDC" />
+<td style="{ background: '#EDEEDC' }" ></td>
 </tr>
 <tr>
 <td>Brass</td>
@@ -172,7 +172,7 @@
 <td>136</td>
 <td>28</td>
 <td>#B7881C</td>
-<td bgcolor="#B7881C" />
+<td style="{ background: '#B7881C' }" ></td>
 </tr>
 <tr>
 <td>Bright Green Amt-4</td>
@@ -182,7 +182,7 @@
 <td>125</td>
 <td>58</td>
 <td>#5E7D3A</td>
-<td bgcolor="#5E7D3A" />
+<td style="{ background: '#5E7D3A' }" ></td>
 </tr>
 <tr>
 <td>Brown Soil</td>
@@ -192,7 +192,7 @@
 <td>73</td>
 <td>57</td>
 <td>#6E4939</td>
-<td bgcolor="#6E4939" />
+<td style="{ background: '#6E4939' }" ></td>
 </tr>
 <tr>
 <td>Brown Wash For German Dark Yellow</td>
@@ -202,7 +202,7 @@
 <td>50</td>
 <td>34</td>
 <td>#423222</td>
-<td bgcolor="#423222" />
+<td style="{ background: '#423222' }" ></td>
 </tr>
 <tr>
 <td>Burnt Brown Red</td>
@@ -212,7 +212,7 @@
 <td>32</td>
 <td>5</td>
 <td>#352005</td>
-<td bgcolor="#352005" />
+<td style="{ background: '#352005' }" ></td>
 </tr>
 <tr>
 <td>Burnt Sand</td>
@@ -222,7 +222,7 @@
 <td>90</td>
 <td>58</td>
 <td>#7E5A3A</td>
-<td bgcolor="#7E5A3A" />
+<td style="{ background: '#7E5A3A' }" ></td>
 </tr>
 <tr>
 <td>Chipping</td>
@@ -232,7 +232,7 @@
 <td>14</td>
 <td>14</td>
 <td>#260E0E</td>
-<td bgcolor="#260E0E" />
+<td style="{ background: '#260E0E' }" ></td>
 </tr>
 <tr>
 <td>Cinnamon </td>
@@ -242,7 +242,7 @@
 <td>125</td>
 <td>111</td>
 <td>#937D6F</td>
-<td bgcolor="#937D6F" />
+<td style="{ background: '#937D6F' }" ></td>
 </tr>
 <tr>
 <td>Clay Brown</td>
@@ -252,7 +252,7 @@
 <td>63</td>
 <td>35</td>
 <td>#683F23</td>
-<td bgcolor="#683F23" />
+<td style="{ background: '#683F23' }" ></td>
 </tr>
 <tr>
 <td>Cold Gray</td>
@@ -262,7 +262,7 @@
 <td>211</td>
 <td>211</td>
 <td>#D3D3D3</td>
-<td bgcolor="#D3D3D3" />
+<td style="{ background: '#D3D3D3' }" ></td>
 </tr>
 <tr>
 <td>Copper</td>
@@ -272,7 +272,7 @@
 <td>74</td>
 <td>93</td>
 <td>#C94A5D</td>
-<td bgcolor="#C94A5D" />
+<td style="{ background: '#C94A5D' }" ></td>
 </tr>
 <tr>
 <td>Crystal Black Blue</td>
@@ -282,7 +282,7 @@
 <td>35</td>
 <td>52</td>
 <td>#022334</td>
-<td bgcolor="#022334" />
+<td style="{ background: '#022334' }" ></td>
 </tr>
 <tr>
 <td>Crystal Glass</td>
@@ -292,7 +292,7 @@
 <td>167</td>
 <td>167</td>
 <td>#A7A7A7</td>
-<td bgcolor="#A7A7A7" />
+<td style="{ background: '#A7A7A7' }" ></td>
 </tr>
 <tr>
 <td>Crystal Green</td>
@@ -302,7 +302,7 @@
 <td>68</td>
 <td>16</td>
 <td>#2D4410</td>
-<td bgcolor="#2D4410" />
+<td style="{ background: '#2D4410' }" ></td>
 </tr>
 <tr>
 <td>Crystal Light Blue</td>
@@ -312,7 +312,7 @@
 <td>132</td>
 <td>190</td>
 <td>#0784BE</td>
-<td bgcolor="#0784BE" />
+<td style="{ background: '#0784BE' }" ></td>
 </tr>
 <tr>
 <td>Crystal Orange</td>
@@ -322,7 +322,7 @@
 <td>143</td>
 <td>0</td>
 <td>#FE8F00</td>
-<td bgcolor="#FE8F00" />
+<td style="{ background: '#FE8F00' }" ></td>
 </tr>
 <tr>
 <td>Crystal Periscope Green</td>
@@ -332,7 +332,7 @@
 <td>119</td>
 <td>15</td>
 <td>#40770F</td>
-<td bgcolor="#40770F" />
+<td style="{ background: '#40770F' }" ></td>
 </tr>
 <tr>
 <td>Crystal Red</td>
@@ -342,7 +342,7 @@
 <td>22</td>
 <td>16</td>
 <td>#591610</td>
-<td bgcolor="#591610" />
+<td style="{ background: '#591610' }" ></td>
 </tr>
 <tr>
 <td>Crystal Smoke</td>
@@ -352,7 +352,7 @@
 <td>30</td>
 <td>24</td>
 <td>#131E18</td>
-<td bgcolor="#131E18" />
+<td style="{ background: '#131E18' }" ></td>
 </tr>
 <tr>
 <td>Cyan</td>
@@ -362,7 +362,7 @@
 <td>149</td>
 <td>251</td>
 <td>#2495FB</td>
-<td bgcolor="#2495FB" />
+<td style="{ background: '#2495FB' }" ></td>
 </tr>
 <tr>
 <td>Dark Brown Wash For Green Vehicles</td>
@@ -372,7 +372,7 @@
 <td>14</td>
 <td>11</td>
 <td>#1D0E0B</td>
-<td bgcolor="#1D0E0B" />
+<td style="{ background: '#1D0E0B' }" ></td>
 </tr>
 <tr>
 <td>Dark Green (bs 241)</td>
@@ -382,7 +382,7 @@
 <td>83</td>
 <td>48</td>
 <td>#455330</td>
-<td bgcolor="#455330" />
+<td style="{ background: '#455330' }" ></td>
 </tr>
 <tr>
 <td>Dark Rust</td>
@@ -392,7 +392,7 @@
 <td>59</td>
 <td>36</td>
 <td>#893B24</td>
-<td bgcolor="#893B24" />
+<td style="{ background: '#893B24' }" ></td>
 </tr>
 <tr>
 <td>Dark Tracks</td>
@@ -402,7 +402,7 @@
 <td>7</td>
 <td>7</td>
 <td>#130707</td>
-<td bgcolor="#130707" />
+<td style="{ background: '#130707' }" ></td>
 </tr>
 <tr>
 <td>Dark Wash</td>
@@ -412,7 +412,7 @@
 <td>19</td>
 <td>16</td>
 <td>#171310</td>
-<td bgcolor="#171310" />
+<td style="{ background: '#171310' }" ></td>
 </tr>
 <tr>
 <td>Deep Green</td>
@@ -422,7 +422,7 @@
 <td>86</td>
 <td>45</td>
 <td>#0B562D</td>
-<td bgcolor="#0B562D" />
+<td style="{ background: '#0B562D' }" ></td>
 </tr>
 <tr>
 <td>Desert Yellow</td>
@@ -432,7 +432,7 @@
 <td>153</td>
 <td>109</td>
 <td>#B8996D</td>
-<td bgcolor="#B8996D" />
+<td style="{ background: '#B8996D' }" ></td>
 </tr>
 <tr>
 <td>Duck Egg Green (bs 216)</td>
@@ -442,7 +442,7 @@
 <td>185</td>
 <td>133</td>
 <td>#AFB985</td>
-<td bgcolor="#AFB985" />
+<td style="{ background: '#AFB985' }" ></td>
 </tr>
 <tr>
 <td>Dull Green</td>
@@ -452,7 +452,7 @@
 <td>89</td>
 <td>90</td>
 <td>#3D595A</td>
-<td bgcolor="#3D595A" />
+<td style="{ background: '#3D595A' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb Base</td>
@@ -462,7 +462,7 @@
 <td>129</td>
 <td>74</td>
 <td>#8E814A</td>
-<td bgcolor="#8E814A" />
+<td style="{ background: '#8E814A' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb Dark Base</td>
@@ -472,7 +472,7 @@
 <td>107</td>
 <td>55</td>
 <td>#7B6B37</td>
-<td bgcolor="#7B6B37" />
+<td style="{ background: '#7B6B37' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb High Light</td>
@@ -482,7 +482,7 @@
 <td>206</td>
 <td>147</td>
 <td>#D0CE93</td>
-<td bgcolor="#D0CE93" />
+<td style="{ background: '#D0CE93' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb Light Base</td>
@@ -492,7 +492,7 @@
 <td>171</td>
 <td>121</td>
 <td>#B7AB79</td>
-<td bgcolor="#B7AB79" />
+<td style="{ background: '#B7AB79' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb Shadow</td>
@@ -502,7 +502,7 @@
 <td>27</td>
 <td>32</td>
 <td>#381B20</td>
-<td bgcolor="#381B20" />
+<td style="{ background: '#381B20' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgelb Shine</td>
@@ -512,7 +512,7 @@
 <td>225</td>
 <td>197</td>
 <td>#E2E1C5</td>
-<td bgcolor="#E2E1C5" />
+<td style="{ background: '#E2E1C5' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgrau Base</td>
@@ -522,7 +522,7 @@
 <td>53</td>
 <td>66</td>
 <td>#333542</td>
-<td bgcolor="#333542" />
+<td style="{ background: '#333542' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgrau Dark Base</td>
@@ -532,7 +532,7 @@
 <td>73</td>
 <td>86</td>
 <td>#474956</td>
-<td bgcolor="#474956" />
+<td style="{ background: '#474956' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgrau Light Base</td>
@@ -542,7 +542,7 @@
 <td>109</td>
 <td>118</td>
 <td>#696D76</td>
-<td bgcolor="#696D76" />
+<td style="{ background: '#696D76' }" ></td>
 </tr>
 <tr>
 <td>Dunkelgrau Shadow</td>
@@ -552,7 +552,7 @@
 <td>51</td>
 <td>53</td>
 <td>#323335</td>
-<td bgcolor="#323335" />
+<td style="{ background: '#323335' }" ></td>
 </tr>
 <tr>
 <td>Dust</td>
@@ -562,7 +562,7 @@
 <td>140</td>
 <td>113</td>
 <td>#968C71</td>
-<td bgcolor="#968C71" />
+<td style="{ background: '#968C71' }" ></td>
 </tr>
 <tr>
 <td>Earth</td>
@@ -572,7 +572,7 @@
 <td>87</td>
 <td>57</td>
 <td>#745739</td>
-<td bgcolor="#745739" />
+<td style="{ background: '#745739' }" ></td>
 </tr>
 <tr>
 <td>Earth Brown</td>
@@ -582,7 +582,7 @@
 <td>68</td>
 <td>40</td>
 <td>#814428</td>
-<td bgcolor="#814428" />
+<td style="{ background: '#814428' }" ></td>
 </tr>
 <tr>
 <td>Faded Sinai Grey</td>
@@ -592,7 +592,7 @@
 <td>108</td>
 <td>90</td>
 <td>#736C5A</td>
-<td bgcolor="#736C5A" />
+<td style="{ background: '#736C5A' }" ></td>
 </tr>
 <tr>
 <td>Faded Yellow</td>
@@ -602,7 +602,7 @@
 <td>205</td>
 <td>115</td>
 <td>#D8CD73</td>
-<td bgcolor="#D8CD73" />
+<td style="{ background: '#D8CD73' }" ></td>
 </tr>
 <tr>
 <td>Forest Green</td>
@@ -612,7 +612,7 @@
 <td>69</td>
 <td>39</td>
 <td>#384527</td>
-<td bgcolor="#384527" />
+<td style="{ background: '#384527' }" ></td>
 </tr>
 <tr>
 <td>French Blue</td>
@@ -622,7 +622,7 @@
 <td>83</td>
 <td>102</td>
 <td>#445366</td>
-<td bgcolor="#445366" />
+<td style="{ background: '#445366' }" ></td>
 </tr>
 <tr>
 <td>Fs 15102 Dark Gray Blue</td>
@@ -632,7 +632,7 @@
 <td>137</td>
 <td>189</td>
 <td>#2489BD</td>
-<td bgcolor="#2489BD" />
+<td style="{ background: '#2489BD' }" ></td>
 </tr>
 <tr>
 <td>Fs 23070 Dark Olive Drab</td>
@@ -642,7 +642,7 @@
 <td>104</td>
 <td>69</td>
 <td>#6C6845</td>
-<td bgcolor="#6C6845" />
+<td style="{ background: '#6C6845' }" ></td>
 </tr>
 <tr>
 <td>Fs 24277 Green</td>
@@ -652,7 +652,7 @@
 <td>135</td>
 <td>120</td>
 <td>#6B8778</td>
-<td bgcolor="#6B8778" />
+<td style="{ background: '#6B8778' }" ></td>
 </tr>
 <tr>
 <td>Fs 25042 Sea Blue (ana 606)</td>
@@ -662,7 +662,7 @@
 <td>38</td>
 <td>44</td>
 <td>#21262C</td>
-<td bgcolor="#21262C" />
+<td style="{ background: '#21262C' }" ></td>
 </tr>
 <tr>
 <td>Fs 26231 (bs 638)</td>
@@ -672,7 +672,7 @@
 <td>115</td>
 <td>127</td>
 <td>#71737F</td>
-<td bgcolor="#71737F" />
+<td style="{ background: '#71737F' }" ></td>
 </tr>
 <tr>
 <td>Fs 26373 Silver Grey</td>
@@ -682,7 +682,7 @@
 <td>162</td>
 <td>162</td>
 <td>#92A2A2</td>
-<td bgcolor="#92A2A2" />
+<td style="{ background: '#92A2A2' }" ></td>
 </tr>
 <tr>
 <td>Fs 30219 Tan</td>
@@ -692,7 +692,7 @@
 <td>96</td>
 <td>61</td>
 <td>#81603D</td>
-<td bgcolor="#81603D" />
+<td style="{ background: '#81603D' }" ></td>
 </tr>
 <tr>
 <td>Fs 33446 US Modern Vehicles</td>
@@ -702,7 +702,7 @@
 <td>167</td>
 <td>128</td>
 <td>#C7A780</td>
-<td bgcolor="#C7A780" />
+<td style="{ background: '#C7A780' }" ></td>
 </tr>
 <tr>
 <td>Fs 33481 Zinc Chromate Yellow</td>
@@ -712,7 +712,7 @@
 <td>152</td>
 <td>70</td>
 <td>#B19846</td>
-<td bgcolor="#B19846" />
+<td style="{ background: '#B19846' }" ></td>
 </tr>
 <tr>
 <td>Fs 33531 Middlestone</td>
@@ -722,7 +722,7 @@
 <td>199</td>
 <td>180</td>
 <td>#D6C7B4</td>
-<td bgcolor="#D6C7B4" />
+<td style="{ background: '#D6C7B4' }" ></td>
 </tr>
 <tr>
 <td>Fs 34086 (ana 613)</td>
@@ -732,7 +732,7 @@
 <td>64</td>
 <td>46</td>
 <td>#3F402E</td>
-<td bgcolor="#3F402E" />
+<td style="{ background: '#3F402E' }" ></td>
 </tr>
 <tr>
 <td>Fs 34092 Medium Green</td>
@@ -742,7 +742,7 @@
 <td>82</td>
 <td>58</td>
 <td>#3A523A</td>
-<td bgcolor="#3A523A" />
+<td style="{ background: '#3A523A' }" ></td>
 </tr>
 <tr>
 <td>Fs 34151 Zinc Chromate Green (interior Green)</td>
@@ -752,7 +752,7 @@
 <td>110</td>
 <td>69</td>
 <td>#666E45</td>
-<td bgcolor="#666E45" />
+<td style="{ background: '#666E45' }" ></td>
 </tr>
 <tr>
 <td>Fs 34226 (bs283) Interior Green</td>
@@ -762,7 +762,7 @@
 <td>145</td>
 <td>130</td>
 <td>#729182</td>
-<td bgcolor="#729182" />
+<td style="{ background: '#729182' }" ></td>
 </tr>
 <tr>
 <td>Fs 34424 Light Gray Green</td>
@@ -772,7 +772,7 @@
 <td>202</td>
 <td>170</td>
 <td>#B1CAAA</td>
-<td bgcolor="#B1CAAA" />
+<td style="{ background: '#B1CAAA' }" ></td>
 </tr>
 <tr>
 <td>Fs 35164 Intermediate Blue (ana 608)</td>
@@ -782,7 +782,7 @@
 <td>121</td>
 <td>128</td>
 <td>#707980</td>
-<td bgcolor="#707980" />
+<td style="{ background: '#707980' }" ></td>
 </tr>
 <tr>
 <td>Fs 36118 Medium Gunship Gray</td>
@@ -792,7 +792,7 @@
 <td>69</td>
 <td>81</td>
 <td>#3F4551</td>
-<td bgcolor="#3F4551" />
+<td style="{ background: '#3F4551' }" ></td>
 </tr>
 <tr>
 <td>Fs 36122 NeutRAL Gray</td>
@@ -802,7 +802,7 @@
 <td>104</td>
 <td>108</td>
 <td>#67686C</td>
-<td bgcolor="#67686C" />
+<td style="{ background: '#67686C' }" ></td>
 </tr>
 <tr>
 <td>Fs 36270 Medium Gray</td>
@@ -812,7 +812,7 @@
 <td>153</td>
 <td>155</td>
 <td>#99999B</td>
-<td bgcolor="#99999B" />
+<td style="{ background: '#99999B' }" ></td>
 </tr>
 <tr>
 <td>Fs 36293</td>
@@ -822,7 +822,7 @@
 <td>132</td>
 <td>135</td>
 <td>#7F8487</td>
-<td bgcolor="#7F8487" />
+<td style="{ background: '#7F8487' }" ></td>
 </tr>
 <tr>
 <td>Fs 36314 (bs 626)</td>
@@ -832,7 +832,7 @@
 <td>151</td>
 <td>140</td>
 <td>#83978C</td>
-<td bgcolor="#83978C" />
+<td style="{ background: '#83978C' }" ></td>
 </tr>
 <tr>
 <td>Fs 36320 Dark Compass Ghost Gray</td>
@@ -842,7 +842,7 @@
 <td>135</td>
 <td>141</td>
 <td>#70878D</td>
-<td bgcolor="#70878D" />
+<td style="{ background: '#70878D' }" ></td>
 </tr>
 <tr>
 <td>Fs 36375 Light Compass Ghost Gray</td>
@@ -852,7 +852,7 @@
 <td>144</td>
 <td>163</td>
 <td>#8390A3</td>
-<td bgcolor="#8390A3" />
+<td style="{ background: '#8390A3' }" ></td>
 </tr>
 <tr>
 <td>Fs 36440 Light Gull Gray</td>
@@ -862,7 +862,7 @@
 <td>154</td>
 <td>148</td>
 <td>#959A94</td>
-<td bgcolor="#959A94" />
+<td style="{ background: '#959A94' }" ></td>
 </tr>
 <tr>
 <td>Fs 36495 Light Gray</td>
@@ -872,7 +872,7 @@
 <td>183</td>
 <td>173</td>
 <td>#A6B7AD</td>
-<td bgcolor="#A6B7AD" />
+<td style="{ background: '#A6B7AD' }" ></td>
 </tr>
 <tr>
 <td>Fs 36622 Gray</td>
@@ -882,7 +882,7 @@
 <td>210</td>
 <td>194</td>
 <td>#D1D2C2</td>
-<td bgcolor="#D1D2C2" />
+<td style="{ background: '#D1D2C2' }" ></td>
 </tr>
 <tr>
 <td>Fs 37886</td>
@@ -892,7 +892,7 @@
 <td>240</td>
 <td>216</td>
 <td>#F0F0D8</td>
-<td bgcolor="#F0F0D8" />
+<td style="{ background: '#F0F0D8' }" ></td>
 </tr>
 <tr>
 <td>Fs35237 Blue Gray Amt-11</td>
@@ -902,7 +902,7 @@
 <td>125</td>
 <td>138</td>
 <td>#6D7D8A</td>
-<td bgcolor="#6D7D8A" />
+<td style="{ background: '#6D7D8A' }" ></td>
 </tr>
 <tr>
 <td>Fs35260 Sky Line Blue A II </td>
@@ -912,7 +912,7 @@
 <td>198</td>
 <td>227</td>
 <td>#71C6E3</td>
-<td bgcolor="#71C6E3" />
+<td style="{ background: '#71C6E3' }" ></td>
 </tr>
 <tr>
 <td>Fs36152 Dark Grey AMT-12</td>
@@ -922,7 +922,7 @@
 <td>98</td>
 <td>104</td>
 <td>#5D6268</td>
-<td bgcolor="#5D6268" />
+<td style="{ background: '#5D6268' }" ></td>
 </tr>
 <tr>
 <td>Gold</td>
@@ -932,7 +932,7 @@
 <td>176</td>
 <td>33</td>
 <td>#B8B021</td>
-<td bgcolor="#B8B021" />
+<td style="{ background: '#B8B021' }" ></td>
 </tr>
 <tr>
 <td>Gold Yellow (RLM 04 Gelb)</td>
@@ -942,7 +942,7 @@
 <td>192</td>
 <td>18</td>
 <td>#D7C012</td>
-<td bgcolor="#D7C012" />
+<td style="{ background: '#D7C012' }" ></td>
 </tr>
 <tr>
 <td>Green Base</td>
@@ -952,7 +952,7 @@
 <td>99</td>
 <td>56</td>
 <td>#4E6338</td>
-<td bgcolor="#4E6338" />
+<td style="{ background: '#4E6338' }" ></td>
 </tr>
 <tr>
 <td>Green Khaki</td>
@@ -962,7 +962,7 @@
 <td>80</td>
 <td>53</td>
 <td>#545035</td>
-<td bgcolor="#545035" />
+<td style="{ background: '#545035' }" ></td>
 </tr>
 <tr>
 <td>Green Moss</td>
@@ -972,7 +972,7 @@
 <td>104</td>
 <td>55</td>
 <td>#6A6837</td>
-<td bgcolor="#6A6837" />
+<td style="{ background: '#6A6837' }" ></td>
 </tr>
 <tr>
 <td>Green Slate (RLM 02)</td>
@@ -982,7 +982,7 @@
 <td>56</td>
 <td>30</td>
 <td>#2A381E</td>
-<td bgcolor="#2A381E" />
+<td style="{ background: '#2A381E' }" ></td>
 </tr>
 <tr>
 <td>Grey</td>
@@ -992,7 +992,7 @@
 <td>133</td>
 <td>142</td>
 <td>#81858E</td>
-<td bgcolor="#81858E" />
+<td style="{ background: '#81858E' }" ></td>
 </tr>
 <tr>
 <td>Grey Brown Amt-1</td>
@@ -1002,7 +1002,7 @@
 <td>123</td>
 <td>113</td>
 <td>#827B71</td>
-<td bgcolor="#827B71" />
+<td style="{ background: '#827B71' }" ></td>
 </tr>
 <tr>
 <td>Grey High Light</td>
@@ -1012,7 +1012,7 @@
 <td>128</td>
 <td>135</td>
 <td>#7D8087</td>
-<td bgcolor="#7D8087" />
+<td style="{ background: '#7D8087' }" ></td>
 </tr>
 <tr>
 <td>Grey Shine</td>
@@ -1022,7 +1022,7 @@
 <td>165</td>
 <td>172</td>
 <td>#A2A5AC</td>
-<td bgcolor="#A2A5AC" />
+<td style="{ background: '#A2A5AC' }" ></td>
 </tr>
 <tr>
 <td>Gun Metal</td>
@@ -1032,7 +1032,7 @@
 <td>80</td>
 <td>68</td>
 <td>#525044</td>
-<td bgcolor="#525044" />
+<td style="{ background: '#525044' }" ></td>
 </tr>
 <tr>
 <td>Idf Green</td>
@@ -1042,7 +1042,7 @@
 <td>84</td>
 <td>46</td>
 <td>#56542E</td>
-<td bgcolor="#56542E" />
+<td style="{ background: '#56542E' }" ></td>
 </tr>
 <tr>
 <td>Interior Turquoise Green</td>
@@ -1052,7 +1052,7 @@
 <td>131</td>
 <td>104</td>
 <td>#1C8368</td>
-<td bgcolor="#1C8368" />
+<td style="{ background: '#1C8368' }" ></td>
 </tr>
 <tr>
 <td>Interiors Wash</td>
@@ -1062,7 +1062,7 @@
 <td>50</td>
 <td>41</td>
 <td>#3C3229</td>
-<td bgcolor="#3C3229" />
+<td style="{ background: '#3C3229' }" ></td>
 </tr>
 <tr>
 <td>Jet Exhaust Burnt Iron</td>
@@ -1072,7 +1072,7 @@
 <td>36</td>
 <td>23</td>
 <td>#3E2417</td>
-<td bgcolor="#3E2417" />
+<td style="{ background: '#3E2417' }" ></td>
 </tr>
 <tr>
 <td>Khaki</td>
@@ -1082,7 +1082,7 @@
 <td>85</td>
 <td>51</td>
 <td>#735533</td>
-<td bgcolor="#735533" />
+<td style="{ background: '#735533' }" ></td>
 </tr>
 <tr>
 <td>Khaki Brown</td>
@@ -1092,7 +1092,7 @@
 <td>146</td>
 <td>103</td>
 <td>#B39267</td>
-<td bgcolor="#B39267" />
+<td style="{ background: '#B39267' }" ></td>
 </tr>
 <tr>
 <td>Khaki Green Nº3 (british 1939-42)</td>
@@ -1102,7 +1102,7 @@
 <td>95</td>
 <td>56</td>
 <td>#685F38</td>
-<td bgcolor="#685F38" />
+<td style="{ background: '#685F38' }" ></td>
 </tr>
 <tr>
 <td>Light Blue </td>
@@ -1112,7 +1112,7 @@
 <td>206</td>
 <td>219</td>
 <td>#B4CEDB</td>
-<td bgcolor="#B4CEDB" />
+<td style="{ background: '#B4CEDB' }" ></td>
 </tr>
 <tr>
 <td>Light Brown-gray</td>
@@ -1122,7 +1122,7 @@
 <td>209</td>
 <td>206</td>
 <td>#D6D1CE</td>
-<td bgcolor="#D6D1CE" />
+<td style="{ background: '#D6D1CE' }" ></td>
 </tr>
 <tr>
 <td>Light Green</td>
@@ -1132,7 +1132,7 @@
 <td>175</td>
 <td>117</td>
 <td>#93AF75</td>
-<td bgcolor="#93AF75" />
+<td style="{ background: '#93AF75' }" ></td>
 </tr>
 <tr>
 <td>Light Green Khaki</td>
@@ -1142,7 +1142,7 @@
 <td>123</td>
 <td>77</td>
 <td>#7C7B4D</td>
-<td bgcolor="#7C7B4D" />
+<td style="{ background: '#7C7B4D' }" ></td>
 </tr>
 <tr>
 <td>Light Green Khv-553m</td>
@@ -1152,7 +1152,7 @@
 <td>187</td>
 <td>138</td>
 <td>#A5BB8A</td>
-<td bgcolor="#A5BB8A" />
+<td style="{ background: '#A5BB8A' }" ></td>
 </tr>
 <tr>
 <td>Light Rust</td>
@@ -1162,7 +1162,7 @@
 <td>145</td>
 <td>11</td>
 <td>#E5910B</td>
-<td bgcolor="#E5910B" />
+<td style="{ background: '#E5910B' }" ></td>
 </tr>
 <tr>
 <td>Light Rust Wash</td>
@@ -1172,7 +1172,7 @@
 <td>46</td>
 <td>17</td>
 <td>#552E11</td>
-<td bgcolor="#552E11" />
+<td style="{ background: '#552E11' }" ></td>
 </tr>
 <tr>
 <td>Light Sand Grey</td>
@@ -1182,7 +1182,7 @@
 <td>166</td>
 <td>128</td>
 <td>#B8A680</td>
-<td bgcolor="#B8A680" />
+<td style="{ background: '#B8A680' }" ></td>
 </tr>
 <tr>
 <td>Light Skin Tone</td>
@@ -1192,7 +1192,7 @@
 <td>202</td>
 <td>168</td>
 <td>#EECAA8</td>
-<td bgcolor="#EECAA8" />
+<td style="{ background: '#EECAA8' }" ></td>
 </tr>
 <tr>
 <td>Light Wood</td>
@@ -1202,7 +1202,7 @@
 <td>170</td>
 <td>127</td>
 <td>#BBAA7F</td>
-<td bgcolor="#BBAA7F" />
+<td style="{ background: '#BBAA7F' }" ></td>
 </tr>
 <tr>
 <td>Lime Green</td>
@@ -1212,7 +1212,7 @@
 <td>159</td>
 <td>69</td>
 <td>#109F45</td>
-<td bgcolor="#109F45" />
+<td style="{ background: '#109F45' }" ></td>
 </tr>
 <tr>
 <td>Marine Blue</td>
@@ -1222,7 +1222,7 @@
 <td>86</td>
 <td>143</td>
 <td>#18568F</td>
-<td bgcolor="#18568F" />
+<td style="{ background: '#18568F' }" ></td>
 </tr>
 <tr>
 <td>Matt Aluminum</td>
@@ -1232,7 +1232,7 @@
 <td>188</td>
 <td>176</td>
 <td>#AABCB0</td>
-<td bgcolor="#AABCB0" />
+<td style="{ background: '#AABCB0' }" ></td>
 </tr>
 <tr>
 <td>Matt Black</td>
@@ -1242,7 +1242,7 @@
 <td>19</td>
 <td>19</td>
 <td>#131313</td>
-<td bgcolor="#131313" />
+<td style="{ background: '#131313' }" ></td>
 </tr>
 <tr>
 <td>Matt Varnish</td>
@@ -1252,7 +1252,7 @@
 <td>254</td>
 <td>254</td>
 <td>#FEFEFE</td>
-<td bgcolor="#FEFEFE" />
+<td style="{ background: '#FEFEFE' }" ></td>
 </tr>
 <tr>
 <td>Matt White</td>
@@ -1262,7 +1262,7 @@
 <td>254</td>
 <td>251</td>
 <td>#FCFEFB</td>
-<td bgcolor="#FCFEFB" />
+<td style="{ background: '#FCFEFB' }" ></td>
 </tr>
 <tr>
 <td>Medium Blue</td>
@@ -1272,7 +1272,7 @@
 <td>72</td>
 <td>136</td>
 <td>#294888</td>
-<td bgcolor="#294888" />
+<td style="{ background: '#294888' }" ></td>
 </tr>
 <tr>
 <td>Medium Brown Dark Earth (bs 450)</td>
@@ -1282,7 +1282,7 @@
 <td>54</td>
 <td>40</td>
 <td>#523628</td>
-<td bgcolor="#523628" />
+<td style="{ background: '#523628' }" ></td>
 </tr>
 <tr>
 <td>Medium Rust</td>
@@ -1292,7 +1292,7 @@
 <td>84</td>
 <td>48</td>
 <td>#B85430</td>
-<td bgcolor="#B85430" />
+<td style="{ background: '#B85430' }" ></td>
 </tr>
 <tr>
 <td>Medium Sea Grey (bs 637)</td>
@@ -1302,7 +1302,7 @@
 <td>143</td>
 <td>145</td>
 <td>#858F91</td>
-<td bgcolor="#858F91" />
+<td style="{ background: '#858F91' }" ></td>
 </tr>
 <tr>
 <td>Metallic Orange</td>
@@ -1312,7 +1312,7 @@
 <td>103</td>
 <td>2</td>
 <td>#CD6702</td>
-<td bgcolor="#CD6702" />
+<td style="{ background: '#CD6702' }" ></td>
 </tr>
 <tr>
 <td>Metallic Red</td>
@@ -1322,7 +1322,7 @@
 <td>56</td>
 <td>40</td>
 <td>#C13828</td>
-<td bgcolor="#C13828" />
+<td style="{ background: '#C13828' }" ></td>
 </tr>
 <tr>
 <td>Nato Brown</td>
@@ -1332,7 +1332,7 @@
 <td>44</td>
 <td>39</td>
 <td>#412C27</td>
-<td bgcolor="#412C27" />
+<td style="{ background: '#412C27' }" ></td>
 </tr>
 <tr>
 <td>Nato Green</td>
@@ -1342,7 +1342,7 @@
 <td>71</td>
 <td>51</td>
 <td>#424733</td>
-<td bgcolor="#424733" />
+<td style="{ background: '#424733' }" ></td>
 </tr>
 <tr>
 <td>Neutral Wash</td>
@@ -1352,7 +1352,7 @@
 <td>80</td>
 <td>80</td>
 <td>#505050</td>
-<td bgcolor="#505050" />
+<td style="{ background: '#505050' }" ></td>
 </tr>
 <tr>
 <td>New  Wood</td>
@@ -1362,7 +1362,7 @@
 <td>171</td>
 <td>114</td>
 <td>#C1AB72</td>
-<td bgcolor="#C1AB72" />
+<td style="{ background: '#C1AB72' }" ></td>
 </tr>
 <tr>
 <td>New Iraqui Army Sand</td>
@@ -1372,7 +1372,7 @@
 <td>175</td>
 <td>118</td>
 <td>#C8AF76</td>
-<td bgcolor="#C8AF76" />
+<td style="{ background: '#C8AF76' }" ></td>
 </tr>
 <tr>
 <td>Night Blue Grey</td>
@@ -1382,7 +1382,7 @@
 <td>86</td>
 <td>98</td>
 <td>#525662</td>
-<td bgcolor="#525662" />
+<td style="{ background: '#525662' }" ></td>
 </tr>
 <tr>
 <td>Ocean Grey (bs 629)</td>
@@ -1392,7 +1392,7 @@
 <td>107</td>
 <td>114</td>
 <td>#626B72</td>
-<td bgcolor="#626B72" />
+<td style="{ background: '#626B72' }" ></td>
 </tr>
 <tr>
 <td>Ochre Brown</td>
@@ -1402,7 +1402,7 @@
 <td>131</td>
 <td>86</td>
 <td>#9E8356</td>
-<td bgcolor="#9E8356" />
+<td style="{ background: '#9E8356' }" ></td>
 </tr>
 <tr>
 <td>Ochre Earth</td>
@@ -1412,7 +1412,7 @@
 <td>142</td>
 <td>92</td>
 <td>#C28E5C</td>
-<td bgcolor="#C28E5C" />
+<td style="{ background: '#C28E5C' }" ></td>
 </tr>
 <tr>
 <td>Oil Ochre</td>
@@ -1422,7 +1422,7 @@
 <td>173</td>
 <td>80</td>
 <td>#CEAD50</td>
-<td bgcolor="#CEAD50" />
+<td style="{ background: '#CEAD50' }" ></td>
 </tr>
 <tr>
 <td>Old Brass</td>
@@ -1432,7 +1432,7 @@
 <td>97</td>
 <td>22</td>
 <td>#816116</td>
-<td bgcolor="#816116" />
+<td style="{ background: '#816116' }" ></td>
 </tr>
 <tr>
 <td>Old Rust</td>
@@ -1442,7 +1442,7 @@
 <td>38</td>
 <td>33</td>
 <td>#452621</td>
-<td bgcolor="#452621" />
+<td style="{ background: '#452621' }" ></td>
 </tr>
 <tr>
 <td>Old Wood</td>
@@ -1452,7 +1452,7 @@
 <td>171</td>
 <td>138</td>
 <td>#BFAB8A</td>
-<td bgcolor="#BFAB8A" />
+<td style="{ background: '#BFAB8A' }" ></td>
 </tr>
 <tr>
 <td>Olive Drab  Base</td>
@@ -1462,7 +1462,7 @@
 <td>79</td>
 <td>46</td>
 <td>#524F2E</td>
-<td bgcolor="#524F2E" />
+<td style="{ background: '#524F2E' }" ></td>
 </tr>
 <tr>
 <td>Olive Drab  High Lights</td>
@@ -1472,7 +1472,7 @@
 <td>118</td>
 <td>83</td>
 <td>#797653</td>
-<td bgcolor="#797653" />
+<td style="{ background: '#797653' }" ></td>
 </tr>
 <tr>
 <td>Olive Drab  Light Base</td>
@@ -1482,7 +1482,7 @@
 <td>101</td>
 <td>66</td>
 <td>#686542</td>
-<td bgcolor="#686542" />
+<td style="{ background: '#686542' }" ></td>
 </tr>
 <tr>
 <td>Olive Drab Shadow</td>
@@ -1492,7 +1492,7 @@
 <td>48</td>
 <td>23</td>
 <td>#323017</td>
-<td bgcolor="#323017" />
+<td style="{ background: '#323017' }" ></td>
 </tr>
 <tr>
 <td>Olive Drab Shine</td>
@@ -1502,7 +1502,7 @@
 <td>135</td>
 <td>97</td>
 <td>#898761</td>
-<td bgcolor="#898761" />
+<td style="{ background: '#898761' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - Black</td>
@@ -1512,7 +1512,7 @@
 <td>24</td>
 <td>24</td>
 <td>#181818</td>
-<td bgcolor="#181818" />
+<td style="{ background: '#181818' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - Brown Oxide</td>
@@ -1522,7 +1522,7 @@
 <td>32</td>
 <td>23</td>
 <td>#412017</td>
-<td bgcolor="#412017" />
+<td style="{ background: '#412017' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - Green</td>
@@ -1532,7 +1532,7 @@
 <td>52</td>
 <td>39</td>
 <td>#263427</td>
-<td bgcolor="#263427" />
+<td style="{ background: '#263427' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - Grey</td>
@@ -1542,7 +1542,7 @@
 <td>107</td>
 <td>107</td>
 <td>#6B6B6B</td>
-<td bgcolor="#6B6B6B" />
+<td style="{ background: '#6B6B6B' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - Sand Flesh</td>
@@ -1552,7 +1552,7 @@
 <td>163</td>
 <td>113</td>
 <td>#B7A371</td>
-<td bgcolor="#B7A371" />
+<td style="{ background: '#B7A371' }" ></td>
 </tr>
 <tr>
 <td>One Shot Primer - White </td>
@@ -1562,7 +1562,7 @@
 <td>228</td>
 <td>228</td>
 <td>#E4E4E4</td>
-<td bgcolor="#E4E4E4" />
+<td style="{ background: '#E4E4E4' }" ></td>
 </tr>
 <tr>
 <td>Orange</td>
@@ -1572,7 +1572,7 @@
 <td>115</td>
 <td>30</td>
 <td>#E7731E</td>
-<td bgcolor="#E7731E" />
+<td style="{ background: '#E7731E' }" ></td>
 </tr>
 <tr>
 <td>Pale Green</td>
@@ -1582,7 +1582,7 @@
 <td>99</td>
 <td>39</td>
 <td>#3A6327</td>
-<td bgcolor="#3A6327" />
+<td style="{ background: '#3A6327' }" ></td>
 </tr>
 <tr>
 <td>Polished Metal</td>
@@ -1592,7 +1592,7 @@
 <td>108</td>
 <td>92</td>
 <td>#5B6C5C</td>
-<td bgcolor="#5B6C5C" />
+<td style="{ background: '#5B6C5C' }" ></td>
 </tr>
 <tr>
 <td>Protective Green</td>
@@ -1602,7 +1602,7 @@
 <td>115</td>
 <td>59</td>
 <td>#5E733B</td>
-<td bgcolor="#5E733B" />
+<td style="{ background: '#5E733B' }" ></td>
 </tr>
 <tr>
 <td>Protective Mc 1200</td>
@@ -1612,7 +1612,7 @@
 <td>52</td>
 <td>27</td>
 <td>#18341B</td>
-<td bgcolor="#18341B" />
+<td style="{ background: '#18341B' }" ></td>
 </tr>
 <tr>
 <td>Purple</td>
@@ -1622,7 +1622,7 @@
 <td>84</td>
 <td>164</td>
 <td>#9154A4</td>
-<td bgcolor="#9154A4" />
+<td style="{ background: '#9154A4' }" ></td>
 </tr>
 <tr>
 <td>RAL 6003 Olivgrün Opt.1</td>
@@ -1632,7 +1632,7 @@
 <td>61</td>
 <td>38</td>
 <td>#353D26</td>
-<td bgcolor="#353D26" />
+<td style="{ background: '#353D26' }" ></td>
 </tr>
 <tr>
 <td>RAL 6003 Olivgrün Opt.2</td>
@@ -1642,7 +1642,7 @@
 <td>85</td>
 <td>54</td>
 <td>#4E5536</td>
-<td bgcolor="#4E5536" />
+<td style="{ background: '#4E5536' }" ></td>
 </tr>
 <tr>
 <td>RAL 6011 B Resedagrün</td>
@@ -1652,7 +1652,7 @@
 <td>93</td>
 <td>51</td>
 <td>#525D33</td>
-<td bgcolor="#525D33" />
+<td style="{ background: '#525D33' }" ></td>
 </tr>
 <tr>
 <td>RAL 6011 Resedagrün</td>
@@ -1662,7 +1662,7 @@
 <td>125</td>
 <td>76</td>
 <td>#677D4C</td>
-<td bgcolor="#677D4C" />
+<td style="{ background: '#677D4C' }" ></td>
 </tr>
 <tr>
 <td>RAL 6014 Gelboliv</td>
@@ -1672,7 +1672,7 @@
 <td>71</td>
 <td>50</td>
 <td>#454732</td>
-<td bgcolor="#454732" />
+<td style="{ background: '#454732' }" ></td>
 </tr>
 <tr>
 <td>RAL 7008 Graugrün</td>
@@ -1682,7 +1682,7 @@
 <td>89</td>
 <td>60</td>
 <td>#62593C</td>
-<td bgcolor="#62593C" />
+<td style="{ background: '#62593C' }" ></td>
 </tr>
 <tr>
 <td>RAL 7008 Graugrün Opt.2</td>
@@ -1692,7 +1692,7 @@
 <td>133</td>
 <td>77</td>
 <td>#8A854D</td>
-<td bgcolor="#8A854D" />
+<td style="{ background: '#8A854D' }" ></td>
 </tr>
 <tr>
 <td>RAL 7017 Dunkelbraun</td>
@@ -1702,7 +1702,7 @@
 <td>66</td>
 <td>50</td>
 <td>#524232</td>
-<td bgcolor="#524232" />
+<td style="{ background: '#524232' }" ></td>
 </tr>
 <tr>
 <td>RAL 7021 Dunkelgrau</td>
@@ -1712,7 +1712,7 @@
 <td>43</td>
 <td>52</td>
 <td>#272B34</td>
-<td bgcolor="#272B34" />
+<td style="{ background: '#272B34' }" ></td>
 </tr>
 <tr>
 <td>RAL 7027 Sandgrau</td>
@@ -1722,7 +1722,7 @@
 <td>175</td>
 <td>147</td>
 <td>#C0AF93</td>
-<td bgcolor="#C0AF93" />
+<td style="{ background: '#C0AF93' }" ></td>
 </tr>
 <tr>
 <td>RAL 7028 Dunkelgelb (mid War)</td>
@@ -1732,7 +1732,7 @@
 <td>148</td>
 <td>63</td>
 <td>#A4943F</td>
-<td bgcolor="#A4943F" />
+<td style="{ background: '#A4943F' }" ></td>
 </tr>
 <tr>
 <td>RAL 7028 Dunkelgelb AUS ’44 Dg I</td>
@@ -1742,7 +1742,7 @@
 <td>190</td>
 <td>134</td>
 <td>#C9BE86</td>
-<td bgcolor="#C9BE86" />
+<td style="{ background: '#C9BE86' }" ></td>
 </tr>
 <tr>
 <td>RAL 7028 Dunkelgelb AUS ’44 Dg IIi</td>
@@ -1752,7 +1752,7 @@
 <td>206</td>
 <td>165</td>
 <td>#D7CEA5</td>
-<td bgcolor="#D7CEA5" />
+<td style="{ background: '#D7CEA5' }" ></td>
 </tr>
 <tr>
 <td>RAL 8000 Gelbbraun</td>
@@ -1762,7 +1762,7 @@
 <td>149</td>
 <td>118</td>
 <td>#AE9576</td>
-<td bgcolor="#AE9576" />
+<td style="{ background: '#AE9576' }" ></td>
 </tr>
 <tr>
 <td>RAL 8012 Rotbraun</td>
@@ -1772,7 +1772,7 @@
 <td>50</td>
 <td>10</td>
 <td>#85320A</td>
-<td bgcolor="#85320A" />
+<td style="{ background: '#85320A' }" ></td>
 </tr>
 <tr>
 <td>RAL 8017 Schokobraun</td>
@@ -1782,7 +1782,7 @@
 <td>49</td>
 <td>44</td>
 <td>#50312C</td>
-<td bgcolor="#50312C" />
+<td style="{ background: '#50312C' }" ></td>
 </tr>
 <tr>
 <td>RAL 8020 Gelbbraun</td>
@@ -1792,7 +1792,7 @@
 <td>202</td>
 <td>122</td>
 <td>#E7CA7A</td>
-<td bgcolor="#E7CA7A" />
+<td style="{ background: '#E7CA7A' }" ></td>
 </tr>
 <tr>
 <td>RAL 8031 F9 Sand Brown</td>
@@ -1802,7 +1802,7 @@
 <td>163</td>
 <td>139</td>
 <td>#CDA38B</td>
-<td bgcolor="#CDA38B" />
+<td style="{ background: '#CDA38B' }" ></td>
 </tr>
 <tr>
 <td>RAL 9001 Cremeweiss</td>
@@ -1812,7 +1812,7 @@
 <td>239</td>
 <td>194</td>
 <td>#F2EFC2</td>
-<td bgcolor="#F2EFC2" />
+<td style="{ background: '#F2EFC2' }" ></td>
 </tr>
 <tr>
 <td>RAL1039 F9 German Sand Beige</td>
@@ -1822,7 +1822,7 @@
 <td>176</td>
 <td>116</td>
 <td>#C6B074</td>
-<td bgcolor="#C6B074" />
+<td style="{ background: '#C6B074' }" ></td>
 </tr>
 <tr>
 <td>RAL7050 F7 German Grey Beige</td>
@@ -1832,7 +1832,7 @@
 <td>120</td>
 <td>99</td>
 <td>#807863</td>
-<td bgcolor="#807863" />
+<td style="{ background: '#807863' }" ></td>
 </tr>
 <tr>
 <td>RLM 65 Hellblau</td>
@@ -1842,7 +1842,7 @@
 <td>219</td>
 <td>226</td>
 <td>#C7DBE2</td>
-<td bgcolor="#C7DBE2" />
+<td style="{ background: '#C7DBE2' }" ></td>
 </tr>
 <tr>
 <td>RLM 66 Schwartzgrau</td>
@@ -1852,7 +1852,7 @@
 <td>43</td>
 <td>52</td>
 <td>#282B34</td>
-<td bgcolor="#282B34" />
+<td style="{ background: '#282B34' }" ></td>
 </tr>
 <tr>
 <td>RLM 70 Schwartzgrün</td>
@@ -1862,7 +1862,7 @@
 <td>60</td>
 <td>43</td>
 <td>#333C2B</td>
-<td bgcolor="#333C2B" />
+<td style="{ background: '#333C2B' }" ></td>
 </tr>
 <tr>
 <td>RLM 71 Dunkelgrün</td>
@@ -1872,7 +1872,7 @@
 <td>86</td>
 <td>63</td>
 <td>#51563F</td>
-<td bgcolor="#51563F" />
+<td style="{ background: '#51563F' }" ></td>
 </tr>
 <tr>
 <td>RLM 74 Graugrün</td>
@@ -1882,7 +1882,7 @@
 <td>78</td>
 <td>72</td>
 <td>#434E48</td>
-<td bgcolor="#434E48" />
+<td style="{ background: '#434E48' }" ></td>
 </tr>
 <tr>
 <td>RLM 75 Grauviolett</td>
@@ -1892,7 +1892,7 @@
 <td>126</td>
 <td>123</td>
 <td>#7C7E7B</td>
-<td bgcolor="#7C7E7B" />
+<td style="{ background: '#7C7E7B' }" ></td>
 </tr>
 <tr>
 <td>RLM 76 Pale Grey</td>
@@ -1902,7 +1902,7 @@
 <td>196</td>
 <td>182</td>
 <td>#9AC4B6</td>
-<td bgcolor="#9AC4B6" />
+<td style="{ background: '#9AC4B6' }" ></td>
 </tr>
 <tr>
 <td>RLM 78 Hellblau</td>
@@ -1912,7 +1912,7 @@
 <td>155</td>
 <td>156</td>
 <td>#819B9C</td>
-<td bgcolor="#819B9C" />
+<td style="{ background: '#819B9C' }" ></td>
 </tr>
 <tr>
 <td>RLM 79 Sandgelb</td>
@@ -1922,7 +1922,7 @@
 <td>153</td>
 <td>66</td>
 <td>#C59942</td>
-<td bgcolor="#C59942" />
+<td style="{ background: '#C59942' }" ></td>
 </tr>
 <tr>
 <td>RLM 80 Olivgrün</td>
@@ -1932,7 +1932,7 @@
 <td>73</td>
 <td>48</td>
 <td>#3B4930</td>
-<td bgcolor="#3B4930" />
+<td style="{ background: '#3B4930' }" ></td>
 </tr>
 <tr>
 <td>RLM 81</td>
@@ -1942,7 +1942,7 @@
 <td>81</td>
 <td>44</td>
 <td>#47512C</td>
-<td bgcolor="#47512C" />
+<td style="{ background: '#47512C' }" ></td>
 </tr>
 <tr>
 <td>RLM 81 Braunviolett</td>
@@ -1952,7 +1952,7 @@
 <td>60</td>
 <td>55</td>
 <td>#553C37</td>
-<td bgcolor="#553C37" />
+<td style="{ background: '#553C37' }" ></td>
 </tr>
 <tr>
 <td>RLM 81 Olive Drab Dark</td>
@@ -1962,7 +1962,7 @@
 <td>61</td>
 <td>32</td>
 <td>#413D20</td>
-<td bgcolor="#413D20" />
+<td style="{ background: '#413D20' }" ></td>
 </tr>
 <tr>
 <td>RLM 82 Camo Green</td>
@@ -1972,7 +1972,7 @@
 <td>62</td>
 <td>0</td>
 <td>#3E3E00</td>
-<td bgcolor="#3E3E00" />
+<td style="{ background: '#3E3E00' }" ></td>
 </tr>
 <tr>
 <td>RLM 84 Graublau</td>
@@ -1982,7 +1982,7 @@
 <td>185</td>
 <td>123</td>
 <td>#B9B97B</td>
-<td bgcolor="#B9B97B" />
+<td style="{ background: '#B9B97B' }" ></td>
 </tr>
 <tr>
 <td>Real Idf Sand Grey 73</td>
@@ -1992,7 +1992,7 @@
 <td>121</td>
 <td>75</td>
 <td>#84794B</td>
-<td bgcolor="#84794B" />
+<td style="{ background: '#84794B' }" ></td>
 </tr>
 <tr>
 <td>Real Idf Sinai Grey 82</td>
@@ -2002,7 +2002,7 @@
 <td>79</td>
 <td>42</td>
 <td>#534F2A</td>
-<td bgcolor="#534F2A" />
+<td style="{ background: '#534F2A' }" ></td>
 </tr>
 <tr>
 <td>Red</td>
@@ -2012,7 +2012,7 @@
 <td>38</td>
 <td>21</td>
 <td>#BD2615</td>
-<td bgcolor="#BD2615" />
+<td style="{ background: '#BD2615' }" ></td>
 </tr>
 <tr>
 <td>Red Brown Base</td>
@@ -2022,7 +2022,7 @@
 <td>50</td>
 <td>30</td>
 <td>#6B321E</td>
-<td bgcolor="#6B321E" />
+<td style="{ background: '#6B321E' }" ></td>
 </tr>
 <tr>
 <td>Red Brown Light</td>
@@ -2032,7 +2032,7 @@
 <td>83</td>
 <td>64</td>
 <td>#9E5340</td>
-<td bgcolor="#9E5340" />
+<td style="{ background: '#9E5340' }" ></td>
 </tr>
 <tr>
 <td>Red Brown Shadow</td>
@@ -2042,7 +2042,7 @@
 <td>29</td>
 <td>20</td>
 <td>#421D14</td>
-<td bgcolor="#421D14" />
+<td style="{ background: '#421D14' }" ></td>
 </tr>
 <tr>
 <td>Red Leather</td>
@@ -2052,7 +2052,7 @@
 <td>59</td>
 <td>41</td>
 <td>#643B29</td>
-<td bgcolor="#643B29" />
+<td style="{ background: '#643B29' }" ></td>
 </tr>
 <tr>
 <td>Red Primer  High Lights</td>
@@ -2062,7 +2062,7 @@
 <td>61</td>
 <td>26</td>
 <td>#7F3D1A</td>
-<td bgcolor="#7F3D1A" />
+<td style="{ background: '#7F3D1A' }" ></td>
 </tr>
 <tr>
 <td>Red Primer  Shine</td>
@@ -2072,7 +2072,7 @@
 <td>89</td>
 <td>34</td>
 <td>#9E5922</td>
-<td bgcolor="#9E5922" />
+<td style="{ background: '#9E5922' }" ></td>
 </tr>
 <tr>
 <td>Red Primer Base</td>
@@ -2082,7 +2082,7 @@
 <td>20</td>
 <td>4</td>
 <td>#491404</td>
-<td bgcolor="#491404" />
+<td style="{ background: '#491404' }" ></td>
 </tr>
 <tr>
 <td>Red Primer Dark Base</td>
@@ -2092,7 +2092,7 @@
 <td>59</td>
 <td>35</td>
 <td>#593B23</td>
-<td bgcolor="#593B23" />
+<td style="{ background: '#593B23' }" ></td>
 </tr>
 <tr>
 <td>Red Primer Light Base</td>
@@ -2102,7 +2102,7 @@
 <td>37</td>
 <td>12</td>
 <td>#63250C</td>
-<td bgcolor="#63250C" />
+<td style="{ background: '#63250C' }" ></td>
 </tr>
 <tr>
 <td>Red Primer Shadow</td>
@@ -2112,7 +2112,7 @@
 <td>24</td>
 <td>25</td>
 <td>#321819</td>
-<td bgcolor="#321819" />
+<td style="{ background: '#321819' }" ></td>
 </tr>
 <tr>
 <td>Reddish Earth</td>
@@ -2122,7 +2122,7 @@
 <td>84</td>
 <td>70</td>
 <td>#705446</td>
-<td bgcolor="#705446" />
+<td style="{ background: '#705446' }" ></td>
 </tr>
 <tr>
 <td>Rubber &amp; Tires</td>
@@ -2132,7 +2132,7 @@
 <td>56</td>
 <td>60</td>
 <td>#3D383C</td>
-<td bgcolor="#3D383C" />
+<td style="{ background: '#3D383C' }" ></td>
 </tr>
 <tr>
 <td>Russian Blue Amt-7</td>
@@ -2142,7 +2142,7 @@
 <td>115</td>
 <td>126</td>
 <td>#2F737E</td>
-<td bgcolor="#2F737E" />
+<td style="{ background: '#2F737E' }" ></td>
 </tr>
 <tr>
 <td>Russian Dark Base</td>
@@ -2152,7 +2152,7 @@
 <td>79</td>
 <td>39</td>
 <td>#4A4F27</td>
-<td bgcolor="#4A4F27" />
+<td style="{ background: '#4A4F27' }" ></td>
 </tr>
 <tr>
 <td>Russian Green Base</td>
@@ -2162,7 +2162,7 @@
 <td>92</td>
 <td>25</td>
 <td>#5D5C19</td>
-<td bgcolor="#5D5C19" />
+<td style="{ background: '#5D5C19' }" ></td>
 </tr>
 <tr>
 <td>Russian High Light</td>
@@ -2172,7 +2172,7 @@
 <td>133</td>
 <td>87</td>
 <td>#8C8557</td>
-<td bgcolor="#8C8557" />
+<td style="{ background: '#8C8557' }" ></td>
 </tr>
 <tr>
 <td>Russian Light Base</td>
@@ -2182,7 +2182,7 @@
 <td>114</td>
 <td>68</td>
 <td>#797244</td>
-<td bgcolor="#797244" />
+<td style="{ background: '#797244' }" ></td>
 </tr>
 <tr>
 <td>Russian Shadow</td>
@@ -2192,7 +2192,7 @@
 <td>48</td>
 <td>14</td>
 <td>#30300E</td>
-<td bgcolor="#30300E" />
+<td style="{ background: '#30300E' }" ></td>
 </tr>
 <tr>
 <td>Russian Shine</td>
@@ -2202,7 +2202,7 @@
 <td>151</td>
 <td>109</td>
 <td>#9E976D</td>
-<td bgcolor="#9E976D" />
+<td style="{ background: '#9E976D' }" ></td>
 </tr>
 <tr>
 <td>Rust Tracks</td>
@@ -2212,7 +2212,7 @@
 <td>38</td>
 <td>28</td>
 <td>#38261C</td>
-<td bgcolor="#38261C" />
+<td style="{ background: '#38261C' }" ></td>
 </tr>
 <tr>
 <td>Satin Black</td>
@@ -2222,7 +2222,7 @@
 <td>28</td>
 <td>28</td>
 <td>#1C1C1C</td>
-<td bgcolor="#1C1C1C" />
+<td style="{ background: '#1C1C1C' }" ></td>
 </tr>
 <tr>
 <td>Satin White</td>
@@ -2232,7 +2232,7 @@
 <td>232</td>
 <td>232</td>
 <td>#E8E8E8</td>
-<td bgcolor="#E8E8E8" />
+<td style="{ background: '#E8E8E8' }" ></td>
 </tr>
 <tr>
 <td>Scc 15 (british 1944-45 Olive Drab)</td>
@@ -2242,7 +2242,7 @@
 <td>59</td>
 <td>25</td>
 <td>#353B19</td>
-<td bgcolor="#353B19" />
+<td style="{ background: '#353B19' }" ></td>
 </tr>
 <tr>
 <td>Scc 1a  (british Brown 1941-42)</td>
@@ -2252,7 +2252,7 @@
 <td>33</td>
 <td>24</td>
 <td>#352118</td>
-<td bgcolor="#352118" />
+<td style="{ background: '#352118' }" ></td>
 </tr>
 <tr>
 <td>Scc 2 (british 1941-44 Service Drab)</td>
@@ -2262,7 +2262,7 @@
 <td>73</td>
 <td>51</td>
 <td>#544933</td>
-<td bgcolor="#544933" />
+<td style="{ background: '#544933' }" ></td>
 </tr>
 <tr>
 <td>Shadow Rust</td>
@@ -2272,7 +2272,7 @@
 <td>23</td>
 <td>22</td>
 <td>#331716</td>
-<td bgcolor="#331716" />
+<td style="{ background: '#331716' }" ></td>
 </tr>
 <tr>
 <td>Signal Green</td>
@@ -2282,7 +2282,7 @@
 <td>129</td>
 <td>45</td>
 <td>#28812D</td>
-<td bgcolor="#28812D" />
+<td style="{ background: '#28812D' }" ></td>
 </tr>
 <tr>
 <td>Silver</td>
@@ -2292,7 +2292,7 @@
 <td>209</td>
 <td>193</td>
 <td>#C6D1C1</td>
-<td bgcolor="#C6D1C1" />
+<td style="{ background: '#C6D1C1' }" ></td>
 </tr>
 <tr>
 <td>Sky Type S (bs 210)</td>
@@ -2302,7 +2302,7 @@
 <td>178</td>
 <td>153</td>
 <td>#B4B299</td>
-<td bgcolor="#B4B299" />
+<td style="{ background: '#B4B299' }" ></td>
 </tr>
 <tr>
 <td>Spanish Green-khaki</td>
@@ -2312,7 +2312,7 @@
 <td>71</td>
 <td>40</td>
 <td>#504728</td>
-<td bgcolor="#504728" />
+<td style="{ background: '#504728' }" ></td>
 </tr>
 <tr>
 <td>Starship Wash</td>
@@ -2322,7 +2322,7 @@
 <td>11</td>
 <td>10</td>
 <td>#0F0B0A</td>
-<td bgcolor="#0F0B0A" />
+<td style="{ background: '#0F0B0A' }" ></td>
 </tr>
 <tr>
 <td>Steel</td>
@@ -2332,7 +2332,7 @@
 <td>194</td>
 <td>177</td>
 <td>#B7C2B1</td>
-<td bgcolor="#B7C2B1" />
+<td style="{ background: '#B7C2B1' }" ></td>
 </tr>
 <tr>
 <td>Stone Grey</td>
@@ -2342,7 +2342,7 @@
 <td>178</td>
 <td>178</td>
 <td>#B2B2B2</td>
-<td bgcolor="#B2B2B2" />
+<td style="{ background: '#B2B2B2' }" ></td>
 </tr>
 <tr>
 <td>Tracks Wash</td>
@@ -2352,7 +2352,7 @@
 <td>18</td>
 <td>15</td>
 <td>#1A120F</td>
-<td bgcolor="#1A120F" />
+<td style="{ background: '#1A120F' }" ></td>
 </tr>
 <tr>
 <td>US Modern Vehicles Wash</td>
@@ -2362,7 +2362,7 @@
 <td>74</td>
 <td>61</td>
 <td>#5A4A3D</td>
-<td bgcolor="#5A4A3D" />
+<td style="{ background: '#5A4A3D' }" ></td>
 </tr>
 <tr>
 <td>US Olive Drab Vietnam Era (fs 24087)</td>
@@ -2372,7 +2372,7 @@
 <td>74</td>
 <td>53</td>
 <td>#424A35</td>
-<td bgcolor="#424A35" />
+<td style="{ background: '#424A35' }" ></td>
 </tr>
 <tr>
 <td>Violet</td>
@@ -2382,7 +2382,7 @@
 <td>67</td>
 <td>156</td>
 <td>#56439C</td>
-<td bgcolor="#56439C" />
+<td style="{ background: '#56439C' }" ></td>
 </tr>
 <tr>
 <td>Waffen Ss</td>
@@ -2392,7 +2392,7 @@
 <td>104</td>
 <td>91</td>
 <td>#42685B</td>
-<td bgcolor="#42685B" />
+<td style="{ background: '#42685B' }" ></td>
 </tr>
 <tr>
 <td>Warhead Metallic Blue</td>
@@ -2402,7 +2402,7 @@
 <td>126</td>
 <td>233</td>
 <td>#237EE9</td>
-<td bgcolor="#237EE9" />
+<td style="{ background: '#237EE9' }" ></td>
 </tr>
 <tr>
 <td>Warm Sand-yellow</td>
@@ -2412,7 +2412,7 @@
 <td>182</td>
 <td>87</td>
 <td>#D7B657</td>
-<td bgcolor="#D7B657" />
+<td style="{ background: '#D7B657' }" ></td>
 </tr>
 <tr>
 <td>Warm Skin Tone</td>
@@ -2422,7 +2422,7 @@
 <td>135</td>
 <td>111</td>
 <td>#B5876F</td>
-<td bgcolor="#B5876F" />
+<td style="{ background: '#B5876F' }" ></td>
 </tr>
 <tr>
 <td>Washable Black</td>
@@ -2432,7 +2432,7 @@
 <td>0</td>
 <td>0</td>
 <td>#000000</td>
-<td bgcolor="#000000" />
+<td style="{ background: '#000000' }" ></td>
 </tr>
 <tr>
 <td>Washable Dust (RAL 8000)</td>
@@ -2442,7 +2442,7 @@
 <td>129</td>
 <td>82</td>
 <td>#9D8152</td>
-<td bgcolor="#9D8152" />
+<td style="{ background: '#9D8152' }" ></td>
 </tr>
 <tr>
 <td>Washable Earth</td>
@@ -2452,7 +2452,7 @@
 <td>77</td>
 <td>53</td>
 <td>#714D35</td>
-<td bgcolor="#714D35" />
+<td style="{ background: '#714D35' }" ></td>
 </tr>
 <tr>
 <td>Washable Mud</td>
@@ -2462,7 +2462,7 @@
 <td>50</td>
 <td>41</td>
 <td>#533229</td>
-<td bgcolor="#533229" />
+<td style="{ background: '#533229' }" ></td>
 </tr>
 <tr>
 <td>Washable Rust</td>
@@ -2472,7 +2472,7 @@
 <td>64</td>
 <td>42</td>
 <td>#A0402A</td>
-<td bgcolor="#A0402A" />
+<td style="{ background: '#A0402A' }" ></td>
 </tr>
 <tr>
 <td>Washable Sand (RAL 8020)</td>
@@ -2482,7 +2482,7 @@
 <td>152</td>
 <td>83</td>
 <td>#C09853</td>
-<td bgcolor="#C09853" />
+<td style="{ background: '#C09853' }" ></td>
 </tr>
 <tr>
 <td>Washable White Camo</td>
@@ -2492,7 +2492,7 @@
 <td>251</td>
 <td>246</td>
 <td>#FAFBF6</td>
-<td bgcolor="#FAFBF6" />
+<td style="{ background: '#FAFBF6' }" ></td>
 </tr>
 <tr>
 <td>Xb-518 Zashchitniy Zeleno (russian Postwar Green)</td>
@@ -2502,7 +2502,7 @@
 <td>79</td>
 <td>48</td>
 <td>#4E4F30</td>
-<td bgcolor="#4E4F30" />
+<td style="{ background: '#4E4F30' }" ></td>
 </tr>
 <tr>
 <td>Yellow</td>
@@ -2512,7 +2512,7 @@
 <td>195</td>
 <td>11</td>
 <td>#EBC30B</td>
-<td bgcolor="#EBC30B" />
+<td style="{ background: '#EBC30B' }" ></td>
 </tr>
 <tr>
 <td>Yellow Grey</td>
@@ -2522,7 +2522,7 @@
 <td>182</td>
 <td>142</td>
 <td>#C9B68E</td>
-<td bgcolor="#C9B68E" />
+<td style="{ background: '#C9B68E' }" ></td>
 </tr>
 <tr>
 <td>Zimmerit Ochre Color</td>
@@ -2532,7 +2532,7 @@
 <td>139</td>
 <td>118</td>
 <td>#9A8B76</td>
-<td bgcolor="#9A8B76" />
+<td style="{ background: '#9A8B76' }" ></td>
 </tr>
 <tr>
 </tbody>
