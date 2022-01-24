@@ -8,7 +8,6 @@ List of miniature paints scraped and used by the [Miniature Painter Pro](https:/
 Feel free to use or improve any of these paints in your own personal projects.
 
 ## Paints by brand
-<p align="center">
 
 <!-- START -->
 |  |  |  |
@@ -23,7 +22,7 @@ Feel free to use or improve any of these paints in your own personal projects.
 |  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>|
 <!-- END -->
 
-</p>
+Are you missing your favorite brand? Let me know @ <a href="mailto:paintmaster@rickfleuren.nl">paintmaster@rickfleuren.nl</a>
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
