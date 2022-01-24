@@ -1,8 +1,9 @@
-# Miniature Paints RGB values
+# RGB values of Miniature Paints provided by Miniature Painter Pro
 
-![Miniature Painter Pro](/logos/logo_rng.png?raw=true)
+<p align="center"><a href="https://miniaturepainterpro.app/"> <img src="logos/logo_rnd.png" height="200" /></a>
+</p>
 
-List of miniature paints scraped by the [Miniature Painter Pro](https://miniaturepainterpro.app/) team
+List of miniature paints scraped and used by the [Miniature Painter Pro](https://miniaturepainterpro.app/) team
 
 Feel free to use or improve any of these paints in your own personal projects.
 
@@ -31,5 +32,10 @@ FEATURES
 - mix colors from your own paint supply
 - easily find complementary colors in different triads
 - updated regularly
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="logos/Android.png" height="50" /></a>
+<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="logos/iOS.png" height="50" /></a>
+</p>
 
 
