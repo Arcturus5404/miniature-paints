@@ -9,7 +9,7 @@ Feel free to use or improve any of these paints in your own personal projects.
 
 ## Paints by brand
 
-<!--- START -->
+<!-- START -->
 |  |  |  |
 | :---: | :---: | :---: |
 |  <a href="paints/AK.md"> <img src="logos/AK.png" height="120" /></a>|  <a href="paints/AppleBarrel.md"> <img src="logos/AppleBarrel.png" height="120" /></a>|  <a href="paints/Army_Painter.md"> <img src="logos/Army_Painter.png" height="120" /></a>|
@@ -20,7 +20,7 @@ Feel free to use or improve any of these paints in your own personal projects.
 |  <a href="paints/P3.md"> <img src="logos/P3.png" height="120" /></a>|  <a href="paints/Pantone.md"> <img src="logos/Pantone.png" height="120" /></a>|  <a href="paints/RAL.md"> <img src="logos/RAL.png" height="120" /></a>|
 |  <a href="paints/Reaper.md"> <img src="logos/Reaper.png" height="120" /></a>|  <a href="paints/Scale75.md"> <img src="logos/Scale75.png" height="120" /></a>|  <a href="paints/Tamiya.md"> <img src="logos/Tamiya.png" height="120" /></a>|
 |  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="120" /></a>|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="120" /></a>|
-<!--- END -->
+<!-- END -->
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
