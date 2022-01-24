@@ -1,2 +1,2 @@
 # Monument
-<img src="logos/Monument.png" height="200" />
+<img src="../logos/Monument.png" height="200" />

@@ -1,2 +1,2 @@
 # Humbrol
-<img src="logos/Humbrol.png" height="200" />
+<img src="../logos/Humbrol.png" height="200" />

@@ -1,2 +1,2 @@
 # Arteza
-<img src="logos/Arteza.png" height="200" />
+<img src="../logos/Arteza.png" height="200" />

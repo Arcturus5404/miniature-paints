@@ -1,2 +1,2 @@
 # Folk Art
-<img src="logos/FolkArt.png" height="200" />
+<img src="../logos/FolkArt.png" height="200" />

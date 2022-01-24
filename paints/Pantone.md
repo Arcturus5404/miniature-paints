@@ -1,2 +1,2 @@
 # Pantone
-<img src="logos/Pantone.png" height="200" />
+<img src="../logos/Pantone.png" height="200" />
