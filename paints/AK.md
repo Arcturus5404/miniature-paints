@@ -1,2 +1,2 @@
 # AK
-<img src="/logos/AK" height="200" />
+<img src="logos/AK.png" height="200" />

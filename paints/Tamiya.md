@@ -1,2 +1,2 @@
 # Tamiya
-<img src="/logos/Tamiya" height="200" />
+<img src="logos/Tamiya.png" height="200" />

@@ -1,2 +1,2 @@
 # Italeri
-<img src="/logos/Italeri" height="200" />
+<img src="logos/Italeri.png" height="200" />

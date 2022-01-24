@@ -1,2 +1,2 @@
 # Creature
-<img src="/logos/Creature" height="200" />
+<img src="logos/Creature.png" height="200" />

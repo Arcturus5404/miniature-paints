@@ -1,2 +1,2 @@
 # Kimera Kolors
-<img src="/logos/KimeraKolors" height="200" />
+<img src="logos/KimeraKolors.png" height="200" />

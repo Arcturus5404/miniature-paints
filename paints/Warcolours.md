@@ -1,2 +1,2 @@
 # Warcolours
-<img src="/logos/Warcolours" height="200" />
+<img src="logos/Warcolours.png" height="200" />

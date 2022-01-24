@@ -1,2 +1,2 @@
 # Vallejo
-<img src="/logos/Vallejo" height="200" />
+<img src="logos/Vallejo.png" height="200" />

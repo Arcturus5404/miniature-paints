@@ -1,2 +1,2 @@
 # Reaper
-<img src="/logos/Reaper" height="200" />
+<img src="logos/Reaper.png" height="200" />

@@ -1,2 +1,2 @@
 # Army Painter
-<img src="/logos/Army_Painter" height="200" />
+<img src="logos/Army_Painter.png" height="200" />

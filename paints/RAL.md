@@ -1,2 +1,2 @@
 # RAL
-<img src="/logos/RAL" height="200" />
+<img src="logos/RAL.png" height="200" />

@@ -1,2 +1,2 @@
 # Mig
-<img src="/logos/Mig" height="200" />
+<img src="logos/Mig.png" height="200" />
