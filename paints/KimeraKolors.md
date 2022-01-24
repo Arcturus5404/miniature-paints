@@ -1,2 +1,2 @@
-# KimeraKolors
-![KimeraKolors](/logos/KimeraKolors.png?raw=true)
+# Kimera Kolors
+![Kimera Kolors](/logos/KimeraKolors.png?raw=true =250x)

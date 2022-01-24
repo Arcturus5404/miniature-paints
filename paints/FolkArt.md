@@ -1,2 +1,2 @@
-# FolkArt
-![FolkArt](/logos/FolkArt.png?raw=true)
+# Folk Art
+![Folk Art](/logos/FolkArt.png?raw=true =250x)

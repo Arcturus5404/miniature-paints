@@ -1,2 +1,2 @@
-# CoatDArmes
-![CoatDArmes](/logos/CoatDArmes.png?raw=true)
+# Coat D Armes
+![Coat D Armes](/logos/CoatDArmes.png?raw=true =250x)
