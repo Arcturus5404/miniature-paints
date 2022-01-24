@@ -1,2 +1,2 @@
 # Green Stuff World
-![Green Stuff World](/logos/GreenStuffWorld.png?raw=true | width=250)
+<img src="/logos/GreenStuffWorld" height="200" />

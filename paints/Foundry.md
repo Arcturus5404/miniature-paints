@@ -1,2 +1,2 @@
 # Foundry
-![Foundry](/logos/Foundry.png?raw=true | width=250)
+<img src="/logos/Foundry" height="200" />

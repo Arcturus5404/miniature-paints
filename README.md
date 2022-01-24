@@ -11,15 +11,14 @@ Feel free to use or improve any of these paints in your own personal projects.
 <!--- START -->
 |  |  |  |
 | --- | --- | --- |
-| [![AK](/logos/AK.png?raw=true | width=250)](/paints/AK.md)| [![Apple Barrel](/logos/AppleBarrel.png?raw=true | width=250)](/paints/AppleBarrel.md)| [![Army Painter](/logos/Army_Painter.png?raw=true | width=250)](/paints/Army_Painter.md)|
-| [![Arteza](/logos/Arteza.png?raw=true | width=250)](/paints/Arteza.md)| [![Citadel Colour](/logos/Citadel_Colour.png?raw=true | width=250)](/paints/Citadel_Colour.md)| [![Coat D Armes](/logos/CoatDArmes.png?raw=true | width=250)](/paints/CoatDArmes.md)|
-| [![Creature](/logos/Creature.png?raw=true | width=250)](/paints/Creature.md)| [![Folk Art](/logos/FolkArt.png?raw=true | width=250)](/paints/FolkArt.md)| [![Foundry](/logos/Foundry.png?raw=true | width=250)](/paints/Foundry.md)|
-| [![Green Stuff World](/logos/GreenStuffWorld.png?raw=true | width=250)](/paints/GreenStuffWorld.md)| [![Humbrol](/logos/Humbrol.png?raw=true | width=250)](/paints/Humbrol.md)| [![Italeri](/logos/Italeri.png?raw=true | width=250)](/paints/Italeri.md)|
-| [![Kimera Kolors](/logos/KimeraKolors.png?raw=true | width=250)](/paints/KimeraKolors.md)| [![MPP](/logos/MPP.png?raw=true | width=250)](/paints/MPP.md)| [![Mig](/logos/Mig.png?raw=true | width=250)](/paints/Mig.md)|
-| [![Monument](/logos/Monument.png?raw=true | width=250)](/paints/Monument.md)| [![P3](/logos/P3.png?raw=true | width=250)](/paints/P3.md)| [![Pantone](/logos/Pantone.png?raw=true | width=250)](/paints/Pantone.md)|
-| [![RAL](/logos/RAL.png?raw=true | width=250)](/paints/RAL.md)| [![Reaper](/logos/Reaper.png?raw=true | width=250)](/paints/Reaper.md)| [![Scale75](/logos/Scale75.png?raw=true | width=250)](/paints/Scale75.md)|
-| [![Tamiya](/logos/Tamiya.png?raw=true | width=250)](/paints/Tamiya.md)| [![Vallejo](/logos/Vallejo.png?raw=true | width=250)](/paints/Vallejo.md)| [![Warcolours](/logos/Warcolours.png?raw=true | width=250)](/paints/Warcolours.md)|
-
+|  <a href="paints/AK.md"> <img src="/logos/AK" height="120" /></a>|  <a href="paints/AppleBarrel.md"> <img src="/logos/AppleBarrel" height="120" /></a>|  <a href="paints/Army_Painter.md"> <img src="/logos/Army_Painter" height="120" /></a>|
+|  <a href="paints/Arteza.md"> <img src="/logos/Arteza" height="120" /></a>|  <a href="paints/Citadel_Colour.md"> <img src="/logos/Citadel_Colour" height="120" /></a>|  <a href="paints/CoatDArmes.md"> <img src="/logos/CoatDArmes" height="120" /></a>|
+|  <a href="paints/Creature.md"> <img src="/logos/Creature" height="120" /></a>|  <a href="paints/FolkArt.md"> <img src="/logos/FolkArt" height="120" /></a>|  <a href="paints/Foundry.md"> <img src="/logos/Foundry" height="120" /></a>|
+|  <a href="paints/GreenStuffWorld.md"> <img src="/logos/GreenStuffWorld" height="120" /></a>|  <a href="paints/Humbrol.md"> <img src="/logos/Humbrol" height="120" /></a>|  <a href="paints/Italeri.md"> <img src="/logos/Italeri" height="120" /></a>|
+|  <a href="paints/KimeraKolors.md"> <img src="/logos/KimeraKolors" height="120" /></a>|  <a href="paints/Mig.md"> <img src="/logos/Mig" height="120" /></a>|  <a href="paints/Monument.md"> <img src="/logos/Monument" height="120" /></a>|
+|  <a href="paints/P3.md"> <img src="/logos/P3" height="120" /></a>|  <a href="paints/Pantone.md"> <img src="/logos/Pantone" height="120" /></a>|  <a href="paints/RAL.md"> <img src="/logos/RAL" height="120" /></a>|
+|  <a href="paints/Reaper.md"> <img src="/logos/Reaper" height="120" /></a>|  <a href="paints/Scale75.md"> <img src="/logos/Scale75" height="120" /></a>|  <a href="paints/Tamiya.md"> <img src="/logos/Tamiya" height="120" /></a>|
+|  <a href="paints/Vallejo.md"> <img src="/logos/Vallejo" height="120" /></a>|  <a href="paints/Warcolours.md"> <img src="/logos/Warcolours" height="120" /></a>|
 <!--- END -->
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)

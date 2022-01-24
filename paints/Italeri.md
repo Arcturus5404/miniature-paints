@@ -1,2 +1,2 @@
 # Italeri
-![Italeri](/logos/Italeri.png?raw=true | width=250)
+<img src="/logos/Italeri" height="200" />

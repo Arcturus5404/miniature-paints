@@ -1,2 +1,2 @@
 # Arteza
-![Arteza](/logos/Arteza.png?raw=true | width=250)
+<img src="/logos/Arteza" height="200" />

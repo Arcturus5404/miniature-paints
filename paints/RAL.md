@@ -1,2 +1,2 @@
 # RAL
-![RAL](/logos/RAL.png?raw=true | width=250)
+<img src="/logos/RAL" height="200" />

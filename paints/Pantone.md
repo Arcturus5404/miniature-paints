@@ -1,2 +1,2 @@
 # Pantone
-![Pantone](/logos/Pantone.png?raw=true | width=250)
+<img src="/logos/Pantone" height="200" />

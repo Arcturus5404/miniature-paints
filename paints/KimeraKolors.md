@@ -1,2 +1,2 @@
 # Kimera Kolors
-![Kimera Kolors](/logos/KimeraKolors.png?raw=true | width=250)
+<img src="/logos/KimeraKolors" height="200" />

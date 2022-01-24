@@ -1,2 +1,2 @@
 # Tamiya
-![Tamiya](/logos/Tamiya.png?raw=true | width=250)
+<img src="/logos/Tamiya" height="200" />

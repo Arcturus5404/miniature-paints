@@ -1,2 +1,2 @@
 # Army Painter
-![Army Painter](/logos/Army_Painter.png?raw=true | width=250)
+<img src="/logos/Army_Painter" height="200" />

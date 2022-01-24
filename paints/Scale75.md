@@ -1,2 +1,2 @@
 # Scale75
-![Scale75](/logos/Scale75.png?raw=true | width=250)
+<img src="/logos/Scale75" height="200" />

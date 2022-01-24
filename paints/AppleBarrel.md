@@ -1,2 +1,2 @@
 # Apple Barrel
-![Apple Barrel](/logos/AppleBarrel.png?raw=true | width=250)
+<img src="/logos/AppleBarrel" height="200" />

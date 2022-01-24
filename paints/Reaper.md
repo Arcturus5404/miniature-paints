@@ -1,2 +1,2 @@
 # Reaper
-![Reaper](/logos/Reaper.png?raw=true | width=250)
+<img src="/logos/Reaper" height="200" />

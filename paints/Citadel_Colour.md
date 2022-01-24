@@ -1,2 +1,2 @@
 # Citadel Colour
-![Citadel Colour](/logos/Citadel_Colour.png?raw=true | width=250)
+<img src="/logos/Citadel_Colour" height="200" />
