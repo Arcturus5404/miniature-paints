@@ -8,6 +8,7 @@ List of miniature paints scraped and used by the [Miniature Painter Pro](https:/
 Feel free to use or improve any of these paints in your own personal projects.
 
 ## Paints by brand
+<p align="center">
 
 <!-- START -->
 |  |  |  |
@@ -21,6 +22,8 @@ Feel free to use or improve any of these paints in your own personal projects.
 |  <a href="paints/Reaper.md"> <img src="logos/Reaper.png" height="70" /> <br/> Reaper</a>|  <a href="paints/Scale75.md"> <img src="logos/Scale75.png" height="70" /> <br/> Scale75</a>|  <a href="paints/Tamiya.md"> <img src="logos/Tamiya.png" height="70" /> <br/> Tamiya</a>|
 |  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>|
 <!-- END -->
+
+</p>
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
