@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td>Abaddon Black</td>
-<td>Air</td>
+<td>Base</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td>Abaddon Black</td>
-<td>Base</td>
+<td>Air</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -339,7 +339,7 @@
 </tr>
 <tr>
 <td>Balthasar Gold</td>
-<td>Base</td>
+<td>Air</td>
 <td>167</td>
 <td>115</td>
 <td>83</td>
@@ -348,7 +348,7 @@
 </tr>
 <tr>
 <td>Balthasar Gold</td>
-<td>Air</td>
+<td>Base</td>
 <td>167</td>
 <td>115</td>
 <td>83</td>
@@ -357,7 +357,7 @@
 </tr>
 <tr>
 <td>Baneblade Brown</td>
-<td>Layer</td>
+<td>Air</td>
 <td>143</td>
 <td>124</td>
 <td>104</td>
@@ -366,7 +366,7 @@
 </tr>
 <tr>
 <td>Baneblade Brown</td>
-<td>Air</td>
+<td>Layer</td>
 <td>143</td>
 <td>124</td>
 <td>104</td>
@@ -618,7 +618,7 @@
 </tr>
 <tr>
 <td>Calgar Blue</td>
-<td>Layer</td>
+<td>Air</td>
 <td>42</td>
 <td>73</td>
 <td>127</td>
@@ -627,7 +627,7 @@
 </tr>
 <tr>
 <td>Calgar Blue</td>
-<td>Air</td>
+<td>Layer</td>
 <td>42</td>
 <td>73</td>
 <td>127</td>
@@ -680,6 +680,15 @@
 <td style="background-color: #878D52" ><img src="https://via.placeholder.com/40/878D52/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Canoptek Alloy</td>
+<td>Layer</td>
+<td>195</td>
+<td>178</td>
+<td>172</td>
+<td>#C3B2AC</td>
+<td style="background-color: #C3B2AC" ><img src="https://via.placeholder.com/40/C3B2AC/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Carroburg Crimson</td>
 <td>Shade</td>
 <td>190</td>
@@ -717,7 +726,7 @@
 </tr>
 <tr>
 <td>Castellax Bronze</td>
-<td>Layer</td>
+<td>Air</td>
 <td>198</td>
 <td>131</td>
 <td>81</td>
@@ -726,7 +735,7 @@
 </tr>
 <tr>
 <td>Castellax Bronze</td>
-<td>Air</td>
+<td>Layer</td>
 <td>198</td>
 <td>131</td>
 <td>81</td>
@@ -780,21 +789,21 @@
 </tr>
 <tr>
 <td>Chaos Black</td>
-<td>Foundation (discontinued)</td>
-<td>0</td>
-<td>21</td>
-<td>34</td>
-<td>#001522</td>
-<td style="background-color: #001522" ><img src="https://via.placeholder.com/40/001522/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chaos Black</td>
 <td>Spray</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>#000000</td>
 <td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Chaos Black</td>
+<td>Foundation (discontinued)</td>
+<td>0</td>
+<td>21</td>
+<td>34</td>
+<td>#001522</td>
+<td style="background-color: #001522" ><img src="https://via.placeholder.com/40/001522/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Charadon Granite</td>
@@ -861,7 +870,7 @@
 </tr>
 <tr>
 <td>Corax White</td>
-<td>Spray</td>
+<td>Base</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -870,7 +879,7 @@
 </tr>
 <tr>
 <td>Corax White</td>
-<td>Base</td>
+<td>Spray</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -903,6 +912,15 @@
 <td>46</td>
 <td>#145D2E</td>
 <td style="background-color: #145D2E" ><img src="https://via.placeholder.com/40/145D2E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Cryptek Armourshade Gloss</td>
+<td>Shade</td>
+<td>133</td>
+<td>106</td>
+<td>103</td>
+<td>#856A67</td>
+<td style="background-color: #856A67" ><img src="https://via.placeholder.com/40/856A67/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cygor Brown</td>
@@ -978,7 +996,7 @@
 </tr>
 <tr>
 <td>Dawnstone</td>
-<td>Air</td>
+<td>Dry</td>
 <td>105</td>
 <td>112</td>
 <td>104</td>
@@ -996,7 +1014,7 @@
 </tr>
 <tr>
 <td>Dawnstone</td>
-<td>Dry</td>
+<td>Air</td>
 <td>105</td>
 <td>112</td>
 <td>104</td>
@@ -1014,7 +1032,7 @@
 </tr>
 <tr>
 <td>Death Korps Drab</td>
-<td>Air</td>
+<td>Base</td>
 <td>61</td>
 <td>69</td>
 <td>57</td>
@@ -1023,7 +1041,7 @@
 </tr>
 <tr>
 <td>Death Korps Drab</td>
-<td>Base</td>
+<td>Air</td>
 <td>61</td>
 <td>69</td>
 <td>57</td>
@@ -1293,7 +1311,7 @@
 </tr>
 <tr>
 <td>Fenrisian Grey</td>
-<td>Layer</td>
+<td>Air</td>
 <td>109</td>
 <td>148</td>
 <td>179</td>
@@ -1302,7 +1320,7 @@
 </tr>
 <tr>
 <td>Fenrisian Grey</td>
-<td>Air</td>
+<td>Layer</td>
 <td>109</td>
 <td>148</td>
 <td>179</td>
@@ -1338,7 +1356,7 @@
 </tr>
 <tr>
 <td>Flash Gitz Yellow</td>
-<td>Layer</td>
+<td>Air</td>
 <td>255</td>
 <td>243</td>
 <td>0</td>
@@ -1347,7 +1365,7 @@
 </tr>
 <tr>
 <td>Flash Gitz Yellow</td>
-<td>Air</td>
+<td>Layer</td>
 <td>255</td>
 <td>243</td>
 <td>0</td>
@@ -1563,7 +1581,7 @@
 </tr>
 <tr>
 <td>Grey Knights Steel</td>
-<td>Base</td>
+<td>Air</td>
 <td>176</td>
 <td>189</td>
 <td>198</td>
@@ -1572,7 +1590,7 @@
 </tr>
 <tr>
 <td>Grey Knights Steel</td>
-<td>Air</td>
+<td>Base</td>
 <td>176</td>
 <td>189</td>
 <td>198</td>
@@ -1688,6 +1706,15 @@
 <td style="background-color: #29A236" ><img src="https://via.placeholder.com/40/29A236/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Hobgrot Hide</td>
+<td>Base</td>
+<td>156</td>
+<td>130</td>
+<td>59</td>
+<td>#9C823B</td>
+<td style="background-color: #9C823B" ><img src="https://via.placeholder.com/40/9C823B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Hoeth Blue</td>
 <td>Layer</td>
 <td>76</td>
@@ -1788,7 +1815,7 @@
 </tr>
 <tr>
 <td>Ironbreaker</td>
-<td>Layer</td>
+<td>Air</td>
 <td>137</td>
 <td>144</td>
 <td>146</td>
@@ -1797,7 +1824,7 @@
 </tr>
 <tr>
 <td>Ironbreaker</td>
-<td>Air</td>
+<td>Layer</td>
 <td>137</td>
 <td>144</td>
 <td>146</td>
@@ -1869,7 +1896,7 @@
 </tr>
 <tr>
 <td>Kantor Blue</td>
-<td>Base</td>
+<td>Air</td>
 <td>2</td>
 <td>19</td>
 <td>78</td>
@@ -1878,7 +1905,7 @@
 </tr>
 <tr>
 <td>Kantor Blue</td>
-<td>Air</td>
+<td>Base</td>
 <td>2</td>
 <td>19</td>
 <td>78</td>
@@ -1887,7 +1914,7 @@
 </tr>
 <tr>
 <td>Karak Stone</td>
-<td>Layer</td>
+<td>Air</td>
 <td>183</td>
 <td>148</td>
 <td>92</td>
@@ -1896,7 +1923,7 @@
 </tr>
 <tr>
 <td>Karak Stone</td>
-<td>Air</td>
+<td>Layer</td>
 <td>183</td>
 <td>148</td>
 <td>92</td>
@@ -1941,7 +1968,7 @@
 </tr>
 <tr>
 <td>Kislev Flesh</td>
-<td>Air</td>
+<td>Layer</td>
 <td>209</td>
 <td>165</td>
 <td>112</td>
@@ -1950,7 +1977,7 @@
 </tr>
 <tr>
 <td>Kislev Flesh</td>
-<td>Layer</td>
+<td>Air</td>
 <td>209</td>
 <td>165</td>
 <td>112</td>
@@ -2022,12 +2049,12 @@
 </tr>
 <tr>
 <td>Leadbelcher</td>
-<td>Spray</td>
-<td>134</td>
-<td>134</td>
-<td>134</td>
-<td>#868686</td>
-<td style="background-color: #868686" ><img src="https://via.placeholder.com/40/868686/000000?text=+" /></td>
+<td>Air</td>
+<td>150</td>
+<td>150</td>
+<td>150</td>
+<td>#969696</td>
+<td style="background-color: #969696" ><img src="https://via.placeholder.com/40/969696/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Leadbelcher</td>
@@ -2040,12 +2067,12 @@
 </tr>
 <tr>
 <td>Leadbelcher</td>
-<td>Air</td>
-<td>150</td>
-<td>150</td>
-<td>150</td>
-<td>#969696</td>
-<td style="background-color: #969696" ><img src="https://via.placeholder.com/40/969696/000000?text=+" /></td>
+<td>Spray</td>
+<td>134</td>
+<td>134</td>
+<td>134</td>
+<td>#868686</td>
+<td style="background-color: #868686" ><img src="https://via.placeholder.com/40/868686/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Leprous Brown</td>
@@ -2121,7 +2148,7 @@
 </tr>
 <tr>
 <td>Lothern Blue</td>
-<td>Air</td>
+<td>Layer</td>
 <td>44</td>
 <td>155</td>
 <td>204</td>
@@ -2130,7 +2157,7 @@
 </tr>
 <tr>
 <td>Lothern Blue</td>
-<td>Layer</td>
+<td>Air</td>
 <td>44</td>
 <td>155</td>
 <td>204</td>
@@ -2157,7 +2184,7 @@
 </tr>
 <tr>
 <td>Lupercal Green</td>
-<td>Base</td>
+<td>Air</td>
 <td>0</td>
 <td>44</td>
 <td>43</td>
@@ -2166,7 +2193,7 @@
 </tr>
 <tr>
 <td>Lupercal Green</td>
-<td>Air</td>
+<td>Base</td>
 <td>0</td>
 <td>44</td>
 <td>43</td>
@@ -2247,7 +2274,7 @@
 </tr>
 <tr>
 <td>Mechanicus Standard Grey</td>
-<td>Spray</td>
+<td>Base</td>
 <td>57</td>
 <td>72</td>
 <td>74</td>
@@ -2256,7 +2283,7 @@
 </tr>
 <tr>
 <td>Mechanicus Standard Grey</td>
-<td>Base</td>
+<td>Spray</td>
 <td>57</td>
 <td>72</td>
 <td>74</td>
@@ -2292,7 +2319,7 @@
 </tr>
 <tr>
 <td>Mephiston Red</td>
-<td>Air</td>
+<td>Base</td>
 <td>150</td>
 <td>12</td>
 <td>9</td>
@@ -2301,7 +2328,7 @@
 </tr>
 <tr>
 <td>Mephiston Red</td>
-<td>Base</td>
+<td>Air</td>
 <td>150</td>
 <td>12</td>
 <td>9</td>
@@ -2553,7 +2580,7 @@
 </tr>
 <tr>
 <td>Nurgling Green</td>
-<td>Dry</td>
+<td>Layer</td>
 <td>126</td>
 <td>151</td>
 <td>94</td>
@@ -2562,7 +2589,7 @@
 </tr>
 <tr>
 <td>Nurgling Green</td>
-<td>Layer</td>
+<td>Dry</td>
 <td>126</td>
 <td>151</td>
 <td>94</td>
@@ -2615,6 +2642,15 @@
 <td style="background-color: #26372D" ><img src="https://via.placeholder.com/40/26372D/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Orruk Flesh</td>
+<td>Base</td>
+<td>151</td>
+<td>193</td>
+<td>126</td>
+<td>#97C17E</td>
+<td style="background-color: #97C17E" ><img src="https://via.placeholder.com/40/97C17E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Pallid Flesh</td>
 <td>Foundation (discontinued)</td>
 <td>238</td>
@@ -2652,7 +2688,7 @@
 </tr>
 <tr>
 <td>Phoenician Purple</td>
-<td>Base</td>
+<td>Air</td>
 <td>68</td>
 <td>0</td>
 <td>82</td>
@@ -2661,7 +2697,7 @@
 </tr>
 <tr>
 <td>Phoenician Purple</td>
-<td>Air</td>
+<td>Base</td>
 <td>68</td>
 <td>0</td>
 <td>82</td>
@@ -2778,21 +2814,21 @@
 </tr>
 <tr>
 <td>Retributor Armour</td>
-<td>Spray</td>
-<td>237</td>
-<td>192</td>
-<td>106</td>
-<td>#EDC06A</td>
-<td style="background-color: #EDC06A" ><img src="https://via.placeholder.com/40/EDC06A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Retributor Armour</td>
 <td>Base</td>
 <td>237</td>
 <td>193</td>
 <td>105</td>
 <td>#EDC169</td>
 <td style="background-color: #EDC169" ><img src="https://via.placeholder.com/40/EDC169/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Retributor Armour</td>
+<td>Spray</td>
+<td>237</td>
+<td>192</td>
+<td>106</td>
+<td>#EDC06A</td>
+<td style="background-color: #EDC06A" ><img src="https://via.placeholder.com/40/EDC06A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rhinox Hide</td>
@@ -2831,8 +2867,17 @@
 <td style="background-color: #C2C8CC" ><img src="https://via.placeholder.com/40/C2C8CC/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Runelord Brass</td>
+<td>Base</td>
+<td>141</td>
+<td>128</td>
+<td>111</td>
+<td>#8D806F</td>
+<td style="background-color: #8D806F" ><img src="https://via.placeholder.com/40/8D806F/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Russ Grey</td>
-<td>Air</td>
+<td>Layer</td>
 <td>80</td>
 <td>112</td>
 <td>133</td>
@@ -2841,7 +2886,7 @@
 </tr>
 <tr>
 <td>Russ Grey</td>
-<td>Layer</td>
+<td>Air</td>
 <td>80</td>
 <td>112</td>
 <td>133</td>
@@ -3129,21 +3174,21 @@
 </tr>
 <tr>
 <td>Space Wolves Grey</td>
-<td>Contrast</td>
-<td>31</td>
-<td>72</td>
-<td>107</td>
-<td>#1F486B</td>
-<td style="background-color: #1F486B" ><img src="https://via.placeholder.com/40/1F486B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Space Wolves Grey</td>
 <td>Foundation (discontinued)</td>
 <td>145</td>
 <td>191</td>
 <td>220</td>
 <td>#91BFDC</td>
 <td style="background-color: #91BFDC" ><img src="https://via.placeholder.com/40/91BFDC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Space Wolves Grey</td>
+<td>Contrast</td>
+<td>31</td>
+<td>72</td>
+<td>107</td>
+<td>#1F486B</td>
+<td style="background-color: #1F486B" ><img src="https://via.placeholder.com/40/1F486B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Spiritstone Red</td>
@@ -3282,7 +3327,7 @@
 </tr>
 <tr>
 <td>Sybarite Green</td>
-<td>Layer</td>
+<td>Air</td>
 <td>23</td>
 <td>161</td>
 <td>102</td>
@@ -3291,7 +3336,7 @@
 </tr>
 <tr>
 <td>Sybarite Green</td>
-<td>Air</td>
+<td>Layer</td>
 <td>23</td>
 <td>161</td>
 <td>102</td>
@@ -3461,6 +3506,15 @@
 <td style="background-color: #005862" ><img src="https://via.placeholder.com/40/005862/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Tesseract Glow</td>
+<td>Technical</td>
+<td>101</td>
+<td>171</td>
+<td>70</td>
+<td>#65AB46</td>
+<td style="background-color: #65AB46" ><img src="https://via.placeholder.com/40/65AB46/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Thallax Gold</td>
 <td>Air</td>
 <td>232</td>
@@ -3468,6 +3522,15 @@
 <td>71</td>
 <td>#E88F47</td>
 <td style="background-color: #E88F47" ><img src="https://via.placeholder.com/40/E88F47/000000?text=+" /></td>
+</tr>
+<tr>
+<td>The Fang</td>
+<td>Air</td>
+<td>64</td>
+<td>91</td>
+<td>113</td>
+<td>#405B71</td>
+<td style="background-color: #405B71" ><img src="https://via.placeholder.com/40/405B71/000000?text=+" /></td>
 </tr>
 <tr>
 <td>The Fang</td>
@@ -3479,13 +3542,13 @@
 <td style="background-color: #405B71" ><img src="https://via.placeholder.com/40/405B71/000000?text=+" /></td>
 </tr>
 <tr>
-<td>The Fang</td>
-<td>Air</td>
-<td>64</td>
-<td>91</td>
-<td>113</td>
-<td>#405B71</td>
-<td style="background-color: #405B71" ><img src="https://via.placeholder.com/40/405B71/000000?text=+" /></td>
+<td>Thondia Brown</td>
+<td>Base</td>
+<td>79</td>
+<td>50</td>
+<td>44</td>
+<td>#4F322C</td>
+<td style="background-color: #4F322C" ><img src="https://via.placeholder.com/40/4F322C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Thousand Sons Blue</td>
@@ -3525,7 +3588,7 @@
 </tr>
 <tr>
 <td>Troll Slayer Orange</td>
-<td>Layer</td>
+<td>Air</td>
 <td>241</td>
 <td>108</td>
 <td>35</td>
@@ -3534,7 +3597,7 @@
 </tr>
 <tr>
 <td>Troll Slayer Orange</td>
-<td>Air</td>
+<td>Layer</td>
 <td>241</td>
 <td>108</td>
 <td>35</td>
@@ -3543,7 +3606,7 @@
 </tr>
 <tr>
 <td>Tuskgor Fur</td>
-<td>Air</td>
+<td>Layer</td>
 <td>134</td>
 <td>50</td>
 <td>49</td>
@@ -3552,7 +3615,7 @@
 </tr>
 <tr>
 <td>Tuskgor Fur</td>
-<td>Layer</td>
+<td>Air</td>
 <td>134</td>
 <td>50</td>
 <td>49</td>
@@ -3642,7 +3705,7 @@
 </tr>
 <tr>
 <td>Ushabti Bone</td>
-<td>Air</td>
+<td>Layer</td>
 <td>171</td>
 <td>161</td>
 <td>115</td>
@@ -3651,7 +3714,7 @@
 </tr>
 <tr>
 <td>Ushabti Bone</td>
-<td>Layer</td>
+<td>Air</td>
 <td>171</td>
 <td>161</td>
 <td>115</td>
@@ -3759,7 +3822,7 @@
 </tr>
 <tr>
 <td>Warboss Green</td>
-<td>Layer</td>
+<td>Air</td>
 <td>49</td>
 <td>126</td>
 <td>87</td>
@@ -3768,7 +3831,7 @@
 </tr>
 <tr>
 <td>Warboss Green</td>
-<td>Air</td>
+<td>Layer</td>
 <td>49</td>
 <td>126</td>
 <td>87</td>
@@ -3849,7 +3912,7 @@
 </tr>
 <tr>
 <td>White Scar</td>
-<td>Layer</td>
+<td>Air</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -3858,7 +3921,7 @@
 </tr>
 <tr>
 <td>White Scar</td>
-<td>Air</td>
+<td>Layer</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -3975,6 +4038,15 @@
 </tr>
 <tr>
 <td>Zandri Dust</td>
+<td>Base</td>
+<td>152</td>
+<td>142</td>
+<td>86</td>
+<td>#988E56</td>
+<td style="background-color: #988E56" ><img src="https://via.placeholder.com/40/988E56/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Zandri Dust</td>
 <td>Air</td>
 <td>152</td>
 <td>142</td>
@@ -3985,15 +4057,6 @@
 <tr>
 <td>Zandri Dust</td>
 <td>Spray</td>
-<td>152</td>
-<td>142</td>
-<td>86</td>
-<td>#988E56</td>
-<td style="background-color: #988E56" ><img src="https://via.placeholder.com/40/988E56/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zandri Dust</td>
-<td>Base</td>
 <td>152</td>
 <td>142</td>
 <td>86</td>
