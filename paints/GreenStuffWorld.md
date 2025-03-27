@@ -1,10 +1,12 @@
-# Green Stuff World
 <style>
     .bgg-1 {
         background-color: #00134B;
         
     }
 </style>
+
+# Green Stuff World
+
 
 <img src="../logos/GreenStuffWorld.png" height="200" />
 <table>
@@ -27,7 +29,7 @@
 <td>19</td>
 <td>75</td>
 <td>#00134B</td>
-<td></td>
+<td class="bgg-1"></td>
 </tr>
 <tr>
 <td>Acid Green Dip</td>
