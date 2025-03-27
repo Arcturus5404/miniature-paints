@@ -15,6 +15,126 @@
 </thead>
 <tbody>
 <tr>
+<td>AdeptiCon Spray-Team Bright Shadow Flesh</td>
+<td>S41</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>247</td>
+<td>155</td>
+<td>125</td>
+<td>#F79B7D</td>
+<td style="background-color: #F79B7D" ><img src="https://via.placeholder.com/40/F79B7D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>AdeptiCon Spray-Team Drab Brown</td>
+<td>S40</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>78</td>
+<td>62</td>
+<td>40</td>
+<td>#4E3E28</td>
+<td style="background-color: #4E3E28" ><img src="https://via.placeholder.com/40/4E3E28/000000?text=+" /></td>
+</tr>
+<tr>
+<td>AdeptiCon Spray-Team Magnesium</td>
+<td>S42</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>70</td>
+<td>61</td>
+<td>47</td>
+<td>#463D2F</td>
+<td style="background-color: #463D2F" ><img src="https://via.placeholder.com/40/463D2F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>AdeptiCon Spray-Team Orange Oxide</td>
+<td>S38</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>128</td>
+<td>76</td>
+<td>49</td>
+<td>#804C31</td>
+<td style="background-color: #804C31" ><img src="https://via.placeholder.com/40/804C31/000000?text=+" /></td>
+</tr>
+<tr>
+<td>AdeptiCon Spray-Team Red Oxide</td>
+<td>S37</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>134</td>
+<td>53</td>
+<td>49</td>
+<td>#863531</td>
+<td style="background-color: #863531" ><img src="https://via.placeholder.com/40/863531/000000?text=+" /></td>
+</tr>
+<tr>
+<td>AdeptiCon Spray-Team Satin Black</td>
+<td>S39</td>
+<td>Monument Pro Acrylic Primer</td>
+<td>19</td>
+<td>18</td>
+<td>18</td>
+<td>#131212</td>
+<td style="background-color: #131212" ><img src="https://via.placeholder.com/40/131212/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Advanced Flesh Tone</td>
+<td>S17</td>
+<td>Monument Pro Signature Series</td>
+<td>143</td>
+<td>93</td>
+<td>76</td>
+<td>#8F5D4C</td>
+<td style="background-color: #8F5D4C" ><img src="https://via.placeholder.com/40/8F5D4C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Dark Burgundy</td>
+<td>S15</td>
+<td>Monument Pro Signature Series</td>
+<td>46</td>
+<td>27</td>
+<td>27</td>
+<td>#2E1B1B</td>
+<td style="background-color: #2E1B1B" ><img src="https://via.placeholder.com/40/2E1B1B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Dark Sea Ben</td>
+<td>S13</td>
+<td>Monument Pro Signature Series</td>
+<td>9</td>
+<td>32</td>
+<td>46</td>
+<td>#09202E</td>
+<td style="background-color: #09202E" ><img src="https://via.placeholder.com/40/09202E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Green Oxide</td>
+<td>S16</td>
+<td>Monument Pro Signature Series</td>
+<td>41</td>
+<td>97</td>
+<td>85</td>
+<td>#296155</td>
+<td style="background-color: #296155" ><img src="https://via.placeholder.com/40/296155/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Heavy Warm White</td>
+<td>S18</td>
+<td>Monument Pro Signature Series</td>
+<td>241</td>
+<td>208</td>
+<td>161</td>
+<td>#F1D0A1</td>
+<td style="background-color: #F1D0A1" ><img src="https://via.placeholder.com/40/F1D0A1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ben Komets Petroleum Brown</td>
+<td>S14</td>
+<td>Monument Pro Signature Series</td>
+<td>59</td>
+<td>35</td>
+<td>19</td>
+<td>#3B2313</td>
+<td style="background-color: #3B2313" ><img src="https://via.placeholder.com/40/3B2313/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Black Brown</td>
 <td>040</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -33,6 +153,16 @@
 <td>80</td>
 <td>#3F5F50</td>
 <td style="background-color: #3F5F50" ><img src="https://via.placeholder.com/40/3F5F50/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black Wash</td>
+<td>200</td>
+<td>Monument Pro Acrylic Wash</td>
+<td>8</td>
+<td>5</td>
+<td>5</td>
+<td>#080505</td>
+<td style="background-color: #080505" ><img src="https://via.placeholder.com/40/080505/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue</td>
@@ -95,6 +225,16 @@
 <td style="background-color: #E7E8C8" ><img src="https://via.placeholder.com/40/E7E8C8/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Bright Jade</td>
+<td>067</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>64</td>
+<td>140</td>
+<td>142</td>
+<td>#408C8E</td>
+<td style="background-color: #408C8E" ><img src="https://via.placeholder.com/40/408C8E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Bright Neutral Grey</td>
 <td>045</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -143,6 +283,26 @@
 <td>91</td>
 <td>#78685B</td>
 <td style="background-color: #78685B" ><img src="https://via.placeholder.com/40/78685B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Brown Wash</td>
+<td>201</td>
+<td>Monument Pro Acrylic Wash</td>
+<td>44</td>
+<td>23</td>
+<td>14</td>
+<td>#2C170E</td>
+<td style="background-color: #2C170E" ><img src="https://via.placeholder.com/40/2C170E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Burgundy</td>
+<td>069</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>115</td>
+<td>55</td>
+<td>57</td>
+<td>#733739</td>
+<td style="background-color: #733739" ><img src="https://via.placeholder.com/40/733739/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Burnt Orange</td>
@@ -225,6 +385,16 @@
 <td style="background-color: #313C2C" ><img src="https://via.placeholder.com/40/313C2C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark Flesh</td>
+<td>068</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>103</td>
+<td>65</td>
+<td>55</td>
+<td>#674137</td>
+<td style="background-color: #674137" ><img src="https://via.placeholder.com/40/674137/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark Golden Brown</td>
 <td>062</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -295,6 +465,16 @@
 <td style="background-color: #464C4C" ><img src="https://via.placeholder.com/40/464C4C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Faded Green</td>
+<td>066</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>154</td>
+<td>163</td>
+<td>127</td>
+<td>#9AA37F</td>
+<td style="background-color: #9AA37F" ><img src="https://via.placeholder.com/40/9AA37F/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Faded Plum</td>
 <td>063</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -313,6 +493,136 @@
 <td>193</td>
 <td>#638AC1</td>
 <td style="background-color: #638AC1" ><img src="https://via.placeholder.com/40/638AC1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Bright Pale Yellow</td>
+<td>S30</td>
+<td>Monument Pro Signature Series</td>
+<td>255</td>
+<td>247</td>
+<td>204</td>
+<td>#FFF7CC</td>
+<td style="background-color: #FFF7CC" ><img src="https://via.placeholder.com/40/FFF7CC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Bright Yellow Ochre</td>
+<td>S29</td>
+<td>Monument Pro Signature Series</td>
+<td>221</td>
+<td>165</td>
+<td>91</td>
+<td>#DDA55B</td>
+<td style="background-color: #DDA55B" ><img src="https://via.placeholder.com/40/DDA55B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Caramel Brown</td>
+<td>S28</td>
+<td>Monument Pro Signature Series</td>
+<td>128</td>
+<td>95</td>
+<td>62</td>
+<td>#805F3E</td>
+<td style="background-color: #805F3E" ><img src="https://via.placeholder.com/40/805F3E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Dark Green Brown</td>
+<td>S25</td>
+<td>Monument Pro Signature Series</td>
+<td>97</td>
+<td>69</td>
+<td>41</td>
+<td>#614529</td>
+<td style="background-color: #614529" ><img src="https://via.placeholder.com/40/614529/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Dark Orange Brown</td>
+<td>S26</td>
+<td>Monument Pro Signature Series</td>
+<td>141</td>
+<td>92</td>
+<td>37</td>
+<td>#8D5C25</td>
+<td style="background-color: #8D5C25" ><img src="https://via.placeholder.com/40/8D5C25/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flameon Orange Brown</td>
+<td>S27</td>
+<td>Monument Pro Signature Series</td>
+<td>128</td>
+<td>95</td>
+<td>62</td>
+<td>#805F3E</td>
+<td style="background-color: #805F3E" ><img src="https://via.placeholder.com/40/805F3E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flesh Wash</td>
+<td>202</td>
+<td>Monument Pro Acrylic Wash</td>
+<td>115</td>
+<td>66</td>
+<td>56</td>
+<td>#734238</td>
+<td style="background-color: #734238" ><img src="https://via.placeholder.com/40/734238/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Green</td>
+<td>F04</td>
+<td>Monument Pro Signature Series</td>
+<td>63</td>
+<td>181</td>
+<td>73</td>
+<td>#3FB549</td>
+<td style="background-color: #3FB549" ><img src="https://via.placeholder.com/40/3FB549/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Orange</td>
+<td>F02</td>
+<td>Monument Pro Signature Series</td>
+<td>240</td>
+<td>77</td>
+<td>38</td>
+<td>#F04D26</td>
+<td style="background-color: #F04D26" ><img src="https://via.placeholder.com/40/F04D26/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Pink</td>
+<td>F06</td>
+<td>Monument Pro Signature Series</td>
+<td>238</td>
+<td>56</td>
+<td>124</td>
+<td>#EE387C</td>
+<td style="background-color: #EE387C" ><img src="https://via.placeholder.com/40/EE387C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Purple</td>
+<td>F05</td>
+<td>Monument Pro Signature Series</td>
+<td>163</td>
+<td>35</td>
+<td>136</td>
+<td>#A32388</td>
+<td style="background-color: #A32388" ><img src="https://via.placeholder.com/40/A32388/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Red</td>
+<td>F01</td>
+<td>Monument Pro Signature Series</td>
+<td>239</td>
+<td>58</td>
+<td>55</td>
+<td>#EF3A37</td>
+<td style="background-color: #EF3A37" ><img src="https://via.placeholder.com/40/EF3A37/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Yellow</td>
+<td>F03</td>
+<td>Monument Pro Signature Series</td>
+<td>242</td>
+<td>221</td>
+<td>38</td>
+<td>#F2DD26</td>
+<td style="background-color: #F2DD26" ><img src="https://via.placeholder.com/40/F2DD26/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Golden Brown</td>
@@ -375,6 +685,16 @@
 <td style="background-color: #03535A" ><img src="https://via.placeholder.com/40/03535A/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Khaki</td>
+<td>061</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>172</td>
+<td>158</td>
+<td>107</td>
+<td>#AC9E6B</td>
+<td style="background-color: #AC9E6B" ><img src="https://via.placeholder.com/40/AC9E6B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Light Bronze</td>
 <td>026</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -415,6 +735,66 @@
 <td style="background-color: #261410" ><img src="https://via.placeholder.com/40/261410/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Matt Cexwish Bone</td>
+<td>S23</td>
+<td>Monument Pro Signature Series</td>
+<td>141</td>
+<td>133</td>
+<td>126</td>
+<td>#8D857E</td>
+<td style="background-color: #8D857E" ><img src="https://via.placeholder.com/40/8D857E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Matt Cexwish Brown Grey</td>
+<td>S22</td>
+<td>Monument Pro Signature Series</td>
+<td>75</td>
+<td>73</td>
+<td>69</td>
+<td>#4B4945</td>
+<td style="background-color: #4B4945" ><img src="https://via.placeholder.com/40/4B4945/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Matt Cexwish Dark Bronze</td>
+<td>S24</td>
+<td>Monument Pro Signature Series</td>
+<td>63</td>
+<td>49</td>
+<td>31</td>
+<td>#3F311F</td>
+<td style="background-color: #3F311F" ><img src="https://via.placeholder.com/40/3F311F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Matt Cexwish Dark Crimson</td>
+<td>S19</td>
+<td>Monument Pro Signature Series</td>
+<td>62</td>
+<td>23</td>
+<td>20</td>
+<td>#3E1714</td>
+<td style="background-color: #3E1714" ><img src="https://via.placeholder.com/40/3E1714/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Matt Cexwish Dark Emerald</td>
+<td>S20</td>
+<td>Monument Pro Signature Series</td>
+<td>25</td>
+<td>66</td>
+<td>69</td>
+<td>#194245</td>
+<td style="background-color: #194245" ><img src="https://via.placeholder.com/40/194245/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Matt Cexwish Heavy Titanium White</td>
+<td>S21</td>
+<td>Monument Pro Signature Series</td>
+<td>230</td>
+<td>230</td>
+<td>230</td>
+<td>#E6E6E6</td>
+<td style="background-color: #E6E6E6" ><img src="https://via.placeholder.com/40/E6E6E6/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Metallic Medium</td>
 <td>033</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -423,6 +803,76 @@
 <td>204</td>
 <td>#D3D4CC</td>
 <td style="background-color: #D3D4CC" ><img src="https://via.placeholder.com/40/D3D4CC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neutral Grey</td>
+<td>075</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>94</td>
+<td>94</td>
+<td>94</td>
+<td>#5E5E5E</td>
+<td style="background-color: #5E5E5E" ><img src="https://via.placeholder.com/40/5E5E5E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Dark Ivory</td>
+<td>S07</td>
+<td>Monument Pro Signature Series</td>
+<td>183</td>
+<td>180</td>
+<td>166</td>
+<td>#B7B4A6</td>
+<td style="background-color: #B7B4A6" ><img src="https://via.placeholder.com/40/B7B4A6/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Dark Magenta</td>
+<td>S10</td>
+<td>Monument Pro Signature Series</td>
+<td>128</td>
+<td>48</td>
+<td>63</td>
+<td>#80303F</td>
+<td style="background-color: #80303F" ><img src="https://via.placeholder.com/40/80303F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Dark Plum</td>
+<td>S11</td>
+<td>Monument Pro Signature Series</td>
+<td>78</td>
+<td>59</td>
+<td>61</td>
+<td>#4E3B3D</td>
+<td style="background-color: #4E3B3D" ><img src="https://via.placeholder.com/40/4E3B3D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Dark Warm Flesh</td>
+<td>S08</td>
+<td>Monument Pro Signature Series</td>
+<td>197</td>
+<td>145</td>
+<td>87</td>
+<td>#C59157</td>
+<td style="background-color: #C59157" ><img src="https://via.placeholder.com/40/C59157/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Red Grey</td>
+<td>S12</td>
+<td>Monument Pro Signature Series</td>
+<td>131</td>
+<td>120</td>
+<td>118</td>
+<td>#837876</td>
+<td style="background-color: #837876" ><img src="https://via.placeholder.com/40/837876/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ninjon Warm Brown</td>
+<td>S09</td>
+<td>Monument Pro Signature Series</td>
+<td>107</td>
+<td>75</td>
+<td>56</td>
+<td>#6B4B38</td>
+<td style="background-color: #6B4B38" ><img src="https://via.placeholder.com/40/6B4B38/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive Flesh</td>
@@ -515,6 +965,26 @@
 <td style="background-color: #E8E7D2" ><img src="https://via.placeholder.com/40/E8E7D2/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Pink</td>
+<td>071</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>235</td>
+<td>165</td>
+<td>159</td>
+<td>#EBA59F</td>
+<td style="background-color: #EBA59F" ><img src="https://via.placeholder.com/40/EBA59F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Plum</td>
+<td>070</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>142</td>
+<td>83</td>
+<td>132</td>
+<td>#8E5384</td>
+<td style="background-color: #8E5384" ><img src="https://via.placeholder.com/40/8E5384/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Purple</td>
 <td>010</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -533,6 +1003,66 @@
 <td>48</td>
 <td>#B47A30</td>
 <td style="background-color: #B47A30" ><img src="https://via.placeholder.com/40/B47A30/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Bismuth Yellow</td>
+<td>S36</td>
+<td>Monument Pro Signature Series</td>
+<td>249</td>
+<td>217</td>
+<td>103</td>
+<td>#F9D967</td>
+<td style="background-color: #F9D967" ><img src="https://via.placeholder.com/40/F9D967/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Bright Green</td>
+<td>S33</td>
+<td>Monument Pro Signature Series</td>
+<td>18</td>
+<td>163</td>
+<td>97</td>
+<td>#12A361</td>
+<td style="background-color: #12A361" ><img src="https://via.placeholder.com/40/12A361/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Dark Hot Pink</td>
+<td>S32</td>
+<td>Monument Pro Signature Series</td>
+<td>195</td>
+<td>44</td>
+<td>91</td>
+<td>#C32C5B</td>
+<td style="background-color: #C32C5B" ><img src="https://via.placeholder.com/40/C32C5B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Dark Turquoise</td>
+<td>S34</td>
+<td>Monument Pro Signature Series</td>
+<td>22</td>
+<td>125</td>
+<td>148</td>
+<td>#167D94</td>
+<td style="background-color: #167D94" ><img src="https://via.placeholder.com/40/167D94/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Orange Red</td>
+<td>S31</td>
+<td>Monument Pro Signature Series</td>
+<td>229</td>
+<td>57</td>
+<td>65</td>
+<td>#E53941</td>
+<td style="background-color: #E53941" ><img src="https://via.placeholder.com/40/E53941/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rogue Hobbies Ultramarine</td>
+<td>S35</td>
+<td>Monument Pro Signature Series</td>
+<td>61</td>
+<td>94</td>
+<td>171</td>
+<td>#3D5EAB</td>
+<td style="background-color: #3D5EAB" ><img src="https://via.placeholder.com/40/3D5EAB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Shadow Flesh</td>
@@ -645,6 +1175,16 @@
 <td style="background-color: #90111C" ><img src="https://via.placeholder.com/40/90111C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Transparent White</td>
+<td>064</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>245</td>
+<td>245</td>
+<td>245</td>
+<td>#F5F5F5</td>
+<td style="background-color: #F5F5F5" ><img src="https://via.placeholder.com/40/F5F5F5/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Transparent Yellow</td>
 <td>049</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -665,6 +1205,96 @@
 <td style="background-color: #75F1F1" ><img src="https://via.placeholder.com/40/75F1F1/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Vince Venturella Beige Red</td>
+<td>S05</td>
+<td>Monument Pro Signature Series</td>
+<td>166</td>
+<td>142</td>
+<td>134</td>
+<td>#A68E86</td>
+<td style="background-color: #A68E86" ><img src="https://via.placeholder.com/40/A68E86/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vince Venturella Dark Jade</td>
+<td>S01</td>
+<td>Monument Pro Signature Series</td>
+<td>44</td>
+<td>72</td>
+<td>85</td>
+<td>#2C4855</td>
+<td style="background-color: #2C4855" ><img src="https://via.placeholder.com/40/2C4855/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vince Venturella Dark Yellow Green</td>
+<td>S06</td>
+<td>Monument Pro Signature Series</td>
+<td>106</td>
+<td>117</td>
+<td>70</td>
+<td>#6A7546</td>
+<td style="background-color: #6A7546" ><img src="https://via.placeholder.com/40/6A7546/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vince Venturella Payne's Grey</td>
+<td>S02</td>
+<td>Monument Pro Signature Series</td>
+<td>45</td>
+<td>56</td>
+<td>68</td>
+<td>#2D3844</td>
+<td style="background-color: #2D3844" ><img src="https://via.placeholder.com/40/2D3844/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vince Venturella Royal Purple</td>
+<td>S03</td>
+<td>Monument Pro Signature Series</td>
+<td>59</td>
+<td>48</td>
+<td>83</td>
+<td>#3B3053</td>
+<td style="background-color: #3B3053" ><img src="https://via.placeholder.com/40/3B3053/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vince Venturella White Blue</td>
+<td>S04</td>
+<td>Monument Pro Signature Series</td>
+<td>175</td>
+<td>189</td>
+<td>186</td>
+<td>#AFBDBA</td>
+<td style="background-color: #AFBDBA" ><img src="https://via.placeholder.com/40/AFBDBA/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Warm Flesh</td>
+<td>073</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>246</td>
+<td>198</td>
+<td>124</td>
+<td>#F6C67C</td>
+<td style="background-color: #F6C67C" ><img src="https://via.placeholder.com/40/F6C67C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Warm Grey</td>
+<td>074</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>84</td>
+<td>84</td>
+<td>74</td>
+<td>#54544A</td>
+<td style="background-color: #54544A" ><img src="https://via.placeholder.com/40/54544A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Warm Yellow</td>
+<td>072</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>246</td>
+<td>200</td>
+<td>71</td>
+<td>#F6C847</td>
+<td style="background-color: #F6C847" ><img src="https://via.placeholder.com/40/F6C847/000000?text=+" /></td>
+</tr>
+<tr>
 <td>White Gold</td>
 <td>029</td>
 <td>Monument Pro Acrylic Paints</td>
@@ -673,6 +1303,16 @@
 <td>138</td>
 <td>#9E9B8A</td>
 <td style="background-color: #9E9B8A" ><img src="https://via.placeholder.com/40/9E9B8A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Yellow Green</td>
+<td>065</td>
+<td>Monument Pro Acrylic Paints</td>
+<td>135</td>
+<td>146</td>
+<td>69</td>
+<td>#879245</td>
+<td style="background-color: #879245" ><img src="https://via.placeholder.com/40/879245/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Yellow Ochre</td>

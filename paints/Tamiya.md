@@ -46,13 +46,13 @@
 </tr>
 <tr>
 <td>Black</td>
-<td>TS-14</td>
-<td>Tamiya Spray</td>
-<td>51</td>
-<td>51</td>
-<td>51</td>
-<td>#333333</td>
-<td style="background-color: #333333" ><img src="https://via.placeholder.com/40/333333/000000?text=+" /></td>
+<td>LP-1</td>
+<td>Lacquer Paint</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>#040000</td>
+<td style="background-color: #040000" ><img src="https://via.placeholder.com/40/040000/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
@@ -63,6 +63,16 @@
 <td>0</td>
 <td>#000000</td>
 <td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black</td>
+<td>TS-14</td>
+<td>Tamiya Spray</td>
+<td>51</td>
+<td>51</td>
+<td>51</td>
+<td>#333333</td>
+<td style="background-color: #333333" ><img src="https://via.placeholder.com/40/333333/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black green</td>
@@ -76,8 +86,8 @@
 </tr>
 <tr>
 <td>Blue</td>
-<td>X-4</td>
-<td>Acrylics Mini Gloss</td>
+<td>TS-15</td>
+<td>Tamiya Spray</td>
 <td>9</td>
 <td>52</td>
 <td>123</td>
@@ -86,8 +96,8 @@
 </tr>
 <tr>
 <td>Blue</td>
-<td>TS-15</td>
-<td>Tamiya Spray</td>
+<td>X-4</td>
+<td>Acrylics Mini Gloss</td>
 <td>9</td>
 <td>52</td>
 <td>123</td>
@@ -133,6 +143,16 @@
 <td>0</td>
 <td>#FF0000</td>
 <td style="background-color: #FF0000" ><img src="https://via.placeholder.com/40/FF0000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bright red</td>
+<td>LP-50</td>
+<td>Lacquer Paint</td>
+<td>229</td>
+<td>0</td>
+<td>20</td>
+<td>#E50014</td>
+<td style="background-color: #E50014" ><img src="https://via.placeholder.com/40/E50014/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brilliant blue</td>
@@ -186,6 +206,16 @@
 </tr>
 <tr>
 <td>Brown (JGSDF)</td>
+<td>LP-25</td>
+<td>Lacquer Paint</td>
+<td>113</td>
+<td>90</td>
+<td>61</td>
+<td>#715A3D</td>
+<td style="background-color: #715A3D" ><img src="https://via.placeholder.com/40/715A3D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Brown (JGSDF)</td>
 <td>XF-72</td>
 <td>Acrylics Mini Flat</td>
 <td>115</td>
@@ -203,6 +233,16 @@
 <td>54</td>
 <td>#826636</td>
 <td style="background-color: #826636" ><img src="https://via.placeholder.com/40/826636/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Buff</td>
+<td>LP-75</td>
+<td>Lacquer Paint</td>
+<td>204</td>
+<td>167</td>
+<td>123</td>
+<td>#CCA77B</td>
+<td style="background-color: #CCA77B" ><img src="https://via.placeholder.com/40/CCA77B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Buff</td>
@@ -233,6 +273,16 @@
 <td>38</td>
 <td>#4DAC26</td>
 <td style="background-color: #4DAC26" ><img src="https://via.placeholder.com/40/4DAC26/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Champagne gold</td>
+<td>LP-71</td>
+<td>Lacquer Paint</td>
+<td>210</td>
+<td>199</td>
+<td>154</td>
+<td>#D2C79A</td>
+<td style="background-color: #D2C79A" ><img src="https://via.placeholder.com/40/D2C79A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Champagne gold</td>
@@ -276,6 +326,16 @@
 </tr>
 <tr>
 <td>Clear</td>
+<td>LP-9</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Clear</td>
 <td>X-22</td>
 <td>Acrylics Mini Gloss</td>
 <td>255</td>
@@ -293,6 +353,16 @@
 <td>209</td>
 <td>#34B3D1</td>
 <td style="background-color: #34B3D1" ><img src="https://via.placeholder.com/40/34B3D1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Clear blue</td>
+<td>LP-68</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>166</td>
+<td>234</td>
+<td>#00A6EA</td>
+<td style="background-color: #00A6EA" ><img src="https://via.placeholder.com/40/00A6EA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Clear blue</td>
@@ -316,6 +386,16 @@
 </tr>
 <tr>
 <td>Clear orange</td>
+<td>X-26</td>
+<td>Acrylics Mini Gloss</td>
+<td>254</td>
+<td>140</td>
+<td>20</td>
+<td>#FE8C14</td>
+<td style="background-color: #FE8C14" ><img src="https://via.placeholder.com/40/FE8C14/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Clear orange</td>
 <td>TS-73</td>
 <td>Tamiya Spray</td>
 <td>255</td>
@@ -326,13 +406,33 @@
 </tr>
 <tr>
 <td>Clear orange</td>
-<td>X-26</td>
+<td>LP-53</td>
+<td>Lacquer Paint</td>
+<td>240</td>
+<td>137</td>
+<td>0</td>
+<td>#F08900</td>
+<td style="background-color: #F08900" ><img src="https://via.placeholder.com/40/F08900/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Clear red</td>
+<td>LP-52</td>
+<td>Lacquer Paint</td>
+<td>229</td>
+<td>0</td>
+<td>127</td>
+<td>#E5007F</td>
+<td style="background-color: #E5007F" ><img src="https://via.placeholder.com/40/E5007F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Clear red</td>
+<td>X-27</td>
 <td>Acrylics Mini Gloss</td>
-<td>254</td>
-<td>140</td>
-<td>20</td>
-<td>#FE8C14</td>
-<td style="background-color: #FE8C14" ><img src="https://via.placeholder.com/40/FE8C14/000000?text=+" /></td>
+<td>250</td>
+<td>0</td>
+<td>38</td>
+<td>#FA0026</td>
+<td style="background-color: #FA0026" ><img src="https://via.placeholder.com/40/FA0026/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Clear red</td>
@@ -345,14 +445,14 @@
 <td style="background-color: #F0027F" ><img src="https://via.placeholder.com/40/F0027F/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Clear red</td>
-<td>X-27</td>
-<td>Acrylics Mini Gloss</td>
-<td>250</td>
+<td>Clear yellow</td>
+<td>LP-69</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>229</td>
 <td>0</td>
-<td>38</td>
-<td>#FA0026</td>
-<td style="background-color: #FA0026" ><img src="https://via.placeholder.com/40/FA0026/000000?text=+" /></td>
+<td>#FFE500</td>
+<td style="background-color: #FFE500" ><img src="https://via.placeholder.com/40/FFE500/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Clear yellow</td>
@@ -425,6 +525,16 @@
 <td style="background-color: #674B2B" ><img src="https://via.placeholder.com/40/674B2B/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark ghost gray</td>
+<td>LP-36</td>
+<td>Lacquer Paint</td>
+<td>128</td>
+<td>161</td>
+<td>176</td>
+<td>#80A1B0</td>
+<td style="background-color: #80A1B0" ><img src="https://via.placeholder.com/40/80A1B0/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark ghost grey</td>
 <td>AS-25</td>
 <td>Aircraft Spray</td>
@@ -436,8 +546,8 @@
 </tr>
 <tr>
 <td>Dark green</td>
-<td>XF-61</td>
-<td>Acrylics Mini Flat</td>
+<td>TS-2</td>
+<td>Tamiya Spray</td>
 <td>26</td>
 <td>45</td>
 <td>15</td>
@@ -446,18 +556,8 @@
 </tr>
 <tr>
 <td>Dark green</td>
-<td>AS-9</td>
-<td>Aircraft Spray</td>
-<td>46</td>
-<td>72</td>
-<td>20</td>
-<td>#2E4814</td>
-<td style="background-color: #2E4814" ><img src="https://via.placeholder.com/40/2E4814/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark green</td>
-<td>TS-2</td>
-<td>Tamiya Spray</td>
+<td>XF-61</td>
+<td>Acrylics Mini Flat</td>
 <td>26</td>
 <td>45</td>
 <td>15</td>
@@ -475,6 +575,16 @@
 <td style="background-color: #113915" ><img src="https://via.placeholder.com/40/113915/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark green</td>
+<td>AS-9</td>
+<td>Aircraft Spray</td>
+<td>46</td>
+<td>72</td>
+<td>20</td>
+<td>#2E4814</td>
+<td style="background-color: #2E4814" ><img src="https://via.placeholder.com/40/2E4814/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark green (IJA)</td>
 <td>AS-17</td>
 <td>Aircraft Spray</td>
@@ -483,16 +593,6 @@
 <td>22</td>
 <td>#184316</td>
 <td style="background-color: #184316" ><img src="https://via.placeholder.com/40/184316/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark green (JGSDF)</td>
-<td>XF-73</td>
-<td>Acrylics Mini Flat</td>
-<td>26</td>
-<td>67</td>
-<td>22</td>
-<td>#1A4316</td>
-<td style="background-color: #1A4316" ><img src="https://via.placeholder.com/40/1A4316/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark green (JGSDF)</td>
@@ -505,6 +605,26 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark green (JGSDF)</td>
+<td>XF-73</td>
+<td>Acrylics Mini Flat</td>
+<td>26</td>
+<td>67</td>
+<td>22</td>
+<td>#1A4316</td>
+<td style="background-color: #1A4316" ><img src="https://via.placeholder.com/40/1A4316/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark green (JGSDF).jpeg</td>
+<td>LP-26</td>
+<td>Lacquer Paint</td>
+<td>61</td>
+<td>89</td>
+<td>63</td>
+<td>#3D593F</td>
+<td style="background-color: #3D593F" ><img src="https://via.placeholder.com/40/3D593F/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark green (Luftwaffe)</td>
 <td>AS-24</td>
 <td>Aircraft Spray</td>
@@ -513,6 +633,16 @@
 <td>13</td>
 <td>#18280D</td>
 <td style="background-color: #18280D" ><img src="https://via.placeholder.com/40/18280D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark green 2</td>
+<td>LP-56</td>
+<td>Lacquer Paint</td>
+<td>91</td>
+<td>131</td>
+<td>97</td>
+<td>#5B8361</td>
+<td style="background-color: #5B8361" ><img src="https://via.placeholder.com/40/5B8361/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark green 2</td>
@@ -555,6 +685,16 @@
 <td style="background-color: #002C12" ><img src="https://via.placeholder.com/40/002C12/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark green 2 (IJN)</td>
+<td>LP-31</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>66</td>
+<td>52</td>
+<td>#004234</td>
+<td style="background-color: #004234" ><img src="https://via.placeholder.com/40/004234/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark green 2 (RAF)</td>
 <td>XF-81</td>
 <td>Acrylics Mini Flat</td>
@@ -585,6 +725,16 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark iron</td>
+<td>LP-54</td>
+<td>Lacquer Paint</td>
+<td>83</td>
+<td>67</td>
+<td>52</td>
+<td>#534334</td>
+<td style="background-color: #534334" ><img src="https://via.placeholder.com/40/534334/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark mica blue</td>
 <td>TS-64</td>
 <td>Tamiya Spray</td>
@@ -606,16 +756,6 @@
 </tr>
 <tr>
 <td>Dark yellow</td>
-<td>TS-3</td>
-<td>Tamiya Spray</td>
-<td>203</td>
-<td>175</td>
-<td>91</td>
-<td>#CBAF5B</td>
-<td style="background-color: #CBAF5B" ><img src="https://via.placeholder.com/40/CBAF5B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark yellow</td>
 <td>XF-60</td>
 <td>Acrylics Mini Flat</td>
 <td>199</td>
@@ -623,6 +763,16 @@
 <td>64</td>
 <td>#C7B140</td>
 <td style="background-color: #C7B140" ><img src="https://via.placeholder.com/40/C7B140/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark yellow</td>
+<td>TS-3</td>
+<td>Tamiya Spray</td>
+<td>203</td>
+<td>175</td>
+<td>91</td>
+<td>#CBAF5B</td>
+<td style="background-color: #CBAF5B" ><img src="https://via.placeholder.com/40/CBAF5B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark yellow 2</td>
@@ -633,6 +783,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark yellow 2</td>
+<td>LP-55</td>
+<td>Lacquer Paint</td>
+<td>201</td>
+<td>180</td>
+<td>75</td>
+<td>#C9B44B</td>
+<td style="background-color: #C9B44B" ><img src="https://via.placeholder.com/40/C9B44B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Deck tan</td>
@@ -685,6 +845,16 @@
 <td style="background-color: #660000" ><img src="https://via.placeholder.com/40/660000/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dull red.jpeg</td>
+<td>LP-18</td>
+<td>Lacquer Paint</td>
+<td>123</td>
+<td>69</td>
+<td>56</td>
+<td>#7B4538</td>
+<td style="background-color: #7B4538" ><img src="https://via.placeholder.com/40/7B4538/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Field blue</td>
 <td>XF-50</td>
 <td>Acrylics Mini Flat</td>
@@ -693,6 +863,16 @@
 <td>70</td>
 <td>#364146</td>
 <td style="background-color: #364146" ><img src="https://via.placeholder.com/40/364146/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Field grey</td>
+<td>XF-65</td>
+<td>Acrylics Mini Flat</td>
+<td>103</td>
+<td>134</td>
+<td>107</td>
+<td>#67866B</td>
+<td style="background-color: #67866B" ><img src="https://via.placeholder.com/40/67866B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Field grey</td>
@@ -705,14 +885,14 @@
 <td style="background-color: #4F6C56" ><img src="https://via.placeholder.com/40/4F6C56/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Field grey</td>
-<td>XF-65</td>
-<td>Acrylics Mini Flat</td>
-<td>103</td>
-<td>134</td>
-<td>107</td>
-<td>#67866B</td>
-<td style="background-color: #67866B" ><img src="https://via.placeholder.com/40/67866B/000000?text=+" /></td>
+<td>Flat aluminum</td>
+<td>LP-38</td>
+<td>Lacquer Paint</td>
+<td>220</td>
+<td>222</td>
+<td>221</td>
+<td>#DCDEDD</td>
+<td style="background-color: #DCDEDD" ><img src="https://via.placeholder.com/40/DCDEDD/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat aluminum</td>
@@ -726,6 +906,16 @@
 </tr>
 <tr>
 <td>Flat base</td>
+<td>LP-22</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>254</td>
+<td>#FFFFFE</td>
+<td style="background-color: #FFFFFE" ><img src="https://via.placeholder.com/40/FFFFFE/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat base</td>
 <td>X-21</td>
 <td>Acrylics Mini Gloss</td>
 <td>255</td>
@@ -736,6 +926,16 @@
 </tr>
 <tr>
 <td>Flat black</td>
+<td>LP-3</td>
+<td>Lacquer Paint</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>#040000</td>
+<td style="background-color: #040000" ><img src="https://via.placeholder.com/40/040000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat black</td>
 <td>XF-1</td>
 <td>Acrylics Mini Flat</td>
 <td>51</td>
@@ -743,6 +943,16 @@
 <td>51</td>
 <td>#333333</td>
 <td style="background-color: #333333" ><img src="https://via.placeholder.com/40/333333/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat blue</td>
+<td>LP-78</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>106</td>
+<td>148</td>
+<td>#006A94</td>
+<td style="background-color: #006A94" ><img src="https://via.placeholder.com/40/006A94/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat blue</td>
@@ -766,13 +976,13 @@
 </tr>
 <tr>
 <td>Flat clear</td>
-<td>TS-80</td>
-<td>Tamiya Spray</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+<td>LP-23</td>
+<td>Lacquer Paint</td>
+<td>157</td>
+<td>179</td>
+<td>191</td>
+<td>#9DB3BF</td>
+<td style="background-color: #9DB3BF" ><img src="https://via.placeholder.com/40/9DB3BF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat clear</td>
@@ -783,6 +993,26 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat clear</td>
+<td>TS-80</td>
+<td>Tamiya Spray</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat earth</td>
+<td>LP-74</td>
+<td>Lacquer Paint</td>
+<td>153</td>
+<td>71</td>
+<td>47</td>
+<td>#99472F</td>
+<td style="background-color: #99472F" ><img src="https://via.placeholder.com/40/99472F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat earth</td>
@@ -815,6 +1045,16 @@
 <td style="background-color: #FDCDA1" ><img src="https://via.placeholder.com/40/FDCDA1/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Flat flesh</td>
+<td>LP-66</td>
+<td>Lacquer Paint</td>
+<td>250</td>
+<td>204</td>
+<td>142</td>
+<td>#FACC8E</td>
+<td style="background-color: #FACC8E" ><img src="https://via.placeholder.com/40/FACC8E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Flat green</td>
 <td>XF-5</td>
 <td>Acrylics Mini Flat</td>
@@ -826,6 +1066,16 @@
 </tr>
 <tr>
 <td>Flat red</td>
+<td>LP-79</td>
+<td>Lacquer Paint</td>
+<td>230</td>
+<td>0</td>
+<td>28</td>
+<td>#E6001C</td>
+<td style="background-color: #E6001C" ><img src="https://via.placeholder.com/40/E6001C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat red</td>
 <td>XF-7</td>
 <td>Acrylics Mini Flat</td>
 <td>255</td>
@@ -833,6 +1083,16 @@
 <td>0</td>
 <td>#FF0000</td>
 <td style="background-color: #FF0000" ><img src="https://via.placeholder.com/40/FF0000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat white</td>
+<td>LP-4</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat white</td>
@@ -853,6 +1113,16 @@
 <td>0</td>
 <td>#FFCC00</td>
 <td style="background-color: #FFCC00" ><img src="https://via.placeholder.com/40/FFCC00/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Flat yellow</td>
+<td>LP-80</td>
+<td>Lacquer Paint</td>
+<td>254</td>
+<td>225</td>
+<td>1</td>
+<td>#FEE101</td>
+<td style="background-color: #FEE101" ><img src="https://via.placeholder.com/40/FEE101/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent orange</td>
@@ -885,9 +1155,19 @@
 <td style="background-color: #3690C0" ><img src="https://via.placeholder.com/40/3690C0/000000?text=+" /></td>
 </tr>
 <tr>
+<td>German gray</td>
+<td>LP-27</td>
+<td>Lacquer Paint</td>
+<td>65</td>
+<td>88</td>
+<td>98</td>
+<td>#415862</td>
+<td style="background-color: #415862" ><img src="https://via.placeholder.com/40/415862/000000?text=+" /></td>
+</tr>
+<tr>
 <td>German grey</td>
-<td>XF-63</td>
-<td>Acrylics Mini Flat</td>
+<td>TS-4</td>
+<td>Tamiya Spray</td>
 <td>62</td>
 <td>71</td>
 <td>74</td>
@@ -896,8 +1176,8 @@
 </tr>
 <tr>
 <td>German grey</td>
-<td>TS-4</td>
-<td>Tamiya Spray</td>
+<td>XF-63</td>
+<td>Acrylics Mini Flat</td>
 <td>62</td>
 <td>71</td>
 <td>74</td>
@@ -913,6 +1193,16 @@
 <td>202</td>
 <td>#C2C8CA</td>
 <td style="background-color: #C2C8CA" ><img src="https://via.placeholder.com/40/C2C8CA/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gloss aluminum</td>
+<td>LP-70</td>
+<td>Lacquer Paint</td>
+<td>220</td>
+<td>222</td>
+<td>221</td>
+<td>#DCDEDD</td>
+<td style="background-color: #DCDEDD" ><img src="https://via.placeholder.com/40/DCDEDD/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold</td>
@@ -943,6 +1233,16 @@
 <td>46</td>
 <td>#253A2E</td>
 <td style="background-color: #253A2E" ><img src="https://via.placeholder.com/40/253A2E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gray green (IJN)</td>
+<td>LP-33</td>
+<td>Lacquer Paint</td>
+<td>185</td>
+<td>196</td>
+<td>166</td>
+<td>#B9C4A6</td>
+<td style="background-color: #B9C4A6" ><img src="https://via.placeholder.com/40/B9C4A6/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gray green (IJN)</td>
@@ -996,8 +1296,18 @@
 </tr>
 <tr>
 <td>Gun metal</td>
-<td>TS-38</td>
-<td>Tamiya Spray</td>
+<td>LP-19</td>
+<td>Lacquer Paint</td>
+<td>77</td>
+<td>78</td>
+<td>77</td>
+<td>#4D4E4D</td>
+<td style="background-color: #4D4E4D" ><img src="https://via.placeholder.com/40/4D4E4D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gun metal</td>
+<td>X-10</td>
+<td>Acrylics Mini Gloss</td>
 <td>80</td>
 <td>85</td>
 <td>87</td>
@@ -1006,8 +1316,8 @@
 </tr>
 <tr>
 <td>Gun metal</td>
-<td>X-10</td>
-<td>Acrylics Mini Gloss</td>
+<td>TS-38</td>
+<td>Tamiya Spray</td>
 <td>80</td>
 <td>85</td>
 <td>87</td>
@@ -1076,8 +1386,8 @@
 </tr>
 <tr>
 <td>IJN gray (Maizuru Arsenal)</td>
-<td>XF-87</td>
-<td>Acrylics Mini Flat</td>
+<td>TS-99</td>
+<td>Tamiya Spray</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -1086,8 +1396,8 @@
 </tr>
 <tr>
 <td>IJN gray (Maizuru Arsenal)</td>
-<td>TS-99</td>
-<td>Tamiya Spray</td>
+<td>XF-87</td>
+<td>Acrylics Mini Flat</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -1115,6 +1425,46 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>IJN gray<br>(Kure Arsenal)</td>
+<td>LP-12</td>
+<td>Lacquer Paint</td>
+<td>113</td>
+<td>123</td>
+<td>133</td>
+<td>#717B85</td>
+<td style="background-color: #717B85" ><img src="https://via.placeholder.com/40/717B85/000000?text=+" /></td>
+</tr>
+<tr>
+<td>IJN gray<br>(Maizuru Arsenal)</td>
+<td>LP-14</td>
+<td>Lacquer Paint</td>
+<td>125</td>
+<td>128</td>
+<td>135</td>
+<td>#7D8087</td>
+<td style="background-color: #7D8087" ><img src="https://via.placeholder.com/40/7D8087/000000?text=+" /></td>
+</tr>
+<tr>
+<td>IJN gray<br>(Sasebo Arsenal)</td>
+<td>LP-13</td>
+<td>Lacquer Paint</td>
+<td>83</td>
+<td>87</td>
+<td>96</td>
+<td>#535760</td>
+<td style="background-color: #535760" ><img src="https://via.placeholder.com/40/535760/000000?text=+" /></td>
+</tr>
+<tr>
+<td>IJN gray<br>(Yokosuka Arsenal)</td>
+<td>LP-15</td>
+<td>Lacquer Paint</td>
+<td>100</td>
+<td>107</td>
+<td>117</td>
+<td>#646B75</td>
+<td style="background-color: #646B75" ><img src="https://via.placeholder.com/40/646B75/000000?text=+" /></td>
+</tr>
+<tr>
 <td>IJN graySasebo Arsenal</td>
 <td>TS-67</td>
 <td>Tamiya Spray</td>
@@ -1123,6 +1473,16 @@
 <td>113</td>
 <td>#686D71</td>
 <td style="background-color: #686D71" ><img src="https://via.placeholder.com/40/686D71/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Insignia white</td>
+<td>LP-35</td>
+<td>Lacquer Paint</td>
+<td>221</td>
+<td>220</td>
+<td>215</td>
+<td>#DDDCD7</td>
+<td style="background-color: #DDDCD7" ><img src="https://via.placeholder.com/40/DDDCD7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Insignia white</td>
@@ -1143,6 +1503,16 @@
 <td>152</td>
 <td>#5B8E98</td>
 <td style="background-color: #5B8E98" ><img src="https://via.placeholder.com/40/5B8E98/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Italian red</td>
+<td>LP-21</td>
+<td>Lacquer Paint</td>
+<td>198</td>
+<td>56</td>
+<td>52</td>
+<td>#C63834</td>
+<td style="background-color: #C63834" ><img src="https://via.placeholder.com/40/C63834/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Italian red</td>
@@ -1196,6 +1566,16 @@
 </tr>
 <tr>
 <td>Khaki</td>
+<td>LP-73</td>
+<td>Lacquer Paint</td>
+<td>154</td>
+<td>143</td>
+<td>51</td>
+<td>#9A8F33</td>
+<td style="background-color: #9A8F33" ><img src="https://via.placeholder.com/40/9A8F33/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Khaki</td>
 <td>XF-49</td>
 <td>Acrylics Mini Flat</td>
 <td>126</td>
@@ -1213,6 +1593,16 @@
 <td>14</td>
 <td>#29330E</td>
 <td style="background-color: #29330E" ><img src="https://via.placeholder.com/40/29330E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lacquer thinner</td>
+<td>LP-10</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lavender</td>
@@ -1236,6 +1626,16 @@
 </tr>
 <tr>
 <td>Light blue</td>
+<td>TS-23</td>
+<td>Tamiya Spray</td>
+<td>40</td>
+<td>174</td>
+<td>207</td>
+<td>#28AECF</td>
+<td style="background-color: #28AECF" ><img src="https://via.placeholder.com/40/28AECF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light blue</td>
 <td>AS-5</td>
 <td>Aircraft Spray</td>
 <td>153</td>
@@ -1255,14 +1655,24 @@
 <td style="background-color: #8FB5AD" ><img src="https://via.placeholder.com/40/8FB5AD/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Light blue</td>
-<td>TS-23</td>
-<td>Tamiya Spray</td>
-<td>40</td>
-<td>174</td>
-<td>207</td>
-<td>#28AECF</td>
-<td style="background-color: #28AECF" ><img src="https://via.placeholder.com/40/28AECF/000000?text=+" /></td>
+<td>Light brown (DAK 1941)</td>
+<td>LP-77</td>
+<td>Lacquer Paint</td>
+<td>229</td>
+<td>179</td>
+<td>110</td>
+<td>#E5B36E</td>
+<td style="background-color: #E5B36E" ><img src="https://via.placeholder.com/40/E5B36E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light ghost gray</td>
+<td>LP-37</td>
+<td>Lacquer Paint</td>
+<td>152</td>
+<td>180</td>
+<td>192</td>
+<td>#98B4C0</td>
+<td style="background-color: #98B4C0" ><img src="https://via.placeholder.com/40/98B4C0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light ghost grey</td>
@@ -1276,16 +1686,6 @@
 </tr>
 <tr>
 <td>Light gray</td>
-<td>AS-16</td>
-<td>Aircraft Spray</td>
-<td>204</td>
-<td>212</td>
-<td>188</td>
-<td>#CCD4BC</td>
-<td style="background-color: #CCD4BC" ><img src="https://via.placeholder.com/40/CCD4BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light gray</td>
 <td>AS-2</td>
 <td>Aircraft Spray</td>
 <td>163</td>
@@ -1293,6 +1693,26 @@
 <td>150</td>
 <td>#A3AA96</td>
 <td style="background-color: #A3AA96" ><img src="https://via.placeholder.com/40/A3AA96/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light gray</td>
+<td>LP-34</td>
+<td>Lacquer Paint</td>
+<td>208</td>
+<td>204</td>
+<td>192</td>
+<td>#D0CCC0</td>
+<td style="background-color: #D0CCC0" ><img src="https://via.placeholder.com/40/D0CCC0/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light gray</td>
+<td>AS-16</td>
+<td>Aircraft Spray</td>
+<td>204</td>
+<td>212</td>
+<td>188</td>
+<td>#CCD4BC</td>
+<td style="background-color: #CCD4BC" ><img src="https://via.placeholder.com/40/CCD4BC/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light gray (IJA)</td>
@@ -1305,14 +1725,14 @@
 <td style="background-color: #A1B7A7" ><img src="https://via.placeholder.com/40/A1B7A7/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Light green</td>
-<td>TS-22</td>
-<td>Tamiya Spray</td>
-<td>127</td>
-<td>195</td>
-<td>28</td>
-<td>#7FC31C</td>
-<td style="background-color: #7FC31C" ><img src="https://via.placeholder.com/40/7FC31C/000000?text=+" /></td>
+<td>Light gray (IJN)</td>
+<td>LP-32</td>
+<td>Lacquer Paint</td>
+<td>201</td>
+<td>209</td>
+<td>194</td>
+<td>#C9D1C2</td>
+<td style="background-color: #C9D1C2" ><img src="https://via.placeholder.com/40/C9D1C2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light green</td>
@@ -1323,6 +1743,16 @@
 <td>33</td>
 <td>#66B821</td>
 <td style="background-color: #66B821" ><img src="https://via.placeholder.com/40/66B821/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light green</td>
+<td>TS-22</td>
+<td>Tamiya Spray</td>
+<td>127</td>
+<td>195</td>
+<td>28</td>
+<td>#7FC31C</td>
+<td style="background-color: #7FC31C" ><img src="https://via.placeholder.com/40/7FC31C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light green (Luftwaffe)</td>
@@ -1346,6 +1776,16 @@
 </tr>
 <tr>
 <td>Light gun metal</td>
+<td>LP-20</td>
+<td>Lacquer Paint</td>
+<td>119</td>
+<td>119</td>
+<td>118</td>
+<td>#777776</td>
+<td style="background-color: #777776" ><img src="https://via.placeholder.com/40/777776/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light gun metal</td>
 <td>TS-42</td>
 <td>Tamiya Spray</td>
 <td>115</td>
@@ -1363,6 +1803,16 @@
 <td>122</td>
 <td>#10667A</td>
 <td style="background-color: #10667A" ><img src="https://via.placeholder.com/40/10667A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light sand</td>
+<td>LP-30</td>
+<td>Lacquer Paint</td>
+<td>209</td>
+<td>171</td>
+<td>124</td>
+<td>#D1AB7C</td>
+<td style="background-color: #D1AB7C" ><img src="https://via.placeholder.com/40/D1AB7C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light sand</td>
@@ -1386,6 +1836,16 @@
 </tr>
 <tr>
 <td>Linoleum deck brown</td>
+<td>TS-69</td>
+<td>Tamiya Spray</td>
+<td>92</td>
+<td>33</td>
+<td>5</td>
+<td>#5C2105</td>
+<td style="background-color: #5C2105" ><img src="https://via.placeholder.com/40/5C2105/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Linoleum deck brown</td>
 <td>XF-79</td>
 <td>Acrylics Mini Flat</td>
 <td>120</td>
@@ -1395,14 +1855,14 @@
 <td style="background-color: #784629" ><img src="https://via.placeholder.com/40/784629/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Linoleum deck brown</td>
-<td>TS-69</td>
-<td>Tamiya Spray</td>
-<td>92</td>
-<td>33</td>
-<td>5</td>
-<td>#5C2105</td>
-<td style="background-color: #5C2105" ><img src="https://via.placeholder.com/40/5C2105/000000?text=+" /></td>
+<td>Linoleum deck brown.jpeg</td>
+<td>LP-17</td>
+<td>Lacquer Paint</td>
+<td>86</td>
+<td>74</td>
+<td>58</td>
+<td>#564A3A</td>
+<td style="background-color: #564A3A" ><img src="https://via.placeholder.com/40/564A3A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Maroon</td>
@@ -1505,6 +1965,16 @@
 <td style="background-color: #393D3E" ><img src="https://via.placeholder.com/40/393D3E/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Metallic black</td>
+<td>LP-40</td>
+<td>Lacquer Paint</td>
+<td>63</td>
+<td>59</td>
+<td>58</td>
+<td>#3F3B3A</td>
+<td style="background-color: #3F3B3A" ><img src="https://via.placeholder.com/40/3F3B3A/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Metallic blue</td>
 <td>X-13</td>
 <td>Acrylics Mini Gloss</td>
@@ -1555,6 +2025,16 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Metallic gray</td>
+<td>LP-61</td>
+<td>Lacquer Paint</td>
+<td>114</td>
+<td>112</td>
+<td>113</td>
+<td>#727071</td>
+<td style="background-color: #727071" ><img src="https://via.placeholder.com/40/727071/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Metallic green</td>
 <td>TS-20</td>
 <td>Tamiya Spray</td>
@@ -1585,6 +2065,16 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Metallic orange</td>
+<td>LP-44</td>
+<td>Lacquer Paint</td>
+<td>239</td>
+<td>120</td>
+<td>0</td>
+<td>#EF7800</td>
+<td style="background-color: #EF7800" ><img src="https://via.placeholder.com/40/EF7800/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Metallic red</td>
 <td>TS-18</td>
 <td>Tamiya Spray</td>
@@ -1606,6 +2096,16 @@
 </tr>
 <tr>
 <td>Mica blue</td>
+<td>LP-41</td>
+<td>Lacquer Paint</td>
+<td>1</td>
+<td>57</td>
+<td>142</td>
+<td>#01398E</td>
+<td style="background-color: #01398E" ><img src="https://via.placeholder.com/40/01398E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mica blue</td>
 <td>TS-50</td>
 <td>Tamiya Spray</td>
 <td>11</td>
@@ -1613,6 +2113,16 @@
 <td>139</td>
 <td>#0B3A8B</td>
 <td style="background-color: #0B3A8B" ><img src="https://via.placeholder.com/40/0B3A8B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mica red</td>
+<td>LP-42</td>
+<td>Lacquer Paint</td>
+<td>200</td>
+<td>23</td>
+<td>29</td>
+<td>#C8171D</td>
+<td style="background-color: #C8171D" ><img src="https://via.placeholder.com/40/C8171D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mica red</td>
@@ -1626,6 +2136,16 @@
 </tr>
 <tr>
 <td>Mica silver</td>
+<td>LP-72</td>
+<td>Lacquer Paint</td>
+<td>212</td>
+<td>217</td>
+<td>220</td>
+<td>#D4D9DC</td>
+<td style="background-color: #D4D9DC" ><img src="https://via.placeholder.com/40/D4D9DC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mica silver</td>
 <td>TS-76</td>
 <td>Tamiya Spray</td>
 <td>204</td>
@@ -1633,6 +2153,46 @@
 <td>204</td>
 <td>#CCCCCC</td>
 <td style="background-color: #CCCCCC" ><img src="https://via.placeholder.com/40/CCCCCC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mixing blue</td>
+<td>LP-81</td>
+<td>Lacquer Paint</td>
+<td>32</td>
+<td>42</td>
+<td>103</td>
+<td>#202A67</td>
+<td style="background-color: #202A67" ><img src="https://via.placeholder.com/40/202A67/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mixing red</td>
+<td>LP-82</td>
+<td>Lacquer Paint</td>
+<td>200</td>
+<td>17</td>
+<td>61</td>
+<td>#C8113D</td>
+<td style="background-color: #C8113D" ><img src="https://via.placeholder.com/40/C8113D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mixing yellow</td>
+<td>LP-83</td>
+<td>Lacquer Paint</td>
+<td>254</td>
+<td>215</td>
+<td>0</td>
+<td>#FED700</td>
+<td style="background-color: #FED700" ><img src="https://via.placeholder.com/40/FED700/000000?text=+" /></td>
+</tr>
+<tr>
+<td>NATO black</td>
+<td>LP-60</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
 </tr>
 <tr>
 <td>NATO black</td>
@@ -1656,6 +2216,16 @@
 </tr>
 <tr>
 <td>NATO brown</td>
+<td>LP-59</td>
+<td>Lacquer Paint</td>
+<td>106</td>
+<td>74</td>
+<td>49</td>
+<td>#6A4A31</td>
+<td style="background-color: #6A4A31" ><img src="https://via.placeholder.com/40/6A4A31/000000?text=+" /></td>
+</tr>
+<tr>
+<td>NATO brown</td>
 <td>XF-68</td>
 <td>Acrylics Mini Flat</td>
 <td>115</td>
@@ -1676,8 +2246,18 @@
 </tr>
 <tr>
 <td>NATO green</td>
-<td>TS-61</td>
-<td>Tamiya Spray</td>
+<td>LP-58</td>
+<td>Lacquer Paint</td>
+<td>41</td>
+<td>84</td>
+<td>56</td>
+<td>#295438</td>
+<td style="background-color: #295438" ><img src="https://via.placeholder.com/40/295438/000000?text=+" /></td>
+</tr>
+<tr>
+<td>NATO green</td>
+<td>XF-67</td>
+<td>Acrylics Mini Flat</td>
 <td>51</td>
 <td>96</td>
 <td>26</td>
@@ -1686,8 +2266,8 @@
 </tr>
 <tr>
 <td>NATO green</td>
-<td>XF-67</td>
-<td>Acrylics Mini Flat</td>
+<td>TS-61</td>
+<td>Tamiya Spray</td>
 <td>51</td>
 <td>96</td>
 <td>26</td>
@@ -1756,6 +2336,26 @@
 </tr>
 <tr>
 <td>Olive drab</td>
+<td>XF-62</td>
+<td>Acrylics Mini Flat</td>
+<td>64</td>
+<td>75</td>
+<td>19</td>
+<td>#404B13</td>
+<td style="background-color: #404B13" ><img src="https://via.placeholder.com/40/404B13/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Olive drab</td>
+<td>LP-28</td>
+<td>Lacquer Paint</td>
+<td>77</td>
+<td>86</td>
+<td>65</td>
+<td>#4D5641</td>
+<td style="background-color: #4D5641" ><img src="https://via.placeholder.com/40/4D5641/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Olive drab</td>
 <td>TS-5</td>
 <td>Tamiya Spray</td>
 <td>64</td>
@@ -1775,24 +2375,14 @@
 <td style="background-color: #404B13" ><img src="https://via.placeholder.com/40/404B13/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Olive drab</td>
-<td>XF-62</td>
-<td>Acrylics Mini Flat</td>
-<td>64</td>
-<td>75</td>
-<td>19</td>
-<td>#404B13</td>
-<td style="background-color: #404B13" ><img src="https://via.placeholder.com/40/404B13/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Olive drab (JGSDF)</td>
-<td>TS-70</td>
-<td>Tamiya Spray</td>
-<td>46</td>
-<td>65</td>
-<td>18</td>
-<td>#2E4112</td>
-<td style="background-color: #2E4112" ><img src="https://via.placeholder.com/40/2E4112/000000?text=+" /></td>
+<td>LP-64</td>
+<td>Lacquer Paint</td>
+<td>41</td>
+<td>84</td>
+<td>56</td>
+<td>#295438</td>
+<td style="background-color: #295438" ><img src="https://via.placeholder.com/40/295438/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive drab (JGSDF)</td>
@@ -1805,6 +2395,16 @@
 <td style="background-color: #334012" ><img src="https://via.placeholder.com/40/334012/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Olive drab (JGSDF)</td>
+<td>TS-70</td>
+<td>Tamiya Spray</td>
+<td>46</td>
+<td>65</td>
+<td>18</td>
+<td>#2E4112</td>
+<td style="background-color: #2E4112" ><img src="https://via.placeholder.com/40/2E4112/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Olive drab 2</td>
 <td>TS-28</td>
 <td>Tamiya Spray</td>
@@ -1815,14 +2415,14 @@
 <td style="background-color: #4D5613" ><img src="https://via.placeholder.com/40/4D5613/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Olive green</td>
-<td>AS-14</td>
-<td>Aircraft Spray</td>
-<td>51</td>
-<td>80</td>
-<td>22</td>
-<td>#335016</td>
-<td style="background-color: #335016" ><img src="https://via.placeholder.com/40/335016/000000?text=+" /></td>
+<td>Olive drab 2</td>
+<td>LP-29</td>
+<td>Lacquer Paint</td>
+<td>71</td>
+<td>87</td>
+<td>62</td>
+<td>#47573E</td>
+<td style="background-color: #47573E" ><img src="https://via.placeholder.com/40/47573E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive green</td>
@@ -1835,14 +2435,14 @@
 <td style="background-color: #1A3B14" ><img src="https://via.placeholder.com/40/1A3B14/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Orange</td>
-<td>TS-12</td>
-<td>Tamiya Spray</td>
-<td>255</td>
-<td>89</td>
-<td>0</td>
-<td>#FF5900</td>
-<td style="background-color: #FF5900" ><img src="https://via.placeholder.com/40/FF5900/000000?text=+" /></td>
+<td>Olive green</td>
+<td>AS-14</td>
+<td>Aircraft Spray</td>
+<td>51</td>
+<td>80</td>
+<td>22</td>
+<td>#335016</td>
+<td style="background-color: #335016" ><img src="https://via.placeholder.com/40/335016/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange</td>
@@ -1855,14 +2455,14 @@
 <td style="background-color: #FF7F00" ><img src="https://via.placeholder.com/40/FF7F00/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Park green</td>
-<td>TS-35</td>
+<td>Orange</td>
+<td>TS-12</td>
 <td>Tamiya Spray</td>
-<td>51</td>
-<td>162</td>
-<td>61</td>
-<td>#33A23D</td>
-<td style="background-color: #33A23D" ><img src="https://via.placeholder.com/40/33A23D/000000?text=+" /></td>
+<td>255</td>
+<td>89</td>
+<td>0</td>
+<td>#FF5900</td>
+<td style="background-color: #FF5900" ><img src="https://via.placeholder.com/40/FF5900/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Park green</td>
@@ -1875,6 +2475,26 @@
 <td style="background-color: #33A44D" ><img src="https://via.placeholder.com/40/33A44D/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Park green</td>
+<td>TS-35</td>
+<td>Tamiya Spray</td>
+<td>51</td>
+<td>162</td>
+<td>61</td>
+<td>#33A23D</td>
+<td style="background-color: #33A23D" ><img src="https://via.placeholder.com/40/33A23D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pearl blue</td>
+<td>LP-47</td>
+<td>Lacquer Paint</td>
+<td>1</td>
+<td>59</td>
+<td>143</td>
+<td>#013B8F</td>
+<td style="background-color: #013B8F" ><img src="https://via.placeholder.com/40/013B8F/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Pearl blue</td>
 <td>TS-89</td>
 <td>Tamiya Spray</td>
@@ -1883,6 +2503,16 @@
 <td>128</td>
 <td>#0C3E80</td>
 <td style="background-color: #0C3E80" ><img src="https://via.placeholder.com/40/0C3E80/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pearl clear</td>
+<td>LP-49</td>
+<td>Lacquer Paint</td>
+<td>247</td>
+<td>249</td>
+<td>248</td>
+<td>#F7F9F8</td>
+<td style="background-color: #F7F9F8" ><img src="https://via.placeholder.com/40/F7F9F8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pearl clear</td>
@@ -1926,6 +2556,16 @@
 </tr>
 <tr>
 <td>Pearl white</td>
+<td>LP-43</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pearl white</td>
 <td>TS-45</td>
 <td>Tamiya Spray</td>
 <td>242</td>
@@ -1966,6 +2606,16 @@
 </tr>
 <tr>
 <td>Pure blue</td>
+<td>LP-6</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>91</td>
+<td>172</td>
+<td>#005BAC</td>
+<td style="background-color: #005BAC" ><img src="https://via.placeholder.com/40/005BAC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pure blue</td>
 <td>TS-93</td>
 <td>Tamiya Spray</td>
 <td>255</td>
@@ -1985,6 +2635,26 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Pure metallic red</td>
+<td>LP-46</td>
+<td>Lacquer Paint</td>
+<td>223</td>
+<td>0</td>
+<td>18</td>
+<td>#DF0012</td>
+<td style="background-color: #DF0012" ><img src="https://via.placeholder.com/40/DF0012/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pure orange</td>
+<td>LP-51</td>
+<td>Lacquer Paint</td>
+<td>241</td>
+<td>141</td>
+<td>1</td>
+<td>#F18D01</td>
+<td style="background-color: #F18D01" ><img src="https://via.placeholder.com/40/F18D01/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Pure orange</td>
 <td>TS-98</td>
 <td>Tamiya Spray</td>
@@ -1993,6 +2663,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pure red</td>
+<td>LP-7</td>
+<td>Lacquer Paint</td>
+<td>231</td>
+<td>0</td>
+<td>18</td>
+<td>#E70012</td>
+<td style="background-color: #E70012" ><img src="https://via.placeholder.com/40/E70012/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pure red</td>
@@ -2013,6 +2693,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pure yellow</td>
+<td>LP-8</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>240</td>
+<td>1</td>
+<td>#FFF001</td>
+<td style="background-color: #FFF001" ><img src="https://via.placeholder.com/40/FFF001/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Purple</td>
@@ -2046,6 +2736,16 @@
 </tr>
 <tr>
 <td>Racing blue</td>
+<td>LP-45</td>
+<td>Lacquer Paint</td>
+<td>1</td>
+<td>59</td>
+<td>143</td>
+<td>#013B8F</td>
+<td style="background-color: #013B8F" ><img src="https://via.placeholder.com/40/013B8F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Racing blue</td>
 <td>TS-51</td>
 <td>Tamiya Spray</td>
 <td>14</td>
@@ -2075,6 +2775,16 @@
 <td style="background-color: #E6E6E6" ><img src="https://via.placeholder.com/40/E6E6E6/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Racing white</td>
+<td>LP-39</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Red</td>
 <td>X-7</td>
 <td>Acrylics Mini Gloss</td>
@@ -2083,6 +2793,16 @@
 <td>0</td>
 <td>#FF0000</td>
 <td style="background-color: #FF0000" ><img src="https://via.placeholder.com/40/FF0000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Red brown</td>
+<td>TS-1</td>
+<td>Tamiya Spray</td>
+<td>102</td>
+<td>55</td>
+<td>10</td>
+<td>#66370A</td>
+<td style="background-color: #66370A" ><img src="https://via.placeholder.com/40/66370A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red brown</td>
@@ -2095,14 +2815,14 @@
 <td style="background-color: #66370A" ><img src="https://via.placeholder.com/40/66370A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Red brown</td>
-<td>TS-1</td>
-<td>Tamiya Spray</td>
-<td>102</td>
+<td>Red brown 2</td>
+<td>LP-57</td>
+<td>Lacquer Paint</td>
+<td>79</td>
 <td>55</td>
-<td>10</td>
-<td>#66370A</td>
-<td style="background-color: #66370A" ><img src="https://via.placeholder.com/40/66370A/000000?text=+" /></td>
+<td>51</td>
+<td>#4F3733</td>
+<td style="background-color: #4F3733" ><img src="https://via.placeholder.com/40/4F3733/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red brown 2</td>
@@ -2156,6 +2876,16 @@
 </tr>
 <tr>
 <td>Rubber black</td>
+<td>LP-65</td>
+<td>Lacquer Paint</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rubber black</td>
 <td>TS-82</td>
 <td>Tamiya Spray</td>
 <td>68</td>
@@ -2186,6 +2916,16 @@
 </tr>
 <tr>
 <td>Semi gloss black</td>
+<td>LP-5</td>
+<td>Lacquer Paint</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>#040000</td>
+<td style="background-color: #040000" ><img src="https://via.placeholder.com/40/040000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Semi gloss black</td>
 <td>X-18</td>
 <td>Acrylics Mini Gloss</td>
 <td>51</td>
@@ -2203,6 +2943,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Semi gloss clear</td>
+<td>LP-24</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>254</td>
+<td>#FFFFFE</td>
+<td style="background-color: #FFFFFE" ><img src="https://via.placeholder.com/40/FFFFFE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Semi-gloss bright gun metal</td>
@@ -2223,6 +2973,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>LP-11</td>
+<td>Lacquer Paint</td>
+<td>223</td>
+<td>223</td>
+<td>223</td>
+<td>#DFDFDF</td>
+<td style="background-color: #DFDFDF" ><img src="https://via.placeholder.com/40/DFDFDF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Silver leaf</td>
@@ -2266,6 +3026,16 @@
 </tr>
 <tr>
 <td>Smoke</td>
+<td>LP-67</td>
+<td>Lacquer Paint</td>
+<td>199</td>
+<td>201</td>
+<td>200</td>
+<td>#C7C9C8</td>
+<td style="background-color: #C7C9C8" ><img src="https://via.placeholder.com/40/C7C9C8/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Smoke</td>
 <td>X-19</td>
 <td>Acrylics Mini Gloss</td>
 <td>143</td>
@@ -2283,6 +3053,16 @@
 <td>174</td>
 <td>#B3AAAE</td>
 <td style="background-color: #B3AAAE" ><img src="https://via.placeholder.com/40/B3AAAE/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sparkling silver</td>
+<td>LP-48</td>
+<td>Lacquer Paint</td>
+<td>222</td>
+<td>224</td>
+<td>223</td>
+<td>#DEE0DF</td>
+<td style="background-color: #DEE0DF" ><img src="https://via.placeholder.com/40/DEE0DF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Tan</td>
@@ -2315,6 +3095,16 @@
 <td style="background-color: #C7BA82" ><img src="https://via.placeholder.com/40/C7BA82/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Titanium gold</td>
+<td>LP-62</td>
+<td>Lacquer Paint</td>
+<td>218</td>
+<td>201</td>
+<td>147</td>
+<td>#DAC993</td>
+<td style="background-color: #DAC993" ><img src="https://via.placeholder.com/40/DAC993/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Titanium silver</td>
 <td>TS-88</td>
 <td>Tamiya Spray</td>
@@ -2323,6 +3113,16 @@
 <td>194</td>
 <td>#C6CDC2</td>
 <td style="background-color: #C6CDC2" ><img src="https://via.placeholder.com/40/C6CDC2/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Titanium silver</td>
+<td>LP-63</td>
+<td>Lacquer Paint</td>
+<td>219</td>
+<td>220</td>
+<td>206</td>
+<td>#DBDCCE</td>
+<td style="background-color: #DBDCCE" ><img src="https://via.placeholder.com/40/DBDCCE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Titanium silver</td>
@@ -2336,6 +3136,16 @@
 </tr>
 <tr>
 <td>White</td>
+<td>LP-2</td>
+<td>Lacquer Paint</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>White</td>
 <td>X-2</td>
 <td>Acrylics Mini Gloss</td>
 <td>255</td>
@@ -2343,6 +3153,16 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Wooden deck tan</td>
+<td>LP-16</td>
+<td>Lacquer Paint</td>
+<td>172</td>
+<td>161</td>
+<td>132</td>
+<td>#ACA184</td>
+<td style="background-color: #ACA184" ><img src="https://via.placeholder.com/40/ACA184/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Wooden deck tan</td>
@@ -2383,6 +3203,16 @@
 <td>15</td>
 <td>#B3C60F</td>
 <td style="background-color: #B3C60F" ><img src="https://via.placeholder.com/40/B3C60F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Yellow-brown (DAK 1941)</td>
+<td>LP-76</td>
+<td>Lacquer Paint</td>
+<td>177</td>
+<td>129</td>
+<td>80</td>
+<td>#B18150</td>
+<td style="background-color: #B18150" ><img src="https://via.placeholder.com/40/B18150/000000?text=+" /></td>
 </tr>
 <tr>
 </tbody>

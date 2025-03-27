@@ -3905,6 +3905,16 @@
 <td style="background-color: #8B8A88" ><img src="https://via.placeholder.com/40/8B8A88/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Tawny Flesh</td>
+<td>9444b</td>
+<td>Master Series Paints Bones</td>
+<td>228</td>
+<td>184</td>
+<td>149</td>
+<td>#E4B895</td>
+<td style="background-color: #E4B895" ><img src="https://via.placeholder.com/40/E4B895/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Tempest Grey</td>
 <td>9438</td>
 <td>Master Series Paints Bones</td>

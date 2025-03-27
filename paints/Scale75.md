@@ -77,6 +77,15 @@
 <td style="background-color: #BE331E" ><img src="https://via.placeholder.com/40/BE331E/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Alizarin Green</td>
+<td>Artist Range</td>
+<td>38</td>
+<td>148</td>
+<td>75</td>
+<td>#26944B</td>
+<td style="background-color: #26944B" ><img src="https://via.placeholder.com/40/26944B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Amarth Blue</td>
 <td>Fantasy & Games Range</td>
 <td>5</td>
@@ -302,6 +311,15 @@
 <td style="background-color: #004834" ><img src="https://via.placeholder.com/40/004834/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Black Ink</td>
+<td>Artist Range</td>
+<td>27</td>
+<td>26</td>
+<td>24</td>
+<td>#1B1A18</td>
+<td style="background-color: #1B1A18" ><img src="https://via.placeholder.com/40/1B1A18/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Black Leather</td>
 <td>Scale Color Range</td>
 <td>66</td>
@@ -419,6 +437,15 @@
 <td style="background-color: #B29D82" ><img src="https://via.placeholder.com/40/B29D82/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Burgundy Wine Red</td>
+<td>Artist Range</td>
+<td>90</td>
+<td>34</td>
+<td>18</td>
+<td>#5A2212</td>
+<td style="background-color: #5A2212" ><img src="https://via.placeholder.com/40/5A2212/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Burnt Sienna</td>
 <td>Artist Range</td>
 <td>124</td>
@@ -482,6 +509,15 @@
 <td style="background-color: #2A4F58" ><img src="https://via.placeholder.com/40/2A4F58/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Chesknut Ink</td>
+<td>Artist Range</td>
+<td>64</td>
+<td>54</td>
+<td>45</td>
+<td>#40362D</td>
+<td style="background-color: #40362D" ><img src="https://via.placeholder.com/40/40362D/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Chink Orange</td>
 <td>Fantasy & Games Range</td>
 <td>178</td>
@@ -527,6 +563,15 @@
 <td style="background-color: #7FA2B5" ><img src="https://via.placeholder.com/40/7FA2B5/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Cobalt Violet Grey</td>
+<td>Artist Range</td>
+<td>115</td>
+<td>118</td>
+<td>139</td>
+<td>#73768B</td>
+<td style="background-color: #73768B" ><img src="https://via.placeholder.com/40/73768B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Cokum Copper</td>
 <td>Fantasy & Games Range</td>
 <td>163</td>
@@ -534,6 +579,24 @@
 <td>33</td>
 <td>#A37021</td>
 <td style="background-color: #A37021" ><img src="https://via.placeholder.com/40/A37021/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Coral Red</td>
+<td>Artist Range</td>
+<td>247</td>
+<td>55</td>
+<td>36</td>
+<td>#F73724</td>
+<td style="background-color: #F73724" ><img src="https://via.placeholder.com/40/F73724/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Cork Brown</td>
+<td>Artist Range</td>
+<td>159</td>
+<td>141</td>
+<td>120</td>
+<td>#9F8D78</td>
+<td style="background-color: #9F8D78" ><img src="https://via.placeholder.com/40/9F8D78/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Corrupted Stamina</td>
@@ -561,6 +624,15 @@
 <td>53</td>
 <td>#C22335</td>
 <td style="background-color: #C22335" ><img src="https://via.placeholder.com/40/C22335/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Crimson Ink</td>
+<td>Artist Range</td>
+<td>159</td>
+<td>28</td>
+<td>43</td>
+<td>#9F1C2B</td>
+<td style="background-color: #9F1C2B" ><img src="https://via.placeholder.com/40/9F1C2B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Brown Ochre</td>
@@ -597,6 +669,15 @@
 <td>0</td>
 <td>#210200</td>
 <td style="background-color: #210200" ><img src="https://via.placeholder.com/40/210200/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Prussian Blue</td>
+<td>Artist Range</td>
+<td>37</td>
+<td>36</td>
+<td>48</td>
+<td>#252430</td>
+<td style="background-color: #252430" ><img src="https://via.placeholder.com/40/252430/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Rust</td>
@@ -1373,6 +1454,15 @@
 <td style="background-color: #FC9363" ><img src="https://via.placeholder.com/40/FC9363/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Jade Green</td>
+<td>Artist Range</td>
+<td>47</td>
+<td>190</td>
+<td>175</td>
+<td>#2FBEAF</td>
+<td style="background-color: #2FBEAF" ><img src="https://via.placeholder.com/40/2FBEAF/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Jorildyn Turquoise</td>
 <td>Fantasy & Games Range</td>
 <td>6</td>
@@ -1407,6 +1497,15 @@
 <td>112</td>
 <td>#404F70</td>
 <td style="background-color: #404F70" ><img src="https://via.placeholder.com/40/404F70/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lemon Yellow</td>
+<td>Artist Range</td>
+<td>235</td>
+<td>234</td>
+<td>82</td>
+<td>#EBEA52</td>
+<td style="background-color: #EBEA52" ><img src="https://via.placeholder.com/40/EBEA52/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lendanis Grey</td>
@@ -1455,21 +1554,21 @@
 </tr>
 <tr>
 <td>Light Skin</td>
-<td>Artist Range</td>
-<td>211</td>
-<td>181</td>
-<td>173</td>
-<td>#D3B5AD</td>
-<td style="background-color: #D3B5AD" ><img src="https://via.placeholder.com/40/D3B5AD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Skin</td>
 <td>Scale Color Range</td>
 <td>226</td>
 <td>184</td>
 <td>144</td>
 <td>#E2B890</td>
 <td style="background-color: #E2B890" ><img src="https://via.placeholder.com/40/E2B890/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Skin</td>
+<td>Artist Range</td>
+<td>211</td>
+<td>181</td>
+<td>173</td>
+<td>#D3B5AD</td>
+<td style="background-color: #D3B5AD" ><img src="https://via.placeholder.com/40/D3B5AD/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Sky</td>
@@ -1497,6 +1596,15 @@
 <td>131</td>
 <td>#FDEA83</td>
 <td style="background-color: #FDEA83" ><img src="https://via.placeholder.com/40/FDEA83/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lime Green</td>
+<td>Artist Range</td>
+<td>172</td>
+<td>228</td>
+<td>74</td>
+<td>#ACE44A</td>
+<td style="background-color: #ACE44A" ><img src="https://via.placeholder.com/40/ACE44A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Love Affair</td>
@@ -1697,6 +1805,60 @@
 <td style="background-color: #303038" ><img src="https://via.placeholder.com/40/303038/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Neon Blue</td>
+<td>Artist Range</td>
+<td>14</td>
+<td>129</td>
+<td>214</td>
+<td>#0E81D6</td>
+<td style="background-color: #0E81D6" ><img src="https://via.placeholder.com/40/0E81D6/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neon Green</td>
+<td>Artist Range</td>
+<td>98</td>
+<td>246</td>
+<td>135</td>
+<td>#62F687</td>
+<td style="background-color: #62F687" ><img src="https://via.placeholder.com/40/62F687/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neon Orange</td>
+<td>Artist Range</td>
+<td>255</td>
+<td>158</td>
+<td>14</td>
+<td>#FF9E0E</td>
+<td style="background-color: #FF9E0E" ><img src="https://via.placeholder.com/40/FF9E0E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neon Pink</td>
+<td>Artist Range</td>
+<td>254</td>
+<td>63</td>
+<td>71</td>
+<td>#FE3F47</td>
+<td style="background-color: #FE3F47" ><img src="https://via.placeholder.com/40/FE3F47/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neon Red</td>
+<td>Artist Range</td>
+<td>239</td>
+<td>50</td>
+<td>29</td>
+<td>#EF321D</td>
+<td style="background-color: #EF321D" ><img src="https://via.placeholder.com/40/EF321D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neon Yellow</td>
+<td>Artist Range</td>
+<td>237</td>
+<td>254</td>
+<td>90</td>
+<td>#EDFE5A</td>
+<td style="background-color: #EDFE5A" ><img src="https://via.placeholder.com/40/EDFE5A/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Ocean Blue</td>
 <td>Warfront  Range</td>
 <td>12</td>
@@ -1788,21 +1950,21 @@
 </tr>
 <tr>
 <td>Orange</td>
-<td>Artist Range</td>
-<td>212</td>
-<td>91</td>
-<td>20</td>
-<td>#D45B14</td>
-<td style="background-color: #D45B14" ><img src="https://via.placeholder.com/40/D45B14/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
 <td>Warfront  Range</td>
 <td>233</td>
 <td>103</td>
 <td>15</td>
 <td>#E9670F</td>
 <td style="background-color: #E9670F" ><img src="https://via.placeholder.com/40/E9670F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orange</td>
+<td>Artist Range</td>
+<td>212</td>
+<td>91</td>
+<td>20</td>
+<td>#D45B14</td>
+<td style="background-color: #D45B14" ><img src="https://via.placeholder.com/40/D45B14/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange Leather</td>
@@ -1832,6 +1994,15 @@
 <td style="background-color: #DB7D73" ><img src="https://via.placeholder.com/40/DB7D73/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Oxford Blue</td>
+<td>Artist Range</td>
+<td>67</td>
+<td>78</td>
+<td>168</td>
+<td>#434EA8</td>
+<td style="background-color: #434EA8" ><img src="https://via.placeholder.com/40/434EA8/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Pale Dust</td>
 <td>Soil Works</td>
 <td>234</td>
@@ -1857,6 +2028,15 @@
 <td>207</td>
 <td>#F1D9CF</td>
 <td style="background-color: #F1D9CF" ><img src="https://via.placeholder.com/40/F1D9CF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pale Skin</td>
+<td>Artist Range</td>
+<td>243</td>
+<td>214</td>
+<td>207</td>
+<td>#F3D6CF</td>
+<td style="background-color: #F3D6CF" ><img src="https://via.placeholder.com/40/F3D6CF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Panzer Grey</td>
@@ -1904,6 +2084,15 @@
 <td style="background-color: #929D97" ><img src="https://via.placeholder.com/40/929D97/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Pastel Pink</td>
+<td>Artist Range</td>
+<td>217</td>
+<td>122</td>
+<td>186</td>
+<td>#D97ABA</td>
+<td style="background-color: #D97ABA" ><img src="https://via.placeholder.com/40/D97ABA/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Pastel Violet</td>
 <td>Artist Range</td>
 <td>128</td>
@@ -1938,6 +2127,15 @@
 <td>120</td>
 <td>#8A8D78</td>
 <td style="background-color: #8A8D78" ><img src="https://via.placeholder.com/40/8A8D78/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Permanent Orange</td>
+<td>Artist Range</td>
+<td>255</td>
+<td>107</td>
+<td>13</td>
+<td>#FF6B0D</td>
+<td style="background-color: #FF6B0D" ><img src="https://via.placeholder.com/40/FF6B0D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Petroleum Gray</td>
@@ -1983,6 +2181,15 @@
 <td>102</td>
 <td>#BD7066</td>
 <td style="background-color: #BD7066" ><img src="https://via.placeholder.com/40/BD7066/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pistachio Green Ink</td>
+<td>Artist Range</td>
+<td>192</td>
+<td>207</td>
+<td>24</td>
+<td>#C0CF18</td>
+<td style="background-color: #C0CF18" ><img src="https://via.placeholder.com/40/C0CF18/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Primary Blue</td>
@@ -2399,6 +2606,15 @@
 <td style="background-color: #2496C8" ><img src="https://via.placeholder.com/40/2496C8/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Sky Blue</td>
+<td>Artist Range</td>
+<td>192</td>
+<td>228</td>
+<td>237</td>
+<td>#C0E4ED</td>
+<td style="background-color: #C0E4ED" ><img src="https://via.placeholder.com/40/C0E4ED/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Slate Gray</td>
 <td>Warfront  Range</td>
 <td>55</td>
@@ -2705,6 +2921,15 @@
 <td style="background-color: #41342B" ><img src="https://via.placeholder.com/40/41342B/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Titanium Grey</td>
+<td>Artist Range</td>
+<td>64</td>
+<td>68</td>
+<td>69</td>
+<td>#404445</td>
+<td style="background-color: #404445" ><img src="https://via.placeholder.com/40/404445/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Toad Green</td>
 <td>Instant Colors Range</td>
 <td>71</td>
@@ -2732,6 +2957,15 @@
 <td style="background-color: #C7D538" ><img src="https://via.placeholder.com/40/C7D538/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Turquoise</td>
+<td>Artist Range</td>
+<td>3</td>
+<td>67</td>
+<td>95</td>
+<td>#03435F</td>
+<td style="background-color: #03435F" ><img src="https://via.placeholder.com/40/03435F/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Turquoise Blue</td>
 <td>Artist Range</td>
 <td>21</td>
@@ -2739,6 +2973,15 @@
 <td>142</td>
 <td>#15998E</td>
 <td style="background-color: #15998E" ><img src="https://via.placeholder.com/40/15998E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Turquoise Ink</td>
+<td>Artist Range</td>
+<td>32</td>
+<td>76</td>
+<td>80</td>
+<td>#204C50</td>
+<td style="background-color: #204C50" ><img src="https://via.placeholder.com/40/204C50/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Undead Dragon</td>
@@ -2822,6 +3065,15 @@
 <td style="background-color: #8D591F" ><img src="https://via.placeholder.com/40/8D591F/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Violet</td>
+<td>Artist Range</td>
+<td>42</td>
+<td>28</td>
+<td>81</td>
+<td>#2A1C51</td>
+<td style="background-color: #2A1C51" ><img src="https://via.placeholder.com/40/2A1C51/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Violet Blue</td>
 <td>Scale Color Range</td>
 <td>96</td>
@@ -2874,6 +3126,15 @@
 <td>255</td>
 <td>#FFFFFF</td>
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>White Ink</td>
+<td>Artist Range</td>
+<td>247</td>
+<td>247</td>
+<td>247</td>
+<td>#F7F7F7</td>
+<td style="background-color: #F7F7F7" ><img src="https://via.placeholder.com/40/F7F7F7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>White Metal</td>
@@ -2946,6 +3207,15 @@
 <td>46</td>
 <td>#A0702E</td>
 <td style="background-color: #A0702E" ><img src="https://via.placeholder.com/40/A0702E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Yellow Oxide</td>
+<td>Artist Range</td>
+<td>75</td>
+<td>53</td>
+<td>39</td>
+<td>#4B3527</td>
+<td style="background-color: #4B3527" ><img src="https://via.placeholder.com/40/4B3527/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Zombie Skin</td>

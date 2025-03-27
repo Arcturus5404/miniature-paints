@@ -39,20 +39,20 @@
 <td>71.283</td>
 <td>Model Air</td>
 <td>120</td>
-<td>113</td>
-<td>87</td>
-<td>#787157</td>
-<td style="background-color: #787157" ><img src="https://via.placeholder.com/40/787157/000000?text=+" /></td>
+<td>112</td>
+<td>89</td>
+<td>#787059</td>
+<td style="background-color: #787059" ><img src="https://via.placeholder.com/40/787059/000000?text=+" /></td>
 </tr>
 <tr>
 <td>A-14 Steel Grey</td>
 <td>71.336</td>
 <td>Model Air</td>
-<td>104</td>
+<td>105</td>
 <td>114</td>
 <td>113</td>
-<td>#687271</td>
-<td style="background-color: #687271" ><img src="https://via.placeholder.com/40/687271/000000?text=+" /></td>
+<td>#697271</td>
+<td style="background-color: #697271" ><img src="https://via.placeholder.com/40/697271/000000?text=+" /></td>
 </tr>
 <tr>
 <td>A-24M Camouflage Green</td>
@@ -128,11 +128,41 @@
 <td>AMT-7 Greyish Blue</td>
 <td>71.318</td>
 <td>Model Air</td>
-<td>97</td>
-<td>140</td>
+<td>98</td>
+<td>139</td>
 <td>159</td>
-<td>#618C9F</td>
-<td style="background-color: #618C9F" ><img src="https://via.placeholder.com/40/618C9F/000000?text=+" /></td>
+<td>#628B9F</td>
+<td style="background-color: #628B9F" ><img src="https://via.placeholder.com/40/628B9F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Abyssal Turquoise</td>
+<td>76.120</td>
+<td>Game Air</td>
+<td>27</td>
+<td>62</td>
+<td>84</td>
+<td>#1B3E54</td>
+<td style="background-color: #1B3E54" ><img src="https://via.placeholder.com/40/1B3E54/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Abyssal Turquoise</td>
+<td>72.120</td>
+<td>Game Color</td>
+<td>27</td>
+<td>62</td>
+<td>84</td>
+<td>#1B3E54</td>
+<td style="background-color: #1B3E54" ><img src="https://via.placeholder.com/40/1B3E54/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Acid</td>
+<td>72.607</td>
+<td>Game Color Special FX</td>
+<td>83</td>
+<td>158</td>
+<td>93</td>
+<td>#539E5D</td>
+<td style="background-color: #539E5D" ><img src="https://via.placeholder.com/40/539E5D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Afrikakorps Tank Crew</td>
@@ -148,11 +178,11 @@
 <td>Afrikakorps Tank Crew Highlights</td>
 <td>70.340</td>
 <td>Panzer Aces</td>
-<td>170</td>
+<td>169</td>
 <td>157</td>
-<td>115</td>
-<td>#AA9D73</td>
-<td style="background-color: #AA9D73" ><img src="https://via.placeholder.com/40/AA9D73/000000?text=+" /></td>
+<td>117</td>
+<td>#A99D75</td>
+<td style="background-color: #A99D75" ><img src="https://via.placeholder.com/40/A99D75/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Aged White</td>
@@ -186,23 +216,43 @@
 </tr>
 <tr>
 <td>Alien Purple</td>
-<td>28.025</td>
-<td>Hobby Paint</td>
-<td>112</td>
-<td>99</td>
-<td>169</td>
-<td>#7063A9</td>
-<td style="background-color: #7063A9" ><img src="https://via.placeholder.com/40/7063A9/000000?text=+" /></td>
+<td>72.076</td>
+<td>Game Color</td>
+<td>113</td>
+<td>97</td>
+<td>168</td>
+<td>#7161A8</td>
+<td style="background-color: #7161A8" ><img src="https://via.placeholder.com/40/7161A8/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Aluminum</td>
+<td>Alien Purple</td>
+<td>76.076</td>
+<td>Game Air</td>
+<td>113</td>
+<td>97</td>
+<td>168</td>
+<td>#7161A8</td>
+<td style="background-color: #7161A8" ><img src="https://via.placeholder.com/40/7161A8/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Alien Purple</td>
+<td>28.025</td>
+<td>Hobby Paint</td>
+<td>113</td>
+<td>97</td>
+<td>168</td>
+<td>#7161A8</td>
+<td style="background-color: #7161A8" ><img src="https://via.placeholder.com/40/7161A8/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Aluminium</td>
 <td>77.701</td>
 <td>Metal Color</td>
-<td>213</td>
-<td>211</td>
-<td>214</td>
-<td>#D5D3D6</td>
-<td style="background-color: #D5D3D6" ><img src="https://via.placeholder.com/40/D5D3D6/000000?text=+" /></td>
+<td>174</td>
+<td>174</td>
+<td>174</td>
+<td>#AEAEAE</td>
+<td style="background-color: #AEAEAE" ><img src="https://via.placeholder.com/40/AEAEAE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Aluminum (Metallic)</td>
@@ -210,19 +260,19 @@
 <td>Model Air</td>
 <td>172</td>
 <td>172</td>
-<td>180</td>
-<td>#ACACB4</td>
-<td style="background-color: #ACACB4" ><img src="https://via.placeholder.com/40/ACACB4/000000?text=+" /></td>
+<td>182</td>
+<td>#ACACB6</td>
+<td style="background-color: #ACACB6" ><img src="https://via.placeholder.com/40/ACACB6/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Amaranth Red</td>
 <td>70.829</td>
 <td>Model Color</td>
-<td>189</td>
-<td>83</td>
-<td>59</td>
-<td>#BD533B</td>
-<td style="background-color: #BD533B" ><img src="https://via.placeholder.com/40/BD533B/000000?text=+" /></td>
+<td>209</td>
+<td>78</td>
+<td>48</td>
+<td>#D14E30</td>
+<td style="background-color: #D14E30" ><img src="https://via.placeholder.com/40/D14E30/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Amethyst</td>
@@ -238,11 +288,31 @@
 <td>Andrea Blue</td>
 <td>70.841</td>
 <td>Model Color</td>
-<td>12</td>
-<td>151</td>
-<td>194</td>
-<td>#0C97C2</td>
-<td style="background-color: #0C97C2" ><img src="https://via.placeholder.com/40/0C97C2/000000?text=+" /></td>
+<td>2</td>
+<td>112</td>
+<td>175</td>
+<td>#0270AF</td>
+<td style="background-color: #0270AF" ><img src="https://via.placeholder.com/40/0270AF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Angel Green</td>
+<td>72.123</td>
+<td>Game Color</td>
+<td>50</td>
+<td>77</td>
+<td>44</td>
+<td>#324D2C</td>
+<td style="background-color: #324D2C" ><img src="https://via.placeholder.com/40/324D2C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Angel Green</td>
+<td>76.123</td>
+<td>Game Air</td>
+<td>50</td>
+<td>77</td>
+<td>44</td>
+<td>#324D2C</td>
+<td style="background-color: #324D2C" ><img src="https://via.placeholder.com/40/324D2C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Anthracite Grey</td>
@@ -295,6 +365,16 @@
 <td style="background-color: #99DA84" ><img src="https://via.placeholder.com/40/99DA84/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Aquamarine</td>
+<td>72.119</td>
+<td>Game Color</td>
+<td>0</td>
+<td>124</td>
+<td>116</td>
+<td>#007C74</td>
+<td style="background-color: #007C74" ><img src="https://via.placeholder.com/40/007C74/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Arctic Blue (Metallic)</td>
 <td>71.071</td>
 <td>Model Air</td>
@@ -325,6 +405,16 @@
 <td style="background-color: #FEE8D9" ><img src="https://via.placeholder.com/40/FEE8D9/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Armor Green</td>
+<td>72.466</td>
+<td>Xpress Color</td>
+<td>30</td>
+<td>70</td>
+<td>43</td>
+<td>#1E462B</td>
+<td style="background-color: #1E462B" ><img src="https://via.placeholder.com/40/1E462B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Armour Brown</td>
 <td>71.041</td>
 <td>Model Air</td>
@@ -333,6 +423,26 @@
 <td>64</td>
 <td>#4F4140</td>
 <td style="background-color: #4F4140" ><img src="https://via.placeholder.com/40/4F4140/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Athena Skin</td>
+<td>72.107</td>
+<td>Game Color</td>
+<td>200</td>
+<td>91</td>
+<td>84</td>
+<td>#C85B54</td>
+<td style="background-color: #C85B54" ><img src="https://via.placeholder.com/40/C85B54/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Athena Skin</td>
+<td>76.107</td>
+<td>Game Air</td>
+<td>200</td>
+<td>91</td>
+<td>84</td>
+<td>#C85B54</td>
+<td style="background-color: #C85B54" ><img src="https://via.placeholder.com/40/C85B54/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Autumn Red</td>
@@ -348,11 +458,21 @@
 <td>Azure</td>
 <td>70.902</td>
 <td>Model Color</td>
+<td>91</td>
 <td>107</td>
-<td>141</td>
-<td>187</td>
-<td>#6B8DBB</td>
-<td style="background-color: #6B8DBB" ><img src="https://via.placeholder.com/40/6B8DBB/000000?text=+" /></td>
+<td>158</td>
+<td>#5B6B9E</td>
+<td style="background-color: #5B6B9E" ><img src="https://via.placeholder.com/40/5B6B9E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>BC Dark Brown</td>
+<td>70.768</td>
+<td>Model Color</td>
+<td>118</td>
+<td>86</td>
+<td>61</td>
+<td>#76563D</td>
+<td style="background-color: #76563D" ><img src="https://via.placeholder.com/40/76563D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>BS Dark Earth</td>
@@ -378,11 +498,11 @@
 <td>BS Medium Sea Grey</td>
 <td>71.307</td>
 <td>Model Air</td>
-<td>127</td>
-<td>137</td>
+<td>128</td>
+<td>136</td>
 <td>139</td>
-<td>#7F898B</td>
-<td style="background-color: #7F898B" ><img src="https://via.placeholder.com/40/7F898B/000000?text=+" /></td>
+<td>#80888B</td>
+<td style="background-color: #80888B" ><img src="https://via.placeholder.com/40/80888B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Baby Blue</td>
@@ -405,6 +525,16 @@
 <td style="background-color: #FEA8D6" ><img src="https://via.placeholder.com/40/FEA8D6/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Bag of Bones</td>
+<td>72.450</td>
+<td>Xpress Color</td>
+<td>193</td>
+<td>161</td>
+<td>110</td>
+<td>#C1A16E</td>
+<td style="background-color: #C1A16E" ><img src="https://via.placeholder.com/40/C1A16E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Barbarian Flesh</td>
 <td>72.771</td>
 <td>Game Air</td>
@@ -415,14 +545,34 @@
 <td style="background-color: #A17C62" ><img src="https://via.placeholder.com/40/A17C62/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Barbarian Skin</td>
+<td>72.071</td>
+<td>Game Color</td>
+<td>146</td>
+<td>102</td>
+<td>65</td>
+<td>#926641</td>
+<td style="background-color: #926641" ><img src="https://via.placeholder.com/40/926641/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Barbarian Skin</td>
+<td>76.071</td>
+<td>Game Air</td>
+<td>146</td>
+<td>102</td>
+<td>65</td>
+<td>#926641</td>
+<td style="background-color: #926641" ><img src="https://via.placeholder.com/40/926641/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Basalt Grey</td>
 <td>70.869</td>
 <td>Model Color</td>
-<td>100</td>
-<td>105</td>
-<td>111</td>
-<td>#64696F</td>
-<td style="background-color: #64696F" ><img src="https://via.placeholder.com/40/64696F/000000?text=+" /></td>
+<td>92</td>
+<td>90</td>
+<td>93</td>
+<td>#5C5A5D</td>
+<td style="background-color: #5C5A5D" ><img src="https://via.placeholder.com/40/5C5A5D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Base Flesh</td>
@@ -458,11 +608,11 @@
 <td>Basic Skin Tone</td>
 <td>70.815</td>
 <td>Model Color</td>
-<td>240</td>
-<td>186</td>
-<td>158</td>
-<td>#F0BA9E</td>
-<td style="background-color: #F0BA9E" ><img src="https://via.placeholder.com/40/F0BA9E/000000?text=+" /></td>
+<td>233</td>
+<td>172</td>
+<td>141</td>
+<td>#E9AC8D</td>
+<td style="background-color: #E9AC8D" ><img src="https://via.placeholder.com/40/E9AC8D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Basic Yellow</td>
@@ -475,24 +625,34 @@
 <td style="background-color: #FEC303" ><img src="https://via.placeholder.com/40/FEC303/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Battledress Brown</td>
+<td>72.473</td>
+<td>Xpress Color</td>
+<td>93</td>
+<td>76</td>
+<td>50</td>
+<td>#5D4C32</td>
+<td style="background-color: #5D4C32" ><img src="https://via.placeholder.com/40/5D4C32/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Beasty Brown</td>
-<td>28.019</td>
-<td>Hobby Paint</td>
-<td>122</td>
-<td>90</td>
-<td>69</td>
-<td>#7A5A45</td>
-<td style="background-color: #7A5A45" ><img src="https://via.placeholder.com/40/7A5A45/000000?text=+" /></td>
+<td>76.043</td>
+<td>Game Air</td>
+<td>124</td>
+<td>82</td>
+<td>34</td>
+<td>#7C5222</td>
+<td style="background-color: #7C5222" ><img src="https://via.placeholder.com/40/7C5222/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Beasty Brown</td>
 <td>72.043</td>
 <td>Game Color</td>
-<td>118</td>
-<td>86</td>
-<td>61</td>
-<td>#76563D</td>
-<td style="background-color: #76563D" ><img src="https://via.placeholder.com/40/76563D/000000?text=+" /></td>
+<td>127</td>
+<td>85</td>
+<td>37</td>
+<td>#7F5525</td>
+<td style="background-color: #7F5525" ><img src="https://via.placeholder.com/40/7F5525/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Beasty Brown</td>
@@ -505,44 +665,54 @@
 <td style="background-color: #7A543D" ><img src="https://via.placeholder.com/40/7A543D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Beige</td>
-<td>71.074</td>
-<td>Model Air</td>
-<td>227</td>
-<td>193</td>
-<td>130</td>
-<td>#E3C182</td>
-<td style="background-color: #E3C182" ><img src="https://via.placeholder.com/40/E3C182/000000?text=+" /></td>
+<td>Beasty Brown</td>
+<td>28.019</td>
+<td>Hobby Paint</td>
+<td>120</td>
+<td>88</td>
+<td>65</td>
+<td>#785841</td>
+<td style="background-color: #785841" ><img src="https://via.placeholder.com/40/785841/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Beige</td>
 <td>70.917</td>
 <td>Model Color</td>
-<td>218</td>
-<td>186</td>
-<td>129</td>
-<td>#DABA81</td>
-<td style="background-color: #DABA81" ><img src="https://via.placeholder.com/40/DABA81/000000?text=+" /></td>
+<td>223</td>
+<td>190</td>
+<td>111</td>
+<td>#DFBE6F</td>
+<td style="background-color: #DFBE6F" ><img src="https://via.placeholder.com/40/DFBE6F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Beige</td>
+<td>71.074</td>
+<td>Model Air</td>
+<td>228</td>
+<td>192</td>
+<td>130</td>
+<td>#E4C082</td>
+<td style="background-color: #E4C082" ><img src="https://via.placeholder.com/40/E4C082/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Beige Brown</td>
 <td>70.875</td>
 <td>Model Color</td>
-<td>147</td>
-<td>121</td>
-<td>98</td>
-<td>#937962</td>
-<td style="background-color: #937962" ><img src="https://via.placeholder.com/40/937962/000000?text=+" /></td>
+<td>129</td>
+<td>96</td>
+<td>65</td>
+<td>#816041</td>
+<td style="background-color: #816041" ><img src="https://via.placeholder.com/40/816041/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Beige Red</td>
 <td>70.804</td>
 <td>Model Color</td>
-<td>187</td>
-<td>136</td>
-<td>109</td>
-<td>#BB886D</td>
-<td style="background-color: #BB886D" ><img src="https://via.placeholder.com/40/BB886D/000000?text=+" /></td>
+<td>176</td>
+<td>110</td>
+<td>75</td>
+<td>#B06E4B</td>
+<td style="background-color: #B06E4B" ><img src="https://via.placeholder.com/40/B06E4B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Berry Red</td>
@@ -555,24 +725,44 @@
 <td style="background-color: #A81915" ><img src="https://via.placeholder.com/40/A81915/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Black</td>
-<td>71.057</td>
-<td>Model Air</td>
-<td>45</td>
-<td>46</td>
-<td>48</td>
-<td>#2D2E30</td>
-<td style="background-color: #2D2E30" ><img src="https://via.placeholder.com/40/2D2E30/000000?text=+" /></td>
+<td>Bile</td>
+<td>72.606</td>
+<td>Game Color Special FX</td>
+<td>164</td>
+<td>198</td>
+<td>0</td>
+<td>#A4C600</td>
+<td style="background-color: #A4C600" ><img src="https://via.placeholder.com/40/A4C600/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bile Green</td>
+<td>76.122</td>
+<td>Game Air</td>
+<td>213</td>
+<td>217</td>
+<td>0</td>
+<td>#D5D900</td>
+<td style="background-color: #D5D900" ><img src="https://via.placeholder.com/40/D5D900/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bile Green</td>
+<td>72.122</td>
+<td>Game Color</td>
+<td>213</td>
+<td>217</td>
+<td>0</td>
+<td>#D5D900</td>
+<td style="background-color: #D5D900" ><img src="https://via.placeholder.com/40/D5D900/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
-<td>72.051</td>
-<td>Game Color</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>76.051</td>
+<td>Game Air</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
@@ -586,63 +776,53 @@
 </tr>
 <tr>
 <td>Black</td>
-<td>72.094</td>
-<td>Game Color</td>
-<td>40</td>
-<td>39</td>
-<td>34</td>
-<td>#282722</td>
-<td style="background-color: #282722" ><img src="https://via.placeholder.com/40/282722/000000?text=+" /></td>
+<td>71.057</td>
+<td>Model Air</td>
+<td>45</td>
+<td>46</td>
+<td>48</td>
+<td>#2D2E30</td>
+<td style="background-color: #2D2E30" ><img src="https://via.placeholder.com/40/2D2E30/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
 <td>28.012</td>
 <td>Hobby Paint</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>#030303</td>
-<td style="background-color: #030303" ><img src="https://via.placeholder.com/40/030303/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>85.120</td>
-<td>Arte Deco</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>#020202</td>
-<td style="background-color: #020202" ><img src="https://via.placeholder.com/40/020202/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>76.518</td>
-<td>Model Wash</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
 <td>70.602</td>
 <td>Surface Primer</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>#060606</td>
+<td style="background-color: #060606" ><img src="https://via.placeholder.com/40/060606/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
-<td>70.950</td>
-<td>Model Color</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>72.051</td>
+<td>Game Color</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black</td>
+<td>76.518</td>
+<td>Wash FX</td>
+<td>50</td>
+<td>48</td>
+<td>49</td>
+<td>#323031</td>
+<td style="background-color: #323031" ><img src="https://via.placeholder.com/40/323031/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black</td>
@@ -656,6 +836,16 @@
 </tr>
 <tr>
 <td>Black</td>
+<td>72.094</td>
+<td>Game Color</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>#000000</td>
+<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black</td>
 <td>62.020</td>
 <td>Premium Airbrush Color</td>
 <td>1</td>
@@ -663,6 +853,26 @@
 <td>1</td>
 <td>#010101</td>
 <td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black</td>
+<td>85.120</td>
+<td>Arte Deco</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>#020202</td>
+<td style="background-color: #020202" ><img src="https://via.placeholder.com/40/020202/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black</td>
+<td>70.950</td>
+<td>Model Color</td>
+<td>35</td>
+<td>29</td>
+<td>29</td>
+<td>#231D1D</td>
+<td style="background-color: #231D1D" ><img src="https://via.placeholder.com/40/231D1D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black (Metallic)</td>
@@ -686,33 +896,23 @@
 </tr>
 <tr>
 <td>Black Green</td>
-<td>85.163</td>
-<td>Arte Deco</td>
-<td>30</td>
-<td>57</td>
-<td>48</td>
-<td>#1E3930</td>
-<td style="background-color: #1E3930" ><img src="https://via.placeholder.com/40/1E3930/000000?text=+" /></td>
+<td>70.980</td>
+<td>Model Color</td>
+<td>42</td>
+<td>52</td>
+<td>43</td>
+<td>#2A342B</td>
+<td style="background-color: #2A342B" ><img src="https://via.placeholder.com/40/2A342B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Green</td>
 <td>72.090</td>
 <td>Game Color</td>
-<td>15</td>
-<td>101</td>
+<td>61</td>
+<td>99</td>
 <td>74</td>
-<td>#0F654A</td>
-<td style="background-color: #0F654A" ><img src="https://via.placeholder.com/40/0F654A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Green</td>
-<td>70.980</td>
-<td>Model Color</td>
-<td>62</td>
-<td>73</td>
-<td>67</td>
-<td>#3E4943</td>
-<td style="background-color: #3E4943" ><img src="https://via.placeholder.com/40/3E4943/000000?text=+" /></td>
+<td>#3D634A</td>
+<td style="background-color: #3D634A" ><img src="https://via.placeholder.com/40/3D634A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Green</td>
@@ -723,6 +923,16 @@
 <td>76</td>
 <td>#444D4C</td>
 <td style="background-color: #444D4C" ><img src="https://via.placeholder.com/40/444D4C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black Green</td>
+<td>85.163</td>
+<td>Arte Deco</td>
+<td>30</td>
+<td>57</td>
+<td>48</td>
+<td>#1E3930</td>
+<td style="background-color: #1E3930" ><img src="https://via.placeholder.com/40/1E3930/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Green RLM70</td>
@@ -738,11 +948,11 @@
 <td>Black Grey</td>
 <td>70.862</td>
 <td>Model Color</td>
-<td>72</td>
-<td>73</td>
-<td>75</td>
-<td>#48494B</td>
-<td style="background-color: #48494B" ><img src="https://via.placeholder.com/40/48494B/000000?text=+" /></td>
+<td>48</td>
+<td>39</td>
+<td>34</td>
+<td>#302722</td>
+<td style="background-color: #302722" ><img src="https://via.placeholder.com/40/302722/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Grey RLM66</td>
@@ -755,24 +965,64 @@
 <td style="background-color: #505153" ><img src="https://via.placeholder.com/40/505153/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Black Lotus</td>
+<td>72.423</td>
+<td>Xpress Color</td>
+<td>48</td>
+<td>38</td>
+<td>39</td>
+<td>#302627</td>
+<td style="background-color: #302627" ><img src="https://via.placeholder.com/40/302627/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Black Red</td>
 <td>70.859</td>
 <td>Model Color</td>
-<td>81</td>
+<td>85</td>
+<td>47</td>
+<td>44</td>
+<td>#552F2C</td>
+<td style="background-color: #552F2C" ><img src="https://via.placeholder.com/40/552F2C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black Splash Mud</td>
+<td>73.806</td>
+<td>Weathering FX</td>
+<td>39</td>
+<td>38</td>
+<td>43</td>
+<td>#27262B</td>
+<td style="background-color: #27262B" ><img src="https://via.placeholder.com/40/27262B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black Thick Mud</td>
+<td>73.812</td>
+<td>Weathering FX</td>
+<td>38</td>
+<td>38</td>
+<td>38</td>
+<td>#262626</td>
+<td style="background-color: #262626" ><img src="https://via.placeholder.com/40/262626/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Black Violet</td>
+<td>70.751</td>
+<td>Model Color</td>
 <td>57</td>
-<td>55</td>
-<td>#513937</td>
-<td style="background-color: #513937" ><img src="https://via.placeholder.com/40/513937/000000?text=+" /></td>
+<td>42</td>
+<td>49</td>
+<td>#392A31</td>
+<td style="background-color: #392A31" ><img src="https://via.placeholder.com/40/392A31/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Wash</td>
-<td>73.201</td>
-<td>Game Color Wash</td>
-<td>52</td>
-<td>50</td>
-<td>53</td>
-<td>#343235</td>
-<td style="background-color: #343235" ><img src="https://via.placeholder.com/40/343235/000000?text=+" /></td>
+<td>69.518</td>
+<td>Mecha Color</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>#010101</td>
+<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Black Wash</td>
@@ -786,13 +1036,33 @@
 </tr>
 <tr>
 <td>Black Wash</td>
-<td>69.518</td>
-<td>Mecha Color</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>73.201</td>
+<td>Game Color Wash</td>
+<td>52</td>
+<td>50</td>
+<td>53</td>
+<td>#343235</td>
+<td style="background-color: #343235" ><img src="https://via.placeholder.com/40/343235/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bloody Red</td>
+<td>28.023</td>
+<td>Hobby Paint</td>
+<td>191</td>
+<td>27</td>
+<td>51</td>
+<td>#BF1B33</td>
+<td style="background-color: #BF1B33" ><img src="https://via.placeholder.com/40/BF1B33/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bloody Red</td>
+<td>70.632</td>
+<td>Surface Primer</td>
+<td>172</td>
+<td>44</td>
+<td>41</td>
+<td>#AC2C29</td>
+<td style="background-color: #AC2C29" ><img src="https://via.placeholder.com/40/AC2C29/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bloody Red</td>
@@ -808,21 +1078,31 @@
 <td>Bloody Red</td>
 <td>72.010</td>
 <td>Game Color</td>
-<td>191</td>
-<td>17</td>
-<td>52</td>
-<td>#BF1134</td>
-<td style="background-color: #BF1134" ><img src="https://via.placeholder.com/40/BF1134/000000?text=+" /></td>
+<td>212</td>
+<td>28</td>
+<td>28</td>
+<td>#D41C1C</td>
+<td style="background-color: #D41C1C" ><img src="https://via.placeholder.com/40/D41C1C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bloody Red</td>
-<td>28.023</td>
-<td>Hobby Paint</td>
-<td>191</td>
-<td>32</td>
-<td>54</td>
-<td>#BF2036</td>
-<td style="background-color: #BF2036" ><img src="https://via.placeholder.com/40/BF2036/000000?text=+" /></td>
+<td>76.010</td>
+<td>Game Air</td>
+<td>212</td>
+<td>28</td>
+<td>28</td>
+<td>#D41C1C</td>
+<td style="background-color: #D41C1C" ><img src="https://via.placeholder.com/40/D41C1C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Blue</td>
+<td>72.088</td>
+<td>Game Color</td>
+<td>0</td>
+<td>82</td>
+<td>142</td>
+<td>#00528E</td>
+<td style="background-color: #00528E" ><img src="https://via.placeholder.com/40/00528E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue</td>
@@ -836,33 +1116,23 @@
 </tr>
 <tr>
 <td>Blue</td>
-<td>72.088</td>
-<td>Game Color</td>
-<td>0</td>
-<td>76</td>
-<td>154</td>
-<td>#004C9A</td>
-<td style="background-color: #004C9A" ><img src="https://via.placeholder.com/40/004C9A/000000?text=+" /></td>
+<td>71.004</td>
+<td>Model Air</td>
+<td>44</td>
+<td>64</td>
+<td>99</td>
+<td>#2C4063</td>
+<td style="background-color: #2C4063" ><img src="https://via.placeholder.com/40/2C4063/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue</td>
 <td>70.925</td>
 <td>Model Color</td>
-<td>0</td>
-<td>51</td>
-<td>98</td>
-<td>#003362</td>
-<td style="background-color: #003362" ><img src="https://via.placeholder.com/40/003362/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue</td>
-<td>71.004</td>
-<td>Model Air</td>
-<td>42</td>
-<td>65</td>
-<td>99</td>
-<td>#2A4163</td>
-<td style="background-color: #2A4163" ><img src="https://via.placeholder.com/40/2A4163/000000?text=+" /></td>
+<td>55</td>
+<td>44</td>
+<td>76</td>
+<td>#372C4C</td>
+<td style="background-color: #372C4C" ><img src="https://via.placeholder.com/40/372C4C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue Fluorescent</td>
@@ -876,6 +1146,16 @@
 </tr>
 <tr>
 <td>Blue Green</td>
+<td>70.808</td>
+<td>Model Color</td>
+<td>0</td>
+<td>122</td>
+<td>137</td>
+<td>#007A89</td>
+<td style="background-color: #007A89" ><img src="https://via.placeholder.com/40/007A89/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Blue Green</td>
 <td>62.012</td>
 <td>Premium Airbrush Color</td>
 <td>1</td>
@@ -885,34 +1165,14 @@
 <td style="background-color: #017574" ><img src="https://via.placeholder.com/40/017574/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Blue Green</td>
-<td>70.808</td>
-<td>Model Color</td>
-<td>0</td>
-<td>155</td>
-<td>159</td>
-<td>#009B9F</td>
-<td style="background-color: #009B9F" ><img src="https://via.placeholder.com/40/009B9F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey</td>
-<td>71.115</td>
-<td>Model Air</td>
-<td>69</td>
-<td>74</td>
-<td>80</td>
-<td>#454A50</td>
-<td style="background-color: #454A50" ><img src="https://via.placeholder.com/40/454A50/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Blue Grey</td>
 <td>76.524</td>
-<td>Model Wash</td>
-<td>85</td>
-<td>119</td>
-<td>146</td>
-<td>#557792</td>
-<td style="background-color: #557792" ><img src="https://via.placeholder.com/40/557792/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>145</td>
+<td>162</td>
+<td>169</td>
+<td>#91A2A9</td>
+<td style="background-color: #91A2A9" ><img src="https://via.placeholder.com/40/91A2A9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue Grey</td>
@@ -923,6 +1183,16 @@
 <td>149</td>
 <td>#6A8795</td>
 <td style="background-color: #6A8795" ><img src="https://via.placeholder.com/40/6A8795/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Blue Grey</td>
+<td>71.115</td>
+<td>Model Air</td>
+<td>69</td>
+<td>73</td>
+<td>82</td>
+<td>#454952</td>
+<td style="background-color: #454952" ><img src="https://via.placeholder.com/40/454952/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue Grey Mist</td>
@@ -938,11 +1208,11 @@
 <td>Blue Grey Pale</td>
 <td>70.905</td>
 <td>Model Color</td>
-<td>129</td>
-<td>138</td>
-<td>147</td>
-<td>#818A93</td>
-<td style="background-color: #818A93" ><img src="https://via.placeholder.com/40/818A93/000000?text=+" /></td>
+<td>128</td>
+<td>134</td>
+<td>134</td>
+<td>#808686</td>
+<td style="background-color: #808686" ><img src="https://via.placeholder.com/40/808686/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue Maze</td>
@@ -958,11 +1228,11 @@
 <td>Blue Violet</td>
 <td>70.811</td>
 <td>Model Color</td>
-<td>113</td>
-<td>104</td>
-<td>167</td>
-<td>#7168A7</td>
-<td style="background-color: #7168A7" ><img src="https://via.placeholder.com/40/7168A7/000000?text=+" /></td>
+<td>89</td>
+<td>70</td>
+<td>126</td>
+<td>#59467E</td>
+<td style="background-color: #59467E" ><img src="https://via.placeholder.com/40/59467E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Blue Wash</td>
@@ -1016,23 +1286,33 @@
 </tr>
 <tr>
 <td>Bone White</td>
-<td>72.034</td>
-<td>Game Color</td>
-<td>228</td>
-<td>197</td>
-<td>150</td>
-<td>#E4C596</td>
-<td style="background-color: #E4C596" ><img src="https://via.placeholder.com/40/E4C596/000000?text=+" /></td>
+<td>28.013</td>
+<td>Hobby Paint</td>
+<td>212</td>
+<td>190</td>
+<td>153</td>
+<td>#D4BE99</td>
+<td style="background-color: #D4BE99" ><img src="https://via.placeholder.com/40/D4BE99/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bone White</td>
-<td>28.013</td>
-<td>Hobby Paint</td>
-<td>213</td>
-<td>191</td>
-<td>152</td>
-<td>#D5BF98</td>
-<td style="background-color: #D5BF98" ><img src="https://via.placeholder.com/40/D5BF98/000000?text=+" /></td>
+<td>76.034</td>
+<td>Game Air</td>
+<td>190</td>
+<td>163</td>
+<td>116</td>
+<td>#BEA374</td>
+<td style="background-color: #BEA374" ><img src="https://via.placeholder.com/40/BEA374/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bone White</td>
+<td>72.034</td>
+<td>Game Color</td>
+<td>190</td>
+<td>163</td>
+<td>116</td>
+<td>#BEA374</td>
+<td style="background-color: #BEA374" ><img src="https://via.placeholder.com/40/BEA374/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bougainvillea</td>
@@ -1068,11 +1348,11 @@
 <td>Brass</td>
 <td>70.801</td>
 <td>Model Color</td>
-<td>151</td>
-<td>111</td>
-<td>49</td>
-<td>#976F31</td>
-<td style="background-color: #976F31" ><img src="https://via.placeholder.com/40/976F31/000000?text=+" /></td>
+<td>100</td>
+<td>59</td>
+<td>29</td>
+<td>#643B1D</td>
+<td style="background-color: #643B1D" ><img src="https://via.placeholder.com/40/643B1D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brassy Brass</td>
@@ -1088,11 +1368,11 @@
 <td>Brassy Brass</td>
 <td>72.058</td>
 <td>Game Color</td>
-<td>132</td>
-<td>85</td>
-<td>57</td>
-<td>#845539</td>
-<td style="background-color: #845539" ><img src="https://via.placeholder.com/40/845539/000000?text=+" /></td>
+<td>233</td>
+<td>215</td>
+<td>203</td>
+<td>#E9D7CB</td>
+<td style="background-color: #E9D7CB" ><img src="https://via.placeholder.com/40/E9D7CB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bright Brass (Metallic)</td>
@@ -1108,11 +1388,11 @@
 <td>Bright Bronze</td>
 <td>72.057</td>
 <td>Game Color</td>
-<td>163</td>
-<td>105</td>
-<td>65</td>
-<td>#A36941</td>
-<td style="background-color: #A36941" ><img src="https://via.placeholder.com/40/A36941/000000?text=+" /></td>
+<td>231</td>
+<td>213</td>
+<td>191</td>
+<td>#E7D5BF</td>
+<td style="background-color: #E7D5BF" ><img src="https://via.placeholder.com/40/E7D5BF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bright Bronze</td>
@@ -1138,31 +1418,31 @@
 <td>Bright Orange</td>
 <td>70.851</td>
 <td>Model Color</td>
-<td>233</td>
-<td>96</td>
-<td>44</td>
-<td>#E9602C</td>
-<td style="background-color: #E9602C" ><img src="https://via.placeholder.com/40/E9602C/000000?text=+" /></td>
+<td>224</td>
+<td>89</td>
+<td>33</td>
+<td>#E05921</td>
+<td style="background-color: #E05921" ><img src="https://via.placeholder.com/40/E05921/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bright Red</td>
 <td>62.005</td>
 <td>Premium Airbrush Color</td>
 <td>157</td>
-<td>40</td>
-<td>33</td>
-<td>#9D2821</td>
-<td style="background-color: #9D2821" ><img src="https://via.placeholder.com/40/9D2821/000000?text=+" /></td>
+<td>39</td>
+<td>35</td>
+<td>#9D2723</td>
+<td style="background-color: #9D2723" ><img src="https://via.placeholder.com/40/9D2723/000000?text=+" /></td>
 </tr>
 <tr>
 <td>British Tank Crew</td>
 <td>70.317</td>
 <td>Panzer Aces</td>
 <td>117</td>
-<td>110</td>
-<td>84</td>
-<td>#756E54</td>
-<td style="background-color: #756E54" ><img src="https://via.placeholder.com/40/756E54/000000?text=+" /></td>
+<td>109</td>
+<td>86</td>
+<td>#756D56</td>
+<td style="background-color: #756D56" ><img src="https://via.placeholder.com/40/756D56/000000?text=+" /></td>
 </tr>
 <tr>
 <td>British Tank Crew Highlights</td>
@@ -1176,6 +1456,26 @@
 </tr>
 <tr>
 <td>Bronze</td>
+<td>69.062</td>
+<td>Mecha Color</td>
+<td>118</td>
+<td>107</td>
+<td>53</td>
+<td>#766B35</td>
+<td style="background-color: #766B35" ><img src="https://via.placeholder.com/40/766B35/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bronze</td>
+<td>70.998</td>
+<td>Model Color</td>
+<td>83</td>
+<td>60</td>
+<td>29</td>
+<td>#533C1D</td>
+<td style="background-color: #533C1D" ><img src="https://via.placeholder.com/40/533C1D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Bronze</td>
 <td>81.123</td>
 <td>Arte Deco</td>
 <td>109</td>
@@ -1185,24 +1485,24 @@
 <td style="background-color: #6D4C21" ><img src="https://via.placeholder.com/40/6D4C21/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Bronze</td>
-<td>70.998</td>
-<td>Model Color</td>
-<td>118</td>
-<td>107</td>
-<td>53</td>
-<td>#766B35</td>
-<td style="background-color: #766B35" ><img src="https://via.placeholder.com/40/766B35/000000?text=+" /></td>
+<td>Bronze Brown</td>
+<td>76.036</td>
+<td>Game Air</td>
+<td>177</td>
+<td>105</td>
+<td>33</td>
+<td>#B16921</td>
+<td style="background-color: #B16921" ><img src="https://via.placeholder.com/40/B16921/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Bronze</td>
-<td>69.062</td>
-<td>Mecha Color</td>
-<td>118</td>
-<td>107</td>
-<td>53</td>
-<td>#766B35</td>
-<td style="background-color: #766B35" ><img src="https://via.placeholder.com/40/766B35/000000?text=+" /></td>
+<td>Bronze Brown</td>
+<td>72.036</td>
+<td>Game Color</td>
+<td>177</td>
+<td>105</td>
+<td>33</td>
+<td>#B16921</td>
+<td style="background-color: #B16921" ><img src="https://via.placeholder.com/40/B16921/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bronze Flesh Tone</td>
@@ -1213,16 +1513,6 @@
 <td>73</td>
 <td>#EF9849</td>
 <td style="background-color: #EF9849" ><img src="https://via.placeholder.com/40/EF9849/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bronze Flesh Tone</td>
-<td>72.036</td>
-<td>Game Color</td>
-<td>241</td>
-<td>167</td>
-<td>94</td>
-<td>#F1A75E</td>
-<td style="background-color: #F1A75E" ><img src="https://via.placeholder.com/40/F1A75E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Bronze Green</td>
@@ -1238,21 +1528,31 @@
 <td>Bronze Green</td>
 <td>70.897</td>
 <td>Model Color</td>
-<td>80</td>
-<td>82</td>
-<td>81</td>
-<td>#505251</td>
-<td style="background-color: #505251" ><img src="https://via.placeholder.com/40/505251/000000?text=+" /></td>
+<td>49</td>
+<td>58</td>
+<td>41</td>
+<td>#313A29</td>
+<td style="background-color: #313A29" ><img src="https://via.placeholder.com/40/313A29/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Brown</td>
+<td>69.034</td>
+<td>Mecha Color</td>
+<td>123</td>
+<td>103</td>
+<td>78</td>
+<td>#7B674E</td>
+<td style="background-color: #7B674E" ><img src="https://via.placeholder.com/40/7B674E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown</td>
 <td>76.513</td>
-<td>Model Wash</td>
-<td>146</td>
-<td>79</td>
-<td>34</td>
-<td>#924F22</td>
-<td style="background-color: #924F22" ><img src="https://via.placeholder.com/40/924F22/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>123</td>
+<td>95</td>
+<td>71</td>
+<td>#7B5F47</td>
+<td style="background-color: #7B5F47" ><img src="https://via.placeholder.com/40/7B5F47/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown</td>
@@ -1265,14 +1565,14 @@
 <td style="background-color: #9A632A" ><img src="https://via.placeholder.com/40/9A632A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Brown</td>
-<td>69.034</td>
-<td>Mecha Color</td>
-<td>123</td>
-<td>103</td>
+<td>Brown Engine Soot</td>
+<td>73.818</td>
+<td>Weathering FX</td>
+<td>88</td>
 <td>78</td>
-<td>#7B674E</td>
-<td style="background-color: #7B674E" ><img src="https://via.placeholder.com/40/7B674E/000000?text=+" /></td>
+<td>69</td>
+<td>#584E45</td>
+<td style="background-color: #584E45" ><img src="https://via.placeholder.com/40/584E45/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown Engine Soot (Matt)</td>
@@ -1300,9 +1600,9 @@
 <td>Model Air</td>
 <td>144</td>
 <td>111</td>
-<td>76</td>
-<td>#906F4C</td>
-<td style="background-color: #906F4C" ><img src="https://via.placeholder.com/40/906F4C/000000?text=+" /></td>
+<td>78</td>
+<td>#906F4E</td>
+<td style="background-color: #906F4E" ><img src="https://via.placeholder.com/40/906F4E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown Grey</td>
@@ -1328,21 +1628,41 @@
 <td>Brown Rose</td>
 <td>70.803</td>
 <td>Model Color</td>
-<td>179</td>
-<td>133</td>
-<td>133</td>
-<td>#B38585</td>
-<td style="background-color: #B38585" ><img src="https://via.placeholder.com/40/B38585/000000?text=+" /></td>
+<td>156</td>
+<td>101</td>
+<td>96</td>
+<td>#9C6560</td>
+<td style="background-color: #9C6560" ><img src="https://via.placeholder.com/40/9C6560/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown Sand</td>
 <td>70.876</td>
 <td>Model Color</td>
-<td>160</td>
-<td>120</td>
-<td>95</td>
-<td>#A0785F</td>
-<td style="background-color: #A0785F" ><img src="https://via.placeholder.com/40/A0785F/000000?text=+" /></td>
+<td>144</td>
+<td>97</td>
+<td>69</td>
+<td>#906145</td>
+<td style="background-color: #906145" ><img src="https://via.placeholder.com/40/906145/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Brown Splash Mud</td>
+<td>73.805</td>
+<td>Weathering FX</td>
+<td>52</td>
+<td>42</td>
+<td>41</td>
+<td>#342A29</td>
+<td style="background-color: #342A29" ><img src="https://via.placeholder.com/40/342A29/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Brown Thick Mud</td>
+<td>73.811</td>
+<td>Weathering FX</td>
+<td>70</td>
+<td>65</td>
+<td>62</td>
+<td>#46413E</td>
+<td style="background-color: #46413E" ><img src="https://via.placeholder.com/40/46413E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Brown Violet RLM81</td>
@@ -1358,11 +1678,11 @@
 <td>Buff</td>
 <td>70.976</td>
 <td>Model Color</td>
-<td>206</td>
-<td>176</td>
-<td>126</td>
-<td>#CEB07E</td>
-<td style="background-color: #CEB07E" ><img src="https://via.placeholder.com/40/CEB07E/000000?text=+" /></td>
+<td>215</td>
+<td>175</td>
+<td>77</td>
+<td>#D7AF4D</td>
+<td style="background-color: #D7AF4D" ><img src="https://via.placeholder.com/40/D7AF4D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Burgundy</td>
@@ -1376,16 +1696,6 @@
 </tr>
 <tr>
 <td>Burned Flesh</td>
-<td>74.002</td>
-<td>Nocturna Models</td>
-<td>97</td>
-<td>71</td>
-<td>70</td>
-<td>#614746</td>
-<td style="background-color: #614746" ><img src="https://via.placeholder.com/40/614746/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burned Flesh</td>
 <td>72.770</td>
 <td>Game Air</td>
 <td>162</td>
@@ -1395,14 +1705,24 @@
 <td style="background-color: #A26641" ><img src="https://via.placeholder.com/40/A26641/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Burned Flesh</td>
+<td>74.002</td>
+<td>Nocturna Models</td>
+<td>97</td>
+<td>71</td>
+<td>70</td>
+<td>#614746</td>
+<td style="background-color: #614746" ><img src="https://via.placeholder.com/40/614746/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Burnt Iron</td>
 <td>77.721</td>
 <td>Metal Color</td>
-<td>182</td>
-<td>176</td>
-<td>176</td>
-<td>#B6B0B0</td>
-<td style="background-color: #B6B0B0" ><img src="https://via.placeholder.com/40/B6B0B0/000000?text=+" /></td>
+<td>125</td>
+<td>125</td>
+<td>123</td>
+<td>#7D7D7B</td>
+<td style="background-color: #7D7D7B" ><img src="https://via.placeholder.com/40/7D7D7B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Burnt Orange</td>
@@ -1418,11 +1738,11 @@
 <td>Burnt Red</td>
 <td>70.814</td>
 <td>Model Color</td>
-<td>101</td>
-<td>66</td>
-<td>62</td>
-<td>#65423E</td>
-<td style="background-color: #65423E" ><img src="https://via.placeholder.com/40/65423E/000000?text=+" /></td>
+<td>118</td>
+<td>60</td>
+<td>58</td>
+<td>#763C3A</td>
+<td style="background-color: #763C3A" ><img src="https://via.placeholder.com/40/763C3A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Burnt Sienna</td>
@@ -1436,26 +1756,6 @@
 </tr>
 <tr>
 <td>Burnt Umber</td>
-<td>71.040</td>
-<td>Model Air</td>
-<td>72</td>
-<td>62</td>
-<td>52</td>
-<td>#483E34</td>
-<td style="background-color: #483E34" ><img src="https://via.placeholder.com/40/483E34/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Umber</td>
-<td>70.941</td>
-<td>Model Color</td>
-<td>90</td>
-<td>80</td>
-<td>70</td>
-<td>#5A5046</td>
-<td style="background-color: #5A5046" ><img src="https://via.placeholder.com/40/5A5046/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Umber</td>
 <td>85.117</td>
 <td>Arte Deco</td>
 <td>75</td>
@@ -1463,6 +1763,26 @@
 <td>62</td>
 <td>#4B473E</td>
 <td style="background-color: #4B473E" ><img src="https://via.placeholder.com/40/4B473E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Burnt Umber</td>
+<td>70.941</td>
+<td>Model Color</td>
+<td>81</td>
+<td>59</td>
+<td>46</td>
+<td>#513B2E</td>
+<td style="background-color: #513B2E" ><img src="https://via.placeholder.com/40/513B2E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Burnt Umber</td>
+<td>71.040</td>
+<td>Model Air</td>
+<td>72</td>
+<td>62</td>
+<td>52</td>
+<td>#483E34</td>
+<td style="background-color: #483E34" ><img src="https://via.placeholder.com/40/483E34/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Buttermilk</td>
@@ -1475,16 +1795,6 @@
 <td style="background-color: #FFFDE2" ><img src="https://via.placeholder.com/40/FFFDE2/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Cadmium Skin</td>
-<td>72.099</td>
-<td>Game Color</td>
-<td>248</td>
-<td>177</td>
-<td>133</td>
-<td>#F8B185</td>
-<td style="background-color: #F8B185" ><img src="https://via.placeholder.com/40/F8B185/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Calico Red</td>
 <td>85.033</td>
 <td>Arte Deco</td>
@@ -1495,14 +1805,44 @@
 <td style="background-color: #E20F16" ><img src="https://via.placeholder.com/40/E20F16/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Camouflage Black Brown</td>
+<td>70.822</td>
+<td>Model Color</td>
+<td>64</td>
+<td>52</td>
+<td>54</td>
+<td>#403436</td>
+<td style="background-color: #403436" ><img src="https://via.placeholder.com/40/403436/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Camouflage Black Green</td>
+<td>70.741</td>
+<td>Model Color</td>
+<td>49</td>
+<td>49</td>
+<td>41</td>
+<td>#313129</td>
+<td style="background-color: #313129" ><img src="https://via.placeholder.com/40/313129/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Camouflage Brown</td>
 <td>71.117</td>
 <td>Model Air</td>
 <td>174</td>
 <td>144</td>
-<td>108</td>
-<td>#AE906C</td>
-<td style="background-color: #AE906C" ><img src="https://via.placeholder.com/40/AE906C/000000?text=+" /></td>
+<td>110</td>
+<td>#AE906E</td>
+<td style="background-color: #AE906E" ><img src="https://via.placeholder.com/40/AE906E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Camouflage Dark Green</td>
+<td>70.979</td>
+<td>Model Color</td>
+<td>38</td>
+<td>48</td>
+<td>37</td>
+<td>#263025</td>
+<td style="background-color: #263025" ><img src="https://via.placeholder.com/40/263025/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Camouflage Dark Green</td>
@@ -1526,13 +1866,33 @@
 </tr>
 <tr>
 <td>Camouflage Green</td>
+<td>72.467</td>
+<td>Xpress Color</td>
+<td>96</td>
+<td>93</td>
+<td>50</td>
+<td>#605D32</td>
+<td style="background-color: #605D32" ><img src="https://via.placeholder.com/40/605D32/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Camouflage Green</td>
+<td>76.031</td>
+<td>Game Air</td>
+<td>139</td>
+<td>119</td>
+<td>50</td>
+<td>#8B7732</td>
+<td style="background-color: #8B7732" ><img src="https://via.placeholder.com/40/8B7732/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Camouflage Green</td>
 <td>72.031</td>
 <td>Game Color</td>
-<td>141</td>
-<td>123</td>
-<td>61</td>
-<td>#8D7B3D</td>
-<td style="background-color: #8D7B3D" ><img src="https://via.placeholder.com/40/8D7B3D/000000?text=+" /></td>
+<td>139</td>
+<td>119</td>
+<td>50</td>
+<td>#8B7732</td>
+<td style="background-color: #8B7732" ><img src="https://via.placeholder.com/40/8B7732/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Camouflage Grey</td>
@@ -1565,14 +1925,24 @@
 <td style="background-color: #5F4E3E" ><img src="https://via.placeholder.com/40/5F4E3E/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Camouflage Middle Brown</td>
+<td>70.740</td>
+<td>Model Color</td>
+<td>81</td>
+<td>62</td>
+<td>32</td>
+<td>#513E20</td>
+<td style="background-color: #513E20" ><img src="https://via.placeholder.com/40/513E20/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Camouflage Olive Green</td>
 <td>70.894</td>
 <td>Model Color</td>
-<td>82</td>
-<td>83</td>
-<td>69</td>
-<td>#525345</td>
-<td style="background-color: #525345" ><img src="https://via.placeholder.com/40/525345/000000?text=+" /></td>
+<td>60</td>
+<td>61</td>
+<td>47</td>
+<td>#3C3D2F</td>
+<td style="background-color: #3C3D2F" ><img src="https://via.placeholder.com/40/3C3D2F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Camouflage Pale Brown</td>
@@ -1588,91 +1958,91 @@
 <td>Candy Black</td>
 <td>62.079</td>
 <td>Premium Airbrush Color</td>
-<td>100</td>
-<td>89</td>
-<td>87</td>
-<td>#645957</td>
-<td style="background-color: #645957" ><img src="https://via.placeholder.com/40/645957/000000?text=+" /></td>
+<td>76</td>
+<td>65</td>
+<td>63</td>
+<td>#4C413F</td>
+<td style="background-color: #4C413F" ><img src="https://via.placeholder.com/40/4C413F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Brown</td>
 <td>62.078</td>
 <td>Premium Airbrush Color</td>
-<td>217</td>
-<td>197</td>
-<td>188</td>
-<td>#D9C5BC</td>
-<td style="background-color: #D9C5BC" ><img src="https://via.placeholder.com/40/D9C5BC/000000?text=+" /></td>
+<td>206</td>
+<td>182</td>
+<td>172</td>
+<td>#CEB6AC</td>
+<td style="background-color: #CEB6AC" ><img src="https://via.placeholder.com/40/CEB6AC/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Dark Yellow</td>
 <td>62.072</td>
 <td>Premium Airbrush Color</td>
-<td>249</td>
-<td>191</td>
-<td>143</td>
-<td>#F9BF8F</td>
-<td style="background-color: #F9BF8F" ><img src="https://via.placeholder.com/40/F9BF8F/000000?text=+" /></td>
+<td>248</td>
+<td>176</td>
+<td>117</td>
+<td>#F8B075</td>
+<td style="background-color: #F8B075" ><img src="https://via.placeholder.com/40/F8B075/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Magenta</td>
 <td>62.075</td>
 <td>Premium Airbrush Color</td>
-<td>233</td>
-<td>156</td>
-<td>190</td>
-<td>#E99CBE</td>
-<td style="background-color: #E99CBE" ><img src="https://via.placeholder.com/40/E99CBE/000000?text=+" /></td>
+<td>225</td>
+<td>126</td>
+<td>170</td>
+<td>#E17EAA</td>
+<td style="background-color: #E17EAA" ><img src="https://via.placeholder.com/40/E17EAA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Orange</td>
 <td>62.073</td>
 <td>Premium Airbrush Color</td>
-<td>251</td>
-<td>184</td>
-<td>142</td>
-<td>#FBB88E</td>
-<td style="background-color: #FBB88E" ><img src="https://via.placeholder.com/40/FBB88E/000000?text=+" /></td>
+<td>245</td>
+<td>169</td>
+<td>117</td>
+<td>#F5A975</td>
+<td style="background-color: #F5A975" ><img src="https://via.placeholder.com/40/F5A975/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Candy Racing Blue</td>
+<td>62.076</td>
+<td>Premium Airbrush Color</td>
+<td>122</td>
+<td>166</td>
+<td>215</td>
+<td>#7AA6D7</td>
+<td style="background-color: #7AA6D7" ><img src="https://via.placeholder.com/40/7AA6D7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Racing Green</td>
 <td>62.077</td>
 <td>Premium Airbrush Color</td>
-<td>183</td>
-<td>222</td>
-<td>217</td>
-<td>#B7DED9</td>
-<td style="background-color: #B7DED9" ><img src="https://via.placeholder.com/40/B7DED9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Candy Rancing Blue</td>
-<td>62.076</td>
-<td>Premium Airbrush Color</td>
-<td>151</td>
-<td>183</td>
-<td>222</td>
-<td>#97B7DE</td>
-<td style="background-color: #97B7DE" ><img src="https://via.placeholder.com/40/97B7DE/000000?text=+" /></td>
+<td>162</td>
+<td>213</td>
+<td>208</td>
+<td>#A2D5D0</td>
+<td style="background-color: #A2D5D0" ><img src="https://via.placeholder.com/40/A2D5D0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Red</td>
 <td>62.074</td>
 <td>Premium Airbrush Color</td>
-<td>240</td>
-<td>161</td>
-<td>146</td>
-<td>#F0A192</td>
-<td style="background-color: #F0A192" ><img src="https://via.placeholder.com/40/F0A192/000000?text=+" /></td>
+<td>229</td>
+<td>136</td>
+<td>119</td>
+<td>#E58877</td>
+<td style="background-color: #E58877" ><img src="https://via.placeholder.com/40/E58877/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Candy Yellow</td>
 <td>62.071</td>
 <td>Premium Airbrush Color</td>
-<td>254</td>
-<td>233</td>
-<td>154</td>
-<td>#FEE99A</td>
-<td style="background-color: #FEE99A" ><img src="https://via.placeholder.com/40/FEE99A/000000?text=+" /></td>
+<td>252</td>
+<td>227</td>
+<td>126</td>
+<td>#FCE37E</td>
+<td style="background-color: #FCE37E" ><img src="https://via.placeholder.com/40/FCE37E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Canvas</td>
@@ -1683,6 +2053,36 @@
 <td>84</td>
 <td>#6E6554</td>
 <td style="background-color: #6E6554" ><img src="https://via.placeholder.com/40/6E6554/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Canvas</td>
+<td>70.763</td>
+<td>Model Color</td>
+<td>77</td>
+<td>62</td>
+<td>31</td>
+<td>#4D3E1F</td>
+<td style="background-color: #4D3E1F" ><img src="https://via.placeholder.com/40/4D3E1F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Cardinal Purple</td>
+<td>72.408</td>
+<td>Xpress Color</td>
+<td>200</td>
+<td>25</td>
+<td>40</td>
+<td>#C81928</td>
+<td style="background-color: #C81928" ><img src="https://via.placeholder.com/40/C81928/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Caribbean Turquoise</td>
+<td>72.414</td>
+<td>Xpress Color</td>
+<td>0</td>
+<td>89</td>
+<td>97</td>
+<td>#005961</td>
+<td style="background-color: #005961" ><img src="https://via.placeholder.com/40/005961/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Carmine</td>
@@ -1698,11 +2098,11 @@
 <td>Carmine Red</td>
 <td>70.908</td>
 <td>Model Color</td>
-<td>180</td>
-<td>25</td>
-<td>39</td>
-<td>#B41927</td>
-<td style="background-color: #B41927" ><img src="https://via.placeholder.com/40/B41927/000000?text=+" /></td>
+<td>151</td>
+<td>33</td>
+<td>31</td>
+<td>#97211F</td>
+<td style="background-color: #97211F" ><img src="https://via.placeholder.com/40/97211F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cashmere Beige</td>
@@ -1719,20 +2119,20 @@
 <td>70.982</td>
 <td>Model Color</td>
 <td>132</td>
-<td>53</td>
-<td>48</td>
-<td>#843530</td>
-<td style="background-color: #843530" ><img src="https://via.placeholder.com/40/843530/000000?text=+" /></td>
+<td>68</td>
+<td>58</td>
+<td>#84443A</td>
+<td style="background-color: #84443A" ><img src="https://via.placeholder.com/40/84443A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cayman Green</td>
 <td>72.067</td>
 <td>Game Color</td>
-<td>0</td>
 <td>89</td>
-<td>61</td>
-<td>#00593D</td>
-<td style="background-color: #00593D" ><img src="https://via.placeholder.com/40/00593D/000000?text=+" /></td>
+<td>84</td>
+<td>42</td>
+<td>#59542A</td>
+<td style="background-color: #59542A" ><img src="https://via.placeholder.com/40/59542A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cement Grey</td>
@@ -1740,9 +2140,9 @@
 <td>Model Air</td>
 <td>145</td>
 <td>148</td>
-<td>137</td>
-<td>#919489</td>
-<td style="background-color: #919489" ><img src="https://via.placeholder.com/40/919489/000000?text=+" /></td>
+<td>139</td>
+<td>#91948B</td>
+<td style="background-color: #91948B" ><img src="https://via.placeholder.com/40/91948B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Chain Mail Silver</td>
@@ -1755,14 +2155,14 @@
 <td style="background-color: #AEAEAE" ><img src="https://via.placeholder.com/40/AEAEAE/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Chain Mail Silver</td>
+<td>Chainmail</td>
 <td>72.053</td>
 <td>Game Color</td>
-<td>124</td>
-<td>124</td>
-<td>124</td>
-<td>#7C7C7C</td>
-<td style="background-color: #7C7C7C" ><img src="https://via.placeholder.com/40/7C7C7C/000000?text=+" /></td>
+<td>228</td>
+<td>229</td>
+<td>233</td>
+<td>#E4E5E9</td>
+<td style="background-color: #E4E5E9" ><img src="https://via.placeholder.com/40/E4E5E9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Chalice Red</td>
@@ -1773,6 +2173,26 @@
 <td>76</td>
 <td>#45384C</td>
 <td style="background-color: #45384C" ><img src="https://via.placeholder.com/40/45384C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Chameleon Orange</td>
+<td>72.455</td>
+<td>Xpress Color</td>
+<td>206</td>
+<td>101</td>
+<td>46</td>
+<td>#CE652E</td>
+<td style="background-color: #CE652E" ><img src="https://via.placeholder.com/40/CE652E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Charcoal</td>
+<td>72.155</td>
+<td>Game Color</td>
+<td>54</td>
+<td>54</td>
+<td>56</td>
+<td>#363638</td>
+<td style="background-color: #363638" ><img src="https://via.placeholder.com/40/363638/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Charcoal Grey</td>
@@ -1788,11 +2208,11 @@
 <td>Charred Brown</td>
 <td>72.045</td>
 <td>Game Color</td>
-<td>75</td>
-<td>64</td>
-<td>60</td>
-<td>#4B403C</td>
-<td style="background-color: #4B403C" ><img src="https://via.placeholder.com/40/4B403C/000000?text=+" /></td>
+<td>66</td>
+<td>42</td>
+<td>38</td>
+<td>#422A26</td>
+<td style="background-color: #422A26" ><img src="https://via.placeholder.com/40/422A26/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Charred Brown</td>
@@ -1803,6 +2223,26 @@
 <td>66</td>
 <td>#4D4542</td>
 <td style="background-color: #4D4542" ><img src="https://via.placeholder.com/40/4D4542/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Charred Brown</td>
+<td>76.045</td>
+<td>Game Air</td>
+<td>66</td>
+<td>42</td>
+<td>38</td>
+<td>#422A26</td>
+<td style="background-color: #422A26" ><img src="https://via.placeholder.com/40/422A26/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Chestnut Brown</td>
+<td>70.746</td>
+<td>Model Color</td>
+<td>96</td>
+<td>63</td>
+<td>54</td>
+<td>#603F36</td>
+<td style="background-color: #603F36" ><img src="https://via.placeholder.com/40/603F36/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Chipping Brown</td>
@@ -1818,21 +2258,21 @@
 <td>Chocolate Brown</td>
 <td>70.872</td>
 <td>Model Color</td>
-<td>86</td>
-<td>76</td>
-<td>64</td>
-<td>#564C40</td>
-<td style="background-color: #564C40" ><img src="https://via.placeholder.com/40/564C40/000000?text=+" /></td>
+<td>88</td>
+<td>68</td>
+<td>61</td>
+<td>#58443D</td>
+<td style="background-color: #58443D" ><img src="https://via.placeholder.com/40/58443D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Chrome</td>
 <td>77.707</td>
 <td>Metal Color</td>
-<td>213</td>
-<td>211</td>
-<td>212</td>
-<td>#D5D3D4</td>
-<td style="background-color: #D5D3D4" ><img src="https://via.placeholder.com/40/D5D3D4/000000?text=+" /></td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>#AFAFAF</td>
+<td style="background-color: #AFAFAF" ><img src="https://via.placeholder.com/40/AFAFAF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Chrome (Metallic)</td>
@@ -1840,9 +2280,9 @@
 <td>Model Air</td>
 <td>168</td>
 <td>168</td>
-<td>176</td>
-<td>#A8A8B0</td>
-<td style="background-color: #A8A8B0" ><img src="https://via.placeholder.com/40/A8A8B0/000000?text=+" /></td>
+<td>178</td>
+<td>#A8A8B2</td>
+<td style="background-color: #A8A8B2" ><img src="https://via.placeholder.com/40/A8A8B2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cleaner</td>
@@ -1868,21 +2308,21 @@
 <td>Clear Orange</td>
 <td>70.956</td>
 <td>Model Color</td>
-<td>202</td>
-<td>76</td>
-<td>54</td>
-<td>#CA4C36</td>
-<td style="background-color: #CA4C36" ><img src="https://via.placeholder.com/40/CA4C36/000000?text=+" /></td>
+<td>204</td>
+<td>69</td>
+<td>39</td>
+<td>#CC4527</td>
+<td style="background-color: #CC4527" ><img src="https://via.placeholder.com/40/CC4527/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cobalt Blue</td>
 <td>62.009</td>
 <td>Premium Airbrush Color</td>
-<td>51</td>
-<td>88</td>
+<td>52</td>
+<td>87</td>
 <td>143</td>
-<td>#33588F</td>
-<td style="background-color: #33588F" ><img src="https://via.placeholder.com/40/33588F/000000?text=+" /></td>
+<td>#34578F</td>
+<td style="background-color: #34578F" ><img src="https://via.placeholder.com/40/34578F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cobra Leather</td>
@@ -1895,14 +2335,14 @@
 <td style="background-color: #855C26" ><img src="https://via.placeholder.com/40/855C26/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Cockpit Emerald Green (Faded)</td>
+<td>Cockpit Emerald Green “Faded”</td>
 <td>71.331</td>
 <td>Model Air</td>
-<td>68</td>
-<td>134</td>
-<td>120</td>
-<td>#448678</td>
-<td style="background-color: #448678" ><img src="https://via.placeholder.com/40/448678/000000?text=+" /></td>
+<td>70</td>
+<td>133</td>
+<td>122</td>
+<td>#46857A</td>
+<td style="background-color: #46857A" ><img src="https://via.placeholder.com/40/46857A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cold Flesh</td>
@@ -1913,16 +2353,6 @@
 <td>145</td>
 <td>#838591</td>
 <td style="background-color: #838591" ><img src="https://via.placeholder.com/40/838591/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cold Grey</td>
-<td>72.050</td>
-<td>Game Color</td>
-<td>124</td>
-<td>124</td>
-<td>124</td>
-<td>#7C7C7C</td>
-<td style="background-color: #7C7C7C" ><img src="https://via.placeholder.com/40/7C7C7C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cold Grey</td>
@@ -1938,11 +2368,11 @@
 <td>Cold White</td>
 <td>70.919</td>
 <td>Model Color</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+<td>246</td>
+<td>246</td>
+<td>248</td>
+<td>#F6F6F8</td>
+<td style="background-color: #F6F6F8" ><img src="https://via.placeholder.com/40/F6F6F8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Colonial Green</td>
@@ -1955,6 +2385,16 @@
 <td style="background-color: #4F8384" ><img src="https://via.placeholder.com/40/4F8384/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Commando Green</td>
+<td>72.468</td>
+<td>Xpress Color</td>
+<td>62</td>
+<td>79</td>
+<td>60</td>
+<td>#3E4F3C</td>
+<td style="background-color: #3E4F3C" ><img src="https://via.placeholder.com/40/3E4F3C/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Concrete</td>
 <td>71.131</td>
 <td>Model Air</td>
@@ -1963,6 +2403,16 @@
 <td>97</td>
 <td>#776D61</td>
 <td style="background-color: #776D61" ><img src="https://via.placeholder.com/40/776D61/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Continental Blue</td>
+<td>70.754</td>
+<td>Model Color</td>
+<td>37</td>
+<td>36</td>
+<td>42</td>
+<td>#25242A</td>
+<td style="background-color: #25242A" ><img src="https://via.placeholder.com/40/25242A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Cool Neutral Tone</td>
@@ -1976,13 +2426,13 @@
 </tr>
 <tr>
 <td>Copper</td>
-<td>62.050</td>
-<td>Premium Airbrush Color</td>
-<td>225</td>
-<td>206</td>
-<td>192</td>
-<td>#E1CEC0</td>
-<td style="background-color: #E1CEC0" ><img src="https://via.placeholder.com/40/E1CEC0/000000?text=+" /></td>
+<td>77.710</td>
+<td>Metal Color</td>
+<td>156</td>
+<td>143</td>
+<td>135</td>
+<td>#9C8F87</td>
+<td style="background-color: #9C8F87" ><img src="https://via.placeholder.com/40/9C8F87/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Copper</td>
@@ -1996,13 +2446,23 @@
 </tr>
 <tr>
 <td>Copper</td>
+<td>62.050</td>
+<td>Premium Airbrush Color</td>
+<td>233</td>
+<td>219</td>
+<td>210</td>
+<td>#E9DBD2</td>
+<td style="background-color: #E9DBD2" ><img src="https://via.placeholder.com/40/E9DBD2/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Copper</td>
 <td>70.797</td>
 <td>Liquid Gold</td>
-<td>183</td>
-<td>120</td>
-<td>87</td>
-<td>#B77857</td>
-<td style="background-color: #B77857" ><img src="https://via.placeholder.com/40/B77857/000000?text=+" /></td>
+<td>231</td>
+<td>207</td>
+<td>197</td>
+<td>#E7CFC5</td>
+<td style="background-color: #E7CFC5" ><img src="https://via.placeholder.com/40/E7CFC5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Copper</td>
@@ -2018,21 +2478,11 @@
 <td>Copper</td>
 <td>70.999</td>
 <td>Model Color</td>
-<td>154</td>
-<td>91</td>
-<td>58</td>
-<td>#9A5B3A</td>
-<td style="background-color: #9A5B3A" ><img src="https://via.placeholder.com/40/9A5B3A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Copper</td>
-<td>77.710</td>
-<td>Metal Color</td>
-<td>201</td>
-<td>187</td>
-<td>178</td>
-<td>#C9BBB2</td>
-<td style="background-color: #C9BBB2" ><img src="https://via.placeholder.com/40/C9BBB2/000000?text=+" /></td>
+<td>128</td>
+<td>52</td>
+<td>39</td>
+<td>#803427</td>
+<td style="background-color: #803427" ><img src="https://via.placeholder.com/40/803427/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Copper (Metallic)</td>
@@ -2043,6 +2493,16 @@
 <td>72</td>
 <td>#8C5C48</td>
 <td style="background-color: #8C5C48" ><img src="https://via.placeholder.com/40/8C5C48/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Copper Brown</td>
+<td>72.421</td>
+<td>Xpress Color</td>
+<td>83</td>
+<td>44</td>
+<td>37</td>
+<td>#532C25</td>
+<td style="background-color: #532C25" ><img src="https://via.placeholder.com/40/532C25/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Coral Rose</td>
@@ -2058,11 +2518,21 @@
 <td>Cork Brown</td>
 <td>70.843</td>
 <td>Model Color</td>
-<td>167</td>
-<td>120</td>
-<td>90</td>
-<td>#A7785A</td>
-<td style="background-color: #A7785A" ><img src="https://via.placeholder.com/40/A7785A/000000?text=+" /></td>
+<td>161</td>
+<td>111</td>
+<td>78</td>
+<td>#A16F4E</td>
+<td style="background-color: #A16F4E" ><img src="https://via.placeholder.com/40/A16F4E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Corrosion</td>
+<td>72.608</td>
+<td>Game Color Special FX</td>
+<td>87</td>
+<td>41</td>
+<td>34</td>
+<td>#572922</td>
+<td style="background-color: #572922" ><img src="https://via.placeholder.com/40/572922/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Country Blue</td>
@@ -2105,6 +2575,16 @@
 <td style="background-color: #4A2828" ><img src="https://via.placeholder.com/40/4A2828/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Cream White</td>
+<td>70.766</td>
+<td>Model Color</td>
+<td>227</td>
+<td>209</td>
+<td>195</td>
+<td>#E3D1C3</td>
+<td style="background-color: #E3D1C3" ><img src="https://via.placeholder.com/40/E3D1C3/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Crimson</td>
 <td>74.018</td>
 <td>Nocturna Models</td>
@@ -2125,14 +2605,24 @@
 <td style="background-color: #833F58" ><img src="https://via.placeholder.com/40/833F58/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Dark Aluminum</td>
+<td>Crushed Grass</td>
+<td>73.825</td>
+<td>Weathering FX</td>
+<td>142</td>
+<td>144</td>
+<td>107</td>
+<td>#8E906B</td>
+<td style="background-color: #8E906B" ><img src="https://via.placeholder.com/40/8E906B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Aluminium</td>
 <td>77.703</td>
 <td>Metal Color</td>
-<td>193</td>
-<td>191</td>
-<td>192</td>
-<td>#C1BFC0</td>
-<td style="background-color: #C1BFC0" ><img src="https://via.placeholder.com/40/C1BFC0/000000?text=+" /></td>
+<td>148</td>
+<td>148</td>
+<td>150</td>
+<td>#949496</td>
+<td style="background-color: #949496" ><img src="https://via.placeholder.com/40/949496/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Blue</td>
@@ -2143,6 +2633,16 @@
 <td>117</td>
 <td>#464775</td>
 <td style="background-color: #464775" ><img src="https://via.placeholder.com/40/464775/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Blue</td>
+<td>69.021</td>
+<td>Mecha Color</td>
+<td>64</td>
+<td>91</td>
+<td>120</td>
+<td>#405B78</td>
+<td style="background-color: #405B78" ><img src="https://via.placeholder.com/40/405B78/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Blue</td>
@@ -2158,21 +2658,11 @@
 <td>Dark Blue</td>
 <td>70.930</td>
 <td>Model Color</td>
-<td>51</td>
+<td>39</td>
+<td>52</td>
 <td>97</td>
-<td>149</td>
-<td>#336195</td>
-<td style="background-color: #336195" ><img src="https://via.placeholder.com/40/336195/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Blue</td>
-<td>69.021</td>
-<td>Mecha Color</td>
-<td>64</td>
-<td>91</td>
-<td>120</td>
-<td>#405B78</td>
-<td style="background-color: #405B78" ><img src="https://via.placeholder.com/40/405B78/000000?text=+" /></td>
+<td>#273461</td>
+<td style="background-color: #273461" ><img src="https://via.placeholder.com/40/273461/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Blue Grey</td>
@@ -2188,11 +2678,11 @@
 <td>Dark Blue Grey</td>
 <td>70.867</td>
 <td>Model Color</td>
-<td>72</td>
-<td>84</td>
-<td>74</td>
-<td>#48544A</td>
-<td style="background-color: #48544A" ><img src="https://via.placeholder.com/40/48544A/000000?text=+" /></td>
+<td>66</td>
+<td>67</td>
+<td>69</td>
+<td>#424345</td>
+<td style="background-color: #424345" ><img src="https://via.placeholder.com/40/424345/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Blue RLM24</td>
@@ -2207,12 +2697,12 @@
 <tr>
 <td>Dark Brown</td>
 <td>76.514</td>
-<td>Model Wash</td>
-<td>176</td>
-<td>135</td>
-<td>107</td>
-<td>#B0876B</td>
-<td style="background-color: #B0876B" ><img src="https://via.placeholder.com/40/B0876B/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>109</td>
+<td>80</td>
+<td>74</td>
+<td>#6D504A</td>
+<td style="background-color: #6D504A" ><img src="https://via.placeholder.com/40/6D504A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Brown RLM61</td>
@@ -2248,21 +2738,11 @@
 <td>Dark Flesh</td>
 <td>70.927</td>
 <td>Model Color</td>
-<td>214</td>
-<td>158</td>
-<td>97</td>
-<td>#D69E61</td>
-<td style="background-color: #D69E61" ><img src="https://via.placeholder.com/40/D69E61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Flesh Tone</td>
-<td>72.044</td>
-<td>Game Color</td>
-<td>97</td>
-<td>64</td>
-<td>55</td>
-<td>#614037</td>
-<td style="background-color: #614037" ><img src="https://via.placeholder.com/40/614037/000000?text=+" /></td>
+<td>211</td>
+<td>147</td>
+<td>59</td>
+<td>#D3933B</td>
+<td style="background-color: #D3933B" ><img src="https://via.placeholder.com/40/D3933B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Flesh Tone</td>
@@ -2273,6 +2753,16 @@
 <td>68</td>
 <td>#5B4844</td>
 <td style="background-color: #5B4844" ><img src="https://via.placeholder.com/40/5B4844/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Fleshtone</td>
+<td>72.044</td>
+<td>Game Color</td>
+<td>96</td>
+<td>52</td>
+<td>41</td>
+<td>#603429</td>
+<td style="background-color: #603429" ><img src="https://via.placeholder.com/40/603429/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Ghost Gray</td>
@@ -2296,13 +2786,33 @@
 </tr>
 <tr>
 <td>Dark Green</td>
-<td>62.014</td>
-<td>Premium Airbrush Color</td>
-<td>50</td>
-<td>67</td>
-<td>59</td>
-<td>#32433B</td>
-<td style="background-color: #32433B" ><img src="https://via.placeholder.com/40/32433B/000000?text=+" /></td>
+<td>72.028</td>
+<td>Game Color</td>
+<td>31</td>
+<td>55</td>
+<td>39</td>
+<td>#1F3727</td>
+<td style="background-color: #1F3727" ><img src="https://via.placeholder.com/40/1F3727/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Green</td>
+<td>76.512</td>
+<td>Wash FX</td>
+<td>116</td>
+<td>113</td>
+<td>42</td>
+<td>#74712A</td>
+<td style="background-color: #74712A" ><img src="https://via.placeholder.com/40/74712A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Green</td>
+<td>28.026</td>
+<td>Hobby Paint</td>
+<td>60</td>
+<td>70</td>
+<td>62</td>
+<td>#3C463E</td>
+<td style="background-color: #3C463E" ><img src="https://via.placeholder.com/40/3C463E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Green</td>
@@ -2316,46 +2826,6 @@
 </tr>
 <tr>
 <td>Dark Green</td>
-<td>76.512</td>
-<td>Model Wash</td>
-<td>133</td>
-<td>126</td>
-<td>38</td>
-<td>#857E26</td>
-<td style="background-color: #857E26" ><img src="https://via.placeholder.com/40/857E26/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>72.028</td>
-<td>Game Color</td>
-<td>56</td>
-<td>67</td>
-<td>61</td>
-<td>#38433D</td>
-<td style="background-color: #38433D" ><img src="https://via.placeholder.com/40/38433D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>71.012</td>
-<td>Model Air</td>
-<td>93</td>
-<td>95</td>
-<td>84</td>
-<td>#5D5F54</td>
-<td style="background-color: #5D5F54" ><img src="https://via.placeholder.com/40/5D5F54/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>28.026</td>
-<td>Hobby Paint</td>
-<td>61</td>
-<td>70</td>
-<td>65</td>
-<td>#3D4641</td>
-<td style="background-color: #3D4641" ><img src="https://via.placeholder.com/40/3D4641/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
 <td>69.030</td>
 <td>Mecha Color</td>
 <td>82</td>
@@ -2365,14 +2835,34 @@
 <td style="background-color: #525345" ><img src="https://via.placeholder.com/40/525345/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark Green</td>
+<td>62.014</td>
+<td>Premium Airbrush Color</td>
+<td>50</td>
+<td>67</td>
+<td>59</td>
+<td>#32433B</td>
+<td style="background-color: #32433B" ><img src="https://via.placeholder.com/40/32433B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Green</td>
+<td>71.012</td>
+<td>Model Air</td>
+<td>93</td>
+<td>94</td>
+<td>86</td>
+<td>#5D5E56</td>
+<td style="background-color: #5D5E56" ><img src="https://via.placeholder.com/40/5D5E56/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark Green RLM71</td>
 <td>71.015</td>
 <td>Model Air</td>
-<td>83</td>
-<td>77</td>
+<td>84</td>
+<td>76</td>
 <td>63</td>
-<td>#534D3F</td>
-<td style="background-color: #534D3F" ><img src="https://via.placeholder.com/40/534D3F/000000?text=+" /></td>
+<td>#544C3F</td>
+<td style="background-color: #544C3F" ><img src="https://via.placeholder.com/40/544C3F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Green RLM83</td>
@@ -2380,9 +2870,19 @@
 <td>Model Air</td>
 <td>78</td>
 <td>78</td>
-<td>68</td>
-<td>#4E4E44</td>
-<td style="background-color: #4E4E44" ><img src="https://via.placeholder.com/40/4E4E44/000000?text=+" /></td>
+<td>70</td>
+<td>#4E4E46</td>
+<td style="background-color: #4E4E46" ><img src="https://via.placeholder.com/40/4E4E46/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Grey</td>
+<td>70.994</td>
+<td>Model Color</td>
+<td>49</td>
+<td>47</td>
+<td>50</td>
+<td>#312F32</td>
+<td style="background-color: #312F32" ><img src="https://via.placeholder.com/40/312F32/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Grey</td>
@@ -2396,23 +2896,13 @@
 </tr>
 <tr>
 <td>Dark Grey</td>
-<td>70.994</td>
-<td>Model Color</td>
-<td>77</td>
-<td>82</td>
-<td>88</td>
-<td>#4D5258</td>
-<td style="background-color: #4D5258" ><img src="https://via.placeholder.com/40/4D5258/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Grey</td>
 <td>76.517</td>
-<td>Model Wash</td>
-<td>50</td>
-<td>50</td>
-<td>40</td>
-<td>#323228</td>
-<td style="background-color: #323228" ><img src="https://via.placeholder.com/40/323228/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>82</td>
+<td>81</td>
+<td>79</td>
+<td>#52514F</td>
+<td style="background-color: #52514F" ><img src="https://via.placeholder.com/40/52514F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Grey Blue</td>
@@ -2445,24 +2935,34 @@
 <td style="background-color: #828385" ><img src="https://via.placeholder.com/40/828385/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark Gunmetal</td>
+<td>72.054</td>
+<td>Game Color</td>
+<td>218</td>
+<td>218</td>
+<td>218</td>
+<td>#DADADA</td>
+<td style="background-color: #DADADA" ><img src="https://via.placeholder.com/40/DADADA/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark Khaki Green</td>
 <td>76.520</td>
-<td>Model Wash</td>
-<td>131</td>
-<td>103</td>
-<td>63</td>
-<td>#83673F</td>
-<td style="background-color: #83673F" ><img src="https://via.placeholder.com/40/83673F/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>140</td>
+<td>114</td>
+<td>79</td>
+<td>#8C724F</td>
+<td style="background-color: #8C724F" ><img src="https://via.placeholder.com/40/8C724F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Mediterranean Blue</td>
 <td>71.313</td>
 <td>Model Air</td>
-<td>31</td>
-<td>55</td>
+<td>42</td>
+<td>53</td>
 <td>81</td>
-<td>#1F3751</td>
-<td style="background-color: #1F3751" ><img src="https://via.placeholder.com/40/1F3751/000000?text=+" /></td>
+<td>#2A3551</td>
+<td style="background-color: #2A3551" ><img src="https://via.placeholder.com/40/2A3551/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Mud</td>
@@ -2518,11 +3018,31 @@
 <td>Dark Prussian Blue</td>
 <td>70.899</td>
 <td>Model Color</td>
-<td>15</td>
-<td>43</td>
-<td>57</td>
-<td>#0F2B39</td>
-<td style="background-color: #0F2B39" ><img src="https://via.placeholder.com/40/0F2B39/000000?text=+" /></td>
+<td>55</td>
+<td>39</td>
+<td>65</td>
+<td>#372741</td>
+<td style="background-color: #372741" ><img src="https://via.placeholder.com/40/372741/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Purple</td>
+<td>70.749</td>
+<td>Model Color</td>
+<td>69</td>
+<td>39</td>
+<td>51</td>
+<td>#452733</td>
+<td style="background-color: #452733" ><img src="https://via.placeholder.com/40/452733/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Red</td>
+<td>70.946</td>
+<td>Model Color</td>
+<td>105</td>
+<td>47</td>
+<td>36</td>
+<td>#692F24</td>
+<td style="background-color: #692F24" ><img src="https://via.placeholder.com/40/692F24/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Red</td>
@@ -2535,14 +3055,14 @@
 <td style="background-color: #93262C" ><img src="https://via.placeholder.com/40/93262C/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Dark Red</td>
-<td>70.946</td>
+<td>Dark Rose</td>
+<td>70.745</td>
 <td>Model Color</td>
-<td>141</td>
-<td>67</td>
+<td>128</td>
 <td>82</td>
-<td>#8D4352</td>
-<td style="background-color: #8D4352" ><img src="https://via.placeholder.com/40/8D4352/000000?text=+" /></td>
+<td>82</td>
+<td>#805252</td>
+<td style="background-color: #805252" ><img src="https://via.placeholder.com/40/805252/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Rosewood</td>
@@ -2566,13 +3086,23 @@
 </tr>
 <tr>
 <td>Dark Rust</td>
+<td>70.771</td>
+<td>Model Color</td>
+<td>59</td>
+<td>38</td>
+<td>37</td>
+<td>#3B2625</td>
+<td style="background-color: #3B2625" ><img src="https://via.placeholder.com/40/3B2625/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Rust</td>
 <td>76.507</td>
-<td>Model Wash</td>
-<td>228</td>
-<td>88</td>
-<td>11</td>
-<td>#E4580B</td>
-<td style="background-color: #E4580B" ><img src="https://via.placeholder.com/40/E4580B/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>182</td>
+<td>90</td>
+<td>69</td>
+<td>#B65A45</td>
+<td style="background-color: #B65A45" ><img src="https://via.placeholder.com/40/B65A45/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Rust</td>
@@ -2598,21 +3128,21 @@
 <td>Dark Sand</td>
 <td>70.847</td>
 <td>Model Color</td>
-<td>209</td>
-<td>178</td>
-<td>131</td>
-<td>#D1B283</td>
-<td style="background-color: #D1B283" ><img src="https://via.placeholder.com/40/D1B283/000000?text=+" /></td>
+<td>203</td>
+<td>168</td>
+<td>104</td>
+<td>#CBA868</td>
+<td style="background-color: #CBA868" ><img src="https://via.placeholder.com/40/CBA868/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Sea Blue</td>
 <td>70.898</td>
 <td>Model Color</td>
-<td>65</td>
-<td>70</td>
-<td>76</td>
-<td>#41464C</td>
-<td style="background-color: #41464C" ><img src="https://via.placeholder.com/40/41464C/000000?text=+" /></td>
+<td>38</td>
+<td>44</td>
+<td>56</td>
+<td>#262C38</td>
+<td style="background-color: #262C38" ><img src="https://via.placeholder.com/40/262C38/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Sea Gray</td>
@@ -2628,31 +3158,31 @@
 <td>Dark Sea Green</td>
 <td>70.868</td>
 <td>Model Color</td>
-<td>83</td>
-<td>87</td>
-<td>98</td>
-<td>#535762</td>
-<td style="background-color: #535762" ><img src="https://via.placeholder.com/40/535762/000000?text=+" /></td>
+<td>75</td>
+<td>69</td>
+<td>69</td>
+<td>#4B4545</td>
+<td style="background-color: #4B4545" ><img src="https://via.placeholder.com/40/4B4545/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Sea Grey</td>
 <td>70.991</td>
 <td>Model Color</td>
-<td>122</td>
-<td>123</td>
-<td>125</td>
-<td>#7A7B7D</td>
-<td style="background-color: #7A7B7D" ><img src="https://via.placeholder.com/40/7A7B7D/000000?text=+" /></td>
+<td>108</td>
+<td>107</td>
+<td>105</td>
+<td>#6C6B69</td>
+<td style="background-color: #6C6B69" ><img src="https://via.placeholder.com/40/6C6B69/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Slate Grey</td>
 <td>71.309</td>
 <td>Model Air</td>
 <td>93</td>
-<td>95</td>
-<td>84</td>
-<td>#5D5F54</td>
-<td style="background-color: #5D5F54" ><img src="https://via.placeholder.com/40/5D5F54/000000?text=+" /></td>
+<td>94</td>
+<td>86</td>
+<td>#5D5E56</td>
+<td style="background-color: #5D5E56" ><img src="https://via.placeholder.com/40/5D5E56/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Steel</td>
@@ -2665,14 +3195,44 @@
 <td style="background-color: #737476" ><img src="https://via.placeholder.com/40/737476/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dark Turquoise</td>
+<td>72.084</td>
+<td>Game Color</td>
+<td>1</td>
+<td>112</td>
+<td>139</td>
+<td>#01708B</td>
+<td style="background-color: #01708B" ><img src="https://via.placeholder.com/40/01708B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dark Vermilion</td>
 <td>70.947</td>
 <td>Model Color</td>
-<td>179</td>
-<td>55</td>
-<td>55</td>
-<td>#B33737</td>
-<td style="background-color: #B33737" ><img src="https://via.placeholder.com/40/B33737/000000?text=+" /></td>
+<td>181</td>
+<td>42</td>
+<td>39</td>
+<td>#B52A27</td>
+<td style="background-color: #B52A27" ><img src="https://via.placeholder.com/40/B52A27/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Yellow</td>
+<td>76.503</td>
+<td>Wash FX</td>
+<td>203</td>
+<td>177</td>
+<td>38</td>
+<td>#CBB126</td>
+<td style="background-color: #CBB126" ><img src="https://via.placeholder.com/40/CBB126/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dark Yellow</td>
+<td>70.978</td>
+<td>Model Color</td>
+<td>144</td>
+<td>135</td>
+<td>58</td>
+<td>#90873A</td>
+<td style="background-color: #90873A" ><img src="https://via.placeholder.com/40/90873A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Yellow</td>
@@ -2680,9 +3240,9 @@
 <td>Model Air</td>
 <td>149</td>
 <td>122</td>
-<td>67</td>
-<td>#957A43</td>
-<td style="background-color: #957A43" ><img src="https://via.placeholder.com/40/957A43/000000?text=+" /></td>
+<td>69</td>
+<td>#957A45</td>
+<td style="background-color: #957A45" ><img src="https://via.placeholder.com/40/957A45/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dark Yellow</td>
@@ -2695,34 +3255,34 @@
 <td style="background-color: #F9B105" ><img src="https://via.placeholder.com/40/F9B105/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Dark Yellow</td>
-<td>70.978</td>
-<td>Model Color</td>
-<td>148</td>
-<td>133</td>
-<td>74</td>
-<td>#94854A</td>
-<td style="background-color: #94854A" ><img src="https://via.placeholder.com/40/94854A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Yellow</td>
-<td>76.503</td>
-<td>Model Wash</td>
-<td>224</td>
-<td>182</td>
-<td>0</td>
-<td>#E0B600</td>
-<td style="background-color: #E0B600" ><img src="https://via.placeholder.com/40/E0B600/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Dead Flesh</td>
 <td>28.022</td>
 <td>Hobby Paint</td>
 <td>182</td>
-<td>161</td>
-<td>114</td>
-<td>#B6A172</td>
-<td style="background-color: #B6A172" ><img src="https://via.placeholder.com/40/B6A172/000000?text=+" /></td>
+<td>162</td>
+<td>111</td>
+<td>#B6A26F</td>
+<td style="background-color: #B6A26F" ><img src="https://via.placeholder.com/40/B6A26F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dead Flesh</td>
+<td>76.035</td>
+<td>Game Air</td>
+<td>195</td>
+<td>170</td>
+<td>77</td>
+<td>#C3AA4D</td>
+<td style="background-color: #C3AA4D" ><img src="https://via.placeholder.com/40/C3AA4D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dead Flesh</td>
+<td>72.035</td>
+<td>Game Color</td>
+<td>195</td>
+<td>170</td>
+<td>77</td>
+<td>#C3AA4D</td>
+<td style="background-color: #C3AA4D" ><img src="https://via.placeholder.com/40/C3AA4D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dead Flesh</td>
@@ -2735,14 +3295,14 @@
 <td style="background-color: #C8BC8A" ><img src="https://via.placeholder.com/40/C8BC8A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Dead Flesh</td>
-<td>72.035</td>
+<td>Dead White</td>
+<td>72.001</td>
 <td>Game Color</td>
-<td>211</td>
-<td>198</td>
-<td>130</td>
-<td>#D3C682</td>
-<td style="background-color: #D3C682" ><img src="https://via.placeholder.com/40/D3C682/000000?text=+" /></td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dead White</td>
@@ -2756,8 +3316,8 @@
 </tr>
 <tr>
 <td>Dead White</td>
-<td>72.001</td>
-<td>Game Color</td>
+<td>76.001</td>
+<td>Game Air</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -2768,11 +3328,11 @@
 <td>Deck Tan</td>
 <td>70.986</td>
 <td>Model Color</td>
-<td>177</td>
-<td>177</td>
-<td>167</td>
-<td>#B1B1A7</td>
-<td style="background-color: #B1B1A7" ><img src="https://via.placeholder.com/40/B1B1A7/000000?text=+" /></td>
+<td>171</td>
+<td>163</td>
+<td>144</td>
+<td>#ABA390</td>
+<td style="background-color: #ABA390" ><img src="https://via.placeholder.com/40/ABA390/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Deep Blue</td>
@@ -2798,11 +3358,11 @@
 <td>Deep Green</td>
 <td>70.970</td>
 <td>Model Color</td>
-<td>50</td>
-<td>99</td>
-<td>77</td>
-<td>#32634D</td>
-<td style="background-color: #32634D" ><img src="https://via.placeholder.com/40/32634D/000000?text=+" /></td>
+<td>27</td>
+<td>75</td>
+<td>51</td>
+<td>#1B4B33</td>
+<td style="background-color: #1B4B33" ><img src="https://via.placeholder.com/40/1B4B33/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Deep Green</td>
@@ -2813,6 +3373,26 @@
 <td>58</td>
 <td>#70793A</td>
 <td style="background-color: #70793A" ><img src="https://via.placeholder.com/40/70793A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Deep Magenta</td>
+<td>72.113</td>
+<td>Game Color</td>
+<td>98</td>
+<td>38</td>
+<td>64</td>
+<td>#622640</td>
+<td style="background-color: #622640" ><img src="https://via.placeholder.com/40/622640/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Deep Purple</td>
+<td>72.409</td>
+<td>Xpress Color</td>
+<td>111</td>
+<td>43</td>
+<td>66</td>
+<td>#6F2B42</td>
+<td style="background-color: #6F2B42" ><img src="https://via.placeholder.com/40/6F2B42/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Deep Sky</td>
@@ -2828,11 +3408,11 @@
 <td>Deep Sky Blue</td>
 <td>70.844</td>
 <td>Model Color</td>
-<td>66</td>
-<td>175</td>
-<td>218</td>
-<td>#42AFDA</td>
-<td style="background-color: #42AFDA" ><img src="https://via.placeholder.com/40/42AFDA/000000?text=+" /></td>
+<td>77</td>
+<td>149</td>
+<td>197</td>
+<td>#4D95C5</td>
+<td style="background-color: #4D95C5" ><img src="https://via.placeholder.com/40/4D95C5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Deep Teal</td>
@@ -2848,21 +3428,51 @@
 <td>Deep Yellow</td>
 <td>70.915</td>
 <td>Model Color</td>
-<td>255</td>
-<td>226</td>
-<td>14</td>
-<td>#FFE20E</td>
-<td style="background-color: #FFE20E" ><img src="https://via.placeholder.com/40/FFE20E/000000?text=+" /></td>
+<td>241</td>
+<td>199</td>
+<td>1</td>
+<td>#F1C701</td>
+<td style="background-color: #F1C701" ><img src="https://via.placeholder.com/40/F1C701/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Demon Blood</td>
+<td>72.603</td>
+<td>Game Color Special FX</td>
+<td>102</td>
+<td>71</td>
+<td>126</td>
+<td>#66477E</td>
+<td style="background-color: #66477E" ><img src="https://via.placeholder.com/40/66477E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Demonic Skin</td>
+<td>72.458</td>
+<td>Xpress Color</td>
+<td>150</td>
+<td>92</td>
+<td>88</td>
+<td>#965C58</td>
+<td style="background-color: #965C58" ><img src="https://via.placeholder.com/40/965C58/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Desert Brown</td>
+<td>70.767</td>
+<td>Model Color</td>
+<td>171</td>
+<td>133</td>
+<td>86</td>
+<td>#AB8556</td>
+<td style="background-color: #AB8556" ><img src="https://via.placeholder.com/40/AB8556/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Dust</td>
 <td>76.522</td>
-<td>Model Wash</td>
-<td>216</td>
-<td>190</td>
-<td>131</td>
-<td>#D8BE83</td>
-<td style="background-color: #D8BE83" ><img src="https://via.placeholder.com/40/D8BE83/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>227</td>
+<td>205</td>
+<td>164</td>
+<td>#E3CDA4</td>
+<td style="background-color: #E3CDA4" ><img src="https://via.placeholder.com/40/E3CDA4/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Dust Wash</td>
@@ -2873,6 +3483,16 @@
 <td>129</td>
 <td>#D8BB81</td>
 <td style="background-color: #D8BB81" ><img src="https://via.placeholder.com/40/D8BB81/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Desert Ochre</td>
+<td>72.454</td>
+<td>Xpress Color</td>
+<td>157</td>
+<td>103</td>
+<td>41</td>
+<td>#9D6729</td>
+<td style="background-color: #9D6729" ><img src="https://via.placeholder.com/40/9D6729/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Sand</td>
@@ -2888,11 +3508,11 @@
 <td>Desert Tan</td>
 <td>70.613</td>
 <td>Surface Primer</td>
-<td>218</td>
-<td>195</td>
-<td>151</td>
-<td>#DAC397</td>
-<td style="background-color: #DAC397" ><img src="https://via.placeholder.com/40/DAC397/000000?text=+" /></td>
+<td>209</td>
+<td>190</td>
+<td>158</td>
+<td>#D1BE9E</td>
+<td style="background-color: #D1BE9E" ><img src="https://via.placeholder.com/40/D1BE9E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Turquoise</td>
@@ -2906,33 +3526,43 @@
 </tr>
 <tr>
 <td>Desert Yellow</td>
+<td>76.063</td>
+<td>Game Air</td>
+<td>153</td>
+<td>103</td>
+<td>50</td>
+<td>#996732</td>
+<td style="background-color: #996732" ><img src="https://via.placeholder.com/40/996732/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Desert Yellow</td>
 <td>70.977</td>
 <td>Model Color</td>
-<td>181</td>
-<td>143</td>
-<td>98</td>
-<td>#B58F62</td>
-<td style="background-color: #B58F62" ><img src="https://via.placeholder.com/40/B58F62/000000?text=+" /></td>
+<td>182</td>
+<td>133</td>
+<td>74</td>
+<td>#B6854A</td>
+<td style="background-color: #B6854A" ><img src="https://via.placeholder.com/40/B6854A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Yellow</td>
 <td>72.063</td>
 <td>Game Color</td>
 <td>153</td>
-<td>136</td>
-<td>67</td>
-<td>#998843</td>
-<td style="background-color: #998843" ><img src="https://via.placeholder.com/40/998843/000000?text=+" /></td>
+<td>103</td>
+<td>50</td>
+<td>#996732</td>
+<td style="background-color: #996732" ><img src="https://via.placeholder.com/40/996732/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Yellow</td>
 <td>28.015</td>
 <td>Hobby Paint</td>
-<td>160</td>
-<td>126</td>
-<td>78</td>
-<td>#A07E4E</td>
-<td style="background-color: #A07E4E" ><img src="https://via.placeholder.com/40/A07E4E/000000?text=+" /></td>
+<td>157</td>
+<td>125</td>
+<td>74</td>
+<td>#9D7D4A</td>
+<td style="background-color: #9D7D4A" ><img src="https://via.placeholder.com/40/9D7D4A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Desert Yellow</td>
@@ -2955,6 +3585,16 @@
 <td style="background-color: #921251" ><img src="https://via.placeholder.com/40/921251/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Diesel Stains</td>
+<td>73.816</td>
+<td>Weathering FX</td>
+<td>164</td>
+<td>76</td>
+<td>52</td>
+<td>#A44C34</td>
+<td style="background-color: #A44C34" ><img src="https://via.placeholder.com/40/A44C34/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dirt</td>
 <td>71.133</td>
 <td>Model Air</td>
@@ -2965,6 +3605,16 @@
 <td style="background-color: #7A6240" ><img src="https://via.placeholder.com/40/7A6240/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Dirty Grey</td>
+<td>72.145</td>
+<td>Game Color</td>
+<td>103</td>
+<td>95</td>
+<td>48</td>
+<td>#675F30</td>
+<td style="background-color: #675F30" ><img src="https://via.placeholder.com/40/675F30/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Dove Grey</td>
 <td>85.101</td>
 <td>Arte Deco</td>
@@ -2973,6 +3623,16 @@
 <td>236</td>
 <td>#ECECEC</td>
 <td style="background-color: #ECECEC" ><img src="https://via.placeholder.com/40/ECECEC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dreadnought Yellow</td>
+<td>72.477</td>
+<td>Xpress Color Intense</td>
+<td>211</td>
+<td>136</td>
+<td>33</td>
+<td>#D38821</td>
+<td style="background-color: #D38821" ><img src="https://via.placeholder.com/40/D38821/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dried Blood</td>
@@ -2995,24 +3655,24 @@
 <td style="background-color: #5E332D" ><img src="https://via.placeholder.com/40/5E332D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Dull Aluminum</td>
+<td>Dull Aluminium</td>
 <td>77.717</td>
 <td>Metal Color</td>
-<td>220</td>
-<td>218</td>
-<td>221</td>
-<td>#DCDADD</td>
-<td style="background-color: #DCDADD" ><img src="https://via.placeholder.com/40/DCDADD/000000?text=+" /></td>
+<td>187</td>
+<td>187</td>
+<td>187</td>
+<td>#BBBBBB</td>
+<td style="background-color: #BBBBBB" ><img src="https://via.placeholder.com/40/BBBBBB/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Duraluminum</td>
+<td>Duraluminium</td>
 <td>77.702</td>
 <td>Metal Color</td>
-<td>205</td>
-<td>203</td>
-<td>206</td>
-<td>#CDCBCE</td>
-<td style="background-color: #CDCBCE" ><img src="https://via.placeholder.com/40/CDCBCE/000000?text=+" /></td>
+<td>164</td>
+<td>164</td>
+<td>164</td>
+<td>#A4A4A4</td>
+<td style="background-color: #A4A4A4" ><img src="https://via.placeholder.com/40/A4A4A4/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Dusty Rose</td>
@@ -3026,6 +3686,16 @@
 </tr>
 <tr>
 <td>Dwarf Skin</td>
+<td>72.041</td>
+<td>Game Color</td>
+<td>217</td>
+<td>145</td>
+<td>105</td>
+<td>#D99169</td>
+<td style="background-color: #D99169" ><img src="https://via.placeholder.com/40/D99169/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Dwarf Skin</td>
 <td>72.741</td>
 <td>Game Air</td>
 <td>217</td>
@@ -3036,13 +3706,33 @@
 </tr>
 <tr>
 <td>Dwarf Skin</td>
-<td>72.041</td>
+<td>72.402</td>
+<td>Xpress Color</td>
+<td>131</td>
+<td>62</td>
+<td>47</td>
+<td>#833E2F</td>
+<td style="background-color: #833E2F" ><img src="https://via.placeholder.com/40/833E2F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Earth</td>
+<td>76.062</td>
+<td>Game Air</td>
+<td>119</td>
+<td>87</td>
+<td>48</td>
+<td>#775730</td>
+<td style="background-color: #775730" ><img src="https://via.placeholder.com/40/775730/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Earth</td>
+<td>72.062</td>
 <td>Game Color</td>
-<td>217</td>
-<td>145</td>
-<td>105</td>
-<td>#D99169</td>
-<td style="background-color: #D99169" ><img src="https://via.placeholder.com/40/D99169/000000?text=+" /></td>
+<td>119</td>
+<td>87</td>
+<td>48</td>
+<td>#775730</td>
+<td style="background-color: #775730" ><img src="https://via.placeholder.com/40/775730/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Earth</td>
@@ -3055,27 +3745,17 @@
 <td style="background-color: #7B6848" ><img src="https://via.placeholder.com/40/7B6848/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Earth</td>
-<td>72.062</td>
-<td>Game Color</td>
-<td>122</td>
-<td>96</td>
-<td>69</td>
-<td>#7A6045</td>
-<td style="background-color: #7A6045" ><img src="https://via.placeholder.com/40/7A6045/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Earth Green (Early)</td>
 <td>70.611</td>
 <td>Surface Primer</td>
-<td>106</td>
-<td>91</td>
-<td>50</td>
-<td>#6A5B32</td>
-<td style="background-color: #6A5B32" ><img src="https://via.placeholder.com/40/6A5B32/000000?text=+" /></td>
+<td>97</td>
+<td>88</td>
+<td>55</td>
+<td>#615837</td>
+<td style="background-color: #615837" ><img src="https://via.placeholder.com/40/615837/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Eau de Nil Duck Egg Green</td>
+<td>Eau de Nil “Duck Egg Green”</td>
 <td>71.009</td>
 <td>Model Air</td>
 <td>194</td>
@@ -3083,6 +3763,16 @@
 <td>156</td>
 <td>#C2C89C</td>
 <td style="background-color: #C2C89C" ><img src="https://via.placeholder.com/40/C2C89C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Electric Blue</td>
+<td>76.023</td>
+<td>Game Air</td>
+<td>67</td>
+<td>153</td>
+<td>178</td>
+<td>#4399B2</td>
+<td style="background-color: #4399B2" ><img src="https://via.placeholder.com/40/4399B2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Electric Blue</td>
@@ -3096,6 +3786,16 @@
 </tr>
 <tr>
 <td>Electric Blue</td>
+<td>72.023</td>
+<td>Game Color</td>
+<td>67</td>
+<td>153</td>
+<td>178</td>
+<td>#4399B2</td>
+<td style="background-color: #4399B2" ><img src="https://via.placeholder.com/40/4399B2/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Electric Blue</td>
 <td>72.723</td>
 <td>Game Air</td>
 <td>46</td>
@@ -3105,14 +3805,24 @@
 <td style="background-color: #2E95B4" ><img src="https://via.placeholder.com/40/2E95B4/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Electric Blue</td>
-<td>72.023</td>
+<td>Elf Skin Tone</td>
+<td>72.004</td>
 <td>Game Color</td>
-<td>52</td>
-<td>149</td>
-<td>182</td>
-<td>#3495B6</td>
-<td style="background-color: #3495B6" ><img src="https://via.placeholder.com/40/3495B6/000000?text=+" /></td>
+<td>202</td>
+<td>136</td>
+<td>84</td>
+<td>#CA8854</td>
+<td style="background-color: #CA8854" ><img src="https://via.placeholder.com/40/CA8854/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Elf Skin Tone</td>
+<td>76.004</td>
+<td>Game Air</td>
+<td>202</td>
+<td>136</td>
+<td>84</td>
+<td>#CA8854</td>
+<td style="background-color: #CA8854" ><img src="https://via.placeholder.com/40/CA8854/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Elf Skin Tone</td>
@@ -3125,14 +3835,14 @@
 <td style="background-color: #E7AE81" ><img src="https://via.placeholder.com/40/E7AE81/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Elf Skin Tone</td>
-<td>72.004</td>
+<td>Elfic Blue</td>
+<td>72.117</td>
 <td>Game Color</td>
-<td>224</td>
-<td>163</td>
-<td>116</td>
-<td>#E0A374</td>
-<td style="background-color: #E0A374" ><img src="https://via.placeholder.com/40/E0A374/000000?text=+" /></td>
+<td>80</td>
+<td>97</td>
+<td>125</td>
+<td>#50617D</td>
+<td style="background-color: #50617D" ><img src="https://via.placeholder.com/40/50617D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Elfic Flesh</td>
@@ -3140,59 +3850,89 @@
 <td>Game Color</td>
 <td>234</td>
 <td>215</td>
-<td>183</td>
-<td>#EAD7B7</td>
-<td style="background-color: #EAD7B7" ><img src="https://via.placeholder.com/40/EAD7B7/000000?text=+" /></td>
+<td>185</td>
+<td>#EAD7B9</td>
+<td style="background-color: #EAD7B9" ><img src="https://via.placeholder.com/40/EAD7B9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Emerald</td>
 <td>70.838</td>
 <td>Model Color</td>
 <td>0</td>
-<td>133</td>
-<td>90</td>
-<td>#00855A</td>
-<td style="background-color: #00855A" ><img src="https://via.placeholder.com/40/00855A/000000?text=+" /></td>
+<td>98</td>
+<td>75</td>
+<td>#00624B</td>
+<td style="background-color: #00624B" ><img src="https://via.placeholder.com/40/00624B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Engine Gray</td>
 <td>71.048</td>
 <td>Model Air</td>
 <td>85</td>
-<td>90</td>
+<td>89</td>
+<td>98</td>
+<td>#555962</td>
+<td style="background-color: #555962" ><img src="https://via.placeholder.com/40/555962/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Engine Grime</td>
+<td>73.815</td>
+<td>Weathering FX</td>
 <td>96</td>
-<td>#555A60</td>
-<td style="background-color: #555A60" ><img src="https://via.placeholder.com/40/555A60/000000?text=+" /></td>
+<td>90</td>
+<td>90</td>
+<td>#605A5A</td>
+<td style="background-color: #605A5A" ><img src="https://via.placeholder.com/40/605A5A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>English Uniform</td>
 <td>70.921</td>
 <td>Model Color</td>
-<td>113</td>
-<td>94</td>
-<td>64</td>
-<td>#715E40</td>
-<td style="background-color: #715E40" ><img src="https://via.placeholder.com/40/715E40/000000?text=+" /></td>
+<td>111</td>
+<td>83</td>
+<td>43</td>
+<td>#6F532B</td>
+<td style="background-color: #6F532B" ><img src="https://via.placeholder.com/40/6F532B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>English Uniform</td>
 <td>28.008</td>
 <td>Hobby Paint</td>
-<td>115</td>
-<td>95</td>
-<td>70</td>
-<td>#735F46</td>
-<td style="background-color: #735F46" ><img src="https://via.placeholder.com/40/735F46/000000?text=+" /></td>
+<td>117</td>
+<td>93</td>
+<td>65</td>
+<td>#755D41</td>
+<td style="background-color: #755D41" ><img src="https://via.placeholder.com/40/755D41/000000?text=+" /></td>
 </tr>
 <tr>
 <td>European Dust</td>
 <td>76.523</td>
-<td>Model Wash</td>
-<td>127</td>
-<td>91</td>
+<td>Wash FX</td>
+<td>140</td>
+<td>107</td>
+<td>74</td>
+<td>#8C6B4A</td>
+<td style="background-color: #8C6B4A" ><img src="https://via.placeholder.com/40/8C6B4A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>European Splash Mud</td>
+<td>73.801</td>
+<td>Weathering FX</td>
+<td>86</td>
+<td>63</td>
+<td>55</td>
+<td>#563F37</td>
+<td style="background-color: #563F37" ><img src="https://via.placeholder.com/40/563F37/000000?text=+" /></td>
+</tr>
+<tr>
+<td>European Thick Mud</td>
+<td>73.807</td>
+<td>Weathering FX</td>
+<td>66</td>
 <td>57</td>
-<td>#7F5B39</td>
-<td style="background-color: #7F5B39" ><img src="https://via.placeholder.com/40/7F5B39/000000?text=+" /></td>
+<td>48</td>
+<td>#423930</td>
+<td style="background-color: #423930" ><img src="https://via.placeholder.com/40/423930/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Evergreen</td>
@@ -3205,14 +3945,34 @@
 <td style="background-color: #1E3930" ><img src="https://via.placeholder.com/40/1E3930/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Evil Red</td>
+<td>72.112</td>
+<td>Game Color</td>
+<td>70</td>
+<td>30</td>
+<td>38</td>
+<td>#461E26</td>
+<td style="background-color: #461E26" ><img src="https://via.placeholder.com/40/461E26/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Exhaust Manifold</td>
 <td>77.723</td>
 <td>Metal Color</td>
-<td>180</td>
-<td>175</td>
-<td>171</td>
-<td>#B4AFAB</td>
-<td style="background-color: #B4AFAB" ><img src="https://via.placeholder.com/40/B4AFAB/000000?text=+" /></td>
+<td>125</td>
+<td>125</td>
+<td>123</td>
+<td>#7D7D7B</td>
+<td style="background-color: #7D7D7B" ><img src="https://via.placeholder.com/40/7D7D7B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Extra Dark Green</td>
+<td>70.896</td>
+<td>Model Color</td>
+<td>40</td>
+<td>42</td>
+<td>20</td>
+<td>#282A14</td>
+<td style="background-color: #282A14" ><img src="https://via.placeholder.com/40/282A14/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Faded P.R.U. Blue</td>
@@ -3235,24 +3995,44 @@
 <td style="background-color: #F5AC89" ><img src="https://via.placeholder.com/40/F5AC89/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Fairy Skin</td>
+<td>72.457</td>
+<td>Xpress Color</td>
+<td>202</td>
+<td>135</td>
+<td>116</td>
+<td>#CA8774</td>
+<td style="background-color: #CA8774" ><img src="https://via.placeholder.com/40/CA8774/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fern Green</td>
+<td>70.833</td>
+<td>Model Color</td>
+<td>71</td>
+<td>84</td>
+<td>54</td>
+<td>#475436</td>
+<td style="background-color: #475436" ><img src="https://via.placeholder.com/40/475436/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Ferrari Red</td>
 <td>71.085</td>
 <td>Model Air</td>
 <td>175</td>
 <td>53</td>
-<td>48</td>
-<td>#AF3530</td>
-<td style="background-color: #AF3530" ><img src="https://via.placeholder.com/40/AF3530/000000?text=+" /></td>
+<td>50</td>
+<td>#AF3532</td>
+<td style="background-color: #AF3532" ><img src="https://via.placeholder.com/40/AF3532/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Field Blue</td>
 <td>70.964</td>
 <td>Model Color</td>
-<td>87</td>
-<td>101</td>
-<td>110</td>
-<td>#57656E</td>
-<td style="background-color: #57656E" ><img src="https://via.placeholder.com/40/57656E/000000?text=+" /></td>
+<td>77</td>
+<td>82</td>
+<td>86</td>
+<td>#4D5256</td>
+<td style="background-color: #4D5256" ><img src="https://via.placeholder.com/40/4D5256/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Filthy Brown</td>
@@ -3276,16 +4056,6 @@
 </tr>
 <tr>
 <td>Fire Red</td>
-<td>85.029</td>
-<td>Arte Deco</td>
-<td>226</td>
-<td>15</td>
-<td>22</td>
-<td>#E20F16</td>
-<td style="background-color: #E20F16" ><img src="https://via.placeholder.com/40/E20F16/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fire Red</td>
 <td>71.084</td>
 <td>Model Air</td>
 <td>134</td>
@@ -3293,6 +4063,16 @@
 <td>48</td>
 <td>#863E30</td>
 <td style="background-color: #863E30" ><img src="https://via.placeholder.com/40/863E30/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fire Red</td>
+<td>85.029</td>
+<td>Arte Deco</td>
+<td>226</td>
+<td>15</td>
+<td>22</td>
+<td>#E20F16</td>
+<td style="background-color: #E20F16" ><img src="https://via.placeholder.com/40/E20F16/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flanker Blue</td>
@@ -3309,90 +4089,90 @@
 <td>71.334</td>
 <td>Model Air</td>
 <td>177</td>
-<td>197</td>
-<td>198</td>
-<td>#B1C5C6</td>
-<td style="background-color: #B1C5C6" ><img src="https://via.placeholder.com/40/B1C5C6/000000?text=+" /></td>
+<td>196</td>
+<td>200</td>
+<td>#B1C4C8</td>
+<td style="background-color: #B1C4C8" ><img src="https://via.placeholder.com/40/B1C4C8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flanker Light Gray</td>
 <td>71.335</td>
 <td>Model Air</td>
-<td>156</td>
+<td>157</td>
 <td>166</td>
 <td>165</td>
-<td>#9CA6A5</td>
-<td style="background-color: #9CA6A5" ><img src="https://via.placeholder.com/40/9CA6A5/000000?text=+" /></td>
+<td>#9DA6A5</td>
+<td style="background-color: #9DA6A5" ><img src="https://via.placeholder.com/40/9DA6A5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Blue</td>
 <td>70.962</td>
 <td>Model Color</td>
-<td>68</td>
-<td>104</td>
-<td>156</td>
-<td>#44689C</td>
-<td style="background-color: #44689C" ><img src="https://via.placeholder.com/40/44689C/000000?text=+" /></td>
+<td>63</td>
+<td>72</td>
+<td>115</td>
+<td>#3F4873</td>
+<td style="background-color: #3F4873" ><img src="https://via.placeholder.com/40/3F4873/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Brown</td>
 <td>70.984</td>
 <td>Model Color</td>
-<td>94</td>
-<td>72</td>
-<td>59</td>
-<td>#5E483B</td>
-<td style="background-color: #5E483B" ><img src="https://via.placeholder.com/40/5E483B/000000?text=+" /></td>
+<td>112</td>
+<td>63</td>
+<td>56</td>
+<td>#703F38</td>
+<td style="background-color: #703F38" ><img src="https://via.placeholder.com/40/703F38/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Earth</td>
 <td>70.983</td>
 <td>Model Color</td>
-<td>118</td>
-<td>87</td>
-<td>66</td>
-<td>#765742</td>
-<td style="background-color: #765742" ><img src="https://via.placeholder.com/40/765742/000000?text=+" /></td>
+<td>105</td>
+<td>68</td>
+<td>42</td>
+<td>#69442A</td>
+<td style="background-color: #69442A" ><img src="https://via.placeholder.com/40/69442A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Flesh</td>
 <td>70.955</td>
 <td>Model Color</td>
-<td>225</td>
-<td>166</td>
-<td>122</td>
-<td>#E1A67A</td>
-<td style="background-color: #E1A67A" ><img src="https://via.placeholder.com/40/E1A67A/000000?text=+" /></td>
+<td>224</td>
+<td>153</td>
+<td>89</td>
+<td>#E09959</td>
+<td style="background-color: #E09959" ><img src="https://via.placeholder.com/40/E09959/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Green</td>
 <td>70.968</td>
 <td>Model Color</td>
-<td>72</td>
-<td>92</td>
-<td>65</td>
-<td>#485C41</td>
-<td style="background-color: #485C41" ><img src="https://via.placeholder.com/40/485C41/000000?text=+" /></td>
+<td>55</td>
+<td>75</td>
+<td>47</td>
+<td>#374B2F</td>
+<td style="background-color: #374B2F" ><img src="https://via.placeholder.com/40/374B2F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Red</td>
 <td>70.957</td>
 <td>Model Color</td>
-<td>167</td>
-<td>59</td>
-<td>57</td>
-<td>#A73B39</td>
-<td style="background-color: #A73B39" ><img src="https://via.placeholder.com/40/A73B39/000000?text=+" /></td>
+<td>161</td>
+<td>43</td>
+<td>41</td>
+<td>#A12B29</td>
+<td style="background-color: #A12B29" ><img src="https://via.placeholder.com/40/A12B29/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flat Yellow</td>
 <td>70.953</td>
 <td>Model Color</td>
-<td>248</td>
-<td>183</td>
-<td>53</td>
-<td>#F8B735</td>
-<td style="background-color: #F8B735" ><img src="https://via.placeholder.com/40/F8B735/000000?text=+" /></td>
+<td>246</td>
+<td>186</td>
+<td>54</td>
+<td>#F6BA36</td>
+<td style="background-color: #F6BA36" ><img src="https://via.placeholder.com/40/F6BA36/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flesh</td>
@@ -3425,34 +4205,34 @@
 <td style="background-color: #A4531E" ><img src="https://via.placeholder.com/40/A4531E/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Flesh Blood</td>
+<td>72.601</td>
+<td>Game Color Special FX</td>
+<td>242</td>
+<td>116</td>
+<td>102</td>
+<td>#F27466</td>
+<td style="background-color: #F27466" ><img src="https://via.placeholder.com/40/F27466/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Flesh Highlights</td>
 <td>70.342</td>
 <td>Panzer Aces</td>
-<td>250</td>
-<td>211</td>
-<td>170</td>
-<td>#FAD3AA</td>
-<td style="background-color: #FAD3AA" ><img src="https://via.placeholder.com/40/FAD3AA/000000?text=+" /></td>
+<td>252</td>
+<td>210</td>
+<td>168</td>
+<td>#FCD2A8</td>
+<td style="background-color: #FCD2A8" ><img src="https://via.placeholder.com/40/FCD2A8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flesh Shadows</td>
 <td>70.343</td>
 <td>Panzer Aces</td>
-<td>87</td>
-<td>23</td>
-<td>21</td>
-<td>#571715</td>
-<td style="background-color: #571715" ><img src="https://via.placeholder.com/40/571715/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh Tone</td>
-<td>62.002</td>
-<td>Premium Airbrush Color</td>
-<td>251</td>
-<td>203</td>
-<td>155</td>
-<td>#FBCB9B</td>
-<td style="background-color: #FBCB9B" ><img src="https://via.placeholder.com/40/FBCB9B/000000?text=+" /></td>
+<td>85</td>
+<td>19</td>
+<td>5</td>
+<td>#551305</td>
+<td style="background-color: #551305" ><img src="https://via.placeholder.com/40/551305/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Flesh Tone no. 2</td>
@@ -3475,6 +4255,16 @@
 <td style="background-color: #B67C78" ><img src="https://via.placeholder.com/40/B67C78/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Fluid Pink</td>
+<td>72.459</td>
+<td>Xpress Color</td>
+<td>192</td>
+<td>103</td>
+<td>147</td>
+<td>#C06793</td>
+<td style="background-color: #C06793" ><img src="https://via.placeholder.com/40/C06793/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Fluorescent Blue</td>
 <td>62.038</td>
 <td>Premium Airbrush Color</td>
@@ -3483,6 +4273,26 @@
 <td>214</td>
 <td>#4399D6</td>
 <td style="background-color: #4399D6" ><img src="https://via.placeholder.com/40/4399D6/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Blue</td>
+<td>72.160</td>
+<td>Game Color</td>
+<td>0</td>
+<td>130</td>
+<td>205</td>
+<td>#0082CD</td>
+<td style="background-color: #0082CD" ><img src="https://via.placeholder.com/40/0082CD/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Cold Green</td>
+<td>72.161</td>
+<td>Game Color</td>
+<td>0</td>
+<td>112</td>
+<td>116</td>
+<td>#007074</td>
+<td style="background-color: #007074" ><img src="https://via.placeholder.com/40/007074/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent Golden Yellow</td>
@@ -3496,16 +4306,6 @@
 </tr>
 <tr>
 <td>Fluorescent Green</td>
-<td>72.104</td>
-<td>Game Color</td>
-<td>193</td>
-<td>212</td>
-<td>96</td>
-<td>#C1D460</td>
-<td style="background-color: #C1D460" ><img src="https://via.placeholder.com/40/C1D460/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fluorescent Green</td>
 <td>62.039</td>
 <td>Premium Airbrush Color</td>
 <td>105</td>
@@ -3513,6 +4313,26 @@
 <td>66</td>
 <td>#69B642</td>
 <td style="background-color: #69B642" ><img src="https://via.placeholder.com/40/69B642/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Green</td>
+<td>72.104</td>
+<td>Game Color</td>
+<td>116</td>
+<td>183</td>
+<td>44</td>
+<td>#74B72C</td>
+<td style="background-color: #74B72C" ><img src="https://via.placeholder.com/40/74B72C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Magenta</td>
+<td>72.158</td>
+<td>Game Color</td>
+<td>232</td>
+<td>52</td>
+<td>141</td>
+<td>#E8348D</td>
+<td style="background-color: #E8348D" ><img src="https://via.placeholder.com/40/E8348D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent Magenta</td>
@@ -3528,11 +4348,31 @@
 <td>Fluorescent Orange</td>
 <td>62.033</td>
 <td>Premium Airbrush Color</td>
-<td>240</td>
+<td>241</td>
 <td>126</td>
 <td>1</td>
-<td>#F07E01</td>
-<td style="background-color: #F07E01" ><img src="https://via.placeholder.com/40/F07E01/000000?text=+" /></td>
+<td>#F17E01</td>
+<td style="background-color: #F17E01" ><img src="https://via.placeholder.com/40/F17E01/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Orange</td>
+<td>72.156</td>
+<td>Game Color</td>
+<td>232</td>
+<td>78</td>
+<td>16</td>
+<td>#E84E10</td>
+<td style="background-color: #E84E10" ><img src="https://via.placeholder.com/40/E84E10/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Red</td>
+<td>72.157</td>
+<td>Game Color</td>
+<td>221</td>
+<td>47</td>
+<td>82</td>
+<td>#DD2F52</td>
+<td style="background-color: #DD2F52" ><img src="https://via.placeholder.com/40/DD2F52/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent Red</td>
@@ -3558,11 +4398,11 @@
 <td>Fluorescent Scarlet</td>
 <td>62.034</td>
 <td>Premium Airbrush Color</td>
-<td>235</td>
-<td>80</td>
+<td>236</td>
+<td>79</td>
 <td>96</td>
-<td>#EB5060</td>
-<td style="background-color: #EB5060" ><img src="https://via.placeholder.com/40/EB5060/000000?text=+" /></td>
+<td>#EC4F60</td>
+<td style="background-color: #EC4F60" ><img src="https://via.placeholder.com/40/EC4F60/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent Violet</td>
@@ -3573,6 +4413,16 @@
 <td>118</td>
 <td>#693E76</td>
 <td style="background-color: #693E76" ><img src="https://via.placeholder.com/40/693E76/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fluorescent Violet</td>
+<td>72.159</td>
+<td>Game Color</td>
+<td>111</td>
+<td>37</td>
+<td>122</td>
+<td>#6F257A</td>
+<td style="background-color: #6F257A" ><img src="https://via.placeholder.com/40/6F257A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fluorescent Yellow</td>
@@ -3588,11 +4438,11 @@
 <td>Fluorescent Yellow</td>
 <td>72.103</td>
 <td>Game Color</td>
-<td>255</td>
-<td>238</td>
-<td>0</td>
-<td>#FFEE00</td>
-<td style="background-color: #FFEE00" ><img src="https://via.placeholder.com/40/FFEE00/000000?text=+" /></td>
+<td>240</td>
+<td>230</td>
+<td>57</td>
+<td>#F0E639</td>
+<td style="background-color: #F0E639" ><img src="https://via.placeholder.com/40/F0E639/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Forest Green</td>
@@ -3603,6 +4453,16 @@
 <td>43</td>
 <td>#055D2B</td>
 <td style="background-color: #055D2B" ><img src="https://via.placeholder.com/40/055D2B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Forest Green</td>
+<td>72.465</td>
+<td>Xpress Color</td>
+<td>17</td>
+<td>102</td>
+<td>45</td>
+<td>#11662D</td>
+<td style="background-color: #11662D" ><img src="https://via.placeholder.com/40/11662D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Forest Skin</td>
@@ -3618,21 +4478,11 @@
 <td>Foul Green</td>
 <td>72.025</td>
 <td>Game Color</td>
-<td>63</td>
-<td>158</td>
-<td>128</td>
-<td>#3F9E80</td>
-<td style="background-color: #3F9E80" ><img src="https://via.placeholder.com/40/3F9E80/000000?text=+" /></td>
-</tr>
-<tr>
-<td>French Blue</td>
-<td>71.088</td>
-<td>Model Air</td>
-<td>31</td>
-<td>78</td>
-<td>122</td>
-<td>#1F4E7A</td>
-<td style="background-color: #1F4E7A" ><img src="https://via.placeholder.com/40/1F4E7A/000000?text=+" /></td>
+<td>0</td>
+<td>162</td>
+<td>125</td>
+<td>#00A27D</td>
+<td style="background-color: #00A27D" ><img src="https://via.placeholder.com/40/00A27D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>French Blue</td>
@@ -3643,6 +4493,16 @@
 <td>138</td>
 <td>#3F6A8A</td>
 <td style="background-color: #3F6A8A" ><img src="https://via.placeholder.com/40/3F6A8A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>French Blue</td>
+<td>71.088</td>
+<td>Model Air</td>
+<td>31</td>
+<td>78</td>
+<td>122</td>
+<td>#1F4E7A</td>
+<td style="background-color: #1F4E7A" ><img src="https://via.placeholder.com/40/1F4E7A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>French Mirage Blue</td>
@@ -3659,20 +4519,20 @@
 <td>70.320</td>
 <td>Panzer Aces</td>
 <td>117</td>
-<td>110</td>
-<td>84</td>
-<td>#756E54</td>
-<td style="background-color: #756E54" ><img src="https://via.placeholder.com/40/756E54/000000?text=+" /></td>
+<td>109</td>
+<td>86</td>
+<td>#756D56</td>
+<td style="background-color: #756D56" ><img src="https://via.placeholder.com/40/756D56/000000?text=+" /></td>
 </tr>
 <tr>
 <td>French Tank Crew Highlights</td>
 <td>70.324</td>
 <td>Panzer Aces</td>
 <td>137</td>
-<td>122</td>
-<td>117</td>
-<td>#897A75</td>
-<td style="background-color: #897A75" ><img src="https://via.placeholder.com/40/897A75/000000?text=+" /></td>
+<td>124</td>
+<td>115</td>
+<td>#897C73</td>
+<td style="background-color: #897C73" ><img src="https://via.placeholder.com/40/897C73/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fresh Blood</td>
@@ -3685,6 +4545,16 @@
 <td style="background-color: #7E2B19" ><img src="https://via.placeholder.com/40/7E2B19/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Frost</td>
+<td>72.604</td>
+<td>Game Color Special FX</td>
+<td>138</td>
+<td>201</td>
+<td>227</td>
+<td>#8AC9E3</td>
+<td style="background-color: #8AC9E3" ><img src="https://via.placeholder.com/40/8AC9E3/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Frozen Flesh</td>
 <td>74.010</td>
 <td>Nocturna Models</td>
@@ -3693,6 +4563,16 @@
 <td>91</td>
 <td>#57555B</td>
 <td style="background-color: #57555B" ><img src="https://via.placeholder.com/40/57555B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Fuel Stains</td>
+<td>73.814</td>
+<td>Weathering FX</td>
+<td>141</td>
+<td>93</td>
+<td>57</td>
+<td>#8D5D39</td>
+<td style="background-color: #8D5D39" ><img src="https://via.placeholder.com/40/8D5D39/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Fuel Stains (Gloss)</td>
@@ -3705,6 +4585,16 @@
 <td style="background-color: #A06217" ><img src="https://via.placeholder.com/40/A06217/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Galvanic Corrosion</td>
+<td>72.610</td>
+<td>Game Color Special FX</td>
+<td>238</td>
+<td>174</td>
+<td>118</td>
+<td>#EEAE76</td>
+<td style="background-color: #EEAE76" ><img src="https://via.placeholder.com/40/EEAE76/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Georgia Clay</td>
 <td>85.031</td>
 <td>Arte Deco</td>
@@ -3715,134 +4605,64 @@
 <td style="background-color: #BE3E17" ><img src="https://via.placeholder.com/40/BE3E17/000000?text=+" /></td>
 </tr>
 <tr>
-<td>German Camouflage Beige WWII</td>
+<td>German Beige WWII</td>
 <td>70.821</td>
 <td>Model Color</td>
-<td>142</td>
-<td>134</td>
-<td>113</td>
-<td>#8E8671</td>
-<td style="background-color: #8E8671" ><img src="https://via.placeholder.com/40/8E8671/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Black Brown</td>
-<td>70.822</td>
-<td>Model Color</td>
-<td>72</td>
-<td>66</td>
-<td>66</td>
-<td>#484242</td>
-<td style="background-color: #484242" ><img src="https://via.placeholder.com/40/484242/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Bright Green</td>
-<td>70.833</td>
-<td>Model Color</td>
-<td>92</td>
-<td>112</td>
-<td>75</td>
-<td>#5C704B</td>
-<td style="background-color: #5C704B" ><img src="https://via.placeholder.com/40/5C704B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Dark Green</td>
-<td>70.979</td>
-<td>Model Color</td>
-<td>75</td>
-<td>77</td>
-<td>74</td>
-<td>#4B4D4A</td>
-<td style="background-color: #4B4D4A" ><img src="https://via.placeholder.com/40/4B4D4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Extra Dark Green</td>
-<td>70.896</td>
-<td>Model Color</td>
-<td>73</td>
-<td>75</td>
-<td>72</td>
-<td>#494B48</td>
-<td style="background-color: #494B48" ><img src="https://via.placeholder.com/40/494B48/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Med. Brown</td>
-<td>70.826</td>
-<td>Model Color</td>
-<td>98</td>
-<td>81</td>
-<td>65</td>
-<td>#625141</td>
-<td style="background-color: #625141" ><img src="https://via.placeholder.com/40/625141/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Orange Ochre</td>
-<td>70.824</td>
-<td>Model Color</td>
-<td>162</td>
-<td>126</td>
-<td>74</td>
-<td>#A27E4A</td>
-<td style="background-color: #A27E4A" ><img src="https://via.placeholder.com/40/A27E4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Camouflage Pale Brown</td>
-<td>70.825</td>
-<td>Model Color</td>
-<td>125</td>
-<td>104</td>
-<td>87</td>
-<td>#7D6857</td>
-<td style="background-color: #7D6857" ><img src="https://via.placeholder.com/40/7D6857/000000?text=+" /></td>
+<td>121</td>
+<td>105</td>
+<td>80</td>
+<td>#796950</td>
+<td style="background-color: #796950" ><img src="https://via.placeholder.com/40/796950/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Dark Yellow</td>
 <td>70.604</td>
 <td>Surface Primer</td>
-<td>149</td>
-<td>123</td>
-<td>100</td>
-<td>#957B64</td>
-<td style="background-color: #957B64" ><img src="https://via.placeholder.com/40/957B64/000000?text=+" /></td>
+<td>137</td>
+<td>116</td>
+<td>97</td>
+<td>#897461</td>
+<td style="background-color: #897461" ><img src="https://via.placeholder.com/40/897461/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Field Grey</td>
 <td>28.006</td>
 <td>Hobby Paint</td>
-<td>99</td>
-<td>99</td>
-<td>91</td>
-<td>#63635B</td>
-<td style="background-color: #63635B" ><img src="https://via.placeholder.com/40/63635B/000000?text=+" /></td>
+<td>98</td>
+<td>98</td>
+<td>90</td>
+<td>#62625A</td>
+<td style="background-color: #62625A" ><img src="https://via.placeholder.com/40/62625A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Fieldgrey WWII</td>
 <td>70.830</td>
 <td>Model Color</td>
-<td>95</td>
-<td>95</td>
-<td>85</td>
-<td>#5F5F55</td>
-<td style="background-color: #5F5F55" ><img src="https://via.placeholder.com/40/5F5F55/000000?text=+" /></td>
+<td>88</td>
+<td>82</td>
+<td>60</td>
+<td>#58523C</td>
+<td style="background-color: #58523C" ><img src="https://via.placeholder.com/40/58523C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Green Brown</td>
 <td>70.606</td>
 <td>Surface Primer</td>
-<td>136</td>
-<td>108</td>
-<td>71</td>
-<td>#886C47</td>
-<td style="background-color: #886C47" ><img src="https://via.placeholder.com/40/886C47/000000?text=+" /></td>
+<td>124</td>
+<td>100</td>
+<td>72</td>
+<td>#7C6448</td>
+<td style="background-color: #7C6448" ><img src="https://via.placeholder.com/40/7C6448/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Green Tail Light</td>
 <td>70.308</td>
 <td>Panzer Aces</td>
-<td>57</td>
-<td>80</td>
-<td>70</td>
-<td>#395046</td>
-<td style="background-color: #395046" ><img src="https://via.placeholder.com/40/395046/000000?text=+" /></td>
+<td>61</td>
+<td>83</td>
+<td>71</td>
+<td>#3D5347</td>
+<td style="background-color: #3D5347" ><img src="https://via.placeholder.com/40/3D5347/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Grey</td>
@@ -3858,41 +4678,41 @@
 <td>German Grey</td>
 <td>70.995</td>
 <td>Model Color</td>
-<td>70</td>
-<td>70</td>
-<td>78</td>
-<td>#46464E</td>
-<td style="background-color: #46464E" ><img src="https://via.placeholder.com/40/46464E/000000?text=+" /></td>
+<td>46</td>
+<td>46</td>
+<td>44</td>
+<td>#2E2E2C</td>
+<td style="background-color: #2E2E2C" ><img src="https://via.placeholder.com/40/2E2E2C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Orange</td>
 <td>70.805</td>
 <td>Model Color</td>
-<td>208</td>
-<td>132</td>
-<td>116</td>
-<td>#D08474</td>
-<td style="background-color: #D08474" ><img src="https://via.placeholder.com/40/D08474/000000?text=+" /></td>
+<td>186</td>
+<td>98</td>
+<td>84</td>
+<td>#BA6254</td>
+<td style="background-color: #BA6254" ><img src="https://via.placeholder.com/40/BA6254/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Panzer Grey</td>
 <td>70.603</td>
 <td>Surface Primer</td>
-<td>69</td>
-<td>69</td>
-<td>71</td>
-<td>#454547</td>
-<td style="background-color: #454547" ><img src="https://via.placeholder.com/40/454547/000000?text=+" /></td>
+<td>64</td>
+<td>64</td>
+<td>66</td>
+<td>#404042</td>
+<td style="background-color: #404042" ><img src="https://via.placeholder.com/40/404042/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Red Brown</td>
 <td>70.605</td>
 <td>Surface Primer</td>
-<td>103</td>
-<td>66</td>
-<td>58</td>
-<td>#67423A</td>
-<td style="background-color: #67423A" ><img src="https://via.placeholder.com/40/67423A/000000?text=+" /></td>
+<td>98</td>
+<td>67</td>
+<td>65</td>
+<td>#624341</td>
+<td style="background-color: #624341" ><img src="https://via.placeholder.com/40/624341/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Red Brown</td>
@@ -3908,101 +4728,111 @@
 <td>German Red Tail Light</td>
 <td>70.307</td>
 <td>Panzer Aces</td>
-<td>78</td>
-<td>50</td>
-<td>39</td>
-<td>#4E3227</td>
-<td style="background-color: #4E3227" ><img src="https://via.placeholder.com/40/4E3227/000000?text=+" /></td>
+<td>80</td>
+<td>52</td>
+<td>40</td>
+<td>#503428</td>
+<td style="background-color: #503428" ><img src="https://via.placeholder.com/40/503428/000000?text=+" /></td>
+</tr>
+<tr>
+<td>German Tank Crew</td>
+<td>70.759</td>
+<td>Model Color</td>
+<td>84</td>
+<td>74</td>
+<td>62</td>
+<td>#544A3E</td>
+<td style="background-color: #544A3E" ><img src="https://via.placeholder.com/40/544A3E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Tank Crew</td>
 <td>70.333</td>
 <td>Panzer Aces</td>
-<td>64</td>
-<td>70</td>
-<td>70</td>
-<td>#404646</td>
-<td style="background-color: #404646" ><img src="https://via.placeholder.com/40/404646/000000?text=+" /></td>
+<td>67</td>
+<td>73</td>
+<td>73</td>
+<td>#434949</td>
+<td style="background-color: #434949" ><img src="https://via.placeholder.com/40/434949/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Tank Crew Highlights</td>
 <td>70.337</td>
 <td>Panzer Aces</td>
-<td>63</td>
-<td>41</td>
-<td>28</td>
-<td>#3F291C</td>
-<td style="background-color: #3F291C" ><img src="https://via.placeholder.com/40/3F291C/000000?text=+" /></td>
+<td>60</td>
+<td>38</td>
+<td>24</td>
+<td>#3C2618</td>
+<td style="background-color: #3C2618" ><img src="https://via.placeholder.com/40/3C2618/000000?text=+" /></td>
+</tr>
+<tr>
+<td>German Tank Crew Highlights I</td>
+<td>70.338</td>
+<td>Panzer Aces</td>
+<td>91</td>
+<td>117</td>
+<td>114</td>
+<td>#5B7572</td>
+<td style="background-color: #5B7572" ><img src="https://via.placeholder.com/40/5B7572/000000?text=+" /></td>
+</tr>
+<tr>
+<td>German Tank Crew Highlights II</td>
+<td>70.339</td>
+<td>Panzer Aces</td>
+<td>148</td>
+<td>121</td>
+<td>94</td>
+<td>#94795E</td>
+<td style="background-color: #94795E" ><img src="https://via.placeholder.com/40/94795E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Tank Crew I</td>
 <td>70.334</td>
 <td>Panzer Aces</td>
-<td>0</td>
-<td>63</td>
+<td>1</td>
+<td>62</td>
 <td>44</td>
-<td>#003F2C</td>
-<td style="background-color: #003F2C" ><img src="https://via.placeholder.com/40/003F2C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Tank Crew I Highlights</td>
-<td>70.338</td>
-<td>Panzer Aces</td>
-<td>89</td>
-<td>119</td>
-<td>111</td>
-<td>#59776F</td>
-<td style="background-color: #59776F" ><img src="https://via.placeholder.com/40/59776F/000000?text=+" /></td>
+<td>#013E2C</td>
+<td style="background-color: #013E2C" ><img src="https://via.placeholder.com/40/013E2C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Tank Crew II</td>
 <td>70.335</td>
 <td>Panzer Aces</td>
 <td>71</td>
-<td>61</td>
-<td>36</td>
-<td>#473D24</td>
-<td style="background-color: #473D24" ><img src="https://via.placeholder.com/40/473D24/000000?text=+" /></td>
-</tr>
-<tr>
-<td>German Tank Crew II Highlights</td>
-<td>70.339</td>
-<td>Panzer Aces</td>
-<td>150</td>
-<td>120</td>
-<td>92</td>
-<td>#96785C</td>
-<td style="background-color: #96785C" ><img src="https://via.placeholder.com/40/96785C/000000?text=+" /></td>
+<td>60</td>
+<td>38</td>
+<td>#473C26</td>
+<td style="background-color: #473C26" ><img src="https://via.placeholder.com/40/473C26/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Uniform</td>
 <td>70.920</td>
 <td>Model Color</td>
-<td>81</td>
-<td>98</td>
-<td>92</td>
-<td>#51625C</td>
-<td style="background-color: #51625C" ><img src="https://via.placeholder.com/40/51625C/000000?text=+" /></td>
+<td>67</td>
+<td>77</td>
+<td>66</td>
+<td>#434D42</td>
+<td style="background-color: #434D42" ><img src="https://via.placeholder.com/40/434D42/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German White Tank Crew</td>
 <td>70.344</td>
 <td>Panzer Aces</td>
 <td>224</td>
-<td>224</td>
-<td>216</td>
-<td>#E0E0D8</td>
-<td style="background-color: #E0E0D8" ><img src="https://via.placeholder.com/40/E0E0D8/000000?text=+" /></td>
+<td>223</td>
+<td>219</td>
+<td>#E0DFDB</td>
+<td style="background-color: #E0DFDB" ><img src="https://via.placeholder.com/40/E0DFDB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Yellow</td>
 <td>70.806</td>
 <td>Model Color</td>
-<td>203</td>
-<td>190</td>
-<td>120</td>
-<td>#CBBE78</td>
-<td style="background-color: #CBBE78" ><img src="https://via.placeholder.com/40/CBBE78/000000?text=+" /></td>
+<td>206</td>
+<td>182</td>
+<td>94</td>
+<td>#CEB65E</td>
+<td style="background-color: #CEB65E" ><img src="https://via.placeholder.com/40/CEB65E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>German Yellow Brown</td>
@@ -4013,6 +4843,26 @@
 <td>73</td>
 <td>#846E49</td>
 <td style="background-color: #846E49" ><img src="https://via.placeholder.com/40/846E49/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ghost Green</td>
+<td>72.121</td>
+<td>Game Color</td>
+<td>131</td>
+<td>193</td>
+<td>146</td>
+<td>#83C192</td>
+<td style="background-color: #83C192" ><img src="https://via.placeholder.com/40/83C192/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ghost Green</td>
+<td>76.121</td>
+<td>Game Air</td>
+<td>131</td>
+<td>193</td>
+<td>146</td>
+<td>#83C192</td>
+<td style="background-color: #83C192" ><img src="https://via.placeholder.com/40/83C192/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ghost Grey</td>
@@ -4028,11 +4878,31 @@
 <td>Glacier Blue</td>
 <td>72.095</td>
 <td>Game Color</td>
-<td>180</td>
-<td>206</td>
-<td>233</td>
-<td>#B4CEE9</td>
-<td style="background-color: #B4CEE9" ><img src="https://via.placeholder.com/40/B4CEE9/000000?text=+" /></td>
+<td>205</td>
+<td>217</td>
+<td>241</td>
+<td>#CDD9F1</td>
+<td style="background-color: #CDD9F1" ><img src="https://via.placeholder.com/40/CDD9F1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gloomy Violet</td>
+<td>72.410</td>
+<td>Xpress Color</td>
+<td>64</td>
+<td>47</td>
+<td>89</td>
+<td>#402F59</td>
+<td style="background-color: #402F59" ><img src="https://via.placeholder.com/40/402F59/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Glorious Gold</td>
+<td>72.056</td>
+<td>Game Color</td>
+<td>244</td>
+<td>227</td>
+<td>197</td>
+<td>#F4E3C5</td>
+<td style="background-color: #F4E3C5" ><img src="https://via.placeholder.com/40/F4E3C5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Glorious Gold</td>
@@ -4045,24 +4915,14 @@
 <td style="background-color: #C4905E" ><img src="https://via.placeholder.com/40/C4905E/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Glorious Gold</td>
-<td>72.056</td>
-<td>Game Color</td>
-<td>155</td>
-<td>109</td>
-<td>50</td>
-<td>#9B6D32</td>
-<td style="background-color: #9B6D32" ><img src="https://via.placeholder.com/40/9B6D32/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Gloss Black</td>
 <td>77.660</td>
 <td>Surface Primer</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>#010101</td>
-<td style="background-color: #010101" ><img src="https://via.placeholder.com/40/010101/000000?text=+" /></td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>#060606</td>
+<td style="background-color: #060606" ><img src="https://via.placeholder.com/40/060606/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gloss Metal Varnish</td>
@@ -4108,31 +4968,41 @@
 <td>Glossy Black</td>
 <td>70.861</td>
 <td>Model Color</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>#151515</td>
-<td style="background-color: #151515" ><img src="https://via.placeholder.com/40/151515/000000?text=+" /></td>
+<td>36</td>
+<td>30</td>
+<td>30</td>
+<td>#241E1E</td>
+<td style="background-color: #241E1E" ><img src="https://via.placeholder.com/40/241E1E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Glossy Sea Blue</td>
 <td>71.300</td>
 <td>Model Air</td>
-<td>35</td>
-<td>44</td>
+<td>36</td>
+<td>43</td>
 <td>53</td>
-<td>#232C35</td>
-<td style="background-color: #232C35" ><img src="https://via.placeholder.com/40/232C35/000000?text=+" /></td>
+<td>#242B35</td>
+<td style="background-color: #242B35" ><img src="https://via.placeholder.com/40/242B35/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Goblin Green</td>
 <td>72.030</td>
 <td>Game Color</td>
-<td>43</td>
+<td>87</td>
+<td>96</td>
+<td>51</td>
+<td>#576033</td>
+<td style="background-color: #576033" ><img src="https://via.placeholder.com/40/576033/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Goblin Green</td>
+<td>28.027</td>
+<td>Hobby Paint</td>
 <td>108</td>
-<td>40</td>
-<td>#2B6C28</td>
-<td style="background-color: #2B6C28" ><img src="https://via.placeholder.com/40/2B6C28/000000?text=+" /></td>
+<td>116</td>
+<td>69</td>
+<td>#6C7445</td>
+<td style="background-color: #6C7445" ><img src="https://via.placeholder.com/40/6C7445/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Goblin Green</td>
@@ -4145,14 +5015,24 @@
 <td style="background-color: #6B7342" ><img src="https://via.placeholder.com/40/6B7342/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Goblin Green</td>
-<td>28.027</td>
-<td>Hobby Paint</td>
-<td>109</td>
-<td>117</td>
-<td>70</td>
-<td>#6D7546</td>
-<td style="background-color: #6D7546" ><img src="https://via.placeholder.com/40/6D7546/000000?text=+" /></td>
+<td>Gold</td>
+<td>70.996</td>
+<td>Model Color</td>
+<td>153</td>
+<td>103</td>
+<td>40</td>
+<td>#996728</td>
+<td style="background-color: #996728" ><img src="https://via.placeholder.com/40/996728/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gold</td>
+<td>69.059</td>
+<td>Mecha Color</td>
+<td>172</td>
+<td>132</td>
+<td>36</td>
+<td>#AC8424</td>
+<td style="background-color: #AC8424" ><img src="https://via.placeholder.com/40/AC8424/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold</td>
@@ -4166,53 +5046,33 @@
 </tr>
 <tr>
 <td>Gold</td>
-<td>70.791</td>
-<td>Liquid Gold</td>
-<td>201</td>
-<td>188</td>
-<td>171</td>
-<td>#C9BCAB</td>
-<td style="background-color: #C9BCAB" ><img src="https://via.placeholder.com/40/C9BCAB/000000?text=+" /></td>
+<td>77.725</td>
+<td>Metal Color</td>
+<td>170</td>
+<td>161</td>
+<td>132</td>
+<td>#AAA184</td>
+<td style="background-color: #AAA184" ><img src="https://via.placeholder.com/40/AAA184/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold</td>
-<td>70.996</td>
-<td>Model Color</td>
-<td>206</td>
-<td>175</td>
-<td>82</td>
-<td>#CEAF52</td>
-<td style="background-color: #CEAF52" ><img src="https://via.placeholder.com/40/CEAF52/000000?text=+" /></td>
+<td>70.791</td>
+<td>Liquid Gold</td>
+<td>238</td>
+<td>230</td>
+<td>227</td>
+<td>#EEE6E3</td>
+<td style="background-color: #EEE6E3" ><img src="https://via.placeholder.com/40/EEE6E3/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold</td>
 <td>62.049</td>
 <td>Premium Airbrush Color</td>
-<td>234</td>
-<td>218</td>
-<td>193</td>
-<td>#EADAC1</td>
-<td style="background-color: #EADAC1" ><img src="https://via.placeholder.com/40/EADAC1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gold</td>
-<td>77.725</td>
-<td>Metal Color</td>
-<td>214</td>
-<td>201</td>
-<td>182</td>
-<td>#D6C9B6</td>
-<td style="background-color: #D6C9B6" ><img src="https://via.placeholder.com/40/D6C9B6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gold</td>
-<td>69.059</td>
-<td>Mecha Color</td>
-<td>172</td>
-<td>132</td>
-<td>36</td>
-<td>#AC8424</td>
-<td style="background-color: #AC8424" ><img src="https://via.placeholder.com/40/AC8424/000000?text=+" /></td>
+<td>240</td>
+<td>227</td>
+<td>210</td>
+<td>#F0E3D2</td>
+<td style="background-color: #F0E3D2" ><img src="https://via.placeholder.com/40/F0E3D2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold (Metallic)</td>
@@ -4228,11 +5088,11 @@
 <td>Gold Brown</td>
 <td>70.877</td>
 <td>Model Color</td>
-<td>182</td>
-<td>134</td>
-<td>68</td>
-<td>#B68644</td>
-<td style="background-color: #B68644" ><img src="https://via.placeholder.com/40/B68644/000000?text=+" /></td>
+<td>191</td>
+<td>135</td>
+<td>60</td>
+<td>#BF873C</td>
+<td style="background-color: #BF873C" ><img src="https://via.placeholder.com/40/BF873C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gold Yellow</td>
@@ -4248,11 +5108,21 @@
 <td>Gold Yellow</td>
 <td>72.007</td>
 <td>Game Color</td>
-<td>253</td>
-<td>197</td>
-<td>0</td>
-<td>#FDC500</td>
-<td style="background-color: #FDC500" ><img src="https://via.placeholder.com/40/FDC500/000000?text=+" /></td>
+<td>214</td>
+<td>116</td>
+<td>25</td>
+<td>#D67419</td>
+<td style="background-color: #D67419" ><img src="https://via.placeholder.com/40/D67419/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gold Yellow</td>
+<td>76.007</td>
+<td>Game Air</td>
+<td>214</td>
+<td>116</td>
+<td>25</td>
+<td>#D67419</td>
+<td style="background-color: #D67419" ><img src="https://via.placeholder.com/40/D67419/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Golden Brown</td>
@@ -4260,9 +5130,9 @@
 <td>Model Air</td>
 <td>135</td>
 <td>99</td>
-<td>65</td>
-<td>#876341</td>
-<td style="background-color: #876341" ><img src="https://via.placeholder.com/40/876341/000000?text=+" /></td>
+<td>67</td>
+<td>#876343</td>
+<td style="background-color: #876343" ><img src="https://via.placeholder.com/40/876343/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Golden Ochre</td>
@@ -4289,10 +5159,10 @@
 <td>70.948</td>
 <td>Model Color</td>
 <td>248</td>
-<td>182</td>
-<td>85</td>
-<td>#F8B655</td>
-<td style="background-color: #F8B655" ><img src="https://via.placeholder.com/40/F8B655/000000?text=+" /></td>
+<td>167</td>
+<td>52</td>
+<td>#F8A734</td>
+<td style="background-color: #F8A734" ><img src="https://via.placeholder.com/40/F8A734/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gooseberry Pink</td>
@@ -4305,14 +5175,24 @@
 <td style="background-color: #DC6888" ><img src="https://via.placeholder.com/40/DC6888/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Gory Red</td>
-<td>72.011</td>
+<td>Gorgon Brown</td>
+<td>72.124</td>
 <td>Game Color</td>
-<td>133</td>
-<td>14</td>
-<td>52</td>
-<td>#850E34</td>
-<td style="background-color: #850E34" ><img src="https://via.placeholder.com/40/850E34/000000?text=+" /></td>
+<td>90</td>
+<td>46</td>
+<td>35</td>
+<td>#5A2E23</td>
+<td style="background-color: #5A2E23" ><img src="https://via.placeholder.com/40/5A2E23/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gory Red</td>
+<td>28.029</td>
+<td>Hobby Paint</td>
+<td>120</td>
+<td>60</td>
+<td>60</td>
+<td>#783C3C</td>
+<td style="background-color: #783C3C" ><img src="https://via.placeholder.com/40/783C3C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gory Red</td>
@@ -4326,23 +5206,23 @@
 </tr>
 <tr>
 <td>Gory Red</td>
-<td>28.029</td>
-<td>Hobby Paint</td>
-<td>123</td>
-<td>63</td>
-<td>63</td>
-<td>#7B3F3F</td>
-<td style="background-color: #7B3F3F" ><img src="https://via.placeholder.com/40/7B3F3F/000000?text=+" /></td>
+<td>72.011</td>
+<td>Game Color</td>
+<td>125</td>
+<td>31</td>
+<td>31</td>
+<td>#7D1F1F</td>
+<td style="background-color: #7D1F1F" ><img src="https://via.placeholder.com/40/7D1F1F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gray Blue RLM84</td>
 <td>71.103</td>
 <td>Model Air</td>
 <td>162</td>
-<td>164</td>
-<td>153</td>
-<td>#A2A499</td>
-<td style="background-color: #A2A499" ><img src="https://via.placeholder.com/40/A2A499/000000?text=+" /></td>
+<td>163</td>
+<td>155</td>
+<td>#A2A39B</td>
+<td style="background-color: #A2A39B" ><img src="https://via.placeholder.com/40/A2A39B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gray Green RLM74</td>
@@ -4365,24 +5245,14 @@
 <td style="background-color: #646663" ><img src="https://via.placeholder.com/40/646663/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Green</td>
-<td>85.088</td>
-<td>Arte Deco</td>
-<td>0</td>
-<td>139</td>
-<td>79</td>
-<td>#008B4F</td>
-<td style="background-color: #008B4F" ><img src="https://via.placeholder.com/40/008B4F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green</td>
-<td>72.089</td>
-<td>Game Color</td>
-<td>62</td>
-<td>171</td>
-<td>104</td>
-<td>#3EAB68</td>
-<td style="background-color: #3EAB68" ><img src="https://via.placeholder.com/40/3EAB68/000000?text=+" /></td>
+<td>Greasy Black</td>
+<td>72.476</td>
+<td>Xpress Color</td>
+<td>65</td>
+<td>55</td>
+<td>54</td>
+<td>#413736</td>
+<td style="background-color: #413736" ><img src="https://via.placeholder.com/40/413736/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green</td>
@@ -4396,13 +5266,33 @@
 </tr>
 <tr>
 <td>Green</td>
+<td>85.088</td>
+<td>Arte Deco</td>
+<td>0</td>
+<td>139</td>
+<td>79</td>
+<td>#008B4F</td>
+<td style="background-color: #008B4F" ><img src="https://via.placeholder.com/40/008B4F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Green</td>
 <td>71.329</td>
 <td>Model Air</td>
 <td>113</td>
 <td>116</td>
-<td>105</td>
-<td>#717469</td>
-<td style="background-color: #717469" ><img src="https://via.placeholder.com/40/717469/000000?text=+" /></td>
+<td>107</td>
+<td>#71746B</td>
+<td style="background-color: #71746B" ><img src="https://via.placeholder.com/40/71746B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Green</td>
+<td>72.089</td>
+<td>Game Color</td>
+<td>0</td>
+<td>113</td>
+<td>51</td>
+<td>#007133</td>
+<td style="background-color: #007133" ><img src="https://via.placeholder.com/40/007133/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Blue</td>
@@ -4428,21 +5318,11 @@
 <td>Green Brown</td>
 <td>70.879</td>
 <td>Model Color</td>
-<td>132</td>
+<td>129</td>
 <td>109</td>
-<td>67</td>
-<td>#846D43</td>
-<td style="background-color: #846D43" ><img src="https://via.placeholder.com/40/846D43/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Fluorescent</td>
-<td>70.737</td>
-<td>Model Color</td>
-<td>168</td>
-<td>201</td>
-<td>88</td>
-<td>#A8C958</td>
-<td style="background-color: #A8C958" ><img src="https://via.placeholder.com/40/A8C958/000000?text=+" /></td>
+<td>50</td>
+<td>#816D32</td>
+<td style="background-color: #816D32" ><img src="https://via.placeholder.com/40/816D32/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Fluorescent</td>
@@ -4455,54 +5335,64 @@
 <td style="background-color: #A8C958" ><img src="https://via.placeholder.com/40/A8C958/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Green Fluorescent</td>
+<td>70.737</td>
+<td>Model Color</td>
+<td>168</td>
+<td>201</td>
+<td>88</td>
+<td>#A8C958</td>
+<td style="background-color: #A8C958" ><img src="https://via.placeholder.com/40/A8C958/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Green Gold</td>
 <td>70.795</td>
 <td>Liquid Gold</td>
-<td>175</td>
-<td>154</td>
-<td>97</td>
-<td>#AF9A61</td>
-<td style="background-color: #AF9A61" ><img src="https://via.placeholder.com/40/AF9A61/000000?text=+" /></td>
+<td>227</td>
+<td>216</td>
+<td>196</td>
+<td>#E3D8C4</td>
+<td style="background-color: #E3D8C4" ><img src="https://via.placeholder.com/40/E3D8C4/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Green Grey</td>
+<td>70.971</td>
+<td>Model Color</td>
+<td>181</td>
+<td>182</td>
+<td>174</td>
+<td>#B5B6AE</td>
+<td style="background-color: #B5B6AE" ><img src="https://via.placeholder.com/40/B5B6AE/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Green Grey</td>
+<td>70.886</td>
+<td>Model Color</td>
+<td>101</td>
+<td>98</td>
+<td>79</td>
+<td>#65624F</td>
+<td style="background-color: #65624F" ><img src="https://via.placeholder.com/40/65624F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Grey</td>
 <td>71.341</td>
 <td>Model Air</td>
 <td>88</td>
-<td>99</td>
-<td>85</td>
-<td>#586355</td>
-<td style="background-color: #586355" ><img src="https://via.placeholder.com/40/586355/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Grey</td>
-<td>70.971</td>
-<td>Model Color</td>
-<td>180</td>
-<td>183</td>
-<td>172</td>
-<td>#B4B7AC</td>
-<td style="background-color: #B4B7AC" ><img src="https://via.placeholder.com/40/B4B7AC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Grey</td>
-<td>70.886</td>
-<td>Model Color</td>
-<td>117</td>
-<td>117</td>
-<td>107</td>
-<td>#75756B</td>
-<td style="background-color: #75756B" ><img src="https://via.placeholder.com/40/75756B/000000?text=+" /></td>
+<td>98</td>
+<td>87</td>
+<td>#586257</td>
+<td style="background-color: #586257" ><img src="https://via.placeholder.com/40/586257/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Ochre</td>
 <td>70.914</td>
 <td>Model Color</td>
-<td>168</td>
-<td>134</td>
-<td>88</td>
-<td>#A88658</td>
-<td style="background-color: #A88658" ><img src="https://via.placeholder.com/40/A88658/000000?text=+" /></td>
+<td>161</td>
+<td>127</td>
+<td>53</td>
+<td>#A17F35</td>
+<td style="background-color: #A17F35" ><img src="https://via.placeholder.com/40/A17F35/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green RLM62</td>
@@ -4535,14 +5425,24 @@
 <td style="background-color: #444D4C" ><img src="https://via.placeholder.com/40/444D4C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Green Rush</td>
+<td>72.605</td>
+<td>Game Color Special FX</td>
+<td>140</td>
+<td>197</td>
+<td>178</td>
+<td>#8CC5B2</td>
+<td style="background-color: #8CC5B2" ><img src="https://via.placeholder.com/40/8CC5B2/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Green Sky</td>
 <td>70.974</td>
 <td>Model Color</td>
-<td>138</td>
-<td>159</td>
-<td>128</td>
-<td>#8A9F80</td>
-<td style="background-color: #8A9F80" ><img src="https://via.placeholder.com/40/8A9F80/000000?text=+" /></td>
+<td>122</td>
+<td>145</td>
+<td>101</td>
+<td>#7A9165</td>
+<td style="background-color: #7A9165" ><img src="https://via.placeholder.com/40/7A9165/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Wash</td>
@@ -4553,6 +5453,16 @@
 <td>91</td>
 <td>#72B25B</td>
 <td style="background-color: #72B25B" ><img src="https://via.placeholder.com/40/72B25B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Green Yellow</td>
+<td>70.881</td>
+<td>Model Color</td>
+<td>110</td>
+<td>101</td>
+<td>60</td>
+<td>#6E653C</td>
+<td style="background-color: #6E653C" ><img src="https://via.placeholder.com/40/6E653C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Green Zinc Chromate</td>
@@ -4566,6 +5476,16 @@
 </tr>
 <tr>
 <td>Grey</td>
+<td>71.047</td>
+<td>Model Air</td>
+<td>85</td>
+<td>92</td>
+<td>102</td>
+<td>#555C66</td>
+<td style="background-color: #555C66" ><img src="https://via.placeholder.com/40/555C66/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Grey</td>
 <td>62.019</td>
 <td>Premium Airbrush Color</td>
 <td>137</td>
@@ -4573,26 +5493,6 @@
 <td>149</td>
 <td>#898995</td>
 <td style="background-color: #898995" ><img src="https://via.placeholder.com/40/898995/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
-<td>28.011</td>
-<td>Hobby Paint</td>
-<td>181</td>
-<td>181</td>
-<td>181</td>
-<td>#B5B5B5</td>
-<td style="background-color: #B5B5B5" ><img src="https://via.placeholder.com/40/B5B5B5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
-<td>76.516</td>
-<td>Model Wash</td>
-<td>104</td>
-<td>104</td>
-<td>102</td>
-<td>#686866</td>
-<td style="background-color: #686866" ><img src="https://via.placeholder.com/40/686866/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey</td>
@@ -4606,23 +5506,13 @@
 </tr>
 <tr>
 <td>Grey</td>
-<td>71.047</td>
-<td>Model Air</td>
-<td>85</td>
-<td>92</td>
-<td>102</td>
-<td>#555C66</td>
-<td style="background-color: #555C66" ><img src="https://via.placeholder.com/40/555C66/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
 <td>70.601</td>
 <td>Surface Primer</td>
-<td>198</td>
-<td>198</td>
-<td>200</td>
-<td>#C6C6C8</td>
-<td style="background-color: #C6C6C8" ><img src="https://via.placeholder.com/40/C6C6C8/000000?text=+" /></td>
+<td>192</td>
+<td>192</td>
+<td>194</td>
+<td>#C0C0C2</td>
+<td style="background-color: #C0C0C2" ><img src="https://via.placeholder.com/40/C0C0C2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey</td>
@@ -4635,14 +5525,24 @@
 <td style="background-color: #C5C6C8" ><img src="https://via.placeholder.com/40/C5C6C8/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Grey</td>
+<td>28.011</td>
+<td>Hobby Paint</td>
+<td>231</td>
+<td>231</td>
+<td>231</td>
+<td>#E7E7E7</td>
+<td style="background-color: #E7E7E7" ><img src="https://via.placeholder.com/40/E7E7E7/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Grey Blue</td>
 <td>70.943</td>
 <td>Model Color</td>
-<td>112</td>
-<td>132</td>
-<td>159</td>
-<td>#70849F</td>
-<td style="background-color: #70849F" ><img src="https://via.placeholder.com/40/70849F/000000?text=+" /></td>
+<td>89</td>
+<td>109</td>
+<td>133</td>
+<td>#596D85</td>
+<td style="background-color: #596D85" ><img src="https://via.placeholder.com/40/596D85/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey Blue</td>
@@ -4655,24 +5555,24 @@
 <td style="background-color: #424854" ><img src="https://via.placeholder.com/40/424854/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Grey Green</td>
-<td>69.014</td>
-<td>Mecha Color</td>
-<td>109</td>
-<td>133</td>
-<td>137</td>
-<td>#6D8589</td>
-<td style="background-color: #6D8589" ><img src="https://via.placeholder.com/40/6D8589/000000?text=+" /></td>
+<td>Grey Brown</td>
+<td>70.762</td>
+<td>Model Color</td>
+<td>91</td>
+<td>73</td>
+<td>35</td>
+<td>#5B4923</td>
+<td style="background-color: #5B4923" ><img src="https://via.placeholder.com/40/5B4923/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey Green</td>
 <td>70.866</td>
 <td>Model Color</td>
-<td>90</td>
-<td>91</td>
-<td>93</td>
-<td>#5A5B5D</td>
-<td style="background-color: #5A5B5D" ><img src="https://via.placeholder.com/40/5A5B5D/000000?text=+" /></td>
+<td>65</td>
+<td>64</td>
+<td>62</td>
+<td>#41403E</td>
+<td style="background-color: #41403E" ><img src="https://via.placeholder.com/40/41403E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey Green</td>
@@ -4683,6 +5583,16 @@
 <td>122</td>
 <td>#787E7A</td>
 <td style="background-color: #787E7A" ><img src="https://via.placeholder.com/40/787E7A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Grey Green</td>
+<td>69.014</td>
+<td>Mecha Color</td>
+<td>109</td>
+<td>133</td>
+<td>137</td>
+<td>#6D8589</td>
+<td style="background-color: #6D8589" ><img src="https://via.placeholder.com/40/6D8589/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Grey RLM02</td>
@@ -4735,14 +5645,24 @@
 <td style="background-color: #7A7B7D" ><img src="https://via.placeholder.com/40/7A7B7D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Gunmetal</td>
-<td>62.052</td>
-<td>Premium Airbrush Color</td>
-<td>194</td>
-<td>192</td>
-<td>195</td>
-<td>#C2C0C3</td>
-<td style="background-color: #C2C0C3" ><img src="https://via.placeholder.com/40/C2C0C3/000000?text=+" /></td>
+<td>Grunge Brown</td>
+<td>76.115</td>
+<td>Game Air</td>
+<td>134</td>
+<td>67</td>
+<td>38</td>
+<td>#864326</td>
+<td style="background-color: #864326" ><img src="https://via.placeholder.com/40/864326/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Grunge Brown</td>
+<td>72.115</td>
+<td>Game Color</td>
+<td>134</td>
+<td>67</td>
+<td>38</td>
+<td>#864326</td>
+<td style="background-color: #864326" ><img src="https://via.placeholder.com/40/864326/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gunmetal</td>
@@ -4756,6 +5676,36 @@
 </tr>
 <tr>
 <td>Gunmetal</td>
+<td>70.863</td>
+<td>Model Color</td>
+<td>53</td>
+<td>42</td>
+<td>46</td>
+<td>#352A2E</td>
+<td style="background-color: #352A2E" ><img src="https://via.placeholder.com/40/352A2E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gunmetal</td>
+<td>62.052</td>
+<td>Premium Airbrush Color</td>
+<td>209</td>
+<td>207</td>
+<td>210</td>
+<td>#D1CFD2</td>
+<td style="background-color: #D1CFD2" ><img src="https://via.placeholder.com/40/D1CFD2/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gunmetal</td>
+<td>28.031</td>
+<td>Hobby Paint</td>
+<td>101</td>
+<td>100</td>
+<td>106</td>
+<td>#65646A</td>
+<td style="background-color: #65646A" ><img src="https://via.placeholder.com/40/65646A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gunmetal</td>
 <td>69.058</td>
 <td>Mecha Color</td>
 <td>100</td>
@@ -4763,26 +5713,6 @@
 <td>96</td>
 <td>#646760</td>
 <td style="background-color: #646760" ><img src="https://via.placeholder.com/40/646760/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunmetal</td>
-<td>28.031</td>
-<td>Hobby Paint</td>
-<td>104</td>
-<td>101</td>
-<td>108</td>
-<td>#68656C</td>
-<td style="background-color: #68656C" ><img src="https://via.placeholder.com/40/68656C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunmetal</td>
-<td>72.054</td>
-<td>Game Color</td>
-<td>99</td>
-<td>99</td>
-<td>101</td>
-<td>#636365</td>
-<td style="background-color: #636365" ><img src="https://via.placeholder.com/40/636365/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gunmetal (Metallic)</td>
@@ -4798,61 +5728,51 @@
 <td>Gunmetal Blue</td>
 <td>70.800</td>
 <td>Model Color</td>
-<td>47</td>
-<td>74</td>
-<td>93</td>
-<td>#2F4A5D</td>
-<td style="background-color: #2F4A5D" ><img src="https://via.placeholder.com/40/2F4A5D/000000?text=+" /></td>
+<td>40</td>
+<td>40</td>
+<td>52</td>
+<td>#282834</td>
+<td style="background-color: #282834" ><img src="https://via.placeholder.com/40/282834/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gunmetal Grey</td>
-<td>70.863</td>
-<td>Model Color</td>
-<td>100</td>
-<td>103</td>
-<td>96</td>
-<td>#646760</td>
-<td style="background-color: #646760" ><img src="https://via.placeholder.com/40/646760/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunmetal grey</td>
 <td>77.720</td>
 <td>Metal Color</td>
-<td>169</td>
-<td>168</td>
-<td>166</td>
-<td>#A9A8A6</td>
-<td style="background-color: #A9A8A6" ><img src="https://via.placeholder.com/40/A9A8A6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunship Green</td>
-<td>70.895</td>
-<td>Model Color</td>
-<td>82</td>
-<td>98</td>
-<td>87</td>
-<td>#526257</td>
-<td style="background-color: #526257" ><img src="https://via.placeholder.com/40/526257/000000?text=+" /></td>
+<td>115</td>
+<td>115</td>
+<td>115</td>
+<td>#737373</td>
+<td style="background-color: #737373" ><img src="https://via.placeholder.com/40/737373/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Gunship Green</td>
 <td>71.014</td>
 <td>Model Air</td>
+<td>85</td>
+<td>95</td>
 <td>84</td>
-<td>96</td>
-<td>84</td>
-<td>#546054</td>
-<td style="background-color: #546054" ><img src="https://via.placeholder.com/40/546054/000000?text=+" /></td>
+<td>#555F54</td>
+<td style="background-color: #555F54" ><img src="https://via.placeholder.com/40/555F54/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Gunship Green</td>
+<td>70.895</td>
+<td>Model Color</td>
+<td>76</td>
+<td>88</td>
+<td>64</td>
+<td>#4C5840</td>
+<td style="background-color: #4C5840" ><img src="https://via.placeholder.com/40/4C5840/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Hammered Copper</td>
 <td>72.059</td>
 <td>Game Color</td>
-<td>122</td>
-<td>69</td>
-<td>55</td>
-<td>#7A4537</td>
-<td style="background-color: #7A4537" ><img src="https://via.placeholder.com/40/7A4537/000000?text=+" /></td>
+<td>220</td>
+<td>207</td>
+<td>199</td>
+<td>#DCCFC7</td>
+<td style="background-color: #DCCFC7" ><img src="https://via.placeholder.com/40/DCCFC7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Harvest Yellow</td>
@@ -4905,16 +5825,6 @@
 <td style="background-color: #7B674E" ><img src="https://via.placeholder.com/40/7B674E/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Heavy Charcoal</td>
-<td>72.155</td>
-<td>Game Color</td>
-<td>70</td>
-<td>70</td>
-<td>78</td>
-<td>#46464E</td>
-<td style="background-color: #46464E" ><img src="https://via.placeholder.com/40/46464E/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Heavy Gold Brown</td>
 <td>72.151</td>
 <td>Game Color</td>
@@ -4933,16 +5843,6 @@
 <td>55</td>
 <td>#566637</td>
 <td style="background-color: #566637" ><img src="https://via.placeholder.com/40/566637/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Heavy Grey</td>
-<td>72.145</td>
-<td>Game Color</td>
-<td>112</td>
-<td>115</td>
-<td>84</td>
-<td>#707354</td>
-<td style="background-color: #707354" ><img src="https://via.placeholder.com/40/707354/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Heavy Kakhi</td>
@@ -5015,16 +5915,6 @@
 <td style="background-color: #484069" ><img src="https://via.placeholder.com/40/484069/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Heavy Warm Grey</td>
-<td>72.148</td>
-<td>Game Color</td>
-<td>170</td>
-<td>157</td>
-<td>115</td>
-<td>#AA9D73</td>
-<td style="background-color: #AA9D73" ><img src="https://via.placeholder.com/40/AA9D73/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Hemp</td>
 <td>71.023</td>
 <td>Model Air</td>
@@ -5033,6 +5923,16 @@
 <td>100</td>
 <td>#817964</td>
 <td style="background-color: #817964" ><img src="https://via.placeholder.com/40/817964/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Heretic Turquoise</td>
+<td>72.481</td>
+<td>Xpress Color Intense</td>
+<td>19</td>
+<td>81</td>
+<td>75</td>
+<td>#13514B</td>
+<td style="background-color: #13514B" ><img src="https://via.placeholder.com/40/13514B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Hexed Lichen</td>
@@ -5048,11 +5948,11 @@
 <td>Hexed Lichen</td>
 <td>72.015</td>
 <td>Game Color</td>
-<td>81</td>
-<td>46</td>
-<td>126</td>
-<td>#512E7E</td>
-<td style="background-color: #512E7E" ><img src="https://via.placeholder.com/40/512E7E/000000?text=+" /></td>
+<td>75</td>
+<td>39</td>
+<td>83</td>
+<td>#4B2753</td>
+<td style="background-color: #4B2753" ><img src="https://via.placeholder.com/40/4B2753/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Highlight Skin</td>
@@ -5075,6 +5975,16 @@
 <td style="background-color: #004A39" ><img src="https://via.placeholder.com/40/004A39/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Hospitallier Black</td>
+<td>72.484</td>
+<td>Xpress Color Intense</td>
+<td>37</td>
+<td>37</td>
+<td>39</td>
+<td>#252527</td>
+<td style="background-color: #252527" ><img src="https://via.placeholder.com/40/252527/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Hot Orange</td>
 <td>72.709</td>
 <td>Game Air</td>
@@ -5088,11 +5998,21 @@
 <td>Hot Orange</td>
 <td>72.009</td>
 <td>Game Color</td>
-<td>230</td>
-<td>76</td>
-<td>42</td>
-<td>#E64C2A</td>
-<td style="background-color: #E64C2A" ><img src="https://via.placeholder.com/40/E64C2A/000000?text=+" /></td>
+<td>226</td>
+<td>57</td>
+<td>34</td>
+<td>#E23922</td>
+<td style="background-color: #E23922" ><img src="https://via.placeholder.com/40/E23922/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Hull Red</td>
+<td>70.985</td>
+<td>Model Color</td>
+<td>92</td>
+<td>56</td>
+<td>60</td>
+<td>#5C383C</td>
+<td style="background-color: #5C383C" ><img src="https://via.placeholder.com/40/5C383C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Hull Red</td>
@@ -5100,19 +6020,9 @@
 <td>Model Air</td>
 <td>72</td>
 <td>61</td>
-<td>55</td>
-<td>#483D37</td>
-<td style="background-color: #483D37" ><img src="https://via.placeholder.com/40/483D37/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hull Red</td>
-<td>70.985</td>
-<td>Model Color</td>
-<td>80</td>
-<td>40</td>
-<td>32</td>
-<td>#502820</td>
-<td style="background-color: #502820" ><img src="https://via.placeholder.com/40/502820/000000?text=+" /></td>
+<td>57</td>
+<td>#483D39</td>
+<td style="background-color: #483D39" ><img src="https://via.placeholder.com/40/483D39/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Hyacinth Blue</td>
@@ -5145,16 +6055,6 @@
 <td style="background-color: #C4B29A" ><img src="https://via.placeholder.com/40/C4B29A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>IDF / IAF Green</td>
-<td>71.126</td>
-<td>Model Air</td>
-<td>120</td>
-<td>134</td>
-<td>108</td>
-<td>#78866C</td>
-<td style="background-color: #78866C" ><img src="https://via.placeholder.com/40/78866C/000000?text=+" /></td>
-</tr>
-<tr>
 <td>IDF Blue</td>
 <td>71.113</td>
 <td>Model Air</td>
@@ -5168,11 +6068,11 @@
 <td>IDF Israeli Sand Grey (61-73)</td>
 <td>70.614</td>
 <td>Surface Primer</td>
-<td>136</td>
-<td>124</td>
-<td>112</td>
-<td>#887C70</td>
-<td style="background-color: #887C70" ><img src="https://via.placeholder.com/40/887C70/000000?text=+" /></td>
+<td>121</td>
+<td>110</td>
+<td>104</td>
+<td>#796E68</td>
+<td style="background-color: #796E68" ><img src="https://via.placeholder.com/40/796E68/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IDF Sand Grey 73</td>
@@ -5188,11 +6088,21 @@
 <td>IDF Sinai Grey 82</td>
 <td>71.142</td>
 <td>Model Air</td>
-<td>122</td>
-<td>115</td>
-<td>107</td>
-<td>#7A736B</td>
-<td style="background-color: #7A736B" ><img src="https://via.placeholder.com/40/7A736B/000000?text=+" /></td>
+<td>123</td>
+<td>114</td>
+<td>109</td>
+<td>#7B726D</td>
+<td style="background-color: #7B726D" ><img src="https://via.placeholder.com/40/7B726D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>IDF/IAF Green</td>
+<td>71.126</td>
+<td>Model Air</td>
+<td>121</td>
+<td>134</td>
+<td>108</td>
+<td>#79866C</td>
+<td style="background-color: #79866C" ><img src="https://via.placeholder.com/40/79866C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IJA Chrome Yellow</td>
@@ -5259,20 +6169,20 @@
 <td>71.134</td>
 <td>Model Air</td>
 <td>62</td>
-<td>73</td>
-<td>59</td>
-<td>#3E493B</td>
-<td style="background-color: #3E493B" ><img src="https://via.placeholder.com/40/3E493B/000000?text=+" /></td>
+<td>72</td>
+<td>61</td>
+<td>#3E483D</td>
+<td style="background-color: #3E483D" ><img src="https://via.placeholder.com/40/3E483D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IJA Olive Green</td>
 <td>71.286</td>
 <td>Model Air</td>
-<td>83</td>
-<td>77</td>
+<td>84</td>
+<td>76</td>
 <td>63</td>
-<td>#534D3F</td>
-<td style="background-color: #534D3F" ><img src="https://via.placeholder.com/40/534D3F/000000?text=+" /></td>
+<td>#544C3F</td>
+<td style="background-color: #544C3F" ><img src="https://via.placeholder.com/40/544C3F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IJN Ash Grey</td>
@@ -5289,10 +6199,10 @@
 <td>71.322</td>
 <td>Model Air</td>
 <td>62</td>
-<td>73</td>
-<td>59</td>
-<td>#3E493B</td>
-<td style="background-color: #3E493B" ><img src="https://via.placeholder.com/40/3E493B/000000?text=+" /></td>
+<td>72</td>
+<td>61</td>
+<td>#3E483D</td>
+<td style="background-color: #3E483D" ><img src="https://via.placeholder.com/40/3E483D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IJN Dark Black Green</td>
@@ -5308,41 +6218,41 @@
 <td>IJN Deep Dark Green</td>
 <td>71.310</td>
 <td>Model Air</td>
-<td>52</td>
-<td>81</td>
+<td>54</td>
+<td>80</td>
 <td>77</td>
-<td>#34514D</td>
-<td style="background-color: #34514D" ><img src="https://via.placeholder.com/40/34514D/000000?text=+" /></td>
+<td>#36504D</td>
+<td style="background-color: #36504D" ><img src="https://via.placeholder.com/40/36504D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>IJN Medium Grey</td>
 <td>71.312</td>
 <td>Model Air</td>
-<td>184</td>
-<td>177</td>
-<td>169</td>
-<td>#B8B1A9</td>
-<td style="background-color: #B8B1A9" ><img src="https://via.placeholder.com/40/B8B1A9/000000?text=+" /></td>
+<td>185</td>
+<td>176</td>
+<td>171</td>
+<td>#B9B0AB</td>
+<td style="background-color: #B9B0AB" ><img src="https://via.placeholder.com/40/B9B0AB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ice Yellow</td>
 <td>70.858</td>
 <td>Model Color</td>
-<td>247</td>
-<td>216</td>
-<td>151</td>
-<td>#F7D897</td>
-<td style="background-color: #F7D897" ><img src="https://via.placeholder.com/40/F7D897/000000?text=+" /></td>
+<td>238</td>
+<td>207</td>
+<td>114</td>
+<td>#EECF72</td>
+<td style="background-color: #EECF72" ><img src="https://via.placeholder.com/40/EECF72/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Imperial Blue</td>
-<td>72.020</td>
-<td>Game Color</td>
-<td>52</td>
-<td>72</td>
-<td>99</td>
-<td>#344863</td>
-<td style="background-color: #344863" ><img src="https://via.placeholder.com/40/344863/000000?text=+" /></td>
+<td>Iceberg Grey</td>
+<td>72.463</td>
+<td>Xpress Color</td>
+<td>66</td>
+<td>87</td>
+<td>108</td>
+<td>#42576C</td>
+<td style="background-color: #42576C" ><img src="https://via.placeholder.com/40/42576C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Imperial Blue</td>
@@ -5355,6 +6265,26 @@
 <td style="background-color: #04316A" ><img src="https://via.placeholder.com/40/04316A/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Imperial Blue</td>
+<td>72.020</td>
+<td>Game Color</td>
+<td>38</td>
+<td>42</td>
+<td>71</td>
+<td>#262A47</td>
+<td style="background-color: #262A47" ><img src="https://via.placeholder.com/40/262A47/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Imperial Blue</td>
+<td>76.020</td>
+<td>Game Air</td>
+<td>38</td>
+<td>42</td>
+<td>71</td>
+<td>#262A47</td>
+<td style="background-color: #262A47" ><img src="https://via.placeholder.com/40/262A47/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Imperial Purple</td>
 <td>74.025</td>
 <td>Nocturna Models</td>
@@ -5365,6 +6295,16 @@
 <td style="background-color: #4E2D79" ><img src="https://via.placeholder.com/40/4E2D79/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Imperial Yellow</td>
+<td>72.403</td>
+<td>Xpress Color</td>
+<td>245</td>
+<td>159</td>
+<td>46</td>
+<td>#F59F2E</td>
+<td style="background-color: #F59F2E" ><img src="https://via.placeholder.com/40/F59F2E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Indian Turquoise</td>
 <td>85.071</td>
 <td>Arte Deco</td>
@@ -5373,6 +6313,36 @@
 <td>217</td>
 <td>#9BD5D9</td>
 <td style="background-color: #9BD5D9" ><img src="https://via.placeholder.com/40/9BD5D9/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Industrial Splash Mud</td>
+<td>73.803</td>
+<td>Weathering FX</td>
+<td>115</td>
+<td>116</td>
+<td>110</td>
+<td>#73746E</td>
+<td style="background-color: #73746E" ><img src="https://via.placeholder.com/40/73746E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Industrial Thick Mud</td>
+<td>73.809</td>
+<td>Weathering FX</td>
+<td>83</td>
+<td>86</td>
+<td>77</td>
+<td>#53564D</td>
+<td style="background-color: #53564D" ><img src="https://via.placeholder.com/40/53564D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Infantry Blue</td>
+<td>70.752</td>
+<td>Model Color</td>
+<td>37</td>
+<td>33</td>
+<td>47</td>
+<td>#25212F</td>
+<td style="background-color: #25212F" ><img src="https://via.placeholder.com/40/25212F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Inferno Red</td>
@@ -5390,9 +6360,9 @@
 <td>Model Air</td>
 <td>227</td>
 <td>227</td>
-<td>217</td>
-<td>#E3E3D9</td>
-<td style="background-color: #E3E3D9" ><img src="https://via.placeholder.com/40/E3E3D9/000000?text=+" /></td>
+<td>219</td>
+<td>#E3E3DB</td>
+<td style="background-color: #E3E3DB" ><img src="https://via.placeholder.com/40/E3E3DB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Interior Green</td>
@@ -5416,16 +6386,6 @@
 </tr>
 <tr>
 <td>Intermediate Blue</td>
-<td>71.299</td>
-<td>Model Air</td>
-<td>94</td>
-<td>112</td>
-<td>126</td>
-<td>#5E707E</td>
-<td style="background-color: #5E707E" ><img src="https://via.placeholder.com/40/5E707E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Intermediate Blue</td>
 <td>70.903</td>
 <td>Model Color</td>
 <td>100</td>
@@ -5435,64 +6395,64 @@
 <td style="background-color: #646D76" ><img src="https://via.placeholder.com/40/646D76/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Intermediate Blue</td>
+<td>71.299</td>
+<td>Model Air</td>
+<td>94</td>
+<td>112</td>
+<td>126</td>
+<td>#5E707E</td>
+<td style="background-color: #5E707E" ><img src="https://via.placeholder.com/40/5E707E/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Intermediate Green</td>
 <td>70.891</td>
 <td>Model Color</td>
+<td>80</td>
+<td>101</td>
 <td>68</td>
-<td>139</td>
-<td>61</td>
-<td>#448B3D</td>
-<td style="background-color: #448B3D" ><img src="https://via.placeholder.com/40/448B3D/000000?text=+" /></td>
+<td>#506544</td>
+<td style="background-color: #506544" ><img src="https://via.placeholder.com/40/506544/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Iraqi Sand</td>
 <td>70.819</td>
 <td>Model Color</td>
-<td>190</td>
-<td>160</td>
-<td>126</td>
-<td>#BEA07E</td>
-<td style="background-color: #BEA07E" ><img src="https://via.placeholder.com/40/BEA07E/000000?text=+" /></td>
+<td>180</td>
+<td>147</td>
+<td>96</td>
+<td>#B49360</td>
+<td style="background-color: #B49360" ><img src="https://via.placeholder.com/40/B49360/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Italian Tank Crew</td>
 <td>70.327</td>
 <td>Panzer Aces</td>
 <td>75</td>
-<td>71</td>
-<td>26</td>
-<td>#4B471A</td>
-<td style="background-color: #4B471A" ><img src="https://via.placeholder.com/40/4B471A/000000?text=+" /></td>
+<td>70</td>
+<td>28</td>
+<td>#4B461C</td>
+<td style="background-color: #4B461C" ><img src="https://via.placeholder.com/40/4B461C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Italian Tank Crew Highlights</td>
 <td>70.331</td>
 <td>Panzer Aces</td>
 <td>158</td>
-<td>178</td>
-<td>143</td>
-<td>#9EB28F</td>
-<td style="background-color: #9EB28F" ><img src="https://via.placeholder.com/40/9EB28F/000000?text=+" /></td>
+<td>177</td>
+<td>147</td>
+<td>#9EB193</td>
+<td style="background-color: #9EB193" ><img src="https://via.placeholder.com/40/9EB193/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ivory</td>
 <td>70.643</td>
 <td>Mecha Color</td>
-<td>243</td>
+<td>244</td>
 <td>239</td>
 <td>210</td>
-<td>#F3EFD2</td>
-<td style="background-color: #F3EFD2" ><img src="https://via.placeholder.com/40/F3EFD2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ivory</td>
-<td>70.918</td>
-<td>Model Color</td>
-<td>243</td>
-<td>239</td>
-<td>210</td>
-<td>#F3EFD2</td>
-<td style="background-color: #F3EFD2" ><img src="https://via.placeholder.com/40/F3EFD2/000000?text=+" /></td>
+<td>#F4EFD2</td>
+<td style="background-color: #F4EFD2" ><img src="https://via.placeholder.com/40/F4EFD2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ivory</td>
@@ -5500,9 +6460,19 @@
 <td>Model Air</td>
 <td>193</td>
 <td>175</td>
-<td>135</td>
-<td>#C1AF87</td>
-<td style="background-color: #C1AF87" ><img src="https://via.placeholder.com/40/C1AF87/000000?text=+" /></td>
+<td>137</td>
+<td>#C1AF89</td>
+<td style="background-color: #C1AF89" ><img src="https://via.placeholder.com/40/C1AF89/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ivory</td>
+<td>70.918</td>
+<td>Model Color</td>
+<td>235</td>
+<td>226</td>
+<td>209</td>
+<td>#EBE2D1</td>
+<td style="background-color: #EBE2D1" ><img src="https://via.placeholder.com/40/EBE2D1/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ivory RLM05</td>
@@ -5536,13 +6506,23 @@
 </tr>
 <tr>
 <td>Jade Green</td>
+<td>76.026</td>
+<td>Game Air</td>
+<td>0</td>
+<td>113</td>
+<td>85</td>
+<td>#007155</td>
+<td style="background-color: #007155" ><img src="https://via.placeholder.com/40/007155/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Jade Green</td>
 <td>72.026</td>
 <td>Game Color</td>
 <td>0</td>
-<td>130</td>
-<td>102</td>
-<td>#008266</td>
-<td style="background-color: #008266" ><img src="https://via.placeholder.com/40/008266/000000?text=+" /></td>
+<td>113</td>
+<td>85</td>
+<td>#007155</td>
+<td style="background-color: #007155" ><img src="https://via.placeholder.com/40/007155/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Japanese Tank Crew</td>
@@ -5558,31 +6538,31 @@
 <td>Japanese Tank Crew Highlights</td>
 <td>70.332</td>
 <td>Panzer Aces</td>
-<td>171</td>
+<td>170</td>
 <td>163</td>
-<td>142</td>
-<td>#ABA38E</td>
-<td style="background-color: #ABA38E" ><img src="https://via.placeholder.com/40/ABA38E/000000?text=+" /></td>
+<td>145</td>
+<td>#AAA391</td>
+<td style="background-color: #AAA391" ><img src="https://via.placeholder.com/40/AAA391/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Japanese Uniform WWII</td>
 <td>70.923</td>
 <td>Model Color</td>
-<td>158</td>
-<td>124</td>
-<td>60</td>
-<td>#9E7C3C</td>
-<td style="background-color: #9E7C3C" ><img src="https://via.placeholder.com/40/9E7C3C/000000?text=+" /></td>
+<td>159</td>
+<td>127</td>
+<td>42</td>
+<td>#9F7F2A</td>
+<td style="background-color: #9F7F2A" ><img src="https://via.placeholder.com/40/9F7F2A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Jet Exhaust</td>
 <td>77.713</td>
 <td>Metal Color</td>
-<td>180</td>
-<td>174</td>
-<td>174</td>
-<td>#B4AEAE</td>
-<td style="background-color: #B4AEAE" ><img src="https://via.placeholder.com/40/B4AEAE/000000?text=+" /></td>
+<td>121</td>
+<td>121</td>
+<td>121</td>
+<td>#797979</td>
+<td style="background-color: #797979" ><img src="https://via.placeholder.com/40/797979/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Kelly Green</td>
@@ -5596,23 +6576,13 @@
 </tr>
 <tr>
 <td>Khaki</td>
-<td>70.988</td>
-<td>Model Color</td>
-<td>135</td>
-<td>119</td>
-<td>93</td>
-<td>#87775D</td>
-<td style="background-color: #87775D" ><img src="https://via.placeholder.com/40/87775D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Khaki</td>
 <td>72.061</td>
 <td>Game Color</td>
-<td>170</td>
-<td>157</td>
-<td>115</td>
-<td>#AA9D73</td>
-<td style="background-color: #AA9D73" ><img src="https://via.placeholder.com/40/AA9D73/000000?text=+" /></td>
+<td>154</td>
+<td>123</td>
+<td>76</td>
+<td>#9A7B4C</td>
+<td style="background-color: #9A7B4C" ><img src="https://via.placeholder.com/40/9A7B4C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Khaki</td>
@@ -5625,6 +6595,16 @@
 <td style="background-color: #AA9D73" ><img src="https://via.placeholder.com/40/AA9D73/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Khaki</td>
+<td>70.988</td>
+<td>Model Color</td>
+<td>111</td>
+<td>95</td>
+<td>59</td>
+<td>#6F5F3B</td>
+<td style="background-color: #6F5F3B" ><img src="https://via.placeholder.com/40/6F5F3B/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Khaki Brown</td>
 <td>71.024</td>
 <td>Model Air</td>
@@ -5633,6 +6613,16 @@
 <td>87</td>
 <td>#917957</td>
 <td style="background-color: #917957" ><img src="https://via.placeholder.com/40/917957/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Khaki Drill</td>
+<td>72.451</td>
+<td>Xpress Color</td>
+<td>199</td>
+<td>148</td>
+<td>91</td>
+<td>#C7945B</td>
+<td style="background-color: #C7945B" ><img src="https://via.placeholder.com/40/C7945B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Khaki Green Num.3</td>
@@ -5648,11 +6638,21 @@
 <td>Khaki Grey</td>
 <td>70.880</td>
 <td>Model Color</td>
-<td>133</td>
-<td>109</td>
-<td>73</td>
-<td>#856D49</td>
-<td style="background-color: #856D49" ><img src="https://via.placeholder.com/40/856D49/000000?text=+" /></td>
+<td>126</td>
+<td>99</td>
+<td>56</td>
+<td>#7E6338</td>
+<td style="background-color: #7E6338" ><img src="https://via.placeholder.com/40/7E6338/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Landser Grey</td>
+<td>72.469</td>
+<td>Xpress Color</td>
+<td>82</td>
+<td>79</td>
+<td>72</td>
+<td>#524F48</td>
+<td style="background-color: #524F48" ><img src="https://via.placeholder.com/40/524F48/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lavender</td>
@@ -5663,6 +6663,16 @@
 <td>140</td>
 <td>#7E398C</td>
 <td style="background-color: #7E398C" ><img src="https://via.placeholder.com/40/7E398C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lavender Grey</td>
+<td>70.774</td>
+<td>Model Color</td>
+<td>127</td>
+<td>111</td>
+<td>111</td>
+<td>#7F6F6F</td>
+<td style="background-color: #7F6F6F" ><img src="https://via.placeholder.com/40/7F6F6F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Leaf Green</td>
@@ -5686,33 +6696,23 @@
 </tr>
 <tr>
 <td>Leather Brown</td>
+<td>76.040</td>
+<td>Game Air</td>
+<td>141</td>
+<td>94</td>
+<td>42</td>
+<td>#8D5E2A</td>
+<td style="background-color: #8D5E2A" ><img src="https://via.placeholder.com/40/8D5E2A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Leather Brown</td>
 <td>70.871</td>
 <td>Model Color</td>
-<td>92</td>
-<td>79</td>
-<td>70</td>
-<td>#5C4F46</td>
-<td style="background-color: #5C4F46" ><img src="https://via.placeholder.com/40/5C4F46/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leather Brown</td>
-<td>28.014</td>
-<td>Hobby Paint</td>
-<td>137</td>
-<td>102</td>
-<td>62</td>
-<td>#89663E</td>
-<td style="background-color: #89663E" ><img src="https://via.placeholder.com/40/89663E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leather Brown</td>
-<td>72.040</td>
-<td>Game Color</td>
-<td>135</td>
-<td>100</td>
-<td>60</td>
-<td>#87643C</td>
-<td style="background-color: #87643C" ><img src="https://via.placeholder.com/40/87643C/000000?text=+" /></td>
+<td>89</td>
+<td>67</td>
+<td>53</td>
+<td>#594335</td>
+<td style="background-color: #594335" ><img src="https://via.placeholder.com/40/594335/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Leather Brown</td>
@@ -5725,14 +6725,34 @@
 <td style="background-color: #7C6052" ><img src="https://via.placeholder.com/40/7C6052/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Lemon Yellow</td>
-<td>70.952</td>
-<td>Model Color</td>
-<td>251</td>
-<td>234</td>
-<td>32</td>
-<td>#FBEA20</td>
-<td style="background-color: #FBEA20" ><img src="https://via.placeholder.com/40/FBEA20/000000?text=+" /></td>
+<td>Leather Brown</td>
+<td>28.014</td>
+<td>Hobby Paint</td>
+<td>135</td>
+<td>100</td>
+<td>60</td>
+<td>#87643C</td>
+<td style="background-color: #87643C" ><img src="https://via.placeholder.com/40/87643C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Leather Brown</td>
+<td>72.040</td>
+<td>Game Color</td>
+<td>141</td>
+<td>94</td>
+<td>42</td>
+<td>#8D5E2A</td>
+<td style="background-color: #8D5E2A" ><img src="https://via.placeholder.com/40/8D5E2A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Legacy Blue</td>
+<td>72.480</td>
+<td>Xpress Color Intense</td>
+<td>39</td>
+<td>41</td>
+<td>97</td>
+<td>#272961</td>
+<td style="background-color: #272961" ><img src="https://via.placeholder.com/40/272961/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lemon Yellow</td>
@@ -5743,6 +6763,16 @@
 <td>64</td>
 <td>#FEEC40</td>
 <td style="background-color: #FEEC40" ><img src="https://via.placeholder.com/40/FEEC40/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lemon Yellow</td>
+<td>70.952</td>
+<td>Model Color</td>
+<td>228</td>
+<td>210</td>
+<td>2</td>
+<td>#E4D202</td>
+<td style="background-color: #E4D202" ><img src="https://via.placeholder.com/40/E4D202/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Avocado</td>
@@ -5770,9 +6800,9 @@
 <td>Model Air</td>
 <td>198</td>
 <td>201</td>
-<td>190</td>
-<td>#C6C9BE</td>
-<td style="background-color: #C6C9BE" ><img src="https://via.placeholder.com/40/C6C9BE/000000?text=+" /></td>
+<td>192</td>
+<td>#C6C9C0</td>
+<td style="background-color: #C6C9C0" ><img src="https://via.placeholder.com/40/C6C9C0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Blue RLM65</td>
@@ -5818,31 +6848,51 @@
 <td>Light Brown</td>
 <td>70.929</td>
 <td>Model Color</td>
-<td>172</td>
-<td>114</td>
-<td>74</td>
-<td>#AC724A</td>
-<td style="background-color: #AC724A" ><img src="https://via.placeholder.com/40/AC724A/000000?text=+" /></td>
+<td>162</td>
+<td>91</td>
+<td>49</td>
+<td>#A25B31</td>
+<td style="background-color: #A25B31" ><img src="https://via.placeholder.com/40/A25B31/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Brown Mud</td>
+<td>73.810</td>
+<td>Weathering FX</td>
+<td>129</td>
+<td>131</td>
+<td>118</td>
+<td>#818376</td>
+<td style="background-color: #818376" ><img src="https://via.placeholder.com/40/818376/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Brown Splash Mud</td>
+<td>73.804</td>
+<td>Weathering FX</td>
+<td>199</td>
+<td>187</td>
+<td>175</td>
+<td>#C7BBAF</td>
+<td style="background-color: #C7BBAF" ><img src="https://via.placeholder.com/40/C7BBAF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Flesh</td>
 <td>69.005</td>
 <td>Mecha Color</td>
 <td>248</td>
-<td>217</td>
-<td>199</td>
-<td>#F8D9C7</td>
-<td style="background-color: #F8D9C7" ><img src="https://via.placeholder.com/40/F8D9C7/000000?text=+" /></td>
+<td>216</td>
+<td>201</td>
+<td>#F8D8C9</td>
+<td style="background-color: #F8D8C9" ><img src="https://via.placeholder.com/40/F8D8C9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Flesh</td>
 <td>70.928</td>
 <td>Model Color</td>
-<td>248</td>
-<td>217</td>
-<td>199</td>
-<td>#F8D9C7</td>
-<td style="background-color: #F8D9C7" ><img src="https://via.placeholder.com/40/F8D9C7/000000?text=+" /></td>
+<td>243</td>
+<td>212</td>
+<td>184</td>
+<td>#F3D4B8</td>
+<td style="background-color: #F3D4B8" ><img src="https://via.placeholder.com/40/F3D4B8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Gray</td>
@@ -5870,19 +6920,19 @@
 <td>Mecha Color</td>
 <td>198</td>
 <td>201</td>
-<td>190</td>
-<td>#C6C9BE</td>
-<td style="background-color: #C6C9BE" ><img src="https://via.placeholder.com/40/C6C9BE/000000?text=+" /></td>
+<td>192</td>
+<td>#C6C9C0</td>
+<td style="background-color: #C6C9C0" ><img src="https://via.placeholder.com/40/C6C9C0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Green Blue</td>
 <td>70.972</td>
 <td>Model Color</td>
-<td>119</td>
-<td>159</td>
-<td>148</td>
-<td>#779F94</td>
-<td style="background-color: #779F94" ><img src="https://via.placeholder.com/40/779F94/000000?text=+" /></td>
+<td>134</td>
+<td>149</td>
+<td>142</td>
+<td>#86958E</td>
+<td style="background-color: #86958E" ><img src="https://via.placeholder.com/40/86958E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Green Chromate</td>
@@ -5898,11 +6948,11 @@
 <td>Light Green RLM25</td>
 <td>71.267</td>
 <td>Model Air</td>
-<td>72</td>
+<td>73</td>
 <td>120</td>
 <td>104</td>
-<td>#487868</td>
-<td style="background-color: #487868" ><img src="https://via.placeholder.com/40/487868/000000?text=+" /></td>
+<td>#497868</td>
+<td style="background-color: #497868" ><img src="https://via.placeholder.com/40/497868/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Green RLM82</td>
@@ -5916,33 +6966,33 @@
 </tr>
 <tr>
 <td>Light Grey</td>
-<td>69.036</td>
-<td>Mecha Color</td>
-<td>150</td>
-<td>157</td>
-<td>163</td>
-<td>#969DA3</td>
-<td style="background-color: #969DA3" ><img src="https://via.placeholder.com/40/969DA3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Grey</td>
 <td>76.515</td>
-<td>Model Wash</td>
-<td>201</td>
-<td>201</td>
-<td>199</td>
-<td>#C9C9C7</td>
-<td style="background-color: #C9C9C7" ><img src="https://via.placeholder.com/40/C9C9C7/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>195</td>
+<td>195</td>
+<td>193</td>
+<td>#C3C3C1</td>
+<td style="background-color: #C3C3C1" ><img src="https://via.placeholder.com/40/C3C3C1/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Grey</td>
 <td>70.990</td>
 <td>Model Color</td>
-<td>143</td>
-<td>147</td>
-<td>158</td>
-<td>#8F939E</td>
-<td style="background-color: #8F939E" ><img src="https://via.placeholder.com/40/8F939E/000000?text=+" /></td>
+<td>145</td>
+<td>146</td>
+<td>148</td>
+<td>#919294</td>
+<td style="background-color: #919294" ><img src="https://via.placeholder.com/40/919294/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Grey</td>
+<td>69.036</td>
+<td>Mecha Color</td>
+<td>150</td>
+<td>157</td>
+<td>165</td>
+<td>#969DA5</td>
+<td style="background-color: #969DA5" ><img src="https://via.placeholder.com/40/969DA5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Grey RLM63</td>
@@ -6000,9 +7050,19 @@
 <td>Panzer Aces</td>
 <td>172</td>
 <td>163</td>
-<td>120</td>
-<td>#ACA378</td>
-<td style="background-color: #ACA378" ><img src="https://via.placeholder.com/40/ACA378/000000?text=+" /></td>
+<td>122</td>
+<td>#ACA37A</td>
+<td style="background-color: #ACA37A" ><img src="https://via.placeholder.com/40/ACA37A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Mud</td>
+<td>70.760</td>
+<td>Model Color</td>
+<td>124</td>
+<td>116</td>
+<td>93</td>
+<td>#7C745D</td>
+<td style="background-color: #7C745D" ><img src="https://via.placeholder.com/40/7C745D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Olive</td>
@@ -6018,11 +7078,11 @@
 <td>Light Orange</td>
 <td>70.911</td>
 <td>Model Color</td>
-<td>241</td>
-<td>135</td>
-<td>61</td>
-<td>#F1873D</td>
-<td style="background-color: #F1873D" ><img src="https://via.placeholder.com/40/F1873D/000000?text=+" /></td>
+<td>238</td>
+<td>114</td>
+<td>40</td>
+<td>#EE7228</td>
+<td style="background-color: #EE7228" ><img src="https://via.placeholder.com/40/EE7228/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Red</td>
@@ -6057,12 +7117,12 @@
 <tr>
 <td>Light Rust</td>
 <td>76.505</td>
-<td>Model Wash</td>
-<td>236</td>
-<td>119</td>
-<td>24</td>
-<td>#EC7718</td>
-<td style="background-color: #EC7718" ><img src="https://via.placeholder.com/40/EC7718/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>201</td>
+<td>121</td>
+<td>50</td>
+<td>#C97932</td>
+<td style="background-color: #C97932" ><img src="https://via.placeholder.com/40/C97932/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Rust</td>
@@ -6118,21 +7178,31 @@
 <td>Light Turquoise</td>
 <td>70.840</td>
 <td>Model Color</td>
-<td>1</td>
-<td>144</td>
-<td>160</td>
-<td>#0190A0</td>
-<td style="background-color: #0190A0" ><img src="https://via.placeholder.com/40/0190A0/000000?text=+" /></td>
+<td>0</td>
+<td>105</td>
+<td>137</td>
+<td>#006989</td>
+<td style="background-color: #006989" ><img src="https://via.placeholder.com/40/006989/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Light Violet</td>
+<td>70.750</td>
+<td>Model Color</td>
+<td>168</td>
+<td>147</td>
+<td>188</td>
+<td>#A893BC</td>
+<td style="background-color: #A893BC" ><img src="https://via.placeholder.com/40/A893BC/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Light Yellow</td>
 <td>70.949</td>
 <td>Model Color</td>
-<td>253</td>
-<td>232</td>
-<td>87</td>
-<td>#FDE857</td>
-<td style="background-color: #FDE857" ><img src="https://via.placeholder.com/40/FDE857/000000?text=+" /></td>
+<td>248</td>
+<td>211</td>
+<td>71</td>
+<td>#F8D347</td>
+<td style="background-color: #F8D347" ><img src="https://via.placeholder.com/40/F8D347/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lila</td>
@@ -6148,11 +7218,11 @@
 <td>Lime Green</td>
 <td>70.827</td>
 <td>Model Color</td>
-<td>140</td>
+<td>127</td>
 <td>148</td>
-<td>65</td>
-<td>#8C9441</td>
-<td style="background-color: #8C9441" ><img src="https://via.placeholder.com/40/8C9441/000000?text=+" /></td>
+<td>53</td>
+<td>#7F9435</td>
+<td style="background-color: #7F9435" ><img src="https://via.placeholder.com/40/7F9435/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lipstick</td>
@@ -6175,6 +7245,16 @@
 <td style="background-color: #9DC451" ><img src="https://via.placeholder.com/40/9DC451/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Lizard Green</td>
+<td>72.418</td>
+<td>Xpress Color</td>
+<td>34</td>
+<td>58</td>
+<td>44</td>
+<td>#223A2C</td>
+<td style="background-color: #223A2C" ><img src="https://via.placeholder.com/40/223A2C/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Loam Beige</td>
 <td>71.245</td>
 <td>Model Air</td>
@@ -6188,11 +7268,11 @@
 <td>London Grey</td>
 <td>70.836</td>
 <td>Model Color</td>
-<td>98</td>
 <td>105</td>
-<td>115</td>
-<td>#626973</td>
-<td style="background-color: #626973" ><img src="https://via.placeholder.com/40/626973/000000?text=+" /></td>
+<td>99</td>
+<td>99</td>
+<td>#696363</td>
+<td style="background-color: #696363" ><img src="https://via.placeholder.com/40/696363/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Lt Cinnamon</td>
@@ -6205,24 +7285,44 @@
 <td style="background-color: #A27784" ><img src="https://via.placeholder.com/40/A27784/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Luftwaffe Camouflage Green</td>
+<td>Luftwaffe Green</td>
 <td>70.823</td>
 <td>Model Color</td>
-<td>71</td>
-<td>82</td>
-<td>68</td>
-<td>#475244</td>
-<td style="background-color: #475244" ><img src="https://via.placeholder.com/40/475244/000000?text=+" /></td>
+<td>57</td>
+<td>63</td>
+<td>37</td>
+<td>#393F25</td>
+<td style="background-color: #393F25" ><img src="https://via.placeholder.com/40/393F25/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Luftwaffe Uniform WWII</td>
 <td>70.816</td>
 <td>Model Color</td>
-<td>79</td>
-<td>86</td>
-<td>104</td>
-<td>#4F5668</td>
-<td style="background-color: #4F5668" ><img src="https://via.placeholder.com/40/4F5668/000000?text=+" /></td>
+<td>68</td>
+<td>64</td>
+<td>78</td>
+<td>#44404E</td>
+<td style="background-color: #44404E" ><img src="https://via.placeholder.com/40/44404E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lustful Purple</td>
+<td>76.114</td>
+<td>Game Air</td>
+<td>183</td>
+<td>139</td>
+<td>188</td>
+<td>#B78BBC</td>
+<td style="background-color: #B78BBC" ><img src="https://via.placeholder.com/40/B78BBC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Lustful Purple</td>
+<td>72.114</td>
+<td>Game Color</td>
+<td>183</td>
+<td>139</td>
+<td>188</td>
+<td>#B78BBC</td>
+<td style="background-color: #B78BBC" ><img src="https://via.placeholder.com/40/B78BBC/000000?text=+" /></td>
 </tr>
 <tr>
 <td>M495 Light Gray</td>
@@ -6236,23 +7336,13 @@
 </tr>
 <tr>
 <td>Magenta</td>
-<td>70.945</td>
-<td>Model Color</td>
-<td>191</td>
-<td>18</td>
-<td>38</td>
-<td>#BF1226</td>
-<td style="background-color: #BF1226" ><img src="https://via.placeholder.com/40/BF1226/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magenta</td>
 <td>69.010</td>
 <td>Mecha Color</td>
-<td>191</td>
-<td>18</td>
+<td>193</td>
+<td>17</td>
 <td>38</td>
-<td>#BF1226</td>
-<td style="background-color: #BF1226" ><img src="https://via.placeholder.com/40/BF1226/000000?text=+" /></td>
+<td>#C11126</td>
+<td style="background-color: #C11126" ><img src="https://via.placeholder.com/40/C11126/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Magenta</td>
@@ -6263,6 +7353,26 @@
 <td>100</td>
 <td>#A52E64</td>
 <td style="background-color: #A52E64" ><img src="https://via.placeholder.com/40/A52E64/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Magenta</td>
+<td>70.945</td>
+<td>Model Color</td>
+<td>144</td>
+<td>49</td>
+<td>83</td>
+<td>#903153</td>
+<td style="background-color: #903153" ><img src="https://via.placeholder.com/40/903153/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Magenta</td>
+<td>72.083</td>
+<td>Game Color</td>
+<td>166</td>
+<td>35</td>
+<td>85</td>
+<td>#A62355</td>
+<td style="background-color: #A62355" ><img src="https://via.placeholder.com/40/A62355/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Magenta Blood</td>
@@ -6288,31 +7398,31 @@
 <td>Magenta Fluorescent</td>
 <td>69.056</td>
 <td>Mecha Color</td>
-<td>230</td>
+<td>231</td>
 <td>65</td>
 <td>141</td>
-<td>#E6418D</td>
-<td style="background-color: #E6418D" ><img src="https://via.placeholder.com/40/E6418D/000000?text=+" /></td>
+<td>#E7418D</td>
+<td style="background-color: #E7418D" ><img src="https://via.placeholder.com/40/E7418D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Magic Blue</td>
+<td>76.021</td>
+<td>Game Air</td>
+<td>0</td>
+<td>105</td>
+<td>170</td>
+<td>#0069AA</td>
+<td style="background-color: #0069AA" ><img src="https://via.placeholder.com/40/0069AA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Magic Blue</td>
 <td>72.021</td>
 <td>Game Color</td>
-<td>2</td>
-<td>110</td>
-<td>182</td>
-<td>#026EB6</td>
-<td style="background-color: #026EB6" ><img src="https://via.placeholder.com/40/026EB6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magic Blue</td>
-<td>28.030</td>
-<td>Hobby Paint</td>
-<td>27</td>
-<td>109</td>
-<td>182</td>
-<td>#1B6DB6</td>
-<td style="background-color: #1B6DB6" ><img src="https://via.placeholder.com/40/1B6DB6/000000?text=+" /></td>
+<td>0</td>
+<td>105</td>
+<td>170</td>
+<td>#0069AA</td>
+<td style="background-color: #0069AA" ><img src="https://via.placeholder.com/40/0069AA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Magic Blue</td>
@@ -6325,14 +7435,34 @@
 <td style="background-color: #026EB6" ><img src="https://via.placeholder.com/40/026EB6/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Magic Blue</td>
+<td>28.030</td>
+<td>Hobby Paint</td>
+<td>18</td>
+<td>109</td>
+<td>180</td>
+<td>#126DB4</td>
+<td style="background-color: #126DB4" ><img src="https://via.placeholder.com/40/126DB4/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Magnesium</td>
 <td>77.711</td>
 <td>Metal Color</td>
-<td>184</td>
-<td>182</td>
-<td>183</td>
-<td>#B8B6B7</td>
-<td style="background-color: #B8B6B7" ><img src="https://via.placeholder.com/40/B8B6B7/000000?text=+" /></td>
+<td>133</td>
+<td>133</td>
+<td>133</td>
+<td>#858585</td>
+<td style="background-color: #858585" ><img src="https://via.placeholder.com/40/858585/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mahogany</td>
+<td>72.472</td>
+<td>Xpress Color</td>
+<td>90</td>
+<td>57</td>
+<td>48</td>
+<td>#5A3930</td>
+<td style="background-color: #5A3930" ><img src="https://via.placeholder.com/40/5A3930/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mahogany</td>
@@ -6340,19 +7470,29 @@
 <td>Model Air</td>
 <td>74</td>
 <td>59</td>
-<td>54</td>
-<td>#4A3B36</td>
-<td style="background-color: #4A3B36" ><img src="https://via.placeholder.com/40/4A3B36/000000?text=+" /></td>
+<td>56</td>
+<td>#4A3B38</td>
+<td style="background-color: #4A3B38" ><img src="https://via.placeholder.com/40/4A3B38/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mahogany Brown</td>
 <td>70.846</td>
 <td>Model Color</td>
-<td>116</td>
-<td>83</td>
+<td>121</td>
+<td>80</td>
 <td>74</td>
-<td>#74534A</td>
-<td style="background-color: #74534A" ><img src="https://via.placeholder.com/40/74534A/000000?text=+" /></td>
+<td>#79504A</td>
+<td style="background-color: #79504A" ><img src="https://via.placeholder.com/40/79504A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mahogany Ink</td>
+<td>70.828</td>
+<td>Model Color</td>
+<td>103</td>
+<td>70</td>
+<td>65</td>
+<td>#674641</td>
+<td style="background-color: #674641" ><img src="https://via.placeholder.com/40/674641/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Malefic Flesh</td>
@@ -6363,6 +7503,16 @@
 <td>97</td>
 <td>#696061</td>
 <td style="background-color: #696061" ><img src="https://via.placeholder.com/40/696061/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Martian Orange</td>
+<td>72.405</td>
+<td>Xpress Color</td>
+<td>205</td>
+<td>70</td>
+<td>25</td>
+<td>#CD4619</td>
+<td style="background-color: #CD4619" ><img src="https://via.placeholder.com/40/CD4619/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Matt Varnish</td>
@@ -6426,6 +7576,16 @@
 </tr>
 <tr>
 <td>Medium Blue</td>
+<td>70.963</td>
+<td>Model Color</td>
+<td>22</td>
+<td>65</td>
+<td>108</td>
+<td>#16416C</td>
+<td style="background-color: #16416C" ><img src="https://via.placeholder.com/40/16416C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Medium Blue</td>
 <td>85.063</td>
 <td>Arte Deco</td>
 <td>41</td>
@@ -6435,14 +7595,14 @@
 <td style="background-color: #29409A" ><img src="https://via.placeholder.com/40/29409A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Medium Blue</td>
-<td>70.963</td>
+<td>Medium Brown</td>
+<td>70.826</td>
 <td>Model Color</td>
-<td>33</td>
-<td>96</td>
-<td>131</td>
-<td>#216083</td>
-<td style="background-color: #216083" ><img src="https://via.placeholder.com/40/216083/000000?text=+" /></td>
+<td>91</td>
+<td>72</td>
+<td>58</td>
+<td>#5B483A</td>
+<td style="background-color: #5B483A" ><img src="https://via.placeholder.com/40/5B483A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Medium Flesh</td>
@@ -6465,14 +7625,14 @@
 <td style="background-color: #FAD0D1" ><img src="https://via.placeholder.com/40/FAD0D1/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Medium Flesh Tone</td>
+<td>Medium Fleshtone</td>
 <td>70.860</td>
 <td>Model Color</td>
-<td>188</td>
-<td>133</td>
-<td>77</td>
-<td>#BC854D</td>
-<td style="background-color: #BC854D" ><img src="https://via.placeholder.com/40/BC854D/000000?text=+" /></td>
+<td>176</td>
+<td>121</td>
+<td>64</td>
+<td>#B07940</td>
+<td style="background-color: #B07940" ><img src="https://via.placeholder.com/40/B07940/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Medium Gray</td>
@@ -6486,16 +7646,6 @@
 </tr>
 <tr>
 <td>Medium Grey</td>
-<td>70.987</td>
-<td>Model Color</td>
-<td>152</td>
-<td>154</td>
-<td>132</td>
-<td>#989A84</td>
-<td style="background-color: #989A84" ><img src="https://via.placeholder.com/40/989A84/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Medium Grey</td>
 <td>69.038</td>
 <td>Mecha Color</td>
 <td>130</td>
@@ -6503,6 +7653,26 @@
 <td>133</td>
 <td>#828385</td>
 <td style="background-color: #828385" ><img src="https://via.placeholder.com/40/828385/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Medium Grey</td>
+<td>70.987</td>
+<td>Model Color</td>
+<td>134</td>
+<td>114</td>
+<td>89</td>
+<td>#867259</td>
+<td style="background-color: #867259" ><img src="https://via.placeholder.com/40/867259/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Medium Grey Blue</td>
+<td>70.772</td>
+<td>Model Color</td>
+<td>119</td>
+<td>157</td>
+<td>146</td>
+<td>#779D92</td>
+<td style="background-color: #779D92" ><img src="https://via.placeholder.com/40/779D92/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Medium Gunship Gray</td>
@@ -6516,16 +7686,6 @@
 </tr>
 <tr>
 <td>Medium Olive</td>
-<td>70.850</td>
-<td>Model Color</td>
-<td>43</td>
-<td>108</td>
-<td>40</td>
-<td>#2B6C28</td>
-<td style="background-color: #2B6C28" ><img src="https://via.placeholder.com/40/2B6C28/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Medium Olive</td>
 <td>71.092</td>
 <td>Model Air</td>
 <td>80</td>
@@ -6535,14 +7695,34 @@
 <td style="background-color: #505443" ><img src="https://via.placeholder.com/40/505443/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Medium Olive</td>
+<td>70.850</td>
+<td>Model Color</td>
+<td>65</td>
+<td>78</td>
+<td>50</td>
+<td>#414E32</td>
+<td style="background-color: #414E32" ><img src="https://via.placeholder.com/40/414E32/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Medium Sea Grey</td>
 <td>70.870</td>
 <td>Model Color</td>
-<td>130</td>
-<td>131</td>
-<td>133</td>
-<td>#828385</td>
-<td style="background-color: #828385" ><img src="https://via.placeholder.com/40/828385/000000?text=+" /></td>
+<td>125</td>
+<td>123</td>
+<td>124</td>
+<td>#7D7B7C</td>
+<td style="background-color: #7D7B7C" ><img src="https://via.placeholder.com/40/7D7B7C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Medium Xpress</td>
+<td>72.448</td>
+<td>Xpress Color</td>
+<td>255</td>
+<td>251</td>
+<td>248</td>
+<td>#FFFBF8</td>
+<td style="background-color: #FFFBF8" ><img src="https://via.placeholder.com/40/FFFBF8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Medium Yellow</td>
@@ -6558,11 +7738,21 @@
 <td>Metallic Black</td>
 <td>62.053</td>
 <td>Premium Airbrush Color</td>
-<td>167</td>
-<td>165</td>
-<td>166</td>
-<td>#A7A5A6</td>
-<td style="background-color: #A7A5A6" ><img src="https://via.placeholder.com/40/A7A5A6/000000?text=+" /></td>
+<td>190</td>
+<td>186</td>
+<td>187</td>
+<td>#BEBABB</td>
+<td style="background-color: #BEBABB" ><img src="https://via.placeholder.com/40/BEBABB/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Metallic Blue</td>
+<td>62.046</td>
+<td>Premium Airbrush Color</td>
+<td>208</td>
+<td>215</td>
+<td>233</td>
+<td>#D0D7E9</td>
+<td style="background-color: #D0D7E9" ><img src="https://via.placeholder.com/40/D0D7E9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Metallic Blue</td>
@@ -6575,26 +7765,6 @@
 <td style="background-color: #373C4F" ><img src="https://via.placeholder.com/40/373C4F/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Metallic Blue</td>
-<td>62.046</td>
-<td>Premium Airbrush Color</td>
-<td>193</td>
-<td>204</td>
-<td>224</td>
-<td>#C1CCE0</td>
-<td style="background-color: #C1CCE0" ><img src="https://via.placeholder.com/40/C1CCE0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Green</td>
-<td>62.047</td>
-<td>Premium Airbrush Color</td>
-<td>208</td>
-<td>226</td>
-<td>214</td>
-<td>#D0E2D6</td>
-<td style="background-color: #D0E2D6" ><img src="https://via.placeholder.com/40/D0E2D6/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Metallic Green</td>
 <td>69.068</td>
 <td>Mecha Color</td>
@@ -6605,24 +7775,34 @@
 <td style="background-color: #1B927F" ><img src="https://via.placeholder.com/40/1B927F/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Metallic Green</td>
+<td>62.047</td>
+<td>Premium Airbrush Color</td>
+<td>219</td>
+<td>235</td>
+<td>225</td>
+<td>#DBEBE1</td>
+<td style="background-color: #DBEBE1" ><img src="https://via.placeholder.com/40/DBEBE1/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Metallic Medium</td>
 <td>62.041</td>
 <td>Premium Airbrush Color</td>
-<td>246</td>
-<td>242</td>
-<td>233</td>
-<td>#F6F2E9</td>
-<td style="background-color: #F6F2E9" ><img src="https://via.placeholder.com/40/F6F2E9/000000?text=+" /></td>
+<td>250</td>
+<td>247</td>
+<td>240</td>
+<td>#FAF7F0</td>
+<td style="background-color: #FAF7F0" ><img src="https://via.placeholder.com/40/FAF7F0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Metallic Orange</td>
 <td>62.043</td>
 <td>Premium Airbrush Color</td>
-<td>244</td>
-<td>211</td>
-<td>206</td>
-<td>#F4D3CE</td>
-<td style="background-color: #F4D3CE" ><img src="https://via.placeholder.com/40/F4D3CE/000000?text=+" /></td>
+<td>246</td>
+<td>222</td>
+<td>218</td>
+<td>#F6DEDA</td>
+<td style="background-color: #F6DEDA" ><img src="https://via.placeholder.com/40/F6DEDA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Metallic Red</td>
@@ -6638,31 +7818,41 @@
 <td>Metallic Red</td>
 <td>62.044</td>
 <td>Premium Airbrush Color</td>
-<td>236</td>
-<td>198</td>
-<td>197</td>
-<td>#ECC6C5</td>
-<td style="background-color: #ECC6C5" ><img src="https://via.placeholder.com/40/ECC6C5/000000?text=+" /></td>
+<td>240</td>
+<td>211</td>
+<td>213</td>
+<td>#F0D3D5</td>
+<td style="background-color: #F0D3D5" ><img src="https://via.placeholder.com/40/F0D3D5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Metallic Violet</td>
 <td>62.045</td>
 <td>Premium Airbrush Color</td>
-<td>205</td>
-<td>200</td>
-<td>230</td>
-<td>#CDC8E6</td>
-<td style="background-color: #CDC8E6" ><img src="https://via.placeholder.com/40/CDC8E6/000000?text=+" /></td>
+<td>219</td>
+<td>215</td>
+<td>238</td>
+<td>#DBD7EE</td>
+<td style="background-color: #DBD7EE" ><img src="https://via.placeholder.com/40/DBD7EE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Metallic Yellow</td>
 <td>62.042</td>
 <td>Premium Airbrush Color</td>
-<td>249</td>
-<td>230</td>
-<td>198</td>
-<td>#F9E6C6</td>
-<td style="background-color: #F9E6C6" ><img src="https://via.placeholder.com/40/F9E6C6/000000?text=+" /></td>
+<td>251</td>
+<td>237</td>
+<td>211</td>
+<td>#FBEDD3</td>
+<td style="background-color: #FBEDD3" ><img src="https://via.placeholder.com/40/FBEDD3/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Middle Stone</td>
+<td>70.882</td>
+<td>Model Color</td>
+<td>147</td>
+<td>127</td>
+<td>66</td>
+<td>#937F42</td>
+<td style="background-color: #937F42" ><img src="https://via.placeholder.com/40/937F42/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Middle Stone</td>
@@ -6675,16 +7865,6 @@
 <td style="background-color: #997C50" ><img src="https://via.placeholder.com/40/997C50/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Middle Stone</td>
-<td>70.882</td>
-<td>Model Color</td>
-<td>147</td>
-<td>126</td>
-<td>79</td>
-<td>#937E4F</td>
-<td style="background-color: #937E4F" ><img src="https://via.placeholder.com/40/937E4F/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Midnight Blue</td>
 <td>85.070</td>
 <td>Arte Deco</td>
@@ -6695,14 +7875,54 @@
 <td style="background-color: #012D2C" ><img src="https://via.placeholder.com/40/012D2C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Midnight Purple</td>
+<td>76.116</td>
+<td>Game Air</td>
+<td>45</td>
+<td>30</td>
+<td>51</td>
+<td>#2D1E33</td>
+<td style="background-color: #2D1E33" ><img src="https://via.placeholder.com/40/2D1E33/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Midnight Purple</td>
+<td>72.116</td>
+<td>Game Color</td>
+<td>45</td>
+<td>30</td>
+<td>51</td>
+<td>#2D1E33</td>
+<td style="background-color: #2D1E33" ><img src="https://via.placeholder.com/40/2D1E33/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Military Green</td>
 <td>70.975</td>
 <td>Model Color</td>
-<td>70</td>
-<td>73</td>
-<td>62</td>
-<td>#46493E</td>
-<td style="background-color: #46493E" ><img src="https://via.placeholder.com/40/46493E/000000?text=+" /></td>
+<td>67</td>
+<td>68</td>
+<td>52</td>
+<td>#434434</td>
+<td style="background-color: #434434" ><img src="https://via.placeholder.com/40/434434/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Military Yellow</td>
+<td>70.764</td>
+<td>Model Color</td>
+<td>147</td>
+<td>118</td>
+<td>38</td>
+<td>#937626</td>
+<td style="background-color: #937626" ><img src="https://via.placeholder.com/40/937626/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Military Yellow</td>
+<td>72.453</td>
+<td>Xpress Color</td>
+<td>128</td>
+<td>94</td>
+<td>48</td>
+<td>#805E30</td>
+<td style="background-color: #805E30" ><img src="https://via.placeholder.com/40/805E30/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mink Tan</td>
@@ -6745,6 +7965,26 @@
 <td style="background-color: #FB8A7C" ><img src="https://via.placeholder.com/40/FB8A7C/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Monastic Green</td>
+<td>72.482</td>
+<td>Xpress Color Intense</td>
+<td>0</td>
+<td>75</td>
+<td>55</td>
+<td>#004B37</td>
+<td style="background-color: #004B37" ><img src="https://via.placeholder.com/40/004B37/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Moon Yellow</td>
+<td>76.005</td>
+<td>Game Air</td>
+<td>238</td>
+<td>184</td>
+<td>0</td>
+<td>#EEB800</td>
+<td style="background-color: #EEB800" ><img src="https://via.placeholder.com/40/EEB800/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Moon Yellow</td>
 <td>72.705</td>
 <td>Game Air</td>
@@ -6768,21 +8008,81 @@
 <td>Moon Yellow</td>
 <td>72.005</td>
 <td>Game Color</td>
-<td>252</td>
-<td>224</td>
+<td>238</td>
+<td>184</td>
 <td>0</td>
-<td>#FCE000</td>
-<td style="background-color: #FCE000" ><img src="https://via.placeholder.com/40/FCE000/000000?text=+" /></td>
+<td>#EEB800</td>
+<td style="background-color: #EEB800" ><img src="https://via.placeholder.com/40/EEB800/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Moss and Lichen</td>
+<td>73.827</td>
+<td>Weathering FX</td>
+<td>189</td>
+<td>156</td>
+<td>59</td>
+<td>#BD9C3B</td>
+<td style="background-color: #BD9C3B" ><img src="https://via.placeholder.com/40/BD9C3B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Moss and Lichen</td>
+<td>72.611</td>
+<td>Game Color Special FX</td>
+<td>218</td>
+<td>215</td>
+<td>108</td>
+<td>#DAD76C</td>
+<td style="background-color: #DAD76C" ><img src="https://via.placeholder.com/40/DAD76C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mud Brown</td>
 <td>71.037</td>
 <td>Model Air</td>
-<td>140</td>
-<td>101</td>
+<td>141</td>
+<td>100</td>
 <td>72</td>
-<td>#8C6548</td>
-<td style="background-color: #8C6548" ><img src="https://via.placeholder.com/40/8C6548/000000?text=+" /></td>
+<td>#8D6448</td>
+<td style="background-color: #8D6448" ><img src="https://via.placeholder.com/40/8D6448/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mud and Grass</td>
+<td>73.826</td>
+<td>Weathering FX</td>
+<td>76</td>
+<td>76</td>
+<td>68</td>
+<td>#4C4C44</td>
+<td style="background-color: #4C4C44" ><img src="https://via.placeholder.com/40/4C4C44/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Muddy Ground</td>
+<td>72.475</td>
+<td>Xpress Color</td>
+<td>69</td>
+<td>46</td>
+<td>40</td>
+<td>#452E28</td>
+<td style="background-color: #452E28" ><img src="https://via.placeholder.com/40/452E28/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mummy White</td>
+<td>72.449</td>
+<td>Xpress Color</td>
+<td>207</td>
+<td>180</td>
+<td>150</td>
+<td>#CFB496</td>
+<td style="background-color: #CFB496" ><img src="https://via.placeholder.com/40/CFB496/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mustard Brown</td>
+<td>70.769</td>
+<td>Model Color</td>
+<td>157</td>
+<td>113</td>
+<td>74</td>
+<td>#9D714A</td>
+<td style="background-color: #9D714A" ><img src="https://via.placeholder.com/40/9D714A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Mutation Green</td>
@@ -6793,6 +8093,16 @@
 <td>80</td>
 <td>#4C7650</td>
 <td style="background-color: #4C7650" ><img src="https://via.placeholder.com/40/4C7650/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Mystic Blue</td>
+<td>72.411</td>
+<td>Xpress Color</td>
+<td>0</td>
+<td>74</td>
+<td>135</td>
+<td>#004A87</td>
+<td style="background-color: #004A87" ><img src="https://via.placeholder.com/40/004A87/000000?text=+" /></td>
 </tr>
 <tr>
 <td>NATO Black</td>
@@ -6820,19 +8130,19 @@
 <td>Model Air</td>
 <td>82</td>
 <td>90</td>
-<td>77</td>
-<td>#525A4D</td>
-<td style="background-color: #525A4D" ><img src="https://via.placeholder.com/40/525A4D/000000?text=+" /></td>
+<td>79</td>
+<td>#525A4F</td>
+<td style="background-color: #525A4F" ><img src="https://via.placeholder.com/40/525A4F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>NATO Green</td>
 <td>70.612</td>
 <td>Surface Primer</td>
-<td>75</td>
-<td>86</td>
+<td>74</td>
+<td>85</td>
 <td>69</td>
-<td>#4B5645</td>
-<td style="background-color: #4B5645" ><img src="https://via.placeholder.com/40/4B5645/000000?text=+" /></td>
+<td>#4A5545</td>
+<td style="background-color: #4A5545" ><img src="https://via.placeholder.com/40/4A5545/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Naphthol Red</td>
@@ -6858,11 +8168,11 @@
 <td>Natural Steel</td>
 <td>70.864</td>
 <td>Model Color</td>
-<td>137</td>
-<td>138</td>
-<td>130</td>
-<td>#898A82</td>
-<td style="background-color: #898A82" ><img src="https://via.placeholder.com/40/898A82/000000?text=+" /></td>
+<td>83</td>
+<td>82</td>
+<td>88</td>
+<td>#535258</td>
+<td style="background-color: #535258" ><img src="https://via.placeholder.com/40/535258/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Natural Wood Grain</td>
@@ -6950,19 +8260,29 @@
 <td>Model Air</td>
 <td>112</td>
 <td>119</td>
-<td>125</td>
-<td>#70777D</td>
-<td style="background-color: #70777D" ><img src="https://via.placeholder.com/40/70777D/000000?text=+" /></td>
+<td>127</td>
+<td>#70777F</td>
+<td style="background-color: #70777F" ><img src="https://via.placeholder.com/40/70777F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Neutral Grey</td>
+<td>72.050</td>
+<td>Game Color</td>
+<td>111</td>
+<td>109</td>
+<td>97</td>
+<td>#6F6D61</td>
+<td style="background-color: #6F6D61" ><img src="https://via.placeholder.com/40/6F6D61/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Neutral Grey</td>
 <td>70.992</td>
 <td>Model Color</td>
-<td>105</td>
-<td>112</td>
-<td>122</td>
-<td>#69707A</td>
-<td style="background-color: #69707A" ><img src="https://via.placeholder.com/40/69707A/000000?text=+" /></td>
+<td>97</td>
+<td>97</td>
+<td>95</td>
+<td>#61615F</td>
+<td style="background-color: #61615F" ><img src="https://via.placeholder.com/40/61615F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Neutral Grey</td>
@@ -6973,6 +8293,16 @@
 <td>107</td>
 <td>#71706B</td>
 <td style="background-color: #71706B" ><img src="https://via.placeholder.com/40/71706B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>New Wood</td>
+<td>70.770</td>
+<td>Model Color</td>
+<td>138</td>
+<td>99</td>
+<td>60</td>
+<td>#8A633C</td>
+<td style="background-color: #8A633C" ><img src="https://via.placeholder.com/40/8A633C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>New Wood</td>
@@ -6988,11 +8318,21 @@
 <td>Night Blue</td>
 <td>72.019</td>
 <td>Game Color</td>
-<td>57</td>
-<td>57</td>
-<td>69</td>
-<td>#393945</td>
-<td style="background-color: #393945" ><img src="https://via.placeholder.com/40/393945/000000?text=+" /></td>
+<td>32</td>
+<td>36</td>
+<td>48</td>
+<td>#202430</td>
+<td style="background-color: #202430" ><img src="https://via.placeholder.com/40/202430/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Night Blue</td>
+<td>76.019</td>
+<td>Game Air</td>
+<td>32</td>
+<td>36</td>
+<td>48</td>
+<td>#202430</td>
+<td style="background-color: #202430" ><img src="https://via.placeholder.com/40/202430/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Nocturna Shadow</td>
@@ -7005,24 +8345,54 @@
 <td style="background-color: #434646" ><img src="https://via.placeholder.com/40/434646/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Nocturnal Red</td>
+<td>76.111</td>
+<td>Game Air</td>
+<td>85</td>
+<td>28</td>
+<td>34</td>
+<td>#551C22</td>
+<td style="background-color: #551C22" ><img src="https://via.placeholder.com/40/551C22/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Nocturnal Red</td>
+<td>72.111</td>
+<td>Game Color</td>
+<td>85</td>
+<td>28</td>
+<td>34</td>
+<td>#551C22</td>
+<td style="background-color: #551C22" ><img src="https://via.placeholder.com/40/551C22/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Nuclear Yellow</td>
+<td>72.404</td>
+<td>Xpress Color</td>
+<td>221</td>
+<td>146</td>
+<td>19</td>
+<td>#DD9213</td>
+<td style="background-color: #DD9213" ><img src="https://via.placeholder.com/40/DD9213/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Num. 41 Dark Olive Drab</td>
 <td>71.316</td>
 <td>Model Air</td>
-<td>83</td>
-<td>77</td>
+<td>84</td>
+<td>76</td>
 <td>63</td>
-<td>#534D3F</td>
-<td style="background-color: #534D3F" ><img src="https://via.placeholder.com/40/534D3F/000000?text=+" /></td>
+<td>#544C3F</td>
+<td style="background-color: #544C3F" ><img src="https://via.placeholder.com/40/544C3F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ocean Gray</td>
 <td>71.273</td>
 <td>Model Air</td>
-<td>109</td>
-<td>118</td>
+<td>110</td>
+<td>117</td>
 <td>127</td>
-<td>#6D767F</td>
-<td style="background-color: #6D767F" ><img src="https://via.placeholder.com/40/6D767F/000000?text=+" /></td>
+<td>#6E757F</td>
+<td style="background-color: #6E757F" ><img src="https://via.placeholder.com/40/6E757F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ochre</td>
@@ -7048,21 +8418,51 @@
 <td>Ochre Brown</td>
 <td>70.856</td>
 <td>Model Color</td>
-<td>174</td>
-<td>119</td>
-<td>39</td>
-<td>#AE7727</td>
-<td style="background-color: #AE7727" ><img src="https://via.placeholder.com/40/AE7727/000000?text=+" /></td>
+<td>170</td>
+<td>121</td>
+<td>62</td>
+<td>#AA793E</td>
+<td style="background-color: #AA793E" ><img src="https://via.placeholder.com/40/AA793E/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Off White</td>
+<td>Off-Grey</td>
+<td>76.516</td>
+<td>Wash FX</td>
+<td>101</td>
+<td>101</td>
+<td>99</td>
+<td>#656563</td>
+<td style="background-color: #656563" ><img src="https://via.placeholder.com/40/656563/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Off-White</td>
 <td>72.101</td>
 <td>Game Color</td>
-<td>253</td>
+<td>254</td>
 <td>243</td>
-<td>218</td>
-<td>#FDF3DA</td>
-<td style="background-color: #FDF3DA" ><img src="https://via.placeholder.com/40/FDF3DA/000000?text=+" /></td>
+<td>221</td>
+<td>#FEF3DD</td>
+<td style="background-color: #FEF3DD" ><img src="https://via.placeholder.com/40/FEF3DD/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Off-White</td>
+<td>69.003</td>
+<td>Mecha Color</td>
+<td>235</td>
+<td>235</td>
+<td>227</td>
+<td>#EBEBE3</td>
+<td style="background-color: #EBEBE3" ><img src="https://via.placeholder.com/40/EBEBE3/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Off-White</td>
+<td>70.820</td>
+<td>Model Color</td>
+<td>245</td>
+<td>236</td>
+<td>231</td>
+<td>#F5ECE7</td>
+<td style="background-color: #F5ECE7" ><img src="https://via.placeholder.com/40/F5ECE7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Off-White</td>
@@ -7075,24 +8475,14 @@
 <td style="background-color: #E8D8BE" ><img src="https://via.placeholder.com/40/E8D8BE/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Off-white</td>
-<td>70.820</td>
-<td>Model Color</td>
-<td>235</td>
-<td>235</td>
-<td>225</td>
-<td>#EBEBE1</td>
-<td style="background-color: #EBEBE1" ><img src="https://via.placeholder.com/40/EBEBE1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Offwhite</td>
-<td>69.003</td>
-<td>Mecha Color</td>
-<td>235</td>
-<td>235</td>
-<td>225</td>
-<td>#EBEBE1</td>
-<td style="background-color: #EBEBE1" ><img src="https://via.placeholder.com/40/EBEBE1/000000?text=+" /></td>
+<td>Oil Stains</td>
+<td>73.813</td>
+<td>Weathering FX</td>
+<td>110</td>
+<td>80</td>
+<td>46</td>
+<td>#6E502E</td>
+<td style="background-color: #6E502E" ><img src="https://via.placeholder.com/40/6E502E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Oil Stains (Gloss)</td>
@@ -7107,12 +8497,12 @@
 <tr>
 <td>Oiled Earth</td>
 <td>76.521</td>
-<td>Model Wash</td>
-<td>110</td>
+<td>Wash FX</td>
+<td>102</td>
 <td>92</td>
-<td>78</td>
-<td>#6E5C4E</td>
-<td style="background-color: #6E5C4E" ><img src="https://via.placeholder.com/40/6E5C4E/000000?text=+" /></td>
+<td>83</td>
+<td>#665C53</td>
+<td style="background-color: #665C53" ><img src="https://via.placeholder.com/40/665C53/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Oiled Earth Wash</td>
@@ -7128,11 +8518,21 @@
 <td>Oily Steel</td>
 <td>70.865</td>
 <td>Model Color</td>
-<td>115</td>
-<td>116</td>
-<td>118</td>
-<td>#737476</td>
-<td style="background-color: #737476" ><img src="https://via.placeholder.com/40/737476/000000?text=+" /></td>
+<td>72</td>
+<td>66</td>
+<td>70</td>
+<td>#484246</td>
+<td style="background-color: #484246" ><img src="https://via.placeholder.com/40/484246/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Old Gold</td>
+<td>70.792</td>
+<td>Liquid Gold</td>
+<td>242</td>
+<td>236</td>
+<td>202</td>
+<td>#F2ECCA</td>
+<td style="background-color: #F2ECCA" ><img src="https://via.placeholder.com/40/F2ECCA/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Old Gold</td>
@@ -7148,31 +8548,21 @@
 <td>Old Gold</td>
 <td>70.878</td>
 <td>Model Color</td>
-<td>156</td>
-<td>132</td>
-<td>72</td>
-<td>#9C8448</td>
-<td style="background-color: #9C8448" ><img src="https://via.placeholder.com/40/9C8448/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Old Gold</td>
-<td>70.792</td>
-<td>Liquid Gold</td>
-<td>216</td>
-<td>201</td>
-<td>106</td>
-<td>#D8C96A</td>
-<td style="background-color: #D8C96A" ><img src="https://via.placeholder.com/40/D8C96A/000000?text=+" /></td>
+<td>85</td>
+<td>55</td>
+<td>29</td>
+<td>#55371D</td>
+<td style="background-color: #55371D" ><img src="https://via.placeholder.com/40/55371D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Old Rose</td>
 <td>70.944</td>
 <td>Model Color</td>
-<td>215</td>
-<td>126</td>
-<td>120</td>
-<td>#D77E78</td>
-<td style="background-color: #D77E78" ><img src="https://via.placeholder.com/40/D77E78/000000?text=+" /></td>
+<td>188</td>
+<td>109</td>
+<td>112</td>
+<td>#BC6D70</td>
+<td style="background-color: #BC6D70" ><img src="https://via.placeholder.com/40/BC6D70/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Old Silver</td>
@@ -7198,31 +8588,21 @@
 <td>Olive Brown</td>
 <td>70.889</td>
 <td>Model Color</td>
-<td>84</td>
-<td>79</td>
-<td>75</td>
-<td>#544F4B</td>
-<td style="background-color: #544F4B" ><img src="https://via.placeholder.com/40/544F4B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Green</td>
-<td>69.028</td>
-<td>Mecha Color</td>
-<td>95</td>
-<td>110</td>
-<td>69</td>
-<td>#5F6E45</td>
-<td style="background-color: #5F6E45" ><img src="https://via.placeholder.com/40/5F6E45/000000?text=+" /></td>
+<td>63</td>
+<td>49</td>
+<td>38</td>
+<td>#3F3126</td>
+<td style="background-color: #3F3126" ><img src="https://via.placeholder.com/40/3F3126/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive Green</td>
 <td>76.519</td>
-<td>Model Wash</td>
-<td>5</td>
-<td>46</td>
-<td>30</td>
-<td>#052E1E</td>
-<td style="background-color: #052E1E" ><img src="https://via.placeholder.com/40/052E1E/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>69</td>
+<td>88</td>
+<td>69</td>
+<td>#455845</td>
+<td style="background-color: #455845" ><img src="https://via.placeholder.com/40/455845/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive Green</td>
@@ -7236,13 +8616,23 @@
 </tr>
 <tr>
 <td>Olive Green</td>
-<td>70.967</td>
-<td>Model Color</td>
+<td>69.028</td>
+<td>Mecha Color</td>
 <td>95</td>
 <td>110</td>
 <td>69</td>
 <td>#5F6E45</td>
 <td style="background-color: #5F6E45" ><img src="https://via.placeholder.com/40/5F6E45/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Olive Green</td>
+<td>70.967</td>
+<td>Model Color</td>
+<td>82</td>
+<td>97</td>
+<td>56</td>
+<td>#526138</td>
+<td style="background-color: #526138" ><img src="https://via.placeholder.com/40/526138/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive Green</td>
@@ -7266,23 +8656,33 @@
 </tr>
 <tr>
 <td>Olive Grey</td>
-<td>71.096</td>
-<td>Model Air</td>
-<td>107</td>
-<td>100</td>
-<td>92</td>
-<td>#6B645C</td>
-<td style="background-color: #6B645C" ><img src="https://via.placeholder.com/40/6B645C/000000?text=+" /></td>
+<td>70.888</td>
+<td>Model Color</td>
+<td>64</td>
+<td>66</td>
+<td>45</td>
+<td>#40422D</td>
+<td style="background-color: #40422D" ><img src="https://via.placeholder.com/40/40422D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Olive Grey</td>
-<td>70.888</td>
-<td>Model Color</td>
-<td>84</td>
-<td>85</td>
-<td>71</td>
-<td>#545547</td>
-<td style="background-color: #545547" ><img src="https://via.placeholder.com/40/545547/000000?text=+" /></td>
+<td>71.096</td>
+<td>Model Air</td>
+<td>108</td>
+<td>99</td>
+<td>94</td>
+<td>#6C635E</td>
+<td style="background-color: #6C635E" ><img src="https://via.placeholder.com/40/6C635E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Omega Blue</td>
+<td>72.413</td>
+<td>Xpress Color</td>
+<td>58</td>
+<td>54</td>
+<td>91</td>
+<td>#3A365B</td>
+<td style="background-color: #3A365B" ><img src="https://via.placeholder.com/40/3A365B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange</td>
@@ -7296,6 +8696,16 @@
 </tr>
 <tr>
 <td>Orange</td>
+<td>62.004</td>
+<td>Premium Airbrush Color</td>
+<td>234</td>
+<td>91</td>
+<td>23</td>
+<td>#EA5B17</td>
+<td style="background-color: #EA5B17" ><img src="https://via.placeholder.com/40/EA5B17/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orange</td>
 <td>71.083</td>
 <td>Model Air</td>
 <td>225</td>
@@ -7305,34 +8715,14 @@
 <td style="background-color: #E14C24" ><img src="https://via.placeholder.com/40/E14C24/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Orange</td>
-<td>62.004</td>
-<td>Premium Airbrush Color</td>
-<td>234</td>
-<td>91</td>
-<td>21</td>
-<td>#EA5B15</td>
-<td style="background-color: #EA5B15" ><img src="https://via.placeholder.com/40/EA5B15/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Orange Brown</td>
 <td>70.981</td>
 <td>Model Color</td>
-<td>186</td>
-<td>108</td>
-<td>59</td>
-<td>#BA6C3B</td>
-<td style="background-color: #BA6C3B" ><img src="https://via.placeholder.com/40/BA6C3B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange Fire</td>
-<td>72.008</td>
-<td>Game Color</td>
-<td>233</td>
-<td>101</td>
-<td>26</td>
-<td>#E9651A</td>
-<td style="background-color: #E9651A" ><img src="https://via.placeholder.com/40/E9651A/000000?text=+" /></td>
+<td>173</td>
+<td>98</td>
+<td>58</td>
+<td>#AD623A</td>
+<td style="background-color: #AD623A" ><img src="https://via.placeholder.com/40/AD623A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange Fire</td>
@@ -7343,6 +8733,26 @@
 <td>43</td>
 <td>#EA632B</td>
 <td style="background-color: #EA632B" ><img src="https://via.placeholder.com/40/EA632B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orange Fire</td>
+<td>76.008</td>
+<td>Game Air</td>
+<td>235</td>
+<td>91</td>
+<td>30</td>
+<td>#EB5B1E</td>
+<td style="background-color: #EB5B1E" ><img src="https://via.placeholder.com/40/EB5B1E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orange Fire</td>
+<td>72.008</td>
+<td>Game Color</td>
+<td>235</td>
+<td>91</td>
+<td>30</td>
+<td>#EB5B1E</td>
+<td style="background-color: #EB5B1E" ><img src="https://via.placeholder.com/40/EB5B1E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange Fluorescent</td>
@@ -7365,6 +8775,16 @@
 <td style="background-color: #E86016" ><img src="https://via.placeholder.com/40/E86016/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Orange Ochre</td>
+<td>70.824</td>
+<td>Model Color</td>
+<td>172</td>
+<td>128</td>
+<td>53</td>
+<td>#AC8035</td>
+<td style="background-color: #AC8035" ><img src="https://via.placeholder.com/40/AC8035/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Orange Pearl</td>
 <td>85.133</td>
 <td>Arte Deco Colores Fluoresecents</td>
@@ -7373,6 +8793,16 @@
 <td>65</td>
 <td>#F58841</td>
 <td style="background-color: #F58841" ><img src="https://via.placeholder.com/40/F58841/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orange Pink</td>
+<td>62.002</td>
+<td>Premium Airbrush Color</td>
+<td>251</td>
+<td>203</td>
+<td>157</td>
+<td>#FBCB9D</td>
+<td style="background-color: #FBCB9D" ><img src="https://via.placeholder.com/40/FBCB9D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orange Red</td>
@@ -7393,6 +8823,16 @@
 <td>50</td>
 <td>#C76832</td>
 <td style="background-color: #C76832" ><img src="https://via.placeholder.com/40/C76832/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Orc Skin</td>
+<td>72.415</td>
+<td>Xpress Color</td>
+<td>94</td>
+<td>117</td>
+<td>45</td>
+<td>#5E752D</td>
+<td style="background-color: #5E752D" ><img src="https://via.placeholder.com/40/5E752D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Orchid</td>
@@ -7418,11 +8858,21 @@
 <td>Oxford Blue</td>
 <td>70.807</td>
 <td>Model Color</td>
-<td>77</td>
-<td>77</td>
-<td>111</td>
-<td>#4D4D6F</td>
-<td style="background-color: #4D4D6F" ><img src="https://via.placeholder.com/40/4D4D6F/000000?text=+" /></td>
+<td>62</td>
+<td>58</td>
+<td>83</td>
+<td>#3E3A53</td>
+<td style="background-color: #3E3A53" ><img src="https://via.placeholder.com/40/3E3A53/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pale Blue</td>
+<td>70.906</td>
+<td>Model Color</td>
+<td>144</td>
+<td>163</td>
+<td>169</td>
+<td>#90A3A9</td>
+<td style="background-color: #90A3A9" ><img src="https://via.placeholder.com/40/90A3A9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Blue</td>
@@ -7435,34 +8885,34 @@
 <td style="background-color: #759496" ><img src="https://via.placeholder.com/40/759496/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Pale Blue</td>
-<td>70.906</td>
-<td>Model Color</td>
-<td>153</td>
-<td>169</td>
-<td>166</td>
-<td>#99A9A6</td>
-<td style="background-color: #99A9A6" ><img src="https://via.placeholder.com/40/99A9A6/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Pale Blue Grey</td>
 <td>71.046</td>
 <td>Model Air</td>
 <td>150</td>
 <td>157</td>
-<td>163</td>
-<td>#969DA3</td>
-<td style="background-color: #969DA3" ><img src="https://via.placeholder.com/40/969DA3/000000?text=+" /></td>
+<td>165</td>
+<td>#969DA5</td>
+<td style="background-color: #969DA5" ><img src="https://via.placeholder.com/40/969DA5/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pale Brown</td>
+<td>70.825</td>
+<td>Model Color</td>
+<td>159</td>
+<td>131</td>
+<td>117</td>
+<td>#9F8375</td>
+<td style="background-color: #9F8375" ><img src="https://via.placeholder.com/40/9F8375/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Burnt Metal</td>
 <td>77.704</td>
 <td>Metal Color</td>
-<td>211</td>
-<td>209</td>
-<td>210</td>
-<td>#D3D1D2</td>
-<td style="background-color: #D3D1D2" ><img src="https://via.placeholder.com/40/D3D1D2/000000?text=+" /></td>
+<td>169</td>
+<td>169</td>
+<td>169</td>
+<td>#A9A9A9</td>
+<td style="background-color: #A9A9A9" ><img src="https://via.placeholder.com/40/A9A9A9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Flesh</td>
@@ -7476,8 +8926,18 @@
 </tr>
 <tr>
 <td>Pale Flesh</td>
-<td>72.003</td>
-<td>Game Color</td>
+<td>76.003</td>
+<td>Game Air</td>
+<td>203</td>
+<td>163</td>
+<td>127</td>
+<td>#CBA37F</td>
+<td style="background-color: #CBA37F" ><img src="https://via.placeholder.com/40/CBA37F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Pale Flesh</td>
+<td>28.024</td>
+<td>Hobby Paint</td>
 <td>236</td>
 <td>189</td>
 <td>169</td>
@@ -7496,33 +8956,33 @@
 </tr>
 <tr>
 <td>Pale Flesh</td>
-<td>28.024</td>
-<td>Hobby Paint</td>
-<td>237</td>
-<td>190</td>
-<td>174</td>
-<td>#EDBEAE</td>
-<td style="background-color: #EDBEAE" ><img src="https://via.placeholder.com/40/EDBEAE/000000?text=+" /></td>
+<td>72.003</td>
+<td>Game Color</td>
+<td>203</td>
+<td>163</td>
+<td>127</td>
+<td>#CBA37F</td>
+<td style="background-color: #CBA37F" ><img src="https://via.placeholder.com/40/CBA37F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Green</td>
 <td>71.095</td>
 <td>Model Air</td>
-<td>116</td>
-<td>133</td>
+<td>117</td>
+<td>132</td>
 <td>91</td>
-<td>#74855B</td>
-<td style="background-color: #74855B" ><img src="https://via.placeholder.com/40/74855B/000000?text=+" /></td>
+<td>#75845B</td>
+<td style="background-color: #75845B" ><img src="https://via.placeholder.com/40/75845B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Grey Blue</td>
 <td>70.907</td>
 <td>Model Color</td>
-<td>165</td>
-<td>180</td>
-<td>187</td>
-<td>#A5B4BB</td>
-<td style="background-color: #A5B4BB" ><img src="https://via.placeholder.com/40/A5B4BB/000000?text=+" /></td>
+<td>167</td>
+<td>182</td>
+<td>179</td>
+<td>#A7B6B3</td>
+<td style="background-color: #A7B6B3" ><img src="https://via.placeholder.com/40/A7B6B3/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Grey Wash</td>
@@ -7548,11 +9008,11 @@
 <td>Pale Sand</td>
 <td>70.837</td>
 <td>Model Color</td>
-<td>245</td>
-<td>216</td>
-<td>182</td>
-<td>#F5D8B6</td>
-<td style="background-color: #F5D8B6" ><img src="https://via.placeholder.com/40/F5D8B6/000000?text=+" /></td>
+<td>227</td>
+<td>194</td>
+<td>143</td>
+<td>#E3C28F</td>
+<td style="background-color: #E3C28F" ><img src="https://via.placeholder.com/40/E3C28F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pale Yellow</td>
@@ -7578,71 +9038,81 @@
 <td>Panzer Grey</td>
 <td>28.002</td>
 <td>Hobby Paint</td>
+<td>75</td>
 <td>76</td>
-<td>77</td>
-<td>79</td>
-<td>#4C4D4F</td>
-<td style="background-color: #4C4D4F" ><img src="https://via.placeholder.com/40/4C4D4F/000000?text=+" /></td>
+<td>80</td>
+<td>#4B4C50</td>
+<td style="background-color: #4B4C50" ><img src="https://via.placeholder.com/40/4B4C50/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Panzer Yellow</td>
 <td>28.001</td>
 <td>Hobby Paint</td>
-<td>150</td>
-<td>135</td>
-<td>80</td>
-<td>#968750</td>
-<td style="background-color: #968750" ><img src="https://via.placeholder.com/40/968750/000000?text=+" /></td>
+<td>148</td>
+<td>133</td>
+<td>78</td>
+<td>#94854E</td>
+<td style="background-color: #94854E" ><img src="https://via.placeholder.com/40/94854E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Parasite Brown</td>
+<td>76.042</td>
+<td>Game Air</td>
+<td>163</td>
+<td>92</td>
+<td>30</td>
+<td>#A35C1E</td>
+<td style="background-color: #A35C1E" ><img src="https://via.placeholder.com/40/A35C1E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Parasite Brown</td>
 <td>72.042</td>
 <td>Game Color</td>
-<td>161</td>
-<td>80</td>
-<td>25</td>
-<td>#A15019</td>
-<td style="background-color: #A15019" ><img src="https://via.placeholder.com/40/A15019/000000?text=+" /></td>
+<td>163</td>
+<td>92</td>
+<td>30</td>
+<td>#A35C1E</td>
+<td style="background-color: #A35C1E" ><img src="https://via.placeholder.com/40/A35C1E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Parched Grass (Late)</td>
 <td>70.610</td>
 <td>Surface Primer</td>
-<td>121</td>
-<td>105</td>
-<td>79</td>
-<td>#79694F</td>
-<td style="background-color: #79694F" ><img src="https://via.placeholder.com/40/79694F/000000?text=+" /></td>
+<td>113</td>
+<td>104</td>
+<td>89</td>
+<td>#716859</td>
+<td style="background-color: #716859" ><img src="https://via.placeholder.com/40/716859/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Park Green Flat</td>
 <td>70.969</td>
 <td>Model Color</td>
-<td>6</td>
-<td>121</td>
-<td>88</td>
-<td>#067958</td>
-<td style="background-color: #067958" ><img src="https://via.placeholder.com/40/067958/000000?text=+" /></td>
+<td>33</td>
+<td>98</td>
+<td>74</td>
+<td>#21624A</td>
+<td style="background-color: #21624A" ><img src="https://via.placeholder.com/40/21624A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pastel Blue</td>
 <td>70.901</td>
 <td>Model Color</td>
-<td>106</td>
-<td>135</td>
-<td>149</td>
-<td>#6A8795</td>
-<td style="background-color: #6A8795" ><img src="https://via.placeholder.com/40/6A8795/000000?text=+" /></td>
+<td>96</td>
+<td>122</td>
+<td>147</td>
+<td>#607A93</td>
+<td style="background-color: #607A93" ><img src="https://via.placeholder.com/40/607A93/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pastel Green</td>
 <td>70.885</td>
 <td>Model Color</td>
-<td>164</td>
-<td>167</td>
-<td>146</td>
-<td>#A4A792</td>
-<td style="background-color: #A4A792" ><img src="https://via.placeholder.com/40/A4A792/000000?text=+" /></td>
+<td>147</td>
+<td>152</td>
+<td>112</td>
+<td>#939870</td>
+<td style="background-color: #939870" ><img src="https://via.placeholder.com/40/939870/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Peaches</td>
@@ -7685,6 +9155,16 @@
 <td style="background-color: #940D3B" ><img src="https://via.placeholder.com/40/940D3B/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Petrol Spills</td>
+<td>73.817</td>
+<td>Weathering FX</td>
+<td>33</td>
+<td>31</td>
+<td>34</td>
+<td>#211F22</td>
+<td style="background-color: #211F22" ><img src="https://via.placeholder.com/40/211F22/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Petrol Spills (Gloss)</td>
 <td>69.817</td>
 <td>Mecha Color</td>
@@ -7703,6 +9183,16 @@
 <td>98</td>
 <td>#535762</td>
 <td style="background-color: #535762" ><img src="https://via.placeholder.com/40/535762/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Phoenix Orange</td>
+<td>72.478</td>
+<td>Xpress Color Intense</td>
+<td>177</td>
+<td>64</td>
+<td>30</td>
+<td>#B1401E</td>
+<td style="background-color: #B1401E" ><img src="https://via.placeholder.com/40/B1401E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Phosphorescent</td>
@@ -7728,11 +9218,11 @@
 <td>Pink</td>
 <td>70.958</td>
 <td>Model Color</td>
-<td>197</td>
-<td>123</td>
-<td>172</td>
-<td>#C57BAC</td>
-<td style="background-color: #C57BAC" ><img src="https://via.placeholder.com/40/C57BAC/000000?text=+" /></td>
+<td>176</td>
+<td>79</td>
+<td>124</td>
+<td>#B04F7C</td>
+<td style="background-color: #B04F7C" ><img src="https://via.placeholder.com/40/B04F7C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pink</td>
@@ -7748,11 +9238,21 @@
 <td>Plague Brown</td>
 <td>72.039</td>
 <td>Game Color</td>
-<td>209</td>
-<td>143</td>
-<td>5</td>
-<td>#D18F05</td>
-<td style="background-color: #D18F05" ><img src="https://via.placeholder.com/40/D18F05/000000?text=+" /></td>
+<td>171</td>
+<td>113</td>
+<td>49</td>
+<td>#AB7131</td>
+<td style="background-color: #AB7131" ><img src="https://via.placeholder.com/40/AB7131/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Plague Green</td>
+<td>72.419</td>
+<td>Xpress Color</td>
+<td>76</td>
+<td>77</td>
+<td>46</td>
+<td>#4C4D2E</td>
+<td style="background-color: #4C4D2E" ><img src="https://via.placeholder.com/40/4C4D2E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Plantation Pine</td>
@@ -7763,6 +9263,16 @@
 <td>47</td>
 <td>#206D2F</td>
 <td style="background-color: #206D2F" ><img src="https://via.placeholder.com/40/206D2F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Plasma Red</td>
+<td>72.406</td>
+<td>Xpress Color</td>
+<td>165</td>
+<td>40</td>
+<td>34</td>
+<td>#A52822</td>
+<td style="background-color: #A52822" ><img src="https://via.placeholder.com/40/A52822/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Plate Mail Metal</td>
@@ -7778,11 +9288,11 @@
 <td>Polished Gold</td>
 <td>72.055</td>
 <td>Game Color</td>
-<td>210</td>
-<td>174</td>
-<td>34</td>
-<td>#D2AE22</td>
-<td style="background-color: #D2AE22" ><img src="https://via.placeholder.com/40/D2AE22/000000?text=+" /></td>
+<td>248</td>
+<td>236</td>
+<td>194</td>
+<td>#F8ECC2</td>
+<td style="background-color: #F8ECC2" ><img src="https://via.placeholder.com/40/F8ECC2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Polished Gold</td>
@@ -7798,11 +9308,11 @@
 <td>Prussian Blue</td>
 <td>70.965</td>
 <td>Model Color</td>
+<td>60</td>
 <td>64</td>
-<td>91</td>
-<td>120</td>
-<td>#405B78</td>
-<td style="background-color: #405B78" ><img src="https://via.placeholder.com/40/405B78/000000?text=+" /></td>
+<td>93</td>
+<td>#3C405D</td>
+<td style="background-color: #3C405D" ><img src="https://via.placeholder.com/40/3C405D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Pumpkin</td>
@@ -7846,26 +9356,6 @@
 </tr>
 <tr>
 <td>Purple</td>
-<td>69.012</td>
-<td>Mecha Color</td>
-<td>173</td>
-<td>141</td>
-<td>188</td>
-<td>#AD8DBC</td>
-<td style="background-color: #AD8DBC" ><img src="https://via.placeholder.com/40/AD8DBC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple</td>
-<td>70.959</td>
-<td>Model Color</td>
-<td>112</td>
-<td>84</td>
-<td>124</td>
-<td>#70547C</td>
-<td style="background-color: #70547C" ><img src="https://via.placeholder.com/40/70547C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple</td>
 <td>85.045</td>
 <td>Arte Deco</td>
 <td>72</td>
@@ -7873,6 +9363,26 @@
 <td>89</td>
 <td>#482359</td>
 <td style="background-color: #482359" ><img src="https://via.placeholder.com/40/482359/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Purple</td>
+<td>70.959</td>
+<td>Model Color</td>
+<td>83</td>
+<td>49</td>
+<td>82</td>
+<td>#533152</td>
+<td style="background-color: #533152" ><img src="https://via.placeholder.com/40/533152/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Purple</td>
+<td>69.012</td>
+<td>Mecha Color</td>
+<td>173</td>
+<td>141</td>
+<td>188</td>
+<td>#AD8DBC</td>
+<td style="background-color: #AD8DBC" ><img src="https://via.placeholder.com/40/AD8DBC/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Purple Hex</td>
@@ -7895,6 +9405,16 @@
 <td style="background-color: #584852" ><img src="https://via.placeholder.com/40/584852/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Rain Marks</td>
+<td>73.819</td>
+<td>Weathering FX</td>
+<td>109</td>
+<td>99</td>
+<td>90</td>
+<td>#6D635A</td>
+<td style="background-color: #6D635A" ><img src="https://via.placeholder.com/40/6D635A/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Raspberry</td>
 <td>85.036</td>
 <td>Arte Deco</td>
@@ -7906,6 +9426,16 @@
 </tr>
 <tr>
 <td>Raw Sienna</td>
+<td>62.017</td>
+<td>Premium Airbrush Color</td>
+<td>130</td>
+<td>75</td>
+<td>68</td>
+<td>#824B44</td>
+<td style="background-color: #824B44" ><img src="https://via.placeholder.com/40/824B44/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Raw Sienna</td>
 <td>85.113</td>
 <td>Arte Deco</td>
 <td>172</td>
@@ -7913,46 +9443,6 @@
 <td>87</td>
 <td>#AC7757</td>
 <td style="background-color: #AC7757" ><img src="https://via.placeholder.com/40/AC7757/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Raw Sienna</td>
-<td>62.017</td>
-<td>Premium Airbrush Color</td>
-<td>130</td>
-<td>76</td>
-<td>66</td>
-<td>#824C42</td>
-<td style="background-color: #824C42" ><img src="https://via.placeholder.com/40/824C42/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red</td>
-<td>69.008</td>
-<td>Mecha Color</td>
-<td>188</td>
-<td>64</td>
-<td>64</td>
-<td>#BC4040</td>
-<td style="background-color: #BC4040" ><img src="https://via.placeholder.com/40/BC4040/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red</td>
-<td>71.102</td>
-<td>Model Air</td>
-<td>178</td>
-<td>42</td>
-<td>52</td>
-<td>#B22A34</td>
-<td style="background-color: #B22A34" ><img src="https://via.placeholder.com/40/B22A34/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red</td>
-<td>72.086</td>
-<td>Game Color</td>
-<td>229</td>
-<td>50</td>
-<td>56</td>
-<td>#E53238</td>
-<td style="background-color: #E53238" ><img src="https://via.placeholder.com/40/E53238/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red</td>
@@ -7966,23 +9456,53 @@
 </tr>
 <tr>
 <td>Red</td>
+<td>72.086</td>
+<td>Game Color</td>
+<td>205</td>
+<td>19</td>
+<td>22</td>
+<td>#CD1316</td>
+<td style="background-color: #CD1316" ><img src="https://via.placeholder.com/40/CD1316/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Red</td>
+<td>71.102</td>
+<td>Model Air</td>
+<td>179</td>
+<td>42</td>
+<td>52</td>
+<td>#B32A34</td>
+<td style="background-color: #B32A34" ><img src="https://via.placeholder.com/40/B32A34/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Red</td>
 <td>70.926</td>
 <td>Model Color</td>
-<td>147</td>
-<td>38</td>
-<td>44</td>
-<td>#93262C</td>
-<td style="background-color: #93262C" ><img src="https://via.placeholder.com/40/93262C/000000?text=+" /></td>
+<td>121</td>
+<td>40</td>
+<td>37</td>
+<td>#792825</td>
+<td style="background-color: #792825" ><img src="https://via.placeholder.com/40/792825/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Red</td>
+<td>69.008</td>
+<td>Mecha Color</td>
+<td>188</td>
+<td>64</td>
+<td>64</td>
+<td>#BC4040</td>
+<td style="background-color: #BC4040" ><img src="https://via.placeholder.com/40/BC4040/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red Gold</td>
 <td>70.794</td>
 <td>Liquid Gold</td>
-<td>221</td>
-<td>175</td>
-<td>97</td>
-<td>#DDAF61</td>
-<td style="background-color: #DDAF61" ><img src="https://via.placeholder.com/40/DDAF61/000000?text=+" /></td>
+<td>243</td>
+<td>226</td>
+<td>200</td>
+<td>#F3E2C8</td>
+<td style="background-color: #F3E2C8" ><img src="https://via.placeholder.com/40/F3E2C8/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red Iron Oxide</td>
@@ -7998,11 +9518,11 @@
 <td>Red Leather</td>
 <td>70.818</td>
 <td>Model Color</td>
-<td>142</td>
-<td>88</td>
-<td>64</td>
-<td>#8E5840</td>
-<td style="background-color: #8E5840" ><img src="https://via.placeholder.com/40/8E5840/000000?text=+" /></td>
+<td>149</td>
+<td>84</td>
+<td>62</td>
+<td>#95543E</td>
+<td style="background-color: #95543E" ><img src="https://via.placeholder.com/40/95543E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Red RLM23</td>
@@ -8058,11 +9578,11 @@
 <td>Refractive Green</td>
 <td>70.890</td>
 <td>Model Color</td>
-<td>85</td>
-<td>87</td>
-<td>66</td>
-<td>#555742</td>
-<td style="background-color: #555742" ><img src="https://via.placeholder.com/40/555742/000000?text=+" /></td>
+<td>71</td>
+<td>74</td>
+<td>53</td>
+<td>#474A35</td>
+<td style="background-color: #474A35" ><img src="https://via.placeholder.com/40/474A35/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Retarder</td>
@@ -8078,11 +9598,11 @@
 <td>Rich Gold</td>
 <td>70.793</td>
 <td>Liquid Gold</td>
-<td>198</td>
-<td>167</td>
-<td>102</td>
-<td>#C6A766</td>
-<td style="background-color: #C6A766" ><img src="https://via.placeholder.com/40/C6A766/000000?text=+" /></td>
+<td>233</td>
+<td>222</td>
+<td>194</td>
+<td>#E9DEC2</td>
+<td style="background-color: #E9DEC2" ><img src="https://via.placeholder.com/40/E9DEC2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rookwood Red</td>
@@ -8108,11 +9628,31 @@
 <td>Rosy Flesh</td>
 <td>72.100</td>
 <td>Game Color</td>
-<td>243</td>
-<td>181</td>
-<td>170</td>
-<td>#F3B5AA</td>
-<td style="background-color: #F3B5AA" ><img src="https://via.placeholder.com/40/F3B5AA/000000?text=+" /></td>
+<td>229</td>
+<td>138</td>
+<td>107</td>
+<td>#E58A6B</td>
+<td style="background-color: #E58A6B" ><img src="https://via.placeholder.com/40/E58A6B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rosy Flesh</td>
+<td>76.100</td>
+<td>Game Air</td>
+<td>229</td>
+<td>138</td>
+<td>107</td>
+<td>#E58A6B</td>
+<td style="background-color: #E58A6B" ><img src="https://via.placeholder.com/40/E58A6B/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rotten Flesh</td>
+<td>72.452</td>
+<td>Xpress Color</td>
+<td>137</td>
+<td>118</td>
+<td>59</td>
+<td>#89763B</td>
+<td style="background-color: #89763B" ><img src="https://via.placeholder.com/40/89763B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rotten White</td>
@@ -8128,31 +9668,41 @@
 <td>Royal Blue</td>
 <td>70.809</td>
 <td>Model Color</td>
-<td>37</td>
-<td>93</td>
-<td>142</td>
-<td>#255D8E</td>
-<td style="background-color: #255D8E" ><img src="https://via.placeholder.com/40/255D8E/000000?text=+" /></td>
+<td>26</td>
+<td>66</td>
+<td>125</td>
+<td>#1A427D</td>
+<td style="background-color: #1A427D" ><img src="https://via.placeholder.com/40/1A427D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Royal Purple</td>
 <td>70.810</td>
 <td>Model Color</td>
-<td>84</td>
-<td>63</td>
-<td>94</td>
-<td>#543F5E</td>
-<td style="background-color: #543F5E" ><img src="https://via.placeholder.com/40/543F5E/000000?text=+" /></td>
+<td>77</td>
+<td>39</td>
+<td>64</td>
+<td>#4D2740</td>
+<td style="background-color: #4D2740" ><img src="https://via.placeholder.com/40/4D2740/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Royal Purple</td>
+<td>76.016</td>
+<td>Game Air</td>
+<td>48</td>
+<td>35</td>
+<td>55</td>
+<td>#302337</td>
+<td style="background-color: #302337" ><img src="https://via.placeholder.com/40/302337/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Royal Purple</td>
 <td>72.016</td>
 <td>Game Color</td>
-<td>70</td>
-<td>67</td>
-<td>98</td>
-<td>#464362</td>
-<td style="background-color: #464362" ><img src="https://via.placeholder.com/40/464362/000000?text=+" /></td>
+<td>48</td>
+<td>35</td>
+<td>55</td>
+<td>#302337</td>
+<td style="background-color: #302337" ><img src="https://via.placeholder.com/40/302337/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian AF Blue</td>
@@ -8178,11 +9728,11 @@
 <td>Russian AF Grey Blue</td>
 <td>71.338</td>
 <td>Model Air</td>
-<td>162</td>
+<td>163</td>
 <td>172</td>
 <td>171</td>
-<td>#A2ACAB</td>
-<td style="background-color: #A2ACAB" ><img src="https://via.placeholder.com/40/A2ACAB/000000?text=+" /></td>
+<td>#A3ACAB</td>
+<td style="background-color: #A3ACAB" ><img src="https://via.placeholder.com/40/A3ACAB/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian AF Grey N.3</td>
@@ -8228,11 +9778,11 @@
 <td>Russian AF Grey Protective Coat</td>
 <td>71.344</td>
 <td>Model Air</td>
-<td>177</td>
-<td>204</td>
+<td>179</td>
+<td>203</td>
 <td>215</td>
-<td>#B1CCD7</td>
-<td style="background-color: #B1CCD7" ><img src="https://via.placeholder.com/40/B1CCD7/000000?text=+" /></td>
+<td>#B3CBD7</td>
+<td style="background-color: #B3CBD7" ><img src="https://via.placeholder.com/40/B3CBD7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian AF Light Blue</td>
@@ -8246,13 +9796,13 @@
 </tr>
 <tr>
 <td>Russian Green 4BO</td>
-<td>28.003</td>
-<td>Hobby Paint</td>
-<td>87</td>
-<td>88</td>
-<td>72</td>
-<td>#575848</td>
-<td style="background-color: #575848" ><img src="https://via.placeholder.com/40/575848/000000?text=+" /></td>
+<td>70.609</td>
+<td>Surface Primer</td>
+<td>75</td>
+<td>76</td>
+<td>68</td>
+<td>#4B4C44</td>
+<td style="background-color: #4B4C44" ><img src="https://via.placeholder.com/40/4B4C44/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian Green 4BO</td>
@@ -8265,74 +9815,94 @@
 <td style="background-color: #52543F" ><img src="https://via.placeholder.com/40/52543F/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Russian Green 4Bo</td>
-<td>70.609</td>
-<td>Surface Primer</td>
-<td>77</td>
-<td>79</td>
-<td>68</td>
-<td>#4D4F44</td>
-<td style="background-color: #4D4F44" ><img src="https://via.placeholder.com/40/4D4F44/000000?text=+" /></td>
+<td>Russian Green 4BO</td>
+<td>28.003</td>
+<td>Hobby Paint</td>
+<td>87</td>
+<td>85</td>
+<td>70</td>
+<td>#575546</td>
+<td style="background-color: #575546" ><img src="https://via.placeholder.com/40/575546/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Russian Splash Mud</td>
+<td>73.802</td>
+<td>Weathering FX</td>
+<td>61</td>
+<td>51</td>
+<td>52</td>
+<td>#3D3334</td>
+<td style="background-color: #3D3334" ><img src="https://via.placeholder.com/40/3D3334/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Russian Tank Crew Highlights I</td>
+<td>70.329</td>
+<td>Panzer Aces</td>
+<td>155</td>
+<td>171</td>
+<td>170</td>
+<td>#9BABAA</td>
+<td style="background-color: #9BABAA" ><img src="https://via.placeholder.com/40/9BABAA/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Russian Tank Crew Highlights II</td>
+<td>70.330</td>
+<td>Panzer Aces</td>
+<td>113</td>
+<td>117</td>
+<td>56</td>
+<td>#717538</td>
+<td style="background-color: #717538" ><img src="https://via.placeholder.com/40/717538/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian Tank Crew I</td>
 <td>70.325</td>
 <td>Panzer Aces</td>
-<td>75</td>
+<td>76</td>
 <td>93</td>
-<td>107</td>
-<td>#4B5D6B</td>
-<td style="background-color: #4B5D6B" ><img src="https://via.placeholder.com/40/4B5D6B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Russian Tank Crew I Highlights</td>
-<td>70.329</td>
-<td>Panzer Aces</td>
-<td>155</td>
-<td>172</td>
-<td>166</td>
-<td>#9BACA6</td>
-<td style="background-color: #9BACA6" ><img src="https://via.placeholder.com/40/9BACA6/000000?text=+" /></td>
+<td>103</td>
+<td>#4C5D67</td>
+<td style="background-color: #4C5D67" ><img src="https://via.placeholder.com/40/4C5D67/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian Tank Crew II</td>
 <td>70.326</td>
 <td>Panzer Aces</td>
-<td>104</td>
-<td>96</td>
-<td>75</td>
-<td>#68604B</td>
-<td style="background-color: #68604B" ><img src="https://via.placeholder.com/40/68604B/000000?text=+" /></td>
+<td>106</td>
+<td>98</td>
+<td>79</td>
+<td>#6A624F</td>
+<td style="background-color: #6A624F" ><img src="https://via.placeholder.com/40/6A624F/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Russian Tank Crew II Highlights</td>
-<td>70.330</td>
-<td>Panzer Aces</td>
-<td>112</td>
-<td>121</td>
-<td>58</td>
-<td>#70793A</td>
-<td style="background-color: #70793A" ><img src="https://via.placeholder.com/40/70793A/000000?text=+" /></td>
+<td>Russian Thick Mud</td>
+<td>73.808</td>
+<td>Weathering FX</td>
+<td>52</td>
+<td>52</td>
+<td>52</td>
+<td>#343434</td>
+<td style="background-color: #343434" ><img src="https://via.placeholder.com/40/343434/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian Uniform</td>
 <td>28.007</td>
 <td>Hobby Paint</td>
-<td>110</td>
-<td>102</td>
-<td>83</td>
-<td>#6E6653</td>
-<td style="background-color: #6E6653" ><img src="https://via.placeholder.com/40/6E6653/000000?text=+" /></td>
+<td>107</td>
+<td>100</td>
+<td>82</td>
+<td>#6B6452</td>
+<td style="background-color: #6B6452" ><img src="https://via.placeholder.com/40/6B6452/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Russian Uniform WWII</td>
 <td>70.924</td>
 <td>Model Color</td>
-<td>103</td>
-<td>98</td>
-<td>78</td>
-<td>#67624E</td>
-<td style="background-color: #67624E" ><img src="https://via.placeholder.com/40/67624E/000000?text=+" /></td>
+<td>88</td>
+<td>83</td>
+<td>54</td>
+<td>#585336</td>
+<td style="background-color: #585336" ><img src="https://via.placeholder.com/40/585336/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rust</td>
@@ -8343,6 +9913,16 @@
 <td>20</td>
 <td>#E45314</td>
 <td style="background-color: #E45314" ><img src="https://via.placeholder.com/40/E45314/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rust</td>
+<td>72.609</td>
+<td>Game Color Special FX</td>
+<td>100</td>
+<td>80</td>
+<td>75</td>
+<td>#64504B</td>
+<td style="background-color: #64504B" ><img src="https://via.placeholder.com/40/64504B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rust</td>
@@ -8357,12 +9937,12 @@
 <tr>
 <td>Rust</td>
 <td>76.506</td>
-<td>Model Wash</td>
-<td>201</td>
-<td>73</td>
-<td>8</td>
-<td>#C94908</td>
-<td style="background-color: #C94908" ><img src="https://via.placeholder.com/40/C94908/000000?text=+" /></td>
+<td>Wash FX</td>
+<td>208</td>
+<td>125</td>
+<td>91</td>
+<td>#D07D5B</td>
+<td style="background-color: #D07D5B" ><img src="https://via.placeholder.com/40/D07D5B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rust (Metallic)</td>
@@ -8370,19 +9950,29 @@
 <td>Model Air</td>
 <td>117</td>
 <td>84</td>
-<td>67</td>
-<td>#755443</td>
-<td style="background-color: #755443" ><img src="https://via.placeholder.com/40/755443/000000?text=+" /></td>
+<td>69</td>
+<td>#755445</td>
+<td style="background-color: #755445" ><img src="https://via.placeholder.com/40/755445/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Rust Texture</td>
+<td>73.821</td>
+<td>Weathering FX</td>
+<td>70</td>
+<td>60</td>
+<td>58</td>
+<td>#463C3A</td>
+<td style="background-color: #463C3A" ><img src="https://via.placeholder.com/40/463C3A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Rust Texture (Matt)</td>
 <td>69.821</td>
 <td>Mecha Color</td>
 <td>105</td>
-<td>51</td>
-<td>41</td>
-<td>#693329</td>
-<td style="background-color: #693329" ><img src="https://via.placeholder.com/40/693329/000000?text=+" /></td>
+<td>50</td>
+<td>43</td>
+<td>#69322B</td>
+<td style="background-color: #69322B" ><img src="https://via.placeholder.com/40/69322B/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sable Brown</td>
@@ -8398,11 +9988,11 @@
 <td>Saddle Brown</td>
 <td>70.940</td>
 <td>Model Color</td>
-<td>117</td>
-<td>84</td>
-<td>75</td>
-<td>#75544B</td>
-<td style="background-color: #75544B" ><img src="https://via.placeholder.com/40/75544B/000000?text=+" /></td>
+<td>140</td>
+<td>100</td>
+<td>92</td>
+<td>#8C645C</td>
+<td style="background-color: #8C645C" ><img src="https://via.placeholder.com/40/8C645C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Salem Blue</td>
@@ -8418,11 +10008,11 @@
 <td>Salmon Rose</td>
 <td>70.835</td>
 <td>Model Color</td>
-<td>241</td>
-<td>175</td>
-<td>161</td>
-<td>#F1AFA1</td>
-<td style="background-color: #F1AFA1" ><img src="https://via.placeholder.com/40/F1AFA1/000000?text=+" /></td>
+<td>226</td>
+<td>143</td>
+<td>127</td>
+<td>#E28F7F</td>
+<td style="background-color: #E28F7F" ><img src="https://via.placeholder.com/40/E28F7F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sanctuary Red</td>
@@ -8436,16 +10026,6 @@
 </tr>
 <tr>
 <td>Sand</td>
-<td>70.644</td>
-<td>Mecha Color</td>
-<td>218</td>
-<td>196</td>
-<td>149</td>
-<td>#DAC495</td>
-<td style="background-color: #DAC495" ><img src="https://via.placeholder.com/40/DAC495/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sand</td>
 <td>71.112</td>
 <td>Model Air</td>
 <td>158</td>
@@ -8453,6 +10033,16 @@
 <td>122</td>
 <td>#9E887A</td>
 <td style="background-color: #9E887A" ><img src="https://via.placeholder.com/40/9E887A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sand</td>
+<td>70.644</td>
+<td>Mecha Color</td>
+<td>218</td>
+<td>196</td>
+<td>149</td>
+<td>#DAC495</td>
+<td style="background-color: #DAC495" ><img src="https://via.placeholder.com/40/DAC495/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sand Beige</td>
@@ -8476,16 +10066,6 @@
 </tr>
 <tr>
 <td>Sand Yellow</td>
-<td>69.033</td>
-<td>Mecha Color</td>
-<td>228</td>
-<td>184</td>
-<td>111</td>
-<td>#E4B86F</td>
-<td style="background-color: #E4B86F" ><img src="https://via.placeholder.com/40/E4B86F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sand Yellow</td>
 <td>71.028</td>
 <td>Model Air</td>
 <td>164</td>
@@ -8496,13 +10076,23 @@
 </tr>
 <tr>
 <td>Sand Yellow</td>
-<td>70.916</td>
-<td>Model Color</td>
+<td>69.033</td>
+<td>Mecha Color</td>
 <td>228</td>
 <td>184</td>
 <td>111</td>
 <td>#E4B86F</td>
 <td style="background-color: #E4B86F" ><img src="https://via.placeholder.com/40/E4B86F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sand Yellow</td>
+<td>70.916</td>
+<td>Model Color</td>
+<td>234</td>
+<td>191</td>
+<td>86</td>
+<td>#EABF56</td>
+<td style="background-color: #EABF56" ><img src="https://via.placeholder.com/40/EABF56/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sand Yellow RLM79</td>
@@ -8526,8 +10116,8 @@
 </tr>
 <tr>
 <td>Satin Varnish</td>
-<td>84.169</td>
-<td>Arte Deco</td>
+<td>62.063</td>
+<td>Premium Airbrush Color</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -8536,8 +10126,8 @@
 </tr>
 <tr>
 <td>Satin Varnish</td>
-<td>62.063</td>
-<td>Premium Airbrush Color</td>
+<td>84.169</td>
+<td>Arte Deco</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -8548,31 +10138,41 @@
 <td>Scarlet</td>
 <td>70.817</td>
 <td>Model Color</td>
-<td>188</td>
-<td>64</td>
-<td>64</td>
-<td>#BC4040</td>
-<td style="background-color: #BC4040" ><img src="https://via.placeholder.com/40/BC4040/000000?text=+" /></td>
+<td>194</td>
+<td>61</td>
+<td>46</td>
+<td>#C23D2E</td>
+<td style="background-color: #C23D2E" ><img src="https://via.placeholder.com/40/C23D2E/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Scarlet Red</td>
-<td>28.016</td>
-<td>Hobby Paint</td>
-<td>171</td>
-<td>59</td>
-<td>55</td>
-<td>#AB3B37</td>
-<td style="background-color: #AB3B37" ><img src="https://via.placeholder.com/40/AB3B37/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Scarlet Red</td>
+<td>Scarlet Blood</td>
 <td>72.106</td>
 <td>Game Color</td>
-<td>228</td>
-<td>0</td>
-<td>89</td>
-<td>#E40059</td>
-<td style="background-color: #E40059" ><img src="https://via.placeholder.com/40/E40059/000000?text=+" /></td>
+<td>194</td>
+<td>34</td>
+<td>34</td>
+<td>#C22222</td>
+<td style="background-color: #C22222" ><img src="https://via.placeholder.com/40/C22222/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Scarlet Red</td>
+<td>72.012</td>
+<td>Game Color</td>
+<td>118</td>
+<td>30</td>
+<td>29</td>
+<td>#761E1D</td>
+<td style="background-color: #761E1D" ><img src="https://via.placeholder.com/40/761E1D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Scarlet Red</td>
+<td>76.012</td>
+<td>Game Air</td>
+<td>118</td>
+<td>30</td>
+<td>29</td>
+<td>#761E1D</td>
+<td style="background-color: #761E1D" ><img src="https://via.placeholder.com/40/761E1D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Scarlet Red</td>
@@ -8586,23 +10186,23 @@
 </tr>
 <tr>
 <td>Scarlet Red</td>
-<td>72.012</td>
-<td>Game Color</td>
-<td>156</td>
-<td>18</td>
-<td>44</td>
-<td>#9C122C</td>
-<td style="background-color: #9C122C" ><img src="https://via.placeholder.com/40/9C122C/000000?text=+" /></td>
+<td>28.016</td>
+<td>Hobby Paint</td>
+<td>170</td>
+<td>57</td>
+<td>53</td>
+<td>#AA3935</td>
+<td style="background-color: #AA3935" ><img src="https://via.placeholder.com/40/AA3935/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Scorpy Green</td>
 <td>72.032</td>
 <td>Game Color</td>
-<td>119</td>
-<td>166</td>
-<td>74</td>
-<td>#77A64A</td>
-<td style="background-color: #77A64A" ><img src="https://via.placeholder.com/40/77A64A/000000?text=+" /></td>
+<td>79</td>
+<td>132</td>
+<td>54</td>
+<td>#4F8436</td>
+<td style="background-color: #4F8436" ><img src="https://via.placeholder.com/40/4F8436/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Scorpy Green</td>
@@ -8615,24 +10215,44 @@
 <td style="background-color: #80AF49" ><img src="https://via.placeholder.com/40/80AF49/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Scorpy Green</td>
+<td>76.032</td>
+<td>Game Air</td>
+<td>79</td>
+<td>132</td>
+<td>54</td>
+<td>#4F8436</td>
+<td style="background-color: #4F8436" ><img src="https://via.placeholder.com/40/4F8436/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Scrofulous Brown</td>
 <td>72.038</td>
 <td>Game Color</td>
-<td>187</td>
-<td>119</td>
-<td>46</td>
-<td>#BB772E</td>
-<td style="background-color: #BB772E" ><img src="https://via.placeholder.com/40/BB772E/000000?text=+" /></td>
+<td>167</td>
+<td>105</td>
+<td>28</td>
+<td>#A7691C</td>
+<td style="background-color: #A7691C" ><img src="https://via.placeholder.com/40/A7691C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Scurvy Green</td>
+<td>76.027</td>
+<td>Game Air</td>
+<td>31</td>
+<td>77</td>
+<td>67</td>
+<td>#1F4D43</td>
+<td style="background-color: #1F4D43" ><img src="https://via.placeholder.com/40/1F4D43/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Scurvy Green</td>
 <td>72.027</td>
 <td>Game Color</td>
-<td>40</td>
-<td>86</td>
-<td>83</td>
-<td>#285653</td>
-<td style="background-color: #285653" ><img src="https://via.placeholder.com/40/285653/000000?text=+" /></td>
+<td>31</td>
+<td>77</td>
+<td>67</td>
+<td>#1F4D43</td>
+<td style="background-color: #1F4D43" ><img src="https://via.placeholder.com/40/1F4D43/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sea Aqua</td>
@@ -8665,14 +10285,14 @@
 <td style="background-color: #555756" ><img src="https://via.placeholder.com/40/555756/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Semi Matt Aluminum</td>
+<td>Semi Matt Aluminium</td>
 <td>77.716</td>
 <td>Metal Color</td>
-<td>223</td>
-<td>223</td>
-<td>225</td>
-<td>#DFDFE1</td>
-<td style="background-color: #DFDFE1" ><img src="https://via.placeholder.com/40/DFDFE1/000000?text=+" /></td>
+<td>192</td>
+<td>193</td>
+<td>195</td>
+<td>#C0C1C3</td>
+<td style="background-color: #C0C1C3" ><img src="https://via.placeholder.com/40/C0C1C3/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sepia</td>
@@ -8688,11 +10308,11 @@
 <td>Sepia</td>
 <td>72.091</td>
 <td>Game Color</td>
-<td>155</td>
-<td>111</td>
-<td>40</td>
-<td>#9B6F28</td>
-<td style="background-color: #9B6F28" ><img src="https://via.placeholder.com/40/9B6F28/000000?text=+" /></td>
+<td>86</td>
+<td>61</td>
+<td>39</td>
+<td>#563D27</td>
+<td style="background-color: #563D27" ><img src="https://via.placeholder.com/40/563D27/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sepia Wash</td>
@@ -8715,24 +10335,24 @@
 <td style="background-color: #744300" ><img src="https://via.placeholder.com/40/744300/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Sick Green</td>
-<td>28.028</td>
-<td>Hobby Paint</td>
-<td>81</td>
-<td>114</td>
-<td>87</td>
-<td>#517257</td>
-<td style="background-color: #517257" ><img src="https://via.placeholder.com/40/517257/000000?text=+" /></td>
+<td>Seraph Red</td>
+<td>72.479</td>
+<td>Xpress Color Intense</td>
+<td>107</td>
+<td>20</td>
+<td>17</td>
+<td>#6B1411</td>
+<td style="background-color: #6B1411" ><img src="https://via.placeholder.com/40/6B1411/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sick Green</td>
 <td>72.029</td>
 <td>Game Color</td>
-<td>75</td>
-<td>110</td>
-<td>78</td>
-<td>#4B6E4E</td>
-<td style="background-color: #4B6E4E" ><img src="https://via.placeholder.com/40/4B6E4E/000000?text=+" /></td>
+<td>64</td>
+<td>96</td>
+<td>55</td>
+<td>#406037</td>
+<td style="background-color: #406037" ><img src="https://via.placeholder.com/40/406037/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sick Green</td>
@@ -8745,14 +10365,24 @@
 <td style="background-color: #246B49" ><img src="https://via.placeholder.com/40/246B49/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Sick Green</td>
+<td>28.028</td>
+<td>Hobby Paint</td>
+<td>78</td>
+<td>112</td>
+<td>85</td>
+<td>#4E7055</td>
+<td style="background-color: #4E7055" ><img src="https://via.placeholder.com/40/4E7055/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Signal Blue</td>
 <td>71.091</td>
 <td>Model Air</td>
 <td>56</td>
-<td>55</td>
-<td>63</td>
-<td>#38373F</td>
-<td style="background-color: #38373F" ><img src="https://via.placeholder.com/40/38373F/000000?text=+" /></td>
+<td>54</td>
+<td>65</td>
+<td>#383641</td>
+<td style="background-color: #383641" ><img src="https://via.placeholder.com/40/383641/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Signal Red (Metallic)</td>
@@ -8766,6 +10396,66 @@
 </tr>
 <tr>
 <td>Silver</td>
+<td>81.121</td>
+<td>Arte Deco</td>
+<td>200</td>
+<td>202</td>
+<td>201</td>
+<td>#C8CAC9</td>
+<td style="background-color: #C8CAC9" ><img src="https://via.placeholder.com/40/C8CAC9/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>72.052</td>
+<td>Game Color</td>
+<td>235</td>
+<td>237</td>
+<td>236</td>
+<td>#EBEDEC</td>
+<td style="background-color: #EBEDEC" ><img src="https://via.placeholder.com/40/EBEDEC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>77.724</td>
+<td>Metal Color</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>#A0A0A0</td>
+<td style="background-color: #A0A0A0" ><img src="https://via.placeholder.com/40/A0A0A0/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>70.997</td>
+<td>Model Color</td>
+<td>147</td>
+<td>146</td>
+<td>144</td>
+<td>#939290</td>
+<td style="background-color: #939290" ><img src="https://via.placeholder.com/40/939290/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>28.021</td>
+<td>Hobby Paint</td>
+<td>166</td>
+<td>170</td>
+<td>179</td>
+<td>#A6AAB3</td>
+<td style="background-color: #A6AAB3" ><img src="https://via.placeholder.com/40/A6AAB3/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>70.790</td>
+<td>Liquid Gold</td>
+<td>245</td>
+<td>246</td>
+<td>248</td>
+<td>#F5F6F8</td>
+<td style="background-color: #F5F6F8" ><img src="https://via.placeholder.com/40/F5F6F8/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Silver</td>
 <td>72.752</td>
 <td>Game Air</td>
 <td>167</td>
@@ -8776,83 +10466,23 @@
 </tr>
 <tr>
 <td>Silver</td>
-<td>77.724</td>
-<td>Metal Color</td>
-<td>204</td>
-<td>202</td>
-<td>205</td>
-<td>#CCCACD</td>
-<td style="background-color: #CCCACD" ><img src="https://via.placeholder.com/40/CCCACD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>70.997</td>
-<td>Model Color</td>
-<td>205</td>
-<td>214</td>
-<td>211</td>
-<td>#CDD6D3</td>
-<td style="background-color: #CDD6D3" ><img src="https://via.placeholder.com/40/CDD6D3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>72.052</td>
-<td>Game Color</td>
-<td>167</td>
-<td>172</td>
-<td>176</td>
-<td>#A7ACB0</td>
-<td style="background-color: #A7ACB0" ><img src="https://via.placeholder.com/40/A7ACB0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
 <td>62.048</td>
 <td>Premium Airbrush Color</td>
-<td>229</td>
-<td>229</td>
-<td>231</td>
-<td>#E5E5E7</td>
-<td style="background-color: #E5E5E7" ><img src="https://via.placeholder.com/40/E5E5E7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>70.790</td>
-<td>Liquid Gold</td>
+<td>236</td>
+<td>236</td>
 <td>238</td>
-<td>239</td>
-<td>241</td>
-<td>#EEEFF1</td>
-<td style="background-color: #EEEFF1" ><img src="https://via.placeholder.com/40/EEEFF1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>28.021</td>
-<td>Hobby Paint</td>
-<td>168</td>
-<td>173</td>
-<td>179</td>
-<td>#A8ADB3</td>
-<td style="background-color: #A8ADB3" ><img src="https://via.placeholder.com/40/A8ADB3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>81.121</td>
-<td>Arte Deco</td>
-<td>200</td>
-<td>202</td>
-<td>201</td>
-<td>#C8CAC9</td>
-<td style="background-color: #C8CAC9" ><img src="https://via.placeholder.com/40/C8CAC9/000000?text=+" /></td>
+<td>#ECECEE</td>
+<td style="background-color: #ECECEE" ><img src="https://via.placeholder.com/40/ECECEE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Silver Grey</td>
 <td>70.883</td>
 <td>Model Color</td>
-<td>202</td>
-<td>198</td>
-<td>186</td>
-<td>#CAC6BA</td>
-<td style="background-color: #CAC6BA" ><img src="https://via.placeholder.com/40/CAC6BA/000000?text=+" /></td>
+<td>216</td>
+<td>205</td>
+<td>201</td>
+<td>#D8CDC9</td>
+<td style="background-color: #D8CDC9" ><img src="https://via.placeholder.com/40/D8CDC9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Silver RLM01 (Metallic)</td>
@@ -8875,6 +10505,16 @@
 <td style="background-color: #BAA789" ><img src="https://via.placeholder.com/40/BAA789/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Skin</td>
+<td>72.093</td>
+<td>Game Color</td>
+<td>92</td>
+<td>45</td>
+<td>39</td>
+<td>#5C2D27</td>
+<td style="background-color: #5C2D27" ><img src="https://via.placeholder.com/40/5C2D27/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Skin Tone</td>
 <td>71.076</td>
 <td>Model Air</td>
@@ -8885,34 +10525,24 @@
 <td style="background-color: #F8C492" ><img src="https://via.placeholder.com/40/F8C492/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Skin Wash</td>
-<td>72.093</td>
+<td>Skin Tone</td>
+<td>72.099</td>
 <td>Game Color</td>
-<td>197</td>
-<td>111</td>
-<td>24</td>
-<td>#C56F18</td>
-<td style="background-color: #C56F18" ><img src="https://via.placeholder.com/40/C56F18/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sky Blue</td>
-<td>70.961</td>
-<td>Model Color</td>
-<td>122</td>
-<td>202</td>
-<td>235</td>
-<td>#7ACAEB</td>
-<td style="background-color: #7ACAEB" ><img src="https://via.placeholder.com/40/7ACAEB/000000?text=+" /></td>
+<td>229</td>
+<td>171</td>
+<td>133</td>
+<td>#E5AB85</td>
+<td style="background-color: #E5AB85" ><img src="https://via.placeholder.com/40/E5AB85/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sky Blue</td>
 <td>71.306</td>
 <td>Model Air</td>
 <td>194</td>
-<td>214</td>
-<td>215</td>
-<td>#C2D6D7</td>
-<td style="background-color: #C2D6D7" ><img src="https://via.placeholder.com/40/C2D6D7/000000?text=+" /></td>
+<td>213</td>
+<td>217</td>
+<td>#C2D5D9</td>
+<td style="background-color: #C2D5D9" ><img src="https://via.placeholder.com/40/C2D5D9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sky Blue</td>
@@ -8925,14 +10555,24 @@
 <td style="background-color: #7ACAEB" ><img src="https://via.placeholder.com/40/7ACAEB/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Sky Blue</td>
+<td>70.961</td>
+<td>Model Color</td>
+<td>116</td>
+<td>184</td>
+<td>207</td>
+<td>#74B8CF</td>
+<td style="background-color: #74B8CF" ><img src="https://via.placeholder.com/40/74B8CF/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Sky Grey</td>
 <td>70.989</td>
 <td>Model Color</td>
-<td>165</td>
-<td>166</td>
-<td>168</td>
-<td>#A5A6A8</td>
-<td style="background-color: #A5A6A8" ><img src="https://via.placeholder.com/40/A5A6A8/000000?text=+" /></td>
+<td>170</td>
+<td>171</td>
+<td>173</td>
+<td>#AAABAD</td>
+<td style="background-color: #AAABAD" ><img src="https://via.placeholder.com/40/AAABAD/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sky Type S</td>
@@ -8955,14 +10595,24 @@
 <td style="background-color: #B4B3AE" ><img src="https://via.placeholder.com/40/B4B3AE/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Smoke</td>
+<td>Slimy Grime Dark</td>
+<td>73.822</td>
+<td>Weathering FX</td>
+<td>72</td>
+<td>75</td>
+<td>58</td>
+<td>#484B3A</td>
+<td style="background-color: #484B3A" ><img src="https://via.placeholder.com/40/484B3A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Smoke Ink</td>
 <td>70.939</td>
 <td>Model Color</td>
-<td>70</td>
-<td>65</td>
-<td>59</td>
-<td>#46413B</td>
-<td style="background-color: #46413B" ><img src="https://via.placeholder.com/40/46413B/000000?text=+" /></td>
+<td>92</td>
+<td>72</td>
+<td>71</td>
+<td>#5C4847</td>
+<td style="background-color: #5C4847" ><img src="https://via.placeholder.com/40/5C4847/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Smokey Ink</td>
@@ -8973,6 +10623,26 @@
 <td>50</td>
 <td>#493632</td>
 <td style="background-color: #493632" ><img src="https://via.placeholder.com/40/493632/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Snake Green</td>
+<td>72.417</td>
+<td>Xpress Color</td>
+<td>1</td>
+<td>90</td>
+<td>70</td>
+<td>#015A46</td>
+<td style="background-color: #015A46" ><img src="https://via.placeholder.com/40/015A46/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Snow</td>
+<td>73.820</td>
+<td>Weathering FX</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sombre Grey</td>
@@ -8988,11 +10658,31 @@
 <td>Sombre Grey</td>
 <td>72.048</td>
 <td>Game Color</td>
-<td>96</td>
-<td>107</td>
-<td>127</td>
-<td>#606B7F</td>
-<td style="background-color: #606B7F" ><img src="https://via.placeholder.com/40/606B7F/000000?text=+" /></td>
+<td>83</td>
+<td>93</td>
+<td>105</td>
+<td>#535D69</td>
+<td style="background-color: #535D69" ><img src="https://via.placeholder.com/40/535D69/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sombre Grey</td>
+<td>76.048</td>
+<td>Game Air</td>
+<td>83</td>
+<td>93</td>
+<td>105</td>
+<td>#535D69</td>
+<td style="background-color: #535D69" ><img src="https://via.placeholder.com/40/535D69/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Space Grey</td>
+<td>72.422</td>
+<td>Xpress Color</td>
+<td>45</td>
+<td>90</td>
+<td>93</td>
+<td>#2D5A5D</td>
+<td style="background-color: #2D5A5D" ><img src="https://via.placeholder.com/40/2D5A5D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Spice Pink</td>
@@ -9009,20 +10699,20 @@
 <td>70.346</td>
 <td>Panzer Aces</td>
 <td>1</td>
-<td>97</td>
-<td>59</td>
-<td>#01613B</td>
-<td style="background-color: #01613B" ><img src="https://via.placeholder.com/40/01613B/000000?text=+" /></td>
+<td>99</td>
+<td>60</td>
+<td>#01633C</td>
+<td style="background-color: #01633C" ><img src="https://via.placeholder.com/40/01633C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Splinter Blotches II</td>
 <td>70.347</td>
 <td>Panzer Aces</td>
-<td>63</td>
-<td>44</td>
-<td>40</td>
-<td>#3F2C28</td>
-<td style="background-color: #3F2C28" ><img src="https://via.placeholder.com/40/3F2C28/000000?text=+" /></td>
+<td>60</td>
+<td>43</td>
+<td>36</td>
+<td>#3C2B24</td>
+<td style="background-color: #3C2B24" ><img src="https://via.placeholder.com/40/3C2B24/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Splinter Camouflage Base</td>
@@ -9033,6 +10723,16 @@
 <td>152</td>
 <td>#9D9E98</td>
 <td style="background-color: #9D9E98" ><img src="https://via.placeholder.com/40/9D9E98/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Splinter Green</td>
+<td>70.756</td>
+<td>Model Color</td>
+<td>69</td>
+<td>99</td>
+<td>65</td>
+<td>#456341</td>
+<td style="background-color: #456341" ><img src="https://via.placeholder.com/40/456341/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Splinter Strips</td>
@@ -9068,11 +10768,21 @@
 <td>Squid Pink</td>
 <td>72.013</td>
 <td>Game Color</td>
-<td>209</td>
-<td>138</td>
-<td>182</td>
-<td>#D18AB6</td>
-<td style="background-color: #D18AB6" ><img src="https://via.placeholder.com/40/D18AB6/000000?text=+" /></td>
+<td>199</td>
+<td>120</td>
+<td>165</td>
+<td>#C778A5</td>
+<td style="background-color: #C778A5" ><img src="https://via.placeholder.com/40/C778A5/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Squid Pink</td>
+<td>76.013</td>
+<td>Game Air</td>
+<td>199</td>
+<td>120</td>
+<td>165</td>
+<td>#C778A5</td>
+<td style="background-color: #C778A5" ><img src="https://via.placeholder.com/40/C778A5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Squid Pink</td>
@@ -9083,6 +10793,16 @@
 <td>184</td>
 <td>#DA88B8</td>
 <td style="background-color: #DA88B8" ><img src="https://via.placeholder.com/40/DA88B8/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Starship Steel</td>
+<td>72.462</td>
+<td>Xpress Color</td>
+<td>81</td>
+<td>115</td>
+<td>117</td>
+<td>#517375</td>
+<td style="background-color: #517375" ><img src="https://via.placeholder.com/40/517375/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Steel</td>
@@ -9096,23 +10816,23 @@
 </tr>
 <tr>
 <td>Steel</td>
-<td>77.712</td>
-<td>Metal Color</td>
-<td>171</td>
-<td>170</td>
-<td>168</td>
-<td>#ABAAA8</td>
-<td style="background-color: #ABAAA8" ><img src="https://via.placeholder.com/40/ABAAA8/000000?text=+" /></td>
+<td>62.051</td>
+<td>Premium Airbrush Color</td>
+<td>223</td>
+<td>223</td>
+<td>223</td>
+<td>#DFDFDF</td>
+<td style="background-color: #DFDFDF" ><img src="https://via.placeholder.com/40/DFDFDF/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Steel</td>
-<td>62.051</td>
-<td>Premium Airbrush Color</td>
-<td>213</td>
-<td>212</td>
-<td>218</td>
-<td>#D5D4DA</td>
-<td style="background-color: #D5D4DA" ><img src="https://via.placeholder.com/40/D5D4DA/000000?text=+" /></td>
+<td>77.712</td>
+<td>Metal Color</td>
+<td>117</td>
+<td>117</td>
+<td>115</td>
+<td>#757573</td>
+<td style="background-color: #757573" ><img src="https://via.placeholder.com/40/757573/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Steel (Metallic)</td>
@@ -9136,13 +10856,23 @@
 </tr>
 <tr>
 <td>Steel Grey</td>
+<td>70.630</td>
+<td>Surface Primer</td>
+<td>116</td>
+<td>133</td>
+<td>140</td>
+<td>#74858C</td>
+<td style="background-color: #74858C" ><img src="https://via.placeholder.com/40/74858C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Steel Grey</td>
 <td>72.102</td>
 <td>Game Color</td>
-<td>114</td>
-<td>143</td>
-<td>161</td>
-<td>#728FA1</td>
-<td style="background-color: #728FA1" ><img src="https://via.placeholder.com/40/728FA1/000000?text=+" /></td>
+<td>123</td>
+<td>146</td>
+<td>162</td>
+<td>#7B92A2</td>
+<td style="background-color: #7B92A2" ><img src="https://via.placeholder.com/40/7B92A2/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Stencil</td>
@@ -9156,6 +10886,16 @@
 </tr>
 <tr>
 <td>Stone Grey</td>
+<td>70.884</td>
+<td>Model Color</td>
+<td>140</td>
+<td>124</td>
+<td>99</td>
+<td>#8C7C63</td>
+<td style="background-color: #8C7C63" ><img src="https://via.placeholder.com/40/8C7C63/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Stone Grey</td>
 <td>69.024</td>
 <td>Mecha Color</td>
 <td>161</td>
@@ -9163,16 +10903,6 @@
 <td>177</td>
 <td>#A1B1B1</td>
 <td style="background-color: #A1B1B1" ><img src="https://via.placeholder.com/40/A1B1B1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Stone Grey</td>
-<td>70.884</td>
-<td>Model Color</td>
-<td>160</td>
-<td>152</td>
-<td>131</td>
-<td>#A09883</td>
-<td style="background-color: #A09883" ><img src="https://via.placeholder.com/40/A09883/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Stone Wall Grey</td>
@@ -9185,14 +10915,34 @@
 <td style="background-color: #A1A2A4" ><img src="https://via.placeholder.com/40/A1A2A4/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Stone Wall Grey</td>
+<td>Stonewall Grey</td>
 <td>72.049</td>
 <td>Game Color</td>
-<td>159</td>
-<td>159</td>
-<td>159</td>
-<td>#9F9F9F</td>
-<td style="background-color: #9F9F9F" ><img src="https://via.placeholder.com/40/9F9F9F/000000?text=+" /></td>
+<td>156</td>
+<td>147</td>
+<td>132</td>
+<td>#9C9384</td>
+<td style="background-color: #9C9384" ><img src="https://via.placeholder.com/40/9C9384/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Stonewall Grey</td>
+<td>76.049</td>
+<td>Game Air</td>
+<td>156</td>
+<td>147</td>
+<td>132</td>
+<td>#9C9384</td>
+<td style="background-color: #9C9384" ><img src="https://via.placeholder.com/40/9C9384/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Storm Blue</td>
+<td>72.412</td>
+<td>Xpress Color</td>
+<td>48</td>
+<td>58</td>
+<td>127</td>
+<td>#303A7F</td>
+<td style="background-color: #303A7F" ><img src="https://via.placeholder.com/40/303A7F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Stormy Blue</td>
@@ -9203,6 +10953,16 @@
 <td>87</td>
 <td>#413F57</td>
 <td style="background-color: #413F57" ><img src="https://via.placeholder.com/40/413F57/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Succubus Skin</td>
+<td>72.108</td>
+<td>Game Color</td>
+<td>147</td>
+<td>61</td>
+<td>70</td>
+<td>#933D46</td>
+<td style="background-color: #933D46" ><img src="https://via.placeholder.com/40/933D46/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sun Yellow</td>
@@ -9219,40 +10979,80 @@
 <td>28.018</td>
 <td>Hobby Paint</td>
 <td>245</td>
-<td>158</td>
-<td>1</td>
-<td>#F59E01</td>
-<td style="background-color: #F59E01" ><img src="https://via.placeholder.com/40/F59E01/000000?text=+" /></td>
+<td>156</td>
+<td>0</td>
+<td>#F59C00</td>
+<td style="background-color: #F59C00" ><img src="https://via.placeholder.com/40/F59C00/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sun Yellow</td>
 <td>72.006</td>
 <td>Game Color</td>
-<td>254</td>
-<td>227</td>
+<td>246</td>
+<td>163</td>
 <td>0</td>
-<td>#FEE300</td>
-<td style="background-color: #FEE300" ><img src="https://via.placeholder.com/40/FEE300/000000?text=+" /></td>
+<td>#F6A300</td>
+<td style="background-color: #F6A300" ><img src="https://via.placeholder.com/40/F6A300/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sun Yellow</td>
+<td>76.006</td>
+<td>Game Air</td>
+<td>246</td>
+<td>163</td>
+<td>0</td>
+<td>#F6A300</td>
+<td style="background-color: #F6A300" ><img src="https://via.placeholder.com/40/F6A300/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sunny Skin Tone</td>
 <td>70.845</td>
 <td>Model Color</td>
-<td>234</td>
-<td>175</td>
-<td>119</td>
-<td>#EAAF77</td>
-<td style="background-color: #EAAF77" ><img src="https://via.placeholder.com/40/EAAF77/000000?text=+" /></td>
+<td>237</td>
+<td>150</td>
+<td>70</td>
+<td>#ED9646</td>
+<td style="background-color: #ED9646" ><img src="https://via.placeholder.com/40/ED9646/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sunrise Blue</td>
+<td>72.118</td>
+<td>Game Color</td>
+<td>115</td>
+<td>201</td>
+<td>236</td>
+<td>#73C9EC</td>
+<td style="background-color: #73C9EC" ><img src="https://via.placeholder.com/40/73C9EC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sunrise Blue</td>
+<td>76.118</td>
+<td>Game Air</td>
+<td>115</td>
+<td>201</td>
+<td>236</td>
+<td>#73C9EC</td>
+<td style="background-color: #73C9EC" ><img src="https://via.placeholder.com/40/73C9EC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Sunset Orange</td>
+<td>72.110</td>
+<td>Game Color</td>
+<td>244</td>
+<td>151</td>
+<td>58</td>
+<td>#F4973A</td>
+<td style="background-color: #F4973A" ><img src="https://via.placeholder.com/40/F4973A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sunset Red</td>
 <td>70.802</td>
 <td>Model Color</td>
-<td>190</td>
-<td>57</td>
-<td>100</td>
-<td>#BE3964</td>
-<td style="background-color: #BE3964" ><img src="https://via.placeholder.com/40/BE3964/000000?text=+" /></td>
+<td>192</td>
+<td>43</td>
+<td>73</td>
+<td>#C02B49</td>
+<td style="background-color: #C02B49" ><img src="https://via.placeholder.com/40/C02B49/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Sz Red</td>
@@ -9278,21 +11078,21 @@
 <td>Tan</td>
 <td>72.066</td>
 <td>Game Color</td>
-<td>168</td>
-<td>89</td>
-<td>74</td>
-<td>#A8594A</td>
-<td style="background-color: #A8594A" ><img src="https://via.placeholder.com/40/A8594A/000000?text=+" /></td>
+<td>149</td>
+<td>96</td>
+<td>78</td>
+<td>#95604E</td>
+<td style="background-color: #95604E" ><img src="https://via.placeholder.com/40/95604E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Tan Earth</td>
 <td>70.874</td>
 <td>Model Color</td>
-<td>146</td>
+<td>153</td>
 <td>116</td>
-<td>90</td>
-<td>#92745A</td>
-<td style="background-color: #92745A" ><img src="https://via.placeholder.com/40/92745A/000000?text=+" /></td>
+<td>87</td>
+<td>#997457</td>
+<td style="background-color: #997457" ><img src="https://via.placeholder.com/40/997457/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Tan Earth</td>
@@ -9335,6 +11135,16 @@
 <td style="background-color: #FB7129" ><img src="https://via.placeholder.com/40/FB7129/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Tanned Skin</td>
+<td>72.471</td>
+<td>Xpress Color</td>
+<td>129</td>
+<td>69</td>
+<td>45</td>
+<td>#81452D</td>
+<td style="background-color: #81452D" ><img src="https://via.placeholder.com/40/81452D/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Taupe</td>
 <td>85.105</td>
 <td>Arte Deco</td>
@@ -9353,6 +11163,16 @@
 <td>109</td>
 <td>#457E6D</td>
 <td style="background-color: #457E6D" ><img src="https://via.placeholder.com/40/457E6D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Templar White</td>
+<td>72.401</td>
+<td>Xpress Color</td>
+<td>204</td>
+<td>206</td>
+<td>205</td>
+<td>#CCCECD</td>
+<td style="background-color: #CCCECD" ><img src="https://via.placeholder.com/40/CCCECD/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Terracotta</td>
@@ -9375,14 +11195,24 @@
 <td style="background-color: #ECECEC" ><img src="https://via.placeholder.com/40/ECECEC/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Thick Blood</td>
+<td>72.602</td>
+<td>Game Color Special FX</td>
+<td>149</td>
+<td>78</td>
+<td>67</td>
+<td>#954E43</td>
+<td style="background-color: #954E43" ><img src="https://via.placeholder.com/40/954E43/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Tinny Tin</td>
 <td>72.060</td>
 <td>Game Color</td>
-<td>80</td>
-<td>46</td>
-<td>47</td>
-<td>#502E2F</td>
-<td style="background-color: #502E2F" ><img src="https://via.placeholder.com/40/502E2F/000000?text=+" /></td>
+<td>213</td>
+<td>199</td>
+<td>198</td>
+<td>#D5C7C6</td>
+<td style="background-color: #D5C7C6" ><img src="https://via.placeholder.com/40/D5C7C6/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Tire Black</td>
@@ -9409,10 +11239,10 @@
 <td>69.022</td>
 <td>Mecha Color</td>
 <td>65</td>
-<td>70</td>
-<td>76</td>
-<td>#41464C</td>
-<td style="background-color: #41464C" ><img src="https://via.placeholder.com/40/41464C/000000?text=+" /></td>
+<td>69</td>
+<td>78</td>
+<td>#41454E</td>
+<td style="background-color: #41454E" ><img src="https://via.placeholder.com/40/41454E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Toffee</td>
@@ -9423,6 +11253,26 @@
 <td>177</td>
 <td>#FAD1B1</td>
 <td style="background-color: #FAD1B1" ><img src="https://via.placeholder.com/40/FAD1B1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Toxic Yellow</td>
+<td>76.109</td>
+<td>Game Air</td>
+<td>232</td>
+<td>212</td>
+<td>87</td>
+<td>#E8D457</td>
+<td style="background-color: #E8D457" ><img src="https://via.placeholder.com/40/E8D457/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Toxic Yellow</td>
+<td>72.109</td>
+<td>Game Color</td>
+<td>232</td>
+<td>212</td>
+<td>87</td>
+<td>#E8D457</td>
+<td style="background-color: #E8D457" ><img src="https://via.placeholder.com/40/E8D457/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Track Primer</td>
@@ -9485,6 +11335,16 @@
 <td style="background-color: #F7A501" ><img src="https://via.placeholder.com/40/F7A501/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Troll Green</td>
+<td>72.416</td>
+<td>Xpress Color</td>
+<td>1</td>
+<td>94</td>
+<td>50</td>
+<td>#015E32</td>
+<td style="background-color: #015E32" ><img src="https://via.placeholder.com/40/015E32/000000?text=+" /></td>
+</tr>
+<tr>
 <td>True Blue</td>
 <td>85.058</td>
 <td>Arte Deco</td>
@@ -9516,13 +11376,13 @@
 </tr>
 <tr>
 <td>Turquoise</td>
-<td>72.024</td>
-<td>Game Color</td>
-<td>0</td>
-<td>127</td>
-<td>142</td>
-<td>#007F8E</td>
-<td style="background-color: #007F8E" ><img src="https://via.placeholder.com/40/007F8E/000000?text=+" /></td>
+<td>70.966</td>
+<td>Model Color</td>
+<td>12</td>
+<td>66</td>
+<td>90</td>
+<td>#0C425A</td>
+<td style="background-color: #0C425A" ><img src="https://via.placeholder.com/40/0C425A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Turquoise</td>
@@ -9536,16 +11396,6 @@
 </tr>
 <tr>
 <td>Turquoise</td>
-<td>70.966</td>
-<td>Model Color</td>
-<td>46</td>
-<td>108</td>
-<td>123</td>
-<td>#2E6C7B</td>
-<td style="background-color: #2E6C7B" ><img src="https://via.placeholder.com/40/2E6C7B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise</td>
 <td>69.023</td>
 <td>Mecha Color</td>
 <td>0</td>
@@ -9553,6 +11403,36 @@
 <td>159</td>
 <td>#009B9F</td>
 <td style="background-color: #009B9F" ><img src="https://via.placeholder.com/40/009B9F/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Turquoise</td>
+<td>72.024</td>
+<td>Game Color</td>
+<td>1</td>
+<td>97</td>
+<td>96</td>
+<td>#016160</td>
+<td style="background-color: #016160" ><img src="https://via.placeholder.com/40/016160/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Turquoise</td>
+<td>76.024</td>
+<td>Game Air</td>
+<td>1</td>
+<td>97</td>
+<td>96</td>
+<td>#016160</td>
+<td style="background-color: #016160" ><img src="https://via.placeholder.com/40/016160/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Twilight Rose</td>
+<td>72.460</td>
+<td>Xpress Color</td>
+<td>119</td>
+<td>71</td>
+<td>85</td>
+<td>#774755</td>
+<td style="background-color: #774755" ><img src="https://via.placeholder.com/40/774755/000000?text=+" /></td>
 </tr>
 <tr>
 <td>UK Azure Blue</td>
@@ -9566,43 +11446,43 @@
 </tr>
 <tr>
 <td>UK Bronze Green</td>
-<td>70.607</td>
-<td>Surface Primer</td>
-<td>62</td>
-<td>64</td>
-<td>63</td>
-<td>#3E403F</td>
-<td style="background-color: #3E403F" ><img src="https://via.placeholder.com/40/3E403F/000000?text=+" /></td>
+<td>28.004</td>
+<td>Hobby Paint</td>
+<td>83</td>
+<td>85</td>
+<td>84</td>
+<td>#535554</td>
+<td style="background-color: #535554" ><img src="https://via.placeholder.com/40/535554/000000?text=+" /></td>
 </tr>
 <tr>
 <td>UK Bronze Green</td>
-<td>28.004</td>
-<td>Hobby Paint</td>
-<td>86</td>
-<td>86</td>
-<td>86</td>
-<td>#565656</td>
-<td style="background-color: #565656" ><img src="https://via.placeholder.com/40/565656/000000?text=+" /></td>
+<td>70.607</td>
+<td>Surface Primer</td>
+<td>60</td>
+<td>62</td>
+<td>61</td>
+<td>#3C3E3D</td>
+<td style="background-color: #3C3E3D" ><img src="https://via.placeholder.com/40/3C3E3D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>UK Light Mud</td>
 <td>71.284</td>
 <td>Model Air</td>
-<td>134</td>
-<td>129</td>
+<td>135</td>
+<td>128</td>
 <td>110</td>
-<td>#86816E</td>
-<td style="background-color: #86816E" ><img src="https://via.placeholder.com/40/86816E/000000?text=+" /></td>
+<td>#87806E</td>
+<td style="background-color: #87806E" ><img src="https://via.placeholder.com/40/87806E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>UK Light Stone</td>
 <td>71.143</td>
 <td>Model Air</td>
-<td>180</td>
-<td>154</td>
+<td>178</td>
+<td>155</td>
 <td>105</td>
-<td>#B49A69</td>
-<td style="background-color: #B49A69" ><img src="https://via.placeholder.com/40/B49A69/000000?text=+" /></td>
+<td>#B29B69</td>
+<td style="background-color: #B29B69" ><img src="https://via.placeholder.com/40/B29B69/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Army Tank Crew</td>
@@ -9615,14 +11495,24 @@
 <td style="background-color: #79684E" ><img src="https://via.placeholder.com/40/79684E/000000?text=+" /></td>
 </tr>
 <tr>
+<td>US Army Tank Crew Highlights</td>
+<td>70.322</td>
+<td>Panzer Aces</td>
+<td>169</td>
+<td>154</td>
+<td>133</td>
+<td>#A99A85</td>
+<td style="background-color: #A99A85" ><img src="https://via.placeholder.com/40/A99A85/000000?text=+" /></td>
+</tr>
+<tr>
 <td>US Dark Green</td>
 <td>70.893</td>
 <td>Model Color</td>
-<td>87</td>
-<td>87</td>
-<td>77</td>
-<td>#57574D</td>
-<td style="background-color: #57574D" ><img src="https://via.placeholder.com/40/57574D/000000?text=+" /></td>
+<td>73</td>
+<td>75</td>
+<td>54</td>
+<td>#494B36</td>
+<td style="background-color: #494B36" ><img src="https://via.placeholder.com/40/494B36/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Dark Green</td>
@@ -9670,9 +11560,9 @@
 <td>Model Air</td>
 <td>123</td>
 <td>96</td>
-<td>77</td>
-<td>#7B604D</td>
-<td style="background-color: #7B604D" ><img src="https://via.placeholder.com/40/7B604D/000000?text=+" /></td>
+<td>79</td>
+<td>#7B604F</td>
+<td style="background-color: #7B604F" ><img src="https://via.placeholder.com/40/7B604F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Earth Yellow</td>
@@ -9686,16 +11576,6 @@
 </tr>
 <tr>
 <td>US Field Drab</td>
-<td>70.873</td>
-<td>Model Color</td>
-<td>123</td>
-<td>103</td>
-<td>78</td>
-<td>#7B674E</td>
-<td style="background-color: #7B674E" ><img src="https://via.placeholder.com/40/7B674E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>US Field Drab</td>
 <td>71.139</td>
 <td>Model Air</td>
 <td>105</td>
@@ -9705,14 +11585,24 @@
 <td style="background-color: #695940" ><img src="https://via.placeholder.com/40/695940/000000?text=+" /></td>
 </tr>
 <tr>
+<td>US Field Drab</td>
+<td>70.873</td>
+<td>Model Color</td>
+<td>130</td>
+<td>101</td>
+<td>69</td>
+<td>#826545</td>
+<td style="background-color: #826545" ><img src="https://via.placeholder.com/40/826545/000000?text=+" /></td>
+</tr>
+<tr>
 <td>US Flat Brown</td>
 <td>71.026</td>
 <td>Model Air</td>
 <td>142</td>
 <td>106</td>
-<td>72</td>
-<td>#8E6A48</td>
-<td style="background-color: #8E6A48" ><img src="https://via.placeholder.com/40/8E6A48/000000?text=+" /></td>
+<td>74</td>
+<td>#8E6A4A</td>
+<td style="background-color: #8E6A4A" ><img src="https://via.placeholder.com/40/8E6A4A/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Forest Green</td>
@@ -9720,9 +11610,9 @@
 <td>Model Air</td>
 <td>84</td>
 <td>84</td>
-<td>74</td>
-<td>#54544A</td>
-<td style="background-color: #54544A" ><img src="https://via.placeholder.com/40/54544A/000000?text=+" /></td>
+<td>76</td>
+<td>#54544C</td>
+<td style="background-color: #54544C" ><img src="https://via.placeholder.com/40/54544C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Interior Yellow</td>
@@ -9738,21 +11628,21 @@
 <td>US Khaki</td>
 <td>28.009</td>
 <td>Hobby Paint</td>
-<td>137</td>
-<td>121</td>
-<td>96</td>
-<td>#897960</td>
-<td style="background-color: #897960" ><img src="https://via.placeholder.com/40/897960/000000?text=+" /></td>
+<td>134</td>
+<td>120</td>
+<td>94</td>
+<td>#86785E</td>
+<td style="background-color: #86785E" ><img src="https://via.placeholder.com/40/86785E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Light Green</td>
 <td>71.137</td>
 <td>Model Air</td>
-<td>102</td>
-<td>100</td>
+<td>103</td>
+<td>99</td>
 <td>62</td>
-<td>#66643E</td>
-<td style="background-color: #66643E" ><img src="https://via.placeholder.com/40/66643E/000000?text=+" /></td>
+<td>#67633E</td>
+<td style="background-color: #67633E" ><img src="https://via.placeholder.com/40/67633E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Loam</td>
@@ -9766,26 +11656,6 @@
 </tr>
 <tr>
 <td>US Olive Drab</td>
-<td>70.887</td>
-<td>Model Color</td>
-<td>95</td>
-<td>90</td>
-<td>71</td>
-<td>#5F5A47</td>
-<td style="background-color: #5F5A47" ><img src="https://via.placeholder.com/40/5F5A47/000000?text=+" /></td>
-</tr>
-<tr>
-<td>US Olive Drab</td>
-<td>28.005</td>
-<td>Hobby Paint</td>
-<td>101</td>
-<td>92</td>
-<td>75</td>
-<td>#655C4B</td>
-<td style="background-color: #655C4B" ><img src="https://via.placeholder.com/40/655C4B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>US Olive Drab</td>
 <td>71.043</td>
 <td>Model Air</td>
 <td>89</td>
@@ -9793,6 +11663,26 @@
 <td>67</td>
 <td>#594F43</td>
 <td style="background-color: #594F43" ><img src="https://via.placeholder.com/40/594F43/000000?text=+" /></td>
+</tr>
+<tr>
+<td>US Olive Drab</td>
+<td>28.005</td>
+<td>Hobby Paint</td>
+<td>99</td>
+<td>92</td>
+<td>76</td>
+<td>#635C4C</td>
+<td style="background-color: #635C4C" ><img src="https://via.placeholder.com/40/635C4C/000000?text=+" /></td>
+</tr>
+<tr>
+<td>US Olive Drab</td>
+<td>70.887</td>
+<td>Model Color</td>
+<td>89</td>
+<td>81</td>
+<td>60</td>
+<td>#59513C</td>
+<td style="background-color: #59513C" ><img src="https://via.placeholder.com/40/59513C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>US Sand</td>
@@ -9805,24 +11695,14 @@
 <td style="background-color: #96866D" ><img src="https://via.placeholder.com/40/96866D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>US Tank Crew Highlights</td>
-<td>70.322</td>
-<td>Panzer Aces</td>
-<td>170</td>
-<td>154</td>
-<td>129</td>
-<td>#AA9A81</td>
-<td style="background-color: #AA9A81" ><img src="https://via.placeholder.com/40/AA9A81/000000?text=+" /></td>
-</tr>
-<tr>
 <td>USA Olive Drab</td>
 <td>70.608</td>
 <td>Surface Primer</td>
-<td>102</td>
-<td>97</td>
-<td>78</td>
-<td>#66614E</td>
-<td style="background-color: #66614E" ><img src="https://via.placeholder.com/40/66614E/000000?text=+" /></td>
+<td>100</td>
+<td>93</td>
+<td>83</td>
+<td>#645D53</td>
+<td style="background-color: #645D53" ><img src="https://via.placeholder.com/40/645D53/000000?text=+" /></td>
 </tr>
 <tr>
 <td>USAAF Light Gray</td>
@@ -9830,9 +11710,9 @@
 <td>Model Air</td>
 <td>188</td>
 <td>188</td>
-<td>178</td>
-<td>#BCBCB2</td>
-<td style="background-color: #BCBCB2" ><img src="https://via.placeholder.com/40/BCBCB2/000000?text=+" /></td>
+<td>180</td>
+<td>#BCBCB4</td>
+<td style="background-color: #BCBCB4" ><img src="https://via.placeholder.com/40/BCBCB4/000000?text=+" /></td>
 </tr>
 <tr>
 <td>USAF Brown</td>
@@ -9918,21 +11798,21 @@
 <td>USMC Tank Crew Highlights</td>
 <td>70.323</td>
 <td>Panzer Aces</td>
-<td>163</td>
-<td>179</td>
-<td>166</td>
-<td>#A3B3A6</td>
-<td style="background-color: #A3B3A6" ><img src="https://via.placeholder.com/40/A3B3A6/000000?text=+" /></td>
+<td>164</td>
+<td>178</td>
+<td>165</td>
+<td>#A4B2A5</td>
+<td style="background-color: #A4B2A5" ><img src="https://via.placeholder.com/40/A4B2A5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>USN Light Ghost Grey</td>
 <td>70.615</td>
 <td>Surface Primer</td>
-<td>155</td>
-<td>162</td>
-<td>172</td>
-<td>#9BA2AC</td>
-<td style="background-color: #9BA2AC" ><img src="https://via.placeholder.com/40/9BA2AC/000000?text=+" /></td>
+<td>146</td>
+<td>153</td>
+<td>159</td>
+<td>#92999F</td>
+<td style="background-color: #92999F" ><img src="https://via.placeholder.com/40/92999F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>USN Sea Blue</td>
@@ -9950,9 +11830,9 @@
 <td>Model Air</td>
 <td>204</td>
 <td>189</td>
-<td>148</td>
-<td>#CCBD94</td>
-<td style="background-color: #CCBD94" ><img src="https://via.placeholder.com/40/CCBD94/000000?text=+" /></td>
+<td>150</td>
+<td>#CCBD96</td>
+<td style="background-color: #CCBD96" ><img src="https://via.placeholder.com/40/CCBD96/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ultra Blue Deep</td>
@@ -9978,21 +11858,41 @@
 <td>Ultramarine</td>
 <td>70.625</td>
 <td>Surface Primer</td>
-<td>85</td>
-<td>100</td>
-<td>159</td>
-<td>#55649F</td>
-<td style="background-color: #55649F" ><img src="https://via.placeholder.com/40/55649F/000000?text=+" /></td>
+<td>51</td>
+<td>54</td>
+<td>87</td>
+<td>#333657</td>
+<td style="background-color: #333657" ><img src="https://via.placeholder.com/40/333657/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ultramarine Blue</td>
+<td>76.022</td>
+<td>Game Air</td>
+<td>56</td>
+<td>57</td>
+<td>103</td>
+<td>#383967</td>
+<td style="background-color: #383967" ><img src="https://via.placeholder.com/40/383967/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ultramarine Blue</td>
 <td>72.022</td>
 <td>Game Color</td>
-<td>29</td>
-<td>84</td>
-<td>138</td>
-<td>#1D548A</td>
-<td style="background-color: #1D548A" ><img src="https://via.placeholder.com/40/1D548A/000000?text=+" /></td>
+<td>56</td>
+<td>57</td>
+<td>103</td>
+<td>#383967</td>
+<td style="background-color: #383967" ><img src="https://via.placeholder.com/40/383967/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Ultramarine Blue</td>
+<td>28.017</td>
+<td>Hobby Paint</td>
+<td>76</td>
+<td>89</td>
+<td>144</td>
+<td>#4C5990</td>
+<td style="background-color: #4C5990" ><img src="https://via.placeholder.com/40/4C5990/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Ultramarine Blue</td>
@@ -10005,16 +11905,6 @@
 <td style="background-color: #1D548A" ><img src="https://via.placeholder.com/40/1D548A/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Ultramarine Blue</td>
-<td>28.017</td>
-<td>Hobby Paint</td>
-<td>80</td>
-<td>91</td>
-<td>147</td>
-<td>#505B93</td>
-<td style="background-color: #505B93" ><img src="https://via.placeholder.com/40/505B93/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Umber Wash</td>
 <td>73.203</td>
 <td>Game Color Wash</td>
@@ -10025,7 +11915,7 @@
 <td style="background-color: #766053" ><img src="https://via.placeholder.com/40/766053/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Underside Blue (Faded)</td>
+<td>Underside Blue “Faded”</td>
 <td>71.332</td>
 <td>Model Air</td>
 <td>196</td>
@@ -10048,21 +11938,31 @@
 <td>Uniform Green</td>
 <td>70.922</td>
 <td>Model Color</td>
-<td>90</td>
-<td>106</td>
-<td>70</td>
-<td>#5A6A46</td>
-<td style="background-color: #5A6A46" ><img src="https://via.placeholder.com/40/5A6A46/000000?text=+" /></td>
+<td>75</td>
+<td>82</td>
+<td>48</td>
+<td>#4B5230</td>
+<td style="background-color: #4B5230" ><img src="https://via.placeholder.com/40/4B5230/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Verdigris</td>
-<td>72.096</td>
-<td>Game Color</td>
-<td>169</td>
-<td>215</td>
-<td>212</td>
-<td>#A9D7D4</td>
-<td style="background-color: #A9D7D4" ><img src="https://via.placeholder.com/40/A9D7D4/000000?text=+" /></td>
+<td>Vampiric Purple</td>
+<td>72.461</td>
+<td>Xpress Color</td>
+<td>73</td>
+<td>40</td>
+<td>87</td>
+<td>#492857</td>
+<td style="background-color: #492857" ><img src="https://via.placeholder.com/40/492857/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Velvet Red</td>
+<td>72.407</td>
+<td>Xpress Color</td>
+<td>129</td>
+<td>40</td>
+<td>46</td>
+<td>#81282E</td>
+<td style="background-color: #81282E" ><img src="https://via.placeholder.com/40/81282E/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Verdigris</td>
@@ -10073,6 +11973,16 @@
 <td>204</td>
 <td>#91CBCC</td>
 <td style="background-color: #91CBCC" ><img src="https://via.placeholder.com/40/91CBCC/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Verdigris</td>
+<td>72.096</td>
+<td>Game Color</td>
+<td>134</td>
+<td>199</td>
+<td>169</td>
+<td>#86C7A9</td>
+<td style="background-color: #86C7A9" ><img src="https://via.placeholder.com/40/86C7A9/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Verdigris Glaze</td>
@@ -10088,11 +11998,11 @@
 <td>Vermilion</td>
 <td>70.909</td>
 <td>Model Color</td>
-<td>206</td>
-<td>26</td>
-<td>35</td>
-<td>#CE1A23</td>
-<td style="background-color: #CE1A23" ><img src="https://via.placeholder.com/40/CE1A23/000000?text=+" /></td>
+<td>196</td>
+<td>42</td>
+<td>40</td>
+<td>#C42A28</td>
+<td style="background-color: #C42A28" ><img src="https://via.placeholder.com/40/C42A28/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Victorian Blue</td>
@@ -10105,44 +12015,74 @@
 <td style="background-color: #35578D" ><img src="https://via.placeholder.com/40/35578D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Violet</td>
-<td>72.087</td>
-<td>Game Color</td>
-<td>104</td>
-<td>46</td>
-<td>133</td>
-<td>#682E85</td>
-<td style="background-color: #682E85" ><img src="https://via.placeholder.com/40/682E85/000000?text=+" /></td>
+<td>Viking Grey</td>
+<td>72.483</td>
+<td>Xpress Color Intense</td>
+<td>69</td>
+<td>81</td>
+<td>93</td>
+<td>#45515D</td>
+<td style="background-color: #45515D" ><img src="https://via.placeholder.com/40/45515D/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Violet</td>
-<td>70.960</td>
-<td>Model Color</td>
+<td>Viking Grey</td>
+<td>72.483</td>
+<td>Xpress Color Intense</td>
+<td>55</td>
 <td>72</td>
-<td>64</td>
-<td>105</td>
-<td>#484069</td>
-<td style="background-color: #484069" ><img src="https://via.placeholder.com/40/484069/000000?text=+" /></td>
+<td>85</td>
+<td>#374855</td>
+<td style="background-color: #374855" ><img src="https://via.placeholder.com/40/374855/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Violet</td>
 <td>62.008</td>
 <td>Premium Airbrush Color</td>
-<td>82</td>
-<td>65</td>
+<td>83</td>
+<td>64</td>
 <td>120</td>
-<td>#524178</td>
-<td style="background-color: #524178" ><img src="https://via.placeholder.com/40/524178/000000?text=+" /></td>
+<td>#534078</td>
+<td style="background-color: #534078" ><img src="https://via.placeholder.com/40/534078/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Violet</td>
+<td>70.960</td>
+<td>Model Color</td>
+<td>60</td>
+<td>44</td>
+<td>73</td>
+<td>#3C2C49</td>
+<td style="background-color: #3C2C49" ><img src="https://via.placeholder.com/40/3C2C49/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Violet</td>
+<td>72.087</td>
+<td>Game Color</td>
+<td>110</td>
+<td>61</td>
+<td>116</td>
+<td>#6E3D74</td>
+<td style="background-color: #6E3D74" ><img src="https://via.placeholder.com/40/6E3D74/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Violet Grey</td>
+<td>70.773</td>
+<td>Model Color</td>
+<td>90</td>
+<td>89</td>
+<td>87</td>
+<td>#5A5957</td>
+<td style="background-color: #5A5957" ><img src="https://via.placeholder.com/40/5A5957/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Violet Red</td>
 <td>70.812</td>
 <td>Model Color</td>
-<td>110</td>
-<td>38</td>
-<td>62</td>
-<td>#6E263E</td>
-<td style="background-color: #6E263E" ><img src="https://via.placeholder.com/40/6E263E/000000?text=+" /></td>
+<td>100</td>
+<td>53</td>
+<td>63</td>
+<td>#64353F</td>
+<td style="background-color: #64353F" ><img src="https://via.placeholder.com/40/64353F/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Violet Vamp</td>
@@ -10153,6 +12093,16 @@
 <td>122</td>
 <td>#5E4D7A</td>
 <td style="background-color: #5E4D7A" ><img src="https://via.placeholder.com/40/5E4D7A/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Violeta Wash</td>
+<td>73.209</td>
+<td>Game Color</td>
+<td>136</td>
+<td>108</td>
+<td>167</td>
+<td>#886CA7</td>
+<td style="background-color: #886CA7" ><img src="https://via.placeholder.com/40/886CA7/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Viridian Green</td>
@@ -10166,6 +12116,16 @@
 </tr>
 <tr>
 <td>Vomit</td>
+<td>72.600</td>
+<td>Game Color Special FX</td>
+<td>250</td>
+<td>172</td>
+<td>66</td>
+<td>#FAAC42</td>
+<td style="background-color: #FAAC42" ><img src="https://via.placeholder.com/40/FAAC42/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Vomit</td>
 <td>72.134</td>
 <td>Game Color</td>
 <td>132</td>
@@ -10173,6 +12133,16 @@
 <td>51</td>
 <td>#847C33</td>
 <td style="background-color: #847C33" ><img src="https://via.placeholder.com/40/847C33/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Wagram Blue</td>
+<td>72.464</td>
+<td>Xpress Color</td>
+<td>1</td>
+<td>68</td>
+<td>97</td>
+<td>#014461</td>
+<td style="background-color: #014461" ><img src="https://via.placeholder.com/40/014461/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Warlord Purple</td>
@@ -10186,13 +12156,33 @@
 </tr>
 <tr>
 <td>Warlord Purple</td>
+<td>76.014</td>
+<td>Game Air</td>
+<td>132</td>
+<td>30</td>
+<td>77</td>
+<td>#841E4D</td>
+<td style="background-color: #841E4D" ><img src="https://via.placeholder.com/40/841E4D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Warlord Purple</td>
 <td>72.014</td>
 <td>Game Color</td>
 <td>134</td>
-<td>34</td>
-<td>70</td>
-<td>#862246</td>
-<td style="background-color: #862246" ><img src="https://via.placeholder.com/40/862246/000000?text=+" /></td>
+<td>35</td>
+<td>81</td>
+<td>#862351</td>
+<td style="background-color: #862351" ><img src="https://via.placeholder.com/40/862351/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Warm Grey</td>
+<td>72.148</td>
+<td>Game Color</td>
+<td>178</td>
+<td>158</td>
+<td>157</td>
+<td>#B29E9D</td>
+<td style="background-color: #B29E9D" ><img src="https://via.placeholder.com/40/B29E9D/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Warm Neutral Tone</td>
@@ -10205,6 +12195,16 @@
 <td style="background-color: #F39C81" ><img src="https://via.placeholder.com/40/F39C81/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Wasteland Brown</td>
+<td>72.420</td>
+<td>Xpress Color</td>
+<td>104</td>
+<td>69</td>
+<td>39</td>
+<td>#684527</td>
+<td style="background-color: #684527" ><img src="https://via.placeholder.com/40/684527/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Wedgewood Blue</td>
 <td>85.065</td>
 <td>Arte Deco</td>
@@ -10215,9 +12215,19 @@
 <td style="background-color: #324C65" ><img src="https://via.placeholder.com/40/324C65/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Wet Effects</td>
+<td>73.828</td>
+<td>Weathering FX</td>
+<td>189</td>
+<td>186</td>
+<td>167</td>
+<td>#BDBAA7</td>
+<td style="background-color: #BDBAA7" ><img src="https://via.placeholder.com/40/BDBAA7/000000?text=+" /></td>
+</tr>
+<tr>
 <td>White</td>
-<td>76.501</td>
-<td>Model Wash</td>
+<td>85.001</td>
+<td>Arte Deco</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -10226,8 +12236,18 @@
 </tr>
 <tr>
 <td>White</td>
-<td>70.600</td>
-<td>Surface Primer</td>
+<td>70.951</td>
+<td>Model Color</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>White</td>
+<td>76.501</td>
+<td>Wash FX</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -10248,16 +12268,6 @@
 <td>White</td>
 <td>28.010</td>
 <td>Hobby Paint</td>
-<td>237</td>
-<td>237</td>
-<td>237</td>
-<td>#EDEDED</td>
-<td style="background-color: #EDEDED" ><img src="https://via.placeholder.com/40/EDEDED/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>85.001</td>
-<td>Arte Deco</td>
 <td>255</td>
 <td>255</td>
 <td>255</td>
@@ -10276,16 +12286,6 @@
 </tr>
 <tr>
 <td>White</td>
-<td>70.951</td>
-<td>Model Color</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
 <td>71.001</td>
 <td>Model Air</td>
 <td>249</td>
@@ -10295,14 +12295,34 @@
 <td style="background-color: #F9F9F7" ><img src="https://via.placeholder.com/40/F9F9F7/000000?text=+" /></td>
 </tr>
 <tr>
-<td>White Aluminum</td>
+<td>White</td>
+<td>72.082</td>
+<td>Game Color</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>White</td>
+<td>70.600</td>
+<td>Surface Primer</td>
+<td>255</td>
+<td>255</td>
+<td>255</td>
+<td>#FFFFFF</td>
+<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
+</tr>
+<tr>
+<td>White Aluminium</td>
 <td>77.706</td>
 <td>Metal Color</td>
-<td>218</td>
-<td>218</td>
-<td>220</td>
-<td>#DADADC</td>
-<td style="background-color: #DADADC" ><img src="https://via.placeholder.com/40/DADADC/000000?text=+" /></td>
+<td>186</td>
+<td>185</td>
+<td>190</td>
+<td>#BAB9BE</td>
+<td style="background-color: #BAB9BE" ><img src="https://via.placeholder.com/40/BAB9BE/000000?text=+" /></td>
 </tr>
 <tr>
 <td>White Flesh</td>
@@ -10328,31 +12348,21 @@
 <td>White Gold</td>
 <td>70.796</td>
 <td>Liquid Gold</td>
-<td>233</td>
-<td>234</td>
-<td>236</td>
-<td>#E9EAEC</td>
-<td style="background-color: #E9EAEC" ><img src="https://via.placeholder.com/40/E9EAEC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White Grey</td>
-<td>70.993</td>
-<td>Model Color</td>
-<td>238</td>
-<td>240</td>
-<td>239</td>
-<td>#EEF0EF</td>
-<td style="background-color: #EEF0EF" ><img src="https://via.placeholder.com/40/EEF0EF/000000?text=+" /></td>
+<td>246</td>
+<td>246</td>
+<td>246</td>
+<td>#F6F6F6</td>
+<td style="background-color: #F6F6F6" ><img src="https://via.placeholder.com/40/F6F6F6/000000?text=+" /></td>
 </tr>
 <tr>
 <td>White Grey</td>
 <td>69.002</td>
 <td>Mecha Color</td>
 <td>240</td>
-<td>236</td>
-<td>227</td>
-<td>#F0ECE3</td>
-<td style="background-color: #F0ECE3" ><img src="https://via.placeholder.com/40/F0ECE3/000000?text=+" /></td>
+<td>235</td>
+<td>229</td>
+<td>#F0EBE5</td>
+<td style="background-color: #F0EBE5" ><img src="https://via.placeholder.com/40/F0EBE5/000000?text=+" /></td>
 </tr>
 <tr>
 <td>White Grey</td>
@@ -10365,6 +12375,16 @@
 <td style="background-color: #DAD6CA" ><img src="https://via.placeholder.com/40/DAD6CA/000000?text=+" /></td>
 </tr>
 <tr>
+<td>White Grey</td>
+<td>70.993</td>
+<td>Model Color</td>
+<td>227</td>
+<td>226</td>
+<td>224</td>
+<td>#E3E2E0</td>
+<td style="background-color: #E3E2E0" ><img src="https://via.placeholder.com/40/E3E2E0/000000?text=+" /></td>
+</tr>
+<tr>
 <td>White Primer</td>
 <td>62.061</td>
 <td>Premium Airbrush Color</td>
@@ -10375,6 +12395,16 @@
 <td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Wicked Purple</td>
+<td>72.456</td>
+<td>Xpress Color</td>
+<td>117</td>
+<td>101</td>
+<td>102</td>
+<td>#756566</td>
+<td style="background-color: #756566" ><img src="https://via.placeholder.com/40/756566/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Williamsburg Blue</td>
 <td>85.057</td>
 <td>Arte Deco</td>
@@ -10383,6 +12413,16 @@
 <td>157</td>
 <td>#5F779D</td>
 <td style="background-color: #5F779D" ><img src="https://via.placeholder.com/40/5F779D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Willow Bark</td>
+<td>72.474</td>
+<td>Xpress Color</td>
+<td>57</td>
+<td>43</td>
+<td>39</td>
+<td>#392B27</td>
+<td style="background-color: #392B27" ><img src="https://via.placeholder.com/40/392B27/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Witch Purple</td>
@@ -10396,13 +12436,33 @@
 </tr>
 <tr>
 <td>Wolf Grey</td>
+<td>72.047</td>
+<td>Game Color</td>
+<td>195</td>
+<td>209</td>
+<td>209</td>
+<td>#C3D1D1</td>
+<td style="background-color: #C3D1D1" ><img src="https://via.placeholder.com/40/C3D1D1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Wolf Grey</td>
+<td>76.047</td>
+<td>Game Air</td>
+<td>195</td>
+<td>209</td>
+<td>209</td>
+<td>#C3D1D1</td>
+<td style="background-color: #C3D1D1" ><img src="https://via.placeholder.com/40/C3D1D1/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Wolf Grey</td>
 <td>28.020</td>
 <td>Hobby Paint</td>
-<td>177</td>
-<td>194</td>
-<td>210</td>
-<td>#B1C2D2</td>
-<td style="background-color: #B1C2D2" ><img src="https://via.placeholder.com/40/B1C2D2/000000?text=+" /></td>
+<td>176</td>
+<td>192</td>
+<td>208</td>
+<td>#B0C0D0</td>
+<td style="background-color: #B0C0D0" ><img src="https://via.placeholder.com/40/B0C0D0/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Wolf Grey</td>
@@ -10415,16 +12475,6 @@
 <td style="background-color: #ACBDCD" ><img src="https://via.placeholder.com/40/ACBDCD/000000?text=+" /></td>
 </tr>
 <tr>
-<td>Wolf Grey</td>
-<td>72.047</td>
-<td>Game Color</td>
-<td>175</td>
-<td>193</td>
-<td>203</td>
-<td>#AFC1CB</td>
-<td style="background-color: #AFC1CB" ><img src="https://via.placeholder.com/40/AFC1CB/000000?text=+" /></td>
-</tr>
-<tr>
 <td>Wood</td>
 <td>71.077</td>
 <td>Model Air</td>
@@ -10433,16 +12483,6 @@
 <td>59</td>
 <td>#AB743B</td>
 <td style="background-color: #AB743B" ><img src="https://via.placeholder.com/40/AB743B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wood Grain</td>
-<td>70.828</td>
-<td>Model Color</td>
-<td>75</td>
-<td>61</td>
-<td>52</td>
-<td>#4B3D34</td>
-<td style="background-color: #4B3D34" ><img src="https://via.placeholder.com/40/4B3D34/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Worn Red</td>
@@ -10466,16 +12506,6 @@
 </tr>
 <tr>
 <td>Yellow</td>
-<td>72.085</td>
-<td>Game Color</td>
-<td>254</td>
-<td>211</td>
-<td>70</td>
-<td>#FED346</td>
-<td style="background-color: #FED346" ><img src="https://via.placeholder.com/40/FED346/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
 <td>85.008</td>
 <td>Arte Deco</td>
 <td>255</td>
@@ -10483,6 +12513,16 @@
 <td>93</td>
 <td>#FFE15D</td>
 <td style="background-color: #FFE15D" ><img src="https://via.placeholder.com/40/FFE15D/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Yellow</td>
+<td>72.085</td>
+<td>Game Color</td>
+<td>235</td>
+<td>169</td>
+<td>12</td>
+<td>#EBA90C</td>
+<td style="background-color: #EBA90C" ><img src="https://via.placeholder.com/40/EBA90C/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Yellow Brown</td>
@@ -10496,8 +12536,8 @@
 </tr>
 <tr>
 <td>Yellow Fluorescent</td>
-<td>69.054</td>
-<td>Mecha Color</td>
+<td>70.730</td>
+<td>Model Color</td>
 <td>239</td>
 <td>230</td>
 <td>65</td>
@@ -10506,8 +12546,8 @@
 </tr>
 <tr>
 <td>Yellow Fluorescent</td>
-<td>70.730</td>
-<td>Model Color</td>
+<td>69.054</td>
+<td>Mecha Color</td>
 <td>239</td>
 <td>230</td>
 <td>65</td>
@@ -10528,41 +12568,31 @@
 <td>Yellow Green</td>
 <td>70.954</td>
 <td>Model Color</td>
-<td>202</td>
-<td>212</td>
-<td>53</td>
-<td>#CAD435</td>
-<td style="background-color: #CAD435" ><img src="https://via.placeholder.com/40/CAD435/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Green</td>
-<td>70.881</td>
-<td>Model Color</td>
-<td>118</td>
-<td>109</td>
-<td>66</td>
-<td>#766D42</td>
-<td style="background-color: #766D42" ><img src="https://via.placeholder.com/40/766D42/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Ochre</td>
-<td>69.032</td>
-<td>Mecha Color</td>
-<td>234</td>
-<td>164</td>
-<td>50</td>
-<td>#EAA432</td>
-<td style="background-color: #EAA432" ><img src="https://via.placeholder.com/40/EAA432/000000?text=+" /></td>
+<td>222</td>
+<td>222</td>
+<td>38</td>
+<td>#DEDE26</td>
+<td style="background-color: #DEDE26" ><img src="https://via.placeholder.com/40/DEDE26/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Yellow Ochre</td>
 <td>70.913</td>
 <td>Model Color</td>
-<td>194</td>
-<td>146</td>
-<td>74</td>
-<td>#C2924A</td>
-<td style="background-color: #C2924A" ><img src="https://via.placeholder.com/40/C2924A/000000?text=+" /></td>
+<td>222</td>
+<td>170</td>
+<td>71</td>
+<td>#DEAA47</td>
+<td style="background-color: #DEAA47" ><img src="https://via.placeholder.com/40/DEAA47/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Yellow Ochre</td>
+<td>85.014</td>
+<td>Arte Deco</td>
+<td>225</td>
+<td>167</td>
+<td>136</td>
+<td>#E1A788</td>
+<td style="background-color: #E1A788" ><img src="https://via.placeholder.com/40/E1A788/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Yellow Ochre</td>
@@ -10586,23 +12616,13 @@
 </tr>
 <tr>
 <td>Yellow Ochre</td>
-<td>85.014</td>
-<td>Arte Deco</td>
-<td>225</td>
-<td>167</td>
-<td>136</td>
-<td>#E1A788</td>
-<td style="background-color: #E1A788" ><img src="https://via.placeholder.com/40/E1A788/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Olive</td>
-<td>70.892</td>
-<td>Model Color</td>
-<td>78</td>
-<td>81</td>
-<td>70</td>
-<td>#4E5146</td>
-<td style="background-color: #4E5146" ><img src="https://via.placeholder.com/40/4E5146/000000?text=+" /></td>
+<td>69.032</td>
+<td>Mecha Color</td>
+<td>234</td>
+<td>164</td>
+<td>50</td>
+<td>#EAA432</td>
+<td style="background-color: #EAA432" ><img src="https://via.placeholder.com/40/EAA432/000000?text=+" /></td>
 </tr>
 <tr>
 <td>Yellow Olive</td>
@@ -10625,6 +12645,16 @@
 <td style="background-color: #1E4F39" ><img src="https://via.placeholder.com/40/1E4F39/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Yellow Olive</td>
+<td>70.892</td>
+<td>Model Color</td>
+<td>56</td>
+<td>59</td>
+<td>50</td>
+<td>#383B32</td>
+<td style="background-color: #383B32" ><img src="https://via.placeholder.com/40/383B32/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Yellow RLM04</td>
 <td>71.078</td>
 <td>Model Air</td>
@@ -10635,14 +12665,34 @@
 <td style="background-color: #E7A221" ><img src="https://via.placeholder.com/40/E7A221/000000?text=+" /></td>
 </tr>
 <tr>
+<td>Yellow Wash</td>
+<td>73.208</td>
+<td>Game Color</td>
+<td>233</td>
+<td>232</td>
+<td>92</td>
+<td>#E9E85C</td>
+<td style="background-color: #E9E85C" ><img src="https://via.placeholder.com/40/E9E85C/000000?text=+" /></td>
+</tr>
+<tr>
 <td>Yellowish Rust</td>
 <td>70.303</td>
 <td>Panzer Aces</td>
 <td>190</td>
 <td>139</td>
-<td>92</td>
-<td>#BE8B5C</td>
-<td style="background-color: #BE8B5C" ><img src="https://via.placeholder.com/40/BE8B5C/000000?text=+" /></td>
+<td>94</td>
+<td>#BE8B5E</td>
+<td style="background-color: #BE8B5E" ><img src="https://via.placeholder.com/40/BE8B5E/000000?text=+" /></td>
+</tr>
+<tr>
+<td>Zombie Flesh</td>
+<td>72.470</td>
+<td>Xpress Color</td>
+<td>133</td>
+<td>107</td>
+<td>90</td>
+<td>#856B5A</td>
+<td style="background-color: #856B5A" ><img src="https://via.placeholder.com/40/856B5A/000000?text=+" /></td>
 </tr>
 <tr>
 </tbody>
