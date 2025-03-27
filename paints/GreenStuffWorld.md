@@ -36,7 +36,7 @@
 <td>69</td>
 <td>92</td>
 <td>14</td>
-<td>`#455C0E`</td>
+<td> ![#455C0E](https://placehold.co/15x15/455C0E/455C0E.png) `#455C0E` </td>
 <td style="background-color: #455C0E" ><img src="https://via.placeholder.com/40/455C0E/000000?text=+" /></td>
 </tr>
 <tr>
