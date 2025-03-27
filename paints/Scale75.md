@@ -1,3243 +1,366 @@
 # Scale75
-<img src="../logos/Scale75.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Abyssal Blue</td>
-<td>Scale Color Range</td>
-<td>41</td>
-<td>42</td>
-<td>47</td>
-<td>#292A2F</td>
-<td style="background-color: #292A2F" ><img src="https://via.placeholder.com/40/292A2F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Acid Green</td>
-<td>Instant Colors Range</td>
-<td>196</td>
-<td>217</td>
-<td>100</td>
-<td>#C4D964</td>
-<td style="background-color: #C4D964" ><img src="https://via.placeholder.com/40/C4D964/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Acid Pink</td>
-<td>FX Range</td>
-<td>248</td>
-<td>29</td>
-<td>254</td>
-<td>#F81DFE</td>
-<td style="background-color: #F81DFE" ><img src="https://via.placeholder.com/40/F81DFE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Adriatic Blue</td>
-<td>Scale Color Range</td>
-<td>18</td>
-<td>138</td>
-<td>155</td>
-<td>#128A9B</td>
-<td style="background-color: #128A9B" ><img src="https://via.placeholder.com/40/128A9B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>African Shadow</td>
-<td>Scale Color Range</td>
-<td>86</td>
-<td>66</td>
-<td>75</td>
-<td>#56424B</td>
-<td style="background-color: #56424B" ><img src="https://via.placeholder.com/40/56424B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Airnrhod Blue</td>
-<td>Fantasy & Games Range</td>
-<td>57</td>
-<td>57</td>
-<td>143</td>
-<td>#39398F</td>
-<td style="background-color: #39398F" ><img src="https://via.placeholder.com/40/39398F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Aldebaran Red</td>
-<td>Scale Color Range</td>
-<td>190</td>
-<td>51</td>
-<td>30</td>
-<td>#BE331E</td>
-<td style="background-color: #BE331E" ><img src="https://via.placeholder.com/40/BE331E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Alizarin Green</td>
-<td>Artist Range</td>
-<td>38</td>
-<td>148</td>
-<td>75</td>
-<td>#26944B</td>
-<td style="background-color: #26944B" ><img src="https://via.placeholder.com/40/26944B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amarth Blue</td>
-<td>Fantasy & Games Range</td>
-<td>5</td>
-<td>130</td>
-<td>197</td>
-<td>#0582C5</td>
-<td style="background-color: #0582C5" ><img src="https://via.placeholder.com/40/0582C5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amber Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>184</td>
-<td>158</td>
-<td>133</td>
-<td>#B89E85</td>
-<td style="background-color: #B89E85" ><img src="https://via.placeholder.com/40/B89E85/000000?text=+" /></td>
-</tr>
-<tr>
-<td>American Olive</td>
-<td>Warfront  Range</td>
-<td>115</td>
-<td>103</td>
-<td>55</td>
-<td>#736737</td>
-<td style="background-color: #736737" ><img src="https://via.placeholder.com/40/736737/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amethyst Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>159</td>
-<td>142</td>
-<td>176</td>
-<td>#9F8EB0</td>
-<td style="background-color: #9F8EB0" ><img src="https://via.placeholder.com/40/9F8EB0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ancestral Blue</td>
-<td>Instant Colors Range</td>
-<td>97</td>
-<td>171</td>
-<td>196</td>
-<td>#61ABC4</td>
-<td style="background-color: #61ABC4" ><img src="https://via.placeholder.com/40/61ABC4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Antares Red</td>
-<td>Scale Color Range</td>
-<td>193</td>
-<td>30</td>
-<td>33</td>
-<td>#C11E21</td>
-<td style="background-color: #C11E21" ><img src="https://via.placeholder.com/40/C11E21/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Anthartic Grey</td>
-<td>Scale Color Range</td>
-<td>66</td>
-<td>66</td>
-<td>76</td>
-<td>#42424C</td>
-<td style="background-color: #42424C" ><img src="https://via.placeholder.com/40/42424C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arabic Shadow</td>
-<td>Scale Color Range</td>
-<td>124</td>
-<td>104</td>
-<td>51</td>
-<td>#7C6833</td>
-<td style="background-color: #7C6833" ><img src="https://via.placeholder.com/40/7C6833/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arbuckles Brown</td>
-<td>Fantasy & Games Range</td>
-<td>60</td>
-<td>41</td>
-<td>34</td>
-<td>#3C2922</td>
-<td style="background-color: #3C2922" ><img src="https://via.placeholder.com/40/3C2922/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arcane Purple</td>
-<td>Instant Colors Range</td>
-<td>53</td>
-<td>13</td>
-<td>76</td>
-<td>#350D4C</td>
-<td style="background-color: #350D4C" ><img src="https://via.placeholder.com/40/350D4C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ardenes Green</td>
-<td>Scale Color Range</td>
-<td>86</td>
-<td>99</td>
-<td>69</td>
-<td>#566345</td>
-<td style="background-color: #566345" ><img src="https://via.placeholder.com/40/566345/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arphen Jade</td>
-<td>Fantasy & Games Range</td>
-<td>3</td>
-<td>93</td>
-<td>83</td>
-<td>#035D53</td>
-<td style="background-color: #035D53" ><img src="https://via.placeholder.com/40/035D53/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Art Black</td>
-<td>Artist Range</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>#101010</td>
-<td style="background-color: #101010" ><img src="https://via.placeholder.com/40/101010/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Art White</td>
-<td>Artist Range</td>
-<td>254</td>
-<td>254</td>
-<td>254</td>
-<td>#FEFEFE</td>
-<td style="background-color: #FEFEFE" ><img src="https://via.placeholder.com/40/FEFEFE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Artic Blue</td>
-<td>Artist Range</td>
-<td>136</td>
-<td>143</td>
-<td>161</td>
-<td>#888FA1</td>
-<td style="background-color: #888FA1" ><img src="https://via.placeholder.com/40/888FA1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Artic Blue</td>
-<td>Scale Color Range</td>
-<td>159</td>
-<td>179</td>
-<td>188</td>
-<td>#9FB3BC</td>
-<td style="background-color: #9FB3BC" ><img src="https://via.placeholder.com/40/9FB3BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Baal Crimson</td>
-<td>Fantasy & Games Range</td>
-<td>225</td>
-<td>26</td>
-<td>57</td>
-<td>#E11A39</td>
-<td style="background-color: #E11A39" ><img src="https://via.placeholder.com/40/E11A39/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Basic Flesh</td>
-<td>Scale Color Range</td>
-<td>208</td>
-<td>179</td>
-<td>147</td>
-<td>#D0B393</td>
-<td style="background-color: #D0B393" ><img src="https://via.placeholder.com/40/D0B393/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Basilisk Green</td>
-<td>Instant Colors Range</td>
-<td>61</td>
-<td>81</td>
-<td>82</td>
-<td>#3D5152</td>
-<td style="background-color: #3D5152" ><img src="https://via.placeholder.com/40/3D5152/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Beherit Red</td>
-<td>Fantasy & Games Range</td>
-<td>226</td>
-<td>57</td>
-<td>14</td>
-<td>#E2390E</td>
-<td style="background-color: #E2390E" ><img src="https://via.placeholder.com/40/E2390E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Belladonna Green</td>
-<td>Instant Colors Range</td>
-<td>76</td>
-<td>165</td>
-<td>121</td>
-<td>#4CA579</td>
-<td style="background-color: #4CA579" ><img src="https://via.placeholder.com/40/4CA579/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bering Blue</td>
-<td>Scale Color Range</td>
-<td>108</td>
-<td>137</td>
-<td>151</td>
-<td>#6C8997</td>
-<td style="background-color: #6C8997" ><img src="https://via.placeholder.com/40/6C8997/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Birch</td>
-<td>Scale Color Range</td>
-<td>239</td>
-<td>210</td>
-<td>176</td>
-<td>#EFD2B0</td>
-<td style="background-color: #EFD2B0" ><img src="https://via.placeholder.com/40/EFD2B0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Scale Color Range</td>
-<td>44</td>
-<td>44</td>
-<td>44</td>
-<td>#2C2C2C</td>
-<td style="background-color: #2C2C2C" ><img src="https://via.placeholder.com/40/2C2C2C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Forest Green</td>
-<td>Scale Color Range</td>
-<td>0</td>
-<td>72</td>
-<td>52</td>
-<td>#004834</td>
-<td style="background-color: #004834" ><img src="https://via.placeholder.com/40/004834/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Ink</td>
-<td>Artist Range</td>
-<td>27</td>
-<td>26</td>
-<td>24</td>
-<td>#1B1A18</td>
-<td style="background-color: #1B1A18" ><img src="https://via.placeholder.com/40/1B1A18/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Leather</td>
-<td>Scale Color Range</td>
-<td>66</td>
-<td>42</td>
-<td>42</td>
-<td>#422A2A</td>
-<td style="background-color: #422A2A" ><img src="https://via.placeholder.com/40/422A2A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>72</td>
-<td>72</td>
-<td>72</td>
-<td>#484848</td>
-<td style="background-color: #484848" ><img src="https://via.placeholder.com/40/484848/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blackert Brown</td>
-<td>Fantasy & Games Range</td>
-<td>184</td>
-<td>130</td>
-<td>92</td>
-<td>#B8825C</td>
-<td style="background-color: #B8825C" ><img src="https://via.placeholder.com/40/B8825C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blood Red</td>
-<td>Scale Color Range</td>
-<td>145</td>
-<td>39</td>
-<td>39</td>
-<td>#912727</td>
-<td style="background-color: #912727" ><img src="https://via.placeholder.com/40/912727/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bloodfest Crimson</td>
-<td>Fantasy & Games Range</td>
-<td>106</td>
-<td>3</td>
-<td>59</td>
-<td>#6A033B</td>
-<td style="background-color: #6A033B" ><img src="https://via.placeholder.com/40/6A033B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Boreal Green</td>
-<td>Scale Color Range</td>
-<td>0</td>
-<td>86</td>
-<td>62</td>
-<td>#00563E</td>
-<td style="background-color: #00563E" ><img src="https://via.placeholder.com/40/00563E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bosh Chesnut</td>
-<td>Fantasy & Games Range</td>
-<td>105</td>
-<td>69</td>
-<td>47</td>
-<td>#69452F</td>
-<td style="background-color: #69452F" ><img src="https://via.placeholder.com/40/69452F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Braineater Azure</td>
-<td>Fantasy & Games Range</td>
-<td>103</td>
-<td>106</td>
-<td>175</td>
-<td>#676AAF</td>
-<td style="background-color: #676AAF" ><img src="https://via.placeholder.com/40/676AAF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Braun</td>
-<td>Warfront  Range</td>
-<td>229</td>
-<td>200</td>
-<td>158</td>
-<td>#E5C89E</td>
-<td style="background-color: #E5C89E" ><img src="https://via.placeholder.com/40/E5C89E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brilli White</td>
-<td>FX Range</td>
-<td>254</td>
-<td>254</td>
-<td>254</td>
-<td>#FEFEFE</td>
-<td style="background-color: #FEFEFE" ><img src="https://via.placeholder.com/40/FEFEFE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown Gray</td>
-<td>Scale Color Range</td>
-<td>123</td>
-<td>113</td>
-<td>112</td>
-<td>#7B7170</td>
-<td style="background-color: #7B7170" ><img src="https://via.placeholder.com/40/7B7170/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown Leather</td>
-<td>Scale Color Range</td>
-<td>77</td>
-<td>44</td>
-<td>29</td>
-<td>#4D2C1D</td>
-<td style="background-color: #4D2C1D" ><img src="https://via.placeholder.com/40/4D2C1D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Buff</td>
-<td>Artist Range</td>
-<td>178</td>
-<td>157</td>
-<td>130</td>
-<td>#B29D82</td>
-<td style="background-color: #B29D82" ><img src="https://via.placeholder.com/40/B29D82/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burgundy Wine Red</td>
-<td>Artist Range</td>
-<td>90</td>
-<td>34</td>
-<td>18</td>
-<td>#5A2212</td>
-<td style="background-color: #5A2212" ><img src="https://via.placeholder.com/40/5A2212/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Sienna</td>
-<td>Artist Range</td>
-<td>124</td>
-<td>45</td>
-<td>6</td>
-<td>#7C2D06</td>
-<td style="background-color: #7C2D06" ><img src="https://via.placeholder.com/40/7C2D06/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Sienna Umber</td>
-<td>Artist Range</td>
-<td>76</td>
-<td>42</td>
-<td>32</td>
-<td>#4C2A20</td>
-<td style="background-color: #4C2A20" ><img src="https://via.placeholder.com/40/4C2A20/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Skin</td>
-<td>Artist Range</td>
-<td>101</td>
-<td>64</td>
-<td>35</td>
-<td>#654023</td>
-<td style="background-color: #654023" ><img src="https://via.placeholder.com/40/654023/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Umber</td>
-<td>Artist Range</td>
-<td>81</td>
-<td>64</td>
-<td>44</td>
-<td>#51402C</td>
-<td style="background-color: #51402C" ><img src="https://via.placeholder.com/40/51402C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cantabric Blue</td>
-<td>Scale Color Range</td>
-<td>22</td>
-<td>71</td>
-<td>101</td>
-<td>#164765</td>
-<td style="background-color: #164765" ><img src="https://via.placeholder.com/40/164765/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Caribbean Blue</td>
-<td>Scale Color Range</td>
-<td>117</td>
-<td>182</td>
-<td>176</td>
-<td>#75B6B0</td>
-<td style="background-color: #75B6B0" ><img src="https://via.placeholder.com/40/75B6B0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Caspian Blue</td>
-<td>Scale Color Range</td>
-<td>42</td>
-<td>79</td>
-<td>88</td>
-<td>#2A4F58</td>
-<td style="background-color: #2A4F58" ><img src="https://via.placeholder.com/40/2A4F58/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chesknut Ink</td>
-<td>Artist Range</td>
-<td>64</td>
-<td>54</td>
-<td>45</td>
-<td>#40362D</td>
-<td style="background-color: #40362D" ><img src="https://via.placeholder.com/40/40362D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chink Orange</td>
-<td>Fantasy & Games Range</td>
-<td>178</td>
-<td>98</td>
-<td>27</td>
-<td>#B2621B</td>
-<td style="background-color: #B2621B" ><img src="https://via.placeholder.com/40/B2621B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Citrine Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>239</td>
-<td>225</td>
-<td>199</td>
-<td>#EFE1C7</td>
-<td style="background-color: #EFE1C7" ><img src="https://via.placeholder.com/40/EFE1C7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>City Dust</td>
-<td>Soil Works</td>
-<td>198</td>
-<td>193</td>
-<td>189</td>
-<td>#C6C1BD</td>
-<td style="background-color: #C6C1BD" ><img src="https://via.placeholder.com/40/C6C1BD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cobalt Blue</td>
-<td>Artist Range</td>
-<td>0</td>
-<td>94</td>
-<td>145</td>
-<td>#005E91</td>
-<td style="background-color: #005E91" ><img src="https://via.placeholder.com/40/005E91/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cobalt Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>127</td>
-<td>162</td>
-<td>181</td>
-<td>#7FA2B5</td>
-<td style="background-color: #7FA2B5" ><img src="https://via.placeholder.com/40/7FA2B5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cobalt Violet Grey</td>
-<td>Artist Range</td>
-<td>115</td>
-<td>118</td>
-<td>139</td>
-<td>#73768B</td>
-<td style="background-color: #73768B" ><img src="https://via.placeholder.com/40/73768B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cokum Copper</td>
-<td>Fantasy & Games Range</td>
-<td>163</td>
-<td>112</td>
-<td>33</td>
-<td>#A37021</td>
-<td style="background-color: #A37021" ><img src="https://via.placeholder.com/40/A37021/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Coral Red</td>
-<td>Artist Range</td>
-<td>247</td>
-<td>55</td>
-<td>36</td>
-<td>#F73724</td>
-<td style="background-color: #F73724" ><img src="https://via.placeholder.com/40/F73724/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cork Brown</td>
-<td>Artist Range</td>
-<td>159</td>
-<td>141</td>
-<td>120</td>
-<td>#9F8D78</td>
-<td style="background-color: #9F8D78" ><img src="https://via.placeholder.com/40/9F8D78/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Corrupted Stamina</td>
-<td>Instant Colors Range</td>
-<td>105</td>
-<td>157</td>
-<td>12</td>
-<td>#699D0C</td>
-<td style="background-color: #699D0C" ><img src="https://via.placeholder.com/40/699D0C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cremeweiss</td>
-<td>Warfront  Range</td>
-<td>252</td>
-<td>252</td>
-<td>224</td>
-<td>#FCFCE0</td>
-<td style="background-color: #FCFCE0" ><img src="https://via.placeholder.com/40/FCFCE0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Crimsom</td>
-<td>Artist Range</td>
-<td>194</td>
-<td>35</td>
-<td>53</td>
-<td>#C22335</td>
-<td style="background-color: #C22335" ><img src="https://via.placeholder.com/40/C22335/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Crimson Ink</td>
-<td>Artist Range</td>
-<td>159</td>
-<td>28</td>
-<td>43</td>
-<td>#9F1C2B</td>
-<td style="background-color: #9F1C2B" ><img src="https://via.placeholder.com/40/9F1C2B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Brown Ochre</td>
-<td>Artist Range</td>
-<td>30</td>
-<td>19</td>
-<td>23</td>
-<td>#1E1317</td>
-<td style="background-color: #1E1317" ><img src="https://via.placeholder.com/40/1E1317/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Earth</td>
-<td>Warfront  Range</td>
-<td>100</td>
-<td>55</td>
-<td>34</td>
-<td>#643722</td>
-<td style="background-color: #643722" ><img src="https://via.placeholder.com/40/643722/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Kraken</td>
-<td>Instant Colors Range</td>
-<td>25</td>
-<td>74</td>
-<td>91</td>
-<td>#194A5B</td>
-<td style="background-color: #194A5B" ><img src="https://via.placeholder.com/40/194A5B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Mud</td>
-<td>Soil Works</td>
-<td>33</td>
-<td>2</td>
-<td>0</td>
-<td>#210200</td>
-<td style="background-color: #210200" ><img src="https://via.placeholder.com/40/210200/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Prussian Blue</td>
-<td>Artist Range</td>
-<td>37</td>
-<td>36</td>
-<td>48</td>
-<td>#252430</td>
-<td style="background-color: #252430" ><img src="https://via.placeholder.com/40/252430/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Rust</td>
-<td>Soil Works</td>
-<td>107</td>
-<td>55</td>
-<td>41</td>
-<td>#6B3729</td>
-<td style="background-color: #6B3729" ><img src="https://via.placeholder.com/40/6B3729/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Sand</td>
-<td>Soil Works</td>
-<td>212</td>
-<td>187</td>
-<td>146</td>
-<td>#D4BB92</td>
-<td style="background-color: #D4BB92" ><img src="https://via.placeholder.com/40/D4BB92/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Stains</td>
-<td>Soil Works</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Ultramarine</td>
-<td>Artist Range</td>
-<td>50</td>
-<td>41</td>
-<td>122</td>
-<td>#32297A</td>
-<td style="background-color: #32297A" ><img src="https://via.placeholder.com/40/32297A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Violet</td>
-<td>Artist Range</td>
-<td>72</td>
-<td>26</td>
-<td>63</td>
-<td>#481A3F</td>
-<td style="background-color: #481A3F" ><img src="https://via.placeholder.com/40/481A3F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dead Flesh</td>
-<td>Instant Colors Range</td>
-<td>127</td>
-<td>102</td>
-<td>98</td>
-<td>#7F6662</td>
-<td style="background-color: #7F6662" ><img src="https://via.placeholder.com/40/7F6662/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Decay Black</td>
-<td>Fantasy & Games Range</td>
-<td>28</td>
-<td>28</td>
-<td>28</td>
-<td>#1C1C1C</td>
-<td style="background-color: #1C1C1C" ><img src="https://via.placeholder.com/40/1C1C1C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Decayed Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>93</td>
-<td>64</td>
-<td>56</td>
-<td>#5D4038</td>
-<td style="background-color: #5D4038" ><img src="https://via.placeholder.com/40/5D4038/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Deep Blue</td>
-<td>Scale Color Range</td>
-<td>56</td>
-<td>59</td>
-<td>74</td>
-<td>#383B4A</td>
-<td style="background-color: #383B4A" ><img src="https://via.placeholder.com/40/383B4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Deep Ocean</td>
-<td>Warfront  Range</td>
-<td>0</td>
-<td>11</td>
-<td>43</td>
-<td>#000B2B</td>
-<td style="background-color: #000B2B" ><img src="https://via.placeholder.com/40/000B2B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Deep Red</td>
-<td>Scale Color Range</td>
-<td>112</td>
-<td>27</td>
-<td>32</td>
-<td>#701B20</td>
-<td style="background-color: #701B20" ><img src="https://via.placeholder.com/40/701B20/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Demon Brown</td>
-<td>Instant Colors Range</td>
-<td>102</td>
-<td>39</td>
-<td>30</td>
-<td>#66271E</td>
-<td style="background-color: #66271E" ><img src="https://via.placeholder.com/40/66271E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Desert Yellow</td>
-<td>Warfront  Range</td>
-<td>217</td>
-<td>175</td>
-<td>117</td>
-<td>#D9AF75</td>
-<td style="background-color: #D9AF75" ><img src="https://via.placeholder.com/40/D9AF75/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Despair Green</td>
-<td>Fantasy & Games Range</td>
-<td>23</td>
-<td>56</td>
-<td>61</td>
-<td>#17383D</td>
-<td style="background-color: #17383D" ><img src="https://via.placeholder.com/40/17383D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dragon Blood</td>
-<td>Instant Colors Range</td>
-<td>129</td>
-<td>6</td>
-<td>34</td>
-<td>#810622</td>
-<td style="background-color: #810622" ><img src="https://via.placeholder.com/40/810622/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Drain Life</td>
-<td>Instant Colors Range</td>
-<td>230</td>
-<td>148</td>
-<td>100</td>
-<td>#E69464</td>
-<td style="background-color: #E69464" ><img src="https://via.placeholder.com/40/E69464/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dubai Brown</td>
-<td>Scale Color Range</td>
-<td>88</td>
-<td>61</td>
-<td>34</td>
-<td>#583D22</td>
-<td style="background-color: #583D22" ><img src="https://via.placeholder.com/40/583D22/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dunkelbraun Brown</td>
-<td>Warfront  Range</td>
-<td>65</td>
-<td>48</td>
-<td>40</td>
-<td>#413028</td>
-<td style="background-color: #413028" ><img src="https://via.placeholder.com/40/413028/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dunkelgelb 44</td>
-<td>Warfront  Range</td>
-<td>222</td>
-<td>209</td>
-<td>177</td>
-<td>#DED1B1</td>
-<td style="background-color: #DED1B1" ><img src="https://via.placeholder.com/40/DED1B1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dunkelgelb Yellow</td>
-<td>Warfront  Range</td>
-<td>203</td>
-<td>181</td>
-<td>80</td>
-<td>#CBB550</td>
-<td style="background-color: #CBB550" ><img src="https://via.placeholder.com/40/CBB550/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dunkelgrau Gray</td>
-<td>Warfront  Range</td>
-<td>87</td>
-<td>88</td>
-<td>90</td>
-<td>#57585A</td>
-<td style="background-color: #57585A" ><img src="https://via.placeholder.com/40/57585A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dust In Summertime</td>
-<td>Soil Works</td>
-<td>114</td>
-<td>117</td>
-<td>86</td>
-<td>#727556</td>
-<td style="background-color: #727556" ><img src="https://via.placeholder.com/40/727556/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dwarven Gold</td>
-<td>Metal N Alchemy Range</td>
-<td>214</td>
-<td>141</td>
-<td>47</td>
-<td>#D68D2F</td>
-<td style="background-color: #D68D2F" ><img src="https://via.placeholder.com/40/D68D2F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Earth Green</td>
-<td>Artist Range</td>
-<td>74</td>
-<td>60</td>
-<td>47</td>
-<td>#4A3C2F</td>
-<td style="background-color: #4A3C2F" ><img src="https://via.placeholder.com/40/4A3C2F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Eclipse Grey</td>
-<td>Scale Color Range</td>
-<td>54</td>
-<td>54</td>
-<td>54</td>
-<td>#363636</td>
-<td style="background-color: #363636" ><img src="https://via.placeholder.com/40/363636/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Eldandil Violet</td>
-<td>Fantasy & Games Range</td>
-<td>43</td>
-<td>26</td>
-<td>60</td>
-<td>#2B1A3C</td>
-<td style="background-color: #2B1A3C" ><img src="https://via.placeholder.com/40/2B1A3C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Electric Blue</td>
-<td>FX Range</td>
-<td>2</td>
-<td>26</td>
-<td>254</td>
-<td>#021AFE</td>
-<td style="background-color: #021AFE" ><img src="https://via.placeholder.com/40/021AFE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elixir Green</td>
-<td>Instant Colors Range</td>
-<td>0</td>
-<td>92</td>
-<td>77</td>
-<td>#005C4D</td>
-<td style="background-color: #005C4D" ><img src="https://via.placeholder.com/40/005C4D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elven Gold</td>
-<td>Metal N Alchemy Range</td>
-<td>205</td>
-<td>171</td>
-<td>71</td>
-<td>#CDAB47</td>
-<td style="background-color: #CDAB47" ><img src="https://via.placeholder.com/40/CDAB47/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>120</td>
-<td>160</td>
-<td>152</td>
-<td>#78A098</td>
-<td style="background-color: #78A098" ><img src="https://via.placeholder.com/40/78A098/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald Green</td>
-<td>Artist Range</td>
-<td>22</td>
-<td>83</td>
-<td>65</td>
-<td>#165341</td>
-<td style="background-color: #165341" ><img src="https://via.placeholder.com/40/165341/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Endurance Brown</td>
-<td>Instant Colors Range</td>
-<td>119</td>
-<td>63</td>
-<td>28</td>
-<td>#773F1C</td>
-<td style="background-color: #773F1C" ><img src="https://via.placeholder.com/40/773F1C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Estus Yellow</td>
-<td>Instant Colors Range</td>
-<td>254</td>
-<td>228</td>
-<td>89</td>
-<td>#FEE459</td>
-<td style="background-color: #FEE459" ><img src="https://via.placeholder.com/40/FEE459/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Evil Root</td>
-<td>Instant Colors Range</td>
-<td>240</td>
-<td>126</td>
-<td>74</td>
-<td>#F07E4A</td>
-<td style="background-color: #F07E4A" ><img src="https://via.placeholder.com/40/F07E4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fairy Blood</td>
-<td>Instant Colors Range</td>
-<td>65</td>
-<td>72</td>
-<td>116</td>
-<td>#414874</td>
-<td style="background-color: #414874" ><img src="https://via.placeholder.com/40/414874/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fall Green</td>
-<td>Scale Color Range</td>
-<td>201</td>
-<td>209</td>
-<td>97</td>
-<td>#C9D161</td>
-<td style="background-color: #C9D161" ><img src="https://via.placeholder.com/40/C9D161/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Field Gray</td>
-<td>Scale Color Range</td>
-<td>102</td>
-<td>115</td>
-<td>108</td>
-<td>#66736C</td>
-<td style="background-color: #66736C" ><img src="https://via.placeholder.com/40/66736C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Field Grey 1</td>
-<td>Warfront  Range</td>
-<td>57</td>
-<td>85</td>
-<td>60</td>
-<td>#39553C</td>
-<td style="background-color: #39553C" ><img src="https://via.placeholder.com/40/39553C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Field Grey 2</td>
-<td>Warfront  Range</td>
-<td>63</td>
-<td>76</td>
-<td>69</td>
-<td>#3F4C45</td>
-<td style="background-color: #3F4C45" ><img src="https://via.placeholder.com/40/3F4C45/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flat Black</td>
-<td>Warfront  Range</td>
-<td>28</td>
-<td>28</td>
-<td>28</td>
-<td>#1C1C1C</td>
-<td style="background-color: #1C1C1C" ><img src="https://via.placeholder.com/40/1C1C1C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flight Blue</td>
-<td>Warfront  Range</td>
-<td>1</td>
-<td>104</td>
-<td>139</td>
-<td>#01688B</td>
-<td style="background-color: #01688B" ><img src="https://via.placeholder.com/40/01688B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Frenzy Orange</td>
-<td>Instant Colors Range</td>
-<td>236</td>
-<td>96</td>
-<td>1</td>
-<td>#EC6001</td>
-<td style="background-color: #EC6001" ><img src="https://via.placeholder.com/40/EC6001/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fuchsia</td>
-<td>Scale Color Range</td>
-<td>170</td>
-<td>51</td>
-<td>107</td>
-<td>#AA336B</td>
-<td style="background-color: #AA336B" ><img src="https://via.placeholder.com/40/AA336B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fuel And Grease</td>
-<td>Soil Works</td>
-<td>238</td>
-<td>234</td>
-<td>233</td>
-<td>#EEEAE9</td>
-<td style="background-color: #EEEAE9" ><img src="https://via.placeholder.com/40/EEEAE9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Full Healing</td>
-<td>Instant Colors Range</td>
-<td>254</td>
-<td>239</td>
-<td>0</td>
-<td>#FEEF00</td>
-<td style="background-color: #FEEF00" ><img src="https://via.placeholder.com/40/FEEF00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Garnet Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>136</td>
-<td>66</td>
-<td>77</td>
-<td>#88424D</td>
-<td style="background-color: #88424D" ><img src="https://via.placeholder.com/40/88424D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gelbraun Brown</td>
-<td>Warfront  Range</td>
-<td>213</td>
-<td>172</td>
-<td>116</td>
-<td>#D5AC74</td>
-<td style="background-color: #D5AC74" ><img src="https://via.placeholder.com/40/D5AC74/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gobi Brown</td>
-<td>Scale Color Range</td>
-<td>110</td>
-<td>90</td>
-<td>63</td>
-<td>#6E5A3F</td>
-<td style="background-color: #6E5A3F" ><img src="https://via.placeholder.com/40/6E5A3F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Goblin Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>119</td>
-<td>184</td>
-<td>64</td>
-<td>#77B840</td>
-<td style="background-color: #77B840" ><img src="https://via.placeholder.com/40/77B840/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Golden Flesh</td>
-<td>Artist Range</td>
-<td>226</td>
-<td>167</td>
-<td>109</td>
-<td>#E2A76D</td>
-<td style="background-color: #E2A76D" ><img src="https://via.placeholder.com/40/E2A76D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Golden Skin</td>
-<td>Scale Color Range</td>
-<td>237</td>
-<td>200</td>
-<td>156</td>
-<td>#EDC89C</td>
-<td style="background-color: #EDC89C" ><img src="https://via.placeholder.com/40/EDC89C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Golem Grey</td>
-<td>Instant Colors Range</td>
-<td>44</td>
-<td>48</td>
-<td>49</td>
-<td>#2C3031</td>
-<td style="background-color: #2C3031" ><img src="https://via.placeholder.com/40/2C3031/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Graphene Gray</td>
-<td>Scale Color Range</td>
-<td>74</td>
-<td>81</td>
-<td>91</td>
-<td>#4A515B</td>
-<td style="background-color: #4A515B" ><img src="https://via.placeholder.com/40/4A515B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Graphite</td>
-<td>Scale Color Range</td>
-<td>139</td>
-<td>140</td>
-<td>135</td>
-<td>#8B8C87</td>
-<td style="background-color: #8B8C87" ><img src="https://via.placeholder.com/40/8B8C87/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grau</td>
-<td>Warfront  Range</td>
-<td>232</td>
-<td>213</td>
-<td>196</td>
-<td>#E8D5C4</td>
-<td style="background-color: #E8D5C4" ><img src="https://via.placeholder.com/40/E8D5C4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Graugrun Gray</td>
-<td>Warfront  Range</td>
-<td>160</td>
-<td>136</td>
-<td>72</td>
-<td>#A08848</td>
-<td style="background-color: #A08848" ><img src="https://via.placeholder.com/40/A08848/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grease</td>
-<td>Soil Works</td>
-<td>62</td>
-<td>45</td>
-<td>37</td>
-<td>#3E2D25</td>
-<td style="background-color: #3E2D25" ><img src="https://via.placeholder.com/40/3E2D25/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Grey</td>
-<td>Artist Range</td>
-<td>44</td>
-<td>48</td>
-<td>51</td>
-<td>#2C3033</td>
-<td style="background-color: #2C3033" ><img src="https://via.placeholder.com/40/2C3033/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Moss</td>
-<td>Soil Works</td>
-<td>28</td>
-<td>124</td>
-<td>35</td>
-<td>#1C7C23</td>
-<td style="background-color: #1C7C23" ><img src="https://via.placeholder.com/40/1C7C23/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Ochre</td>
-<td>Warfront  Range</td>
-<td>148</td>
-<td>129</td>
-<td>35</td>
-<td>#948123</td>
-<td style="background-color: #948123" ><img src="https://via.placeholder.com/40/948123/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Greenskin Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>0</td>
-<td>111</td>
-<td>52</td>
-<td>#006F34</td>
-<td style="background-color: #006F34" ><img src="https://via.placeholder.com/40/006F34/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey Spell</td>
-<td>Instant Colors Range</td>
-<td>128</td>
-<td>143</td>
-<td>176</td>
-<td>#808FB0</td>
-<td style="background-color: #808FB0" ><img src="https://via.placeholder.com/40/808FB0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grizzly Brown</td>
-<td>Instant Colors Range</td>
-<td>80</td>
-<td>24</td>
-<td>27</td>
-<td>#50181B</td>
-<td style="background-color: #50181B" ><img src="https://via.placeholder.com/40/50181B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Harvester Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>208</td>
-<td>167</td>
-<td>145</td>
-<td>#D0A791</td>
-<td style="background-color: #D0A791" ><img src="https://via.placeholder.com/40/D0A791/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hastur Purple</td>
-<td>Fantasy & Games Range</td>
-<td>116</td>
-<td>3</td>
-<td>49</td>
-<td>#740331</td>
-<td style="background-color: #740331" ><img src="https://via.placeholder.com/40/740331/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Health Red</td>
-<td>Instant Colors Range</td>
-<td>195</td>
-<td>22</td>
-<td>16</td>
-<td>#C31610</td>
-<td style="background-color: #C31610" ><img src="https://via.placeholder.com/40/C31610/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Heavy Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>156</td>
-<td>157</td>
-<td>161</td>
-<td>#9C9DA1</td>
-<td style="background-color: #9C9DA1" ><img src="https://via.placeholder.com/40/9C9DA1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hellbound Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>156</td>
-<td>177</td>
-<td>172</td>
-<td>#9CB1AC</td>
-<td style="background-color: #9CB1AC" ><img src="https://via.placeholder.com/40/9CB1AC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hiril Blue</td>
-<td>Fantasy & Games Range</td>
-<td>74</td>
-<td>169</td>
-<td>191</td>
-<td>#4AA9BF</td>
-<td style="background-color: #4AA9BF" ><img src="https://via.placeholder.com/40/4AA9BF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Huldra Blue</td>
-<td>Fantasy & Games Range</td>
-<td>35</td>
-<td>66</td>
-<td>86</td>
-<td>#234256</td>
-<td style="background-color: #234256" ><img src="https://via.placeholder.com/40/234256/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Human Flesh</td>
-<td>Instant Colors Range</td>
-<td>218</td>
-<td>171</td>
-<td>151</td>
-<td>#DAAB97</td>
-<td style="background-color: #DAAB97" ><img src="https://via.placeholder.com/40/DAAB97/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hykey Yellow</td>
-<td>Fantasy & Games Range</td>
-<td>239</td>
-<td>212</td>
-<td>145</td>
-<td>#EFD491</td>
-<td style="background-color: #EFD491" ><img src="https://via.placeholder.com/40/EFD491/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Indian Shadow</td>
-<td>Scale Color Range</td>
-<td>103</td>
-<td>61</td>
-<td>63</td>
-<td>#673D3F</td>
-<td style="background-color: #673D3F" ><img src="https://via.placeholder.com/40/673D3F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Black</td>
-<td>Inktensity Range</td>
-<td>41</td>
-<td>41</td>
-<td>41</td>
-<td>#292929</td>
-<td style="background-color: #292929" ><img src="https://via.placeholder.com/40/292929/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Blue</td>
-<td>Inktensity Range</td>
-<td>1</td>
-<td>40</td>
-<td>97</td>
-<td>#012861</td>
-<td style="background-color: #012861" ><img src="https://via.placeholder.com/40/012861/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Chesnut</td>
-<td>Inktensity Range</td>
-<td>128</td>
-<td>60</td>
-<td>21</td>
-<td>#803C15</td>
-<td style="background-color: #803C15" ><img src="https://via.placeholder.com/40/803C15/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Green</td>
-<td>Inktensity Range</td>
-<td>4</td>
-<td>62</td>
-<td>50</td>
-<td>#043E32</td>
-<td style="background-color: #043E32" ><img src="https://via.placeholder.com/40/043E32/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Red</td>
-<td>Inktensity Range</td>
-<td>169</td>
-<td>30</td>
-<td>33</td>
-<td>#A91E21</td>
-<td style="background-color: #A91E21" ><img src="https://via.placeholder.com/40/A91E21/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Violet</td>
-<td>Inktensity Range</td>
-<td>73</td>
-<td>25</td>
-<td>111</td>
-<td>#49196F</td>
-<td style="background-color: #49196F" ><img src="https://via.placeholder.com/40/49196F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Wood</td>
-<td>Inktensity Range</td>
-<td>73</td>
-<td>51</td>
-<td>38</td>
-<td>#493326</td>
-<td style="background-color: #493326" ><img src="https://via.placeholder.com/40/493326/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inktense Yellow</td>
-<td>Inktensity Range</td>
-<td>227</td>
-<td>190</td>
-<td>21</td>
-<td>#E3BE15</td>
-<td style="background-color: #E3BE15" ><img src="https://via.placeholder.com/40/E3BE15/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Innsmouth Blue</td>
-<td>Fantasy & Games Range</td>
-<td>0</td>
-<td>89</td>
-<td>107</td>
-<td>#00596B</td>
-<td style="background-color: #00596B" ><img src="https://via.placeholder.com/40/00596B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Intense Yellow</td>
-<td>Artist Range</td>
-<td>242</td>
-<td>203</td>
-<td>2</td>
-<td>#F2CB02</td>
-<td style="background-color: #F2CB02" ><img src="https://via.placeholder.com/40/F2CB02/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Irati Green</td>
-<td>Scale Color Range</td>
-<td>0</td>
-<td>135</td>
-<td>33</td>
-<td>#008721</td>
-<td style="background-color: #008721" ><img src="https://via.placeholder.com/40/008721/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Iroko</td>
-<td>Scale Color Range</td>
-<td>178</td>
-<td>143</td>
-<td>77</td>
-<td>#B28F4D</td>
-<td style="background-color: #B28F4D" ><img src="https://via.placeholder.com/40/B28F4D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ishtar Pink</td>
-<td>Fantasy & Games Range</td>
-<td>252</td>
-<td>147</td>
-<td>99</td>
-<td>#FC9363</td>
-<td style="background-color: #FC9363" ><img src="https://via.placeholder.com/40/FC9363/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Jade Green</td>
-<td>Artist Range</td>
-<td>47</td>
-<td>190</td>
-<td>175</td>
-<td>#2FBEAF</td>
-<td style="background-color: #2FBEAF" ><img src="https://via.placeholder.com/40/2FBEAF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Jorildyn Turquoise</td>
-<td>Fantasy & Games Range</td>
-<td>6</td>
-<td>125</td>
-<td>167</td>
-<td>#067DA7</td>
-<td style="background-color: #067DA7" ><img src="https://via.placeholder.com/40/067DA7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kalahari Orange</td>
-<td>Scale Color Range</td>
-<td>163</td>
-<td>86</td>
-<td>60</td>
-<td>#A3563C</td>
-<td style="background-color: #A3563C" ><img src="https://via.placeholder.com/40/A3563C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kunzite Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>202</td>
-<td>159</td>
-<td>187</td>
-<td>#CA9FBB</td>
-<td style="background-color: #CA9FBB" ><img src="https://via.placeholder.com/40/CA9FBB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leaden Sky</td>
-<td>Warfront  Range</td>
-<td>64</td>
-<td>79</td>
-<td>112</td>
-<td>#404F70</td>
-<td style="background-color: #404F70" ><img src="https://via.placeholder.com/40/404F70/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lemon Yellow</td>
-<td>Artist Range</td>
-<td>235</td>
-<td>234</td>
-<td>82</td>
-<td>#EBEA52</td>
-<td style="background-color: #EBEA52" ><img src="https://via.placeholder.com/40/EBEA52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lendanis Grey</td>
-<td>Fantasy & Games Range</td>
-<td>139</td>
-<td>141</td>
-<td>164</td>
-<td>#8B8DA4</td>
-<td style="background-color: #8B8DA4" ><img src="https://via.placeholder.com/40/8B8DA4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leviathan Blue</td>
-<td>Instant Colors Range</td>
-<td>0</td>
-<td>94</td>
-<td>112</td>
-<td>#005E70</td>
-<td style="background-color: #005E70" ><img src="https://via.placeholder.com/40/005E70/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Life Red</td>
-<td>Instant Colors Range</td>
-<td>230</td>
-<td>50</td>
-<td>23</td>
-<td>#E63217</td>
-<td style="background-color: #E63217" ><img src="https://via.placeholder.com/40/E63217/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Moss Green</td>
-<td>Artist Range</td>
-<td>97</td>
-<td>112</td>
-<td>27</td>
-<td>#61701B</td>
-<td style="background-color: #61701B" ><img src="https://via.placeholder.com/40/61701B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Rust</td>
-<td>Soil Works</td>
-<td>193</td>
-<td>104</td>
-<td>44</td>
-<td>#C1682C</td>
-<td style="background-color: #C1682C" ><img src="https://via.placeholder.com/40/C1682C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Skin</td>
-<td>Scale Color Range</td>
-<td>226</td>
-<td>184</td>
-<td>144</td>
-<td>#E2B890</td>
-<td style="background-color: #E2B890" ><img src="https://via.placeholder.com/40/E2B890/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Skin</td>
-<td>Artist Range</td>
-<td>211</td>
-<td>181</td>
-<td>173</td>
-<td>#D3B5AD</td>
-<td style="background-color: #D3B5AD" ><img src="https://via.placeholder.com/40/D3B5AD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Sky</td>
-<td>Warfront  Range</td>
-<td>120</td>
-<td>144</td>
-<td>180</td>
-<td>#7890B4</td>
-<td style="background-color: #7890B4" ><img src="https://via.placeholder.com/40/7890B4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Ultramarine</td>
-<td>Artist Range</td>
-<td>38</td>
-<td>62</td>
-<td>136</td>
-<td>#263E88</td>
-<td style="background-color: #263E88" ><img src="https://via.placeholder.com/40/263E88/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lilith Yellow</td>
-<td>Fantasy & Games Range</td>
-<td>253</td>
-<td>234</td>
-<td>131</td>
-<td>#FDEA83</td>
-<td style="background-color: #FDEA83" ><img src="https://via.placeholder.com/40/FDEA83/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lime Green</td>
-<td>Artist Range</td>
-<td>172</td>
-<td>228</td>
-<td>74</td>
-<td>#ACE44A</td>
-<td style="background-color: #ACE44A" ><img src="https://via.placeholder.com/40/ACE44A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Love Affair</td>
-<td>Instant Colors Range</td>
-<td>233</td>
-<td>43</td>
-<td>55</td>
-<td>#E92B37</td>
-<td style="background-color: #E92B37" ><img src="https://via.placeholder.com/40/E92B37/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magenta</td>
-<td>Artist Range</td>
-<td>198</td>
-<td>10</td>
-<td>133</td>
-<td>#C60A85</td>
-<td style="background-color: #C60A85" ><img src="https://via.placeholder.com/40/C60A85/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magic Blue</td>
-<td>Instant Colors Range</td>
-<td>20</td>
-<td>119</td>
-<td>151</td>
-<td>#147797</td>
-<td style="background-color: #147797" ><img src="https://via.placeholder.com/40/147797/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mana Regeneration</td>
-<td>Instant Colors Range</td>
-<td>1</td>
-<td>132</td>
-<td>210</td>
-<td>#0184D2</td>
-<td style="background-color: #0184D2" ><img src="https://via.placeholder.com/40/0184D2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marduk Yellow</td>
-<td>Fantasy & Games Range</td>
-<td>255</td>
-<td>239</td>
-<td>0</td>
-<td>#FFEF00</td>
-<td style="background-color: #FFEF00" ><img src="https://via.placeholder.com/40/FFEF00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mars Orange</td>
-<td>Scale Color Range</td>
-<td>175</td>
-<td>102</td>
-<td>49</td>
-<td>#AF6631</td>
-<td style="background-color: #AF6631" ><img src="https://via.placeholder.com/40/AF6631/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mayhem Red</td>
-<td>Fantasy & Games Range</td>
-<td>159</td>
-<td>13</td>
-<td>32</td>
-<td>#9F0D20</td>
-<td style="background-color: #9F0D20" ><img src="https://via.placeholder.com/40/9F0D20/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mediterranean Blue</td>
-<td>Scale Color Range</td>
-<td>77</td>
-<td>115</td>
-<td>178</td>
-<td>#4D73B2</td>
-<td style="background-color: #4D73B2" ><img src="https://via.placeholder.com/40/4D73B2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Medium Wet</td>
-<td>Soil Works</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Merm Green</td>
-<td>Fantasy & Games Range</td>
-<td>69</td>
-<td>82</td>
-<td>54</td>
-<td>#455236</td>
-<td style="background-color: #455236" ><img src="https://via.placeholder.com/40/455236/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mid Ground / Earth</td>
-<td>Soil Works</td>
-<td>200</td>
-<td>173</td>
-<td>126</td>
-<td>#C8AD7E</td>
-<td style="background-color: #C8AD7E" ><img src="https://via.placeholder.com/40/C8AD7E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Misfits Green</td>
-<td>Fantasy & Games Range</td>
-<td>0</td>
-<td>75</td>
-<td>49</td>
-<td>#004B31</td>
-<td style="background-color: #004B31" ><img src="https://via.placeholder.com/40/004B31/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Miskatonic Grey</td>
-<td>Fantasy & Games Range</td>
-<td>187</td>
-<td>183</td>
-<td>180</td>
-<td>#BBB7B4</td>
-<td style="background-color: #BBB7B4" ><img src="https://via.placeholder.com/40/BBB7B4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mojave White</td>
-<td>Scale Color Range</td>
-<td>210</td>
-<td>206</td>
-<td>181</td>
-<td>#D2CEB5</td>
-<td style="background-color: #D2CEB5" ><img src="https://via.placeholder.com/40/D2CEB5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moonray Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>240</td>
-<td>215</td>
-<td>161</td>
-<td>#F0D7A1</td>
-<td style="background-color: #F0D7A1" ><img src="https://via.placeholder.com/40/F0D7A1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moonstone Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>188</td>
-<td>147</td>
-<td>127</td>
-<td>#BC937F</td>
-<td style="background-color: #BC937F" ><img src="https://via.placeholder.com/40/BC937F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moss Green</td>
-<td>Artist Range</td>
-<td>67</td>
-<td>73</td>
-<td>47</td>
-<td>#43492F</td>
-<td style="background-color: #43492F" ><img src="https://via.placeholder.com/40/43492F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Nacar</td>
-<td>Scale Color Range</td>
-<td>155</td>
-<td>159</td>
-<td>144</td>
-<td>#9B9F90</td>
-<td style="background-color: #9B9F90" ><img src="https://via.placeholder.com/40/9B9F90/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Naples Yellow</td>
-<td>Artist Range</td>
-<td>218</td>
-<td>172</td>
-<td>34</td>
-<td>#DAAC22</td>
-<td style="background-color: #DAAC22" ><img src="https://via.placeholder.com/40/DAAC22/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Navy Blue</td>
-<td>Scale Color Range</td>
-<td>37</td>
-<td>59</td>
-<td>109</td>
-<td>#253B6D</td>
-<td style="background-color: #253B6D" ><img src="https://via.placeholder.com/40/253B6D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Necro Gold</td>
-<td>Metal N Alchemy Range</td>
-<td>87</td>
-<td>78</td>
-<td>49</td>
-<td>#574E31</td>
-<td style="background-color: #574E31" ><img src="https://via.placeholder.com/40/574E31/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Necro Grey</td>
-<td>Fantasy & Games Range</td>
-<td>48</td>
-<td>48</td>
-<td>56</td>
-<td>#303038</td>
-<td style="background-color: #303038" ><img src="https://via.placeholder.com/40/303038/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Blue</td>
-<td>Artist Range</td>
-<td>14</td>
-<td>129</td>
-<td>214</td>
-<td>#0E81D6</td>
-<td style="background-color: #0E81D6" ><img src="https://via.placeholder.com/40/0E81D6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Green</td>
-<td>Artist Range</td>
-<td>98</td>
-<td>246</td>
-<td>135</td>
-<td>#62F687</td>
-<td style="background-color: #62F687" ><img src="https://via.placeholder.com/40/62F687/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Orange</td>
-<td>Artist Range</td>
-<td>255</td>
-<td>158</td>
-<td>14</td>
-<td>#FF9E0E</td>
-<td style="background-color: #FF9E0E" ><img src="https://via.placeholder.com/40/FF9E0E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Pink</td>
-<td>Artist Range</td>
-<td>254</td>
-<td>63</td>
-<td>71</td>
-<td>#FE3F47</td>
-<td style="background-color: #FE3F47" ><img src="https://via.placeholder.com/40/FE3F47/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Red</td>
-<td>Artist Range</td>
-<td>239</td>
-<td>50</td>
-<td>29</td>
-<td>#EF321D</td>
-<td style="background-color: #EF321D" ><img src="https://via.placeholder.com/40/EF321D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neon Yellow</td>
-<td>Artist Range</td>
-<td>237</td>
-<td>254</td>
-<td>90</td>
-<td>#EDFE5A</td>
-<td style="background-color: #EDFE5A" ><img src="https://via.placeholder.com/40/EDFE5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ocean Blue</td>
-<td>Warfront  Range</td>
-<td>12</td>
-<td>33</td>
-<td>64</td>
-<td>#0C2140</td>
-<td style="background-color: #0C2140" ><img src="https://via.placeholder.com/40/0C2140/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ocean Gray</td>
-<td>Warfront  Range</td>
-<td>85</td>
-<td>100</td>
-<td>119</td>
-<td>#556477</td>
-<td style="background-color: #556477" ><img src="https://via.placeholder.com/40/556477/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Odorless Thinner</td>
-<td>Soil Works</td>
-<td>223</td>
-<td>223</td>
-<td>223</td>
-<td>#DFDFDF</td>
-<td style="background-color: #DFDFDF" ><img src="https://via.placeholder.com/40/DFDFDF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Off White</td>
-<td>Artist Range</td>
-<td>223</td>
-<td>211</td>
-<td>185</td>
-<td>#DFD3B9</td>
-<td style="background-color: #DFD3B9" ><img src="https://via.placeholder.com/40/DFD3B9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ogre Brown</td>
-<td>Instant Colors Range</td>
-<td>192</td>
-<td>119</td>
-<td>4</td>
-<td>#C07704</td>
-<td style="background-color: #C07704" ><img src="https://via.placeholder.com/40/C07704/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Old Copper</td>
-<td>Metal N Alchemy Range</td>
-<td>151</td>
-<td>96</td>
-<td>76</td>
-<td>#97604C</td>
-<td style="background-color: #97604C" ><img src="https://via.placeholder.com/40/97604C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Brown</td>
-<td>Warfront  Range</td>
-<td>67</td>
-<td>70</td>
-<td>49</td>
-<td>#434631</td>
-<td style="background-color: #434631" ><img src="https://via.placeholder.com/40/434631/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Green</td>
-<td>Artist Range</td>
-<td>88</td>
-<td>81</td>
-<td>53</td>
-<td>#585135</td>
-<td style="background-color: #585135" ><img src="https://via.placeholder.com/40/585135/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olivegrun 44</td>
-<td>Warfront  Range</td>
-<td>147</td>
-<td>164</td>
-<td>93</td>
-<td>#93A45D</td>
-<td style="background-color: #93A45D" ><img src="https://via.placeholder.com/40/93A45D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olivegrun Green</td>
-<td>Warfront  Range</td>
-<td>90</td>
-<td>100</td>
-<td>50</td>
-<td>#5A6432</td>
-<td style="background-color: #5A6432" ><img src="https://via.placeholder.com/40/5A6432/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>Warfront  Range</td>
-<td>233</td>
-<td>103</td>
-<td>15</td>
-<td>#E9670F</td>
-<td style="background-color: #E9670F" ><img src="https://via.placeholder.com/40/E9670F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>Artist Range</td>
-<td>212</td>
-<td>91</td>
-<td>20</td>
-<td>#D45B14</td>
-<td style="background-color: #D45B14" ><img src="https://via.placeholder.com/40/D45B14/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange Leather</td>
-<td>Scale Color Range</td>
-<td>160</td>
-<td>99</td>
-<td>55</td>
-<td>#A06337</td>
-<td style="background-color: #A06337" ><img src="https://via.placeholder.com/40/A06337/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange Neon</td>
-<td>FX Range</td>
-<td>249</td>
-<td>100</td>
-<td>1</td>
-<td>#F96401</td>
-<td style="background-color: #F96401" ><img src="https://via.placeholder.com/40/F96401/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orcish Dermis</td>
-<td>Fantasy & Games Range</td>
-<td>219</td>
-<td>125</td>
-<td>115</td>
-<td>#DB7D73</td>
-<td style="background-color: #DB7D73" ><img src="https://via.placeholder.com/40/DB7D73/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxford Blue</td>
-<td>Artist Range</td>
-<td>67</td>
-<td>78</td>
-<td>168</td>
-<td>#434EA8</td>
-<td style="background-color: #434EA8" ><img src="https://via.placeholder.com/40/434EA8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Dust</td>
-<td>Soil Works</td>
-<td>234</td>
-<td>209</td>
-<td>187</td>
-<td>#EAD1BB</td>
-<td style="background-color: #EAD1BB" ><img src="https://via.placeholder.com/40/EAD1BB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Earth</td>
-<td>Warfront  Range</td>
-<td>95</td>
-<td>65</td>
-<td>37</td>
-<td>#5F4125</td>
-<td style="background-color: #5F4125" ><img src="https://via.placeholder.com/40/5F4125/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Skin</td>
-<td>Scale Color Range</td>
-<td>241</td>
-<td>217</td>
-<td>207</td>
-<td>#F1D9CF</td>
-<td style="background-color: #F1D9CF" ><img src="https://via.placeholder.com/40/F1D9CF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Skin</td>
-<td>Artist Range</td>
-<td>243</td>
-<td>214</td>
-<td>207</td>
-<td>#F3D6CF</td>
-<td style="background-color: #F3D6CF" ><img src="https://via.placeholder.com/40/F3D6CF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Panzer Grey</td>
-<td>Warfront  Range</td>
-<td>48</td>
-<td>56</td>
-<td>59</td>
-<td>#30383B</td>
-<td style="background-color: #30383B" ><img src="https://via.placeholder.com/40/30383B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Panzer Yellow</td>
-<td>Warfront  Range</td>
-<td>214</td>
-<td>199</td>
-<td>140</td>
-<td>#D6C78C</td>
-<td style="background-color: #D6C78C" ><img src="https://via.placeholder.com/40/D6C78C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Paralyze Blue</td>
-<td>Instant Colors Range</td>
-<td>53</td>
-<td>121</td>
-<td>192</td>
-<td>#3579C0</td>
-<td style="background-color: #3579C0" ><img src="https://via.placeholder.com/40/3579C0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pastel Blue</td>
-<td>Artist Range</td>
-<td>68</td>
-<td>100</td>
-<td>111</td>
-<td>#44646F</td>
-<td style="background-color: #44646F" ><img src="https://via.placeholder.com/40/44646F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pastel Green</td>
-<td>Artist Range</td>
-<td>146</td>
-<td>157</td>
-<td>151</td>
-<td>#929D97</td>
-<td style="background-color: #929D97" ><img src="https://via.placeholder.com/40/929D97/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pastel Pink</td>
-<td>Artist Range</td>
-<td>217</td>
-<td>122</td>
-<td>186</td>
-<td>#D97ABA</td>
-<td style="background-color: #D97ABA" ><img src="https://via.placeholder.com/40/D97ABA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pastel Violet</td>
-<td>Artist Range</td>
-<td>128</td>
-<td>74</td>
-<td>149</td>
-<td>#804A95</td>
-<td style="background-color: #804A95" ><img src="https://via.placeholder.com/40/804A95/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Peanut Butter</td>
-<td>Fantasy & Games Range</td>
-<td>187</td>
-<td>129</td>
-<td>3</td>
-<td>#BB8103</td>
-<td style="background-color: #BB8103" ><img src="https://via.placeholder.com/40/BB8103/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pearl Grey</td>
-<td>Artist Range</td>
-<td>134</td>
-<td>121</td>
-<td>128</td>
-<td>#867980</td>
-<td style="background-color: #867980" ><img src="https://via.placeholder.com/40/867980/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Peridot Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>138</td>
-<td>141</td>
-<td>120</td>
-<td>#8A8D78</td>
-<td style="background-color: #8A8D78" ><img src="https://via.placeholder.com/40/8A8D78/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Permanent Orange</td>
-<td>Artist Range</td>
-<td>255</td>
-<td>107</td>
-<td>13</td>
-<td>#FF6B0D</td>
-<td style="background-color: #FF6B0D" ><img src="https://via.placeholder.com/40/FF6B0D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Petroleum Gray</td>
-<td>Scale Color Range</td>
-<td>85</td>
-<td>77</td>
-<td>75</td>
-<td>#554D4B</td>
-<td style="background-color: #554D4B" ><img src="https://via.placeholder.com/40/554D4B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phoenix Egg</td>
-<td>Instant Colors Range</td>
-<td>229</td>
-<td>208</td>
-<td>163</td>
-<td>#E5D0A3</td>
-<td style="background-color: #E5D0A3" ><img src="https://via.placeholder.com/40/E5D0A3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phoenix Feather</td>
-<td>Instant Colors Range</td>
-<td>209</td>
-<td>138</td>
-<td>92</td>
-<td>#D18A5C</td>
-<td style="background-color: #D18A5C" ><img src="https://via.placeholder.com/40/D18A5C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink Flesh</td>
-<td>Scale Color Range</td>
-<td>209</td>
-<td>146</td>
-<td>141</td>
-<td>#D1928D</td>
-<td style="background-color: #D1928D" ><img src="https://via.placeholder.com/40/D1928D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink Flesh</td>
-<td>Artist Range</td>
-<td>189</td>
-<td>112</td>
-<td>102</td>
-<td>#BD7066</td>
-<td style="background-color: #BD7066" ><img src="https://via.placeholder.com/40/BD7066/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pistachio Green Ink</td>
-<td>Artist Range</td>
-<td>192</td>
-<td>207</td>
-<td>24</td>
-<td>#C0CF18</td>
-<td style="background-color: #C0CF18" ><img src="https://via.placeholder.com/40/C0CF18/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primary Blue</td>
-<td>Artist Range</td>
-<td>26</td>
-<td>118</td>
-<td>181</td>
-<td>#1A76B5</td>
-<td style="background-color: #1A76B5" ><img src="https://via.placeholder.com/40/1A76B5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primary Red</td>
-<td>Artist Range</td>
-<td>213</td>
-<td>48</td>
-<td>54</td>
-<td>#D53036</td>
-<td style="background-color: #D53036" ><img src="https://via.placeholder.com/40/D53036/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primary Yellow</td>
-<td>Artist Range</td>
-<td>244</td>
-<td>233</td>
-<td>21</td>
-<td>#F4E915</td>
-<td style="background-color: #F4E915" ><img src="https://via.placeholder.com/40/F4E915/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Surface Black</td>
-<td>Primers</td>
-<td>16</td>
-<td>19</td>
-<td>24</td>
-<td>#101318</td>
-<td style="background-color: #101318" ><img src="https://via.placeholder.com/40/101318/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Surface Gray</td>
-<td>Primers</td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
-<td>#646464</td>
-<td style="background-color: #646464" ><img src="https://via.placeholder.com/40/646464/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Surface White</td>
-<td>Primers</td>
-<td>201</td>
-<td>207</td>
-<td>213</td>
-<td>#C9CFD5</td>
-<td style="background-color: #C9CFD5" ><img src="https://via.placeholder.com/40/C9CFD5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Prusian Blue</td>
-<td>Artist Range</td>
-<td>6</td>
-<td>41</td>
-<td>61</td>
-<td>#06293D</td>
-<td style="background-color: #06293D" ><img src="https://via.placeholder.com/40/06293D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Psychedelic Purple</td>
-<td>FX Range</td>
-<td>187</td>
-<td>28</td>
-<td>255</td>
-<td>#BB1CFF</td>
-<td style="background-color: #BB1CFF" ><img src="https://via.placeholder.com/40/BB1CFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pure Copper</td>
-<td>Metal N Alchemy Range</td>
-<td>204</td>
-<td>116</td>
-<td>76</td>
-<td>#CC744C</td>
-<td style="background-color: #CC744C" ><img src="https://via.placeholder.com/40/CC744C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purity White</td>
-<td>Fantasy & Games Range</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple</td>
-<td>Artist Range</td>
-<td>145</td>
-<td>35</td>
-<td>96</td>
-<td>#912360</td>
-<td style="background-color: #912360" ><img src="https://via.placeholder.com/40/912360/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rage Brown</td>
-<td>Instant Colors Range</td>
-<td>124</td>
-<td>43</td>
-<td>22</td>
-<td>#7C2B16</td>
-<td style="background-color: #7C2B16" ><img src="https://via.placeholder.com/40/7C2B16/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ragweed Orange</td>
-<td>Instant Colors Range</td>
-<td>223</td>
-<td>106</td>
-<td>39</td>
-<td>#DF6A27</td>
-<td style="background-color: #DF6A27" ><img src="https://via.placeholder.com/40/DF6A27/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rainy Gray</td>
-<td>Scale Color Range</td>
-<td>139</td>
-<td>134</td>
-<td>131</td>
-<td>#8B8683</td>
-<td style="background-color: #8B8683" ><img src="https://via.placeholder.com/40/8B8683/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Raw Sienna</td>
-<td>Artist Range</td>
-<td>101</td>
-<td>66</td>
-<td>38</td>
-<td>#654226</td>
-<td style="background-color: #654226" ><img src="https://via.placeholder.com/40/654226/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Raw Umber</td>
-<td>Artist Range</td>
-<td>118</td>
-<td>95</td>
-<td>51</td>
-<td>#765F33</td>
-<td style="background-color: #765F33" ><img src="https://via.placeholder.com/40/765F33/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Ecstasy</td>
-<td>FX Range</td>
-<td>248</td>
-<td>24</td>
-<td>3</td>
-<td>#F81803</td>
-<td style="background-color: #F81803" ><img src="https://via.placeholder.com/40/F81803/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Label</td>
-<td>Warfront  Range</td>
-<td>223</td>
-<td>6</td>
-<td>23</td>
-<td>#DF0617</td>
-<td style="background-color: #DF0617" ><img src="https://via.placeholder.com/40/DF0617/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Leather</td>
-<td>Scale Color Range</td>
-<td>95</td>
-<td>54</td>
-<td>52</td>
-<td>#5F3634</td>
-<td style="background-color: #5F3634" ><img src="https://via.placeholder.com/40/5F3634/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Ochre</td>
-<td>Artist Range</td>
-<td>128</td>
-<td>54</td>
-<td>45</td>
-<td>#80362D</td>
-<td style="background-color: #80362D" ><img src="https://via.placeholder.com/40/80362D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Remove Mana</td>
-<td>Instant Colors Range</td>
-<td>13</td>
-<td>39</td>
-<td>54</td>
-<td>#0D2736</td>
-<td style="background-color: #0D2736" ><img src="https://via.placeholder.com/40/0D2736/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Replenish Blue</td>
-<td>Instant Colors Range</td>
-<td>1</td>
-<td>71</td>
-<td>156</td>
-<td>#01479C</td>
-<td style="background-color: #01479C" ><img src="https://via.placeholder.com/40/01479C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Resurrection Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>187</td>
-<td>139</td>
-<td>101</td>
-<td>#BB8B65</td>
-<td style="background-color: #BB8B65" ><img src="https://via.placeholder.com/40/BB8B65/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Riff Green</td>
-<td>Fantasy & Games Range</td>
-<td>26</td>
-<td>45</td>
-<td>41</td>
-<td>#1A2D29</td>
-<td style="background-color: #1A2D29" ><img src="https://via.placeholder.com/40/1A2D29/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rlyeh Grey</td>
-<td>Fantasy & Games Range</td>
-<td>70</td>
-<td>75</td>
-<td>78</td>
-<td>#464B4E</td>
-<td style="background-color: #464B4E" ><img src="https://via.placeholder.com/40/464B4E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rotbraun 44</td>
-<td>Warfront  Range</td>
-<td>144</td>
-<td>80</td>
-<td>36</td>
-<td>#905024</td>
-<td style="background-color: #905024" ><img src="https://via.placeholder.com/40/905024/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rotbraun Primer Red</td>
-<td>Warfront  Range</td>
-<td>146</td>
-<td>84</td>
-<td>71</td>
-<td>#925447</td>
-<td style="background-color: #925447" ><img src="https://via.placeholder.com/40/925447/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rotbraun Red</td>
-<td>Warfront  Range</td>
-<td>82</td>
-<td>52</td>
-<td>26</td>
-<td>#52341A</td>
-<td style="background-color: #52341A" ><img src="https://via.placeholder.com/40/52341A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rotten Pus</td>
-<td>Instant Colors Range</td>
-<td>251</td>
-<td>180</td>
-<td>0</td>
-<td>#FBB400</td>
-<td style="background-color: #FBB400" ><img src="https://via.placeholder.com/40/FBB400/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ruby Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>211</td>
-<td>120</td>
-<td>135</td>
-<td>#D37887</td>
-<td style="background-color: #D37887" ><img src="https://via.placeholder.com/40/D37887/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Russian Green</td>
-<td>Warfront  Range</td>
-<td>88</td>
-<td>79</td>
-<td>38</td>
-<td>#584F26</td>
-<td style="background-color: #584F26" ><img src="https://via.placeholder.com/40/584F26/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Russian Light Green</td>
-<td>Warfront  Range</td>
-<td>99</td>
-<td>81</td>
-<td>17</td>
-<td>#635111</td>
-<td style="background-color: #635111" ><img src="https://via.placeholder.com/40/635111/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Russian Uniform</td>
-<td>Warfront  Range</td>
-<td>105</td>
-<td>89</td>
-<td>40</td>
-<td>#695928</td>
-<td style="background-color: #695928" ><img src="https://via.placeholder.com/40/695928/000000?text=+" /></td>
-</tr>
-<tr>
-<td>SS Camo Golden Brown</td>
-<td>Warfront  Range</td>
-<td>240</td>
-<td>160</td>
-<td>1</td>
-<td>#F0A001</td>
-<td style="background-color: #F0A001" ><img src="https://via.placeholder.com/40/F0A001/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sahara Sand</td>
-<td>Warfront  Range</td>
-<td>239</td>
-<td>208</td>
-<td>102</td>
-<td>#EFD066</td>
-<td style="background-color: #EFD066" ><img src="https://via.placeholder.com/40/EFD066/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sahara Yellow</td>
-<td>Scale Color Range</td>
-<td>170</td>
-<td>133</td>
-<td>45</td>
-<td>#AA852D</td>
-<td style="background-color: #AA852D" ><img src="https://via.placeholder.com/40/AA852D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Salmon Fury</td>
-<td>Instant Colors Range</td>
-<td>235</td>
-<td>86</td>
-<td>80</td>
-<td>#EB5650</td>
-<td style="background-color: #EB5650" ><img src="https://via.placeholder.com/40/EB5650/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sand Yellow</td>
-<td>Warfront  Range</td>
-<td>234</td>
-<td>197</td>
-<td>129</td>
-<td>#EAC581</td>
-<td style="background-color: #EAC581" ><img src="https://via.placeholder.com/40/EAC581/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sandalwood</td>
-<td>Scale Color Range</td>
-<td>184</td>
-<td>144</td>
-<td>134</td>
-<td>#B89086</td>
-<td style="background-color: #B89086" ><img src="https://via.placeholder.com/40/B89086/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sap Green</td>
-<td>Artist Range</td>
-<td>3</td>
-<td>52</td>
-<td>23</td>
-<td>#033417</td>
-<td style="background-color: #033417" ><img src="https://via.placeholder.com/40/033417/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Savage Beige</td>
-<td>Instant Colors Range</td>
-<td>243</td>
-<td>215</td>
-<td>131</td>
-<td>#F3D783</td>
-<td style="background-color: #F3D783" ><img src="https://via.placeholder.com/40/F3D783/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Shadow Black</td>
-<td>Instant Colors Range</td>
-<td>29</td>
-<td>31</td>
-<td>28</td>
-<td>#1D1F1C</td>
-<td style="background-color: #1D1F1C" ><img src="https://via.placeholder.com/40/1D1F1C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Shadow Blue</td>
-<td>Warfront  Range</td>
-<td>42</td>
-<td>50</td>
-<td>69</td>
-<td>#2A3245</td>
-<td style="background-color: #2A3245" ><img src="https://via.placeholder.com/40/2A3245/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sharpnel Red</td>
-<td>Fantasy & Games Range</td>
-<td>110</td>
-<td>41</td>
-<td>10</td>
-<td>#6E290A</td>
-<td style="background-color: #6E290A" ><img src="https://via.placeholder.com/40/6E290A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sherwood Green</td>
-<td>Scale Color Range</td>
-<td>125</td>
-<td>133</td>
-<td>58</td>
-<td>#7D853A</td>
-<td style="background-color: #7D853A" ><img src="https://via.placeholder.com/40/7D853A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sky Blue</td>
-<td>Scale Color Range</td>
-<td>36</td>
-<td>150</td>
-<td>200</td>
-<td>#2496C8</td>
-<td style="background-color: #2496C8" ><img src="https://via.placeholder.com/40/2496C8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sky Blue</td>
-<td>Artist Range</td>
-<td>192</td>
-<td>228</td>
-<td>237</td>
-<td>#C0E4ED</td>
-<td style="background-color: #C0E4ED" ><img src="https://via.placeholder.com/40/C0E4ED/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Slate Gray</td>
-<td>Warfront  Range</td>
-<td>55</td>
-<td>43</td>
-<td>21</td>
-<td>#372B15</td>
-<td style="background-color: #372B15" ><img src="https://via.placeholder.com/40/372B15/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Slimer Green</td>
-<td>Fantasy & Games Range</td>
-<td>90</td>
-<td>144</td>
-<td>50</td>
-<td>#5A9032</td>
-<td style="background-color: #5A9032" ><img src="https://via.placeholder.com/40/5A9032/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Smoke Gray</td>
-<td>Warfront  Range</td>
-<td>136</td>
-<td>104</td>
-<td>89</td>
-<td>#886859</td>
-<td style="background-color: #886859" ><img src="https://via.placeholder.com/40/886859/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sol Yellow</td>
-<td>Scale Color Range</td>
-<td>236</td>
-<td>203</td>
-<td>0</td>
-<td>#ECCB00</td>
-<td style="background-color: #ECCB00" ><img src="https://via.placeholder.com/40/ECCB00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Spectral Wolf</td>
-<td>Instant Colors Range</td>
-<td>171</td>
-<td>159</td>
-<td>161</td>
-<td>#AB9FA1</td>
-<td style="background-color: #AB9FA1" ><img src="https://via.placeholder.com/40/AB9FA1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Speed Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>212</td>
-<td>212</td>
-<td>214</td>
-<td>#D4D4D6</td>
-<td style="background-color: #D4D4D6" ><img src="https://via.placeholder.com/40/D4D4D6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Speed Yellow</td>
-<td>FX Range</td>
-<td>255</td>
-<td>254</td>
-<td>0</td>
-<td>#FFFE00</td>
-<td style="background-color: #FFFE00" ><img src="https://via.placeholder.com/40/FFFE00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Spring Green</td>
-<td>Artist Range</td>
-<td>93</td>
-<td>159</td>
-<td>53</td>
-<td>#5D9F35</td>
-<td style="background-color: #5D9F35" ><img src="https://via.placeholder.com/40/5D9F35/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Spring Green</td>
-<td>Scale Color Range</td>
-<td>127</td>
-<td>185</td>
-<td>83</td>
-<td>#7FB953</td>
-<td style="background-color: #7FB953" ><img src="https://via.placeholder.com/40/7FB953/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Dark Brown</td>
-<td>Warfront  Range</td>
-<td>34</td>
-<td>11</td>
-<td>5</td>
-<td>#220B05</td>
-<td style="background-color: #220B05" ><img src="https://via.placeholder.com/40/220B05/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Dark Green</td>
-<td>Warfront  Range</td>
-<td>42</td>
-<td>51</td>
-<td>30</td>
-<td>#2A331E</td>
-<td style="background-color: #2A331E" ><img src="https://via.placeholder.com/40/2A331E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Gray Brown</td>
-<td>Warfront  Range</td>
-<td>111</td>
-<td>79</td>
-<td>54</td>
-<td>#6F4F36</td>
-<td style="background-color: #6F4F36" ><img src="https://via.placeholder.com/40/6F4F36/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Grey</td>
-<td>Warfront  Range</td>
-<td>143</td>
-<td>128</td>
-<td>99</td>
-<td>#8F8063</td>
-<td style="background-color: #8F8063" ><img src="https://via.placeholder.com/40/8F8063/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Highlights</td>
-<td>Warfront  Range</td>
-<td>250</td>
-<td>184</td>
-<td>97</td>
-<td>#FAB861</td>
-<td style="background-color: #FAB861" ><img src="https://via.placeholder.com/40/FAB861/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Italian Green</td>
-<td>Warfront  Range</td>
-<td>63</td>
-<td>82</td>
-<td>50</td>
-<td>#3F5232</td>
-<td style="background-color: #3F5232" ><img src="https://via.placeholder.com/40/3F5232/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Light Green</td>
-<td>Warfront  Range</td>
-<td>126</td>
-<td>129</td>
-<td>38</td>
-<td>#7E8126</td>
-<td style="background-color: #7E8126" ><img src="https://via.placeholder.com/40/7E8126/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Medium Brown</td>
-<td>Warfront  Range</td>
-<td>130</td>
-<td>93</td>
-<td>49</td>
-<td>#825D31</td>
-<td style="background-color: #825D31" ><img src="https://via.placeholder.com/40/825D31/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Medium Green</td>
-<td>Warfront  Range</td>
-<td>77</td>
-<td>80</td>
-<td>37</td>
-<td>#4D5025</td>
-<td style="background-color: #4D5025" ><img src="https://via.placeholder.com/40/4D5025/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Ocher Brown</td>
-<td>Warfront  Range</td>
-<td>207</td>
-<td>174</td>
-<td>95</td>
-<td>#CFAE5F</td>
-<td style="background-color: #CFAE5F" ><img src="https://via.placeholder.com/40/CFAE5F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Red Brown</td>
-<td>Warfront  Range</td>
-<td>89</td>
-<td>58</td>
-<td>27</td>
-<td>#593A1B</td>
-<td style="background-color: #593A1B" ><img src="https://via.placeholder.com/40/593A1B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Top Lights</td>
-<td>Warfront  Range</td>
-<td>251</td>
-<td>199</td>
-<td>126</td>
-<td>#FBC77E</td>
-<td style="background-color: #FBC77E" ><img src="https://via.placeholder.com/40/FBC77E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Top Shadows</td>
-<td>Warfront  Range</td>
-<td>52</td>
-<td>52</td>
-<td>40</td>
-<td>#343428</td>
-<td style="background-color: #343428" ><img src="https://via.placeholder.com/40/343428/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ss Camo Yellow Sand</td>
-<td>Warfront  Range</td>
-<td>192</td>
-<td>165</td>
-<td>110</td>
-<td>#C0A56E</td>
-<td style="background-color: #C0A56E" ><img src="https://via.placeholder.com/40/C0A56E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sulfur Yellow</td>
-<td>Instant Colors Range</td>
-<td>254</td>
-<td>213</td>
-<td>0</td>
-<td>#FED500</td>
-<td style="background-color: #FED500" ><img src="https://via.placeholder.com/40/FED500/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sunset Purple</td>
-<td>Scale Color Range</td>
-<td>98</td>
-<td>46</td>
-<td>84</td>
-<td>#622E54</td>
-<td style="background-color: #622E54" ><img src="https://via.placeholder.com/40/622E54/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Surfer Orc Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>0</td>
-<td>165</td>
-<td>139</td>
-<td>#00A58B</td>
-<td style="background-color: #00A58B" ><img src="https://via.placeholder.com/40/00A58B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Techno Green</td>
-<td>FX Range</td>
-<td>68</td>
-<td>250</td>
-<td>5</td>
-<td>#44FA05</td>
-<td style="background-color: #44FA05" ><img src="https://via.placeholder.com/40/44FA05/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tenere Yellow</td>
-<td>Scale Color Range</td>
-<td>229</td>
-<td>199</td>
-<td>111</td>
-<td>#E5C76F</td>
-<td style="background-color: #E5C76F" ><img src="https://via.placeholder.com/40/E5C76F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tesla Blue</td>
-<td>Scale Color Range</td>
-<td>65</td>
-<td>77</td>
-<td>151</td>
-<td>#414D97</td>
-<td style="background-color: #414D97" ><img src="https://via.placeholder.com/40/414D97/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Thar Brown</td>
-<td>Scale Color Range</td>
-<td>176</td>
-<td>159</td>
-<td>129</td>
-<td>#B09F81</td>
-<td style="background-color: #B09F81" ><img src="https://via.placeholder.com/40/B09F81/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Thrash Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>84</td>
-<td>73</td>
-<td>67</td>
-<td>#544943</td>
-<td style="background-color: #544943" ><img src="https://via.placeholder.com/40/544943/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tiamat Orange</td>
-<td>Fantasy & Games Range</td>
-<td>233</td>
-<td>115</td>
-<td>41</td>
-<td>#E97329</td>
-<td style="background-color: #E97329" ><img src="https://via.placeholder.com/40/E97329/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tindalos Red</td>
-<td>Fantasy & Games Range</td>
-<td>91</td>
-<td>41</td>
-<td>34</td>
-<td>#5B2922</td>
-<td style="background-color: #5B2922" ><img src="https://via.placeholder.com/40/5B2922/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Titanium Gray</td>
-<td>Warfront  Range</td>
-<td>65</td>
-<td>52</td>
-<td>43</td>
-<td>#41342B</td>
-<td style="background-color: #41342B" ><img src="https://via.placeholder.com/40/41342B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Titanium Grey</td>
-<td>Artist Range</td>
-<td>64</td>
-<td>68</td>
-<td>69</td>
-<td>#404445</td>
-<td style="background-color: #404445" ><img src="https://via.placeholder.com/40/404445/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Toad Green</td>
-<td>Instant Colors Range</td>
-<td>71</td>
-<td>81</td>
-<td>57</td>
-<td>#475139</td>
-<td style="background-color: #475139" ><img src="https://via.placeholder.com/40/475139/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tourmaline Alchemy</td>
-<td>Metal N Alchemy Range</td>
-<td>231</td>
-<td>168</td>
-<td>179</td>
-<td>#E7A8B3</td>
-<td style="background-color: #E7A8B3" ><img src="https://via.placeholder.com/40/E7A8B3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Toxic Waste Green</td>
-<td>Fantasy & Games Range</td>
-<td>199</td>
-<td>213</td>
-<td>56</td>
-<td>#C7D538</td>
-<td style="background-color: #C7D538" ><img src="https://via.placeholder.com/40/C7D538/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise</td>
-<td>Artist Range</td>
-<td>3</td>
-<td>67</td>
-<td>95</td>
-<td>#03435F</td>
-<td style="background-color: #03435F" ><img src="https://via.placeholder.com/40/03435F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise Blue</td>
-<td>Artist Range</td>
-<td>21</td>
-<td>153</td>
-<td>142</td>
-<td>#15998E</td>
-<td style="background-color: #15998E" ><img src="https://via.placeholder.com/40/15998E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise Ink</td>
-<td>Artist Range</td>
-<td>32</td>
-<td>76</td>
-<td>80</td>
-<td>#204C50</td>
-<td style="background-color: #204C50" ><img src="https://via.placeholder.com/40/204C50/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Undead Dragon</td>
-<td>Instant Colors Range</td>
-<td>182</td>
-<td>200</td>
-<td>188</td>
-<td>#B6C8BC</td>
-<td style="background-color: #B6C8BC" ><img src="https://via.placeholder.com/40/B6C8BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Undead Flesh</td>
-<td>Fantasy & Games Range</td>
-<td>168</td>
-<td>177</td>
-<td>112</td>
-<td>#A8B170</td>
-<td style="background-color: #A8B170" ><img src="https://via.placeholder.com/40/A8B170/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Us Dark Brown</td>
-<td>Warfront  Range</td>
-<td>174</td>
-<td>138</td>
-<td>114</td>
-<td>#AE8A72</td>
-<td style="background-color: #AE8A72" ><img src="https://via.placeholder.com/40/AE8A72/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Us Green</td>
-<td>Warfront  Range</td>
-<td>71</td>
-<td>70</td>
-<td>50</td>
-<td>#474632</td>
-<td style="background-color: #474632" ><img src="https://via.placeholder.com/40/474632/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Us Medium Brown</td>
-<td>Warfront  Range</td>
-<td>212</td>
-<td>173</td>
-<td>132</td>
-<td>#D4AD84</td>
-<td style="background-color: #D4AD84" ><img src="https://via.placeholder.com/40/D4AD84/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vanilla White</td>
-<td>Artist Range</td>
-<td>237</td>
-<td>232</td>
-<td>212</td>
-<td>#EDE8D4</td>
-<td style="background-color: #EDE8D4" ><img src="https://via.placeholder.com/40/EDE8D4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vanilla Yellow</td>
-<td>Artist Range</td>
-<td>216</td>
-<td>204</td>
-<td>104</td>
-<td>#D8CC68</td>
-<td style="background-color: #D8CC68" ><img src="https://via.placeholder.com/40/D8CC68/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Victorian Brass</td>
-<td>Metal N Alchemy Range</td>
-<td>182</td>
-<td>132</td>
-<td>59</td>
-<td>#B6843B</td>
-<td style="background-color: #B6843B" ><img src="https://via.placeholder.com/40/B6843B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Viking Gold</td>
-<td>Metal N Alchemy Range</td>
-<td>141</td>
-<td>89</td>
-<td>31</td>
-<td>#8D591F</td>
-<td style="background-color: #8D591F" ><img src="https://via.placeholder.com/40/8D591F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet</td>
-<td>Artist Range</td>
-<td>42</td>
-<td>28</td>
-<td>81</td>
-<td>#2A1C51</td>
-<td style="background-color: #2A1C51" ><img src="https://via.placeholder.com/40/2A1C51/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet Blue</td>
-<td>Scale Color Range</td>
-<td>96</td>
-<td>70</td>
-<td>115</td>
-<td>#604673</td>
-<td style="background-color: #604673" ><img src="https://via.placeholder.com/40/604673/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet Grey</td>
-<td>Artist Range</td>
-<td>114</td>
-<td>114</td>
-<td>124</td>
-<td>#72727C</td>
-<td style="background-color: #72727C" ><img src="https://via.placeholder.com/40/72727C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Walnut</td>
-<td>Scale Color Range</td>
-<td>125</td>
-<td>100</td>
-<td>80</td>
-<td>#7D6450</td>
-<td style="background-color: #7D6450" ><img src="https://via.placeholder.com/40/7D6450/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Werewolf Brown</td>
-<td>Instant Colors Range</td>
-<td>85</td>
-<td>60</td>
-<td>53</td>
-<td>#553C35</td>
-<td style="background-color: #553C35" ><img src="https://via.placeholder.com/40/553C35/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Warfront  Range</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Scale Color Range</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White Ink</td>
-<td>Artist Range</td>
-<td>247</td>
-<td>247</td>
-<td>247</td>
-<td>#F7F7F7</td>
-<td style="background-color: #F7F7F7" ><img src="https://via.placeholder.com/40/F7F7F7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White Metal</td>
-<td>Metal N Alchemy Range</td>
-<td>241</td>
-<td>241</td>
-<td>241</td>
-<td>#F1F1F1</td>
-<td style="background-color: #F1F1F1" ><img src="https://via.placeholder.com/40/F1F1F1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White Sands</td>
-<td>Scale Color Range</td>
-<td>246</td>
-<td>225</td>
-<td>198</td>
-<td>#F6E1C6</td>
-<td style="background-color: #F6E1C6" ><img src="https://via.placeholder.com/40/F6E1C6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wild Beast</td>
-<td>Instant Colors Range</td>
-<td>202</td>
-<td>133</td>
-<td>78</td>
-<td>#CA854E</td>
-<td style="background-color: #CA854E" ><img src="https://via.placeholder.com/40/CA854E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Winter Grey</td>
-<td>Warfront  Range</td>
-<td>110</td>
-<td>110</td>
-<td>112</td>
-<td>#6E6E70</td>
-<td style="background-color: #6E6E70" ><img src="https://via.placeholder.com/40/6E6E70/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Winter Shadow</td>
-<td>Warfront  Range</td>
-<td>58</td>
-<td>60</td>
-<td>57</td>
-<td>#3A3C39</td>
-<td style="background-color: #3A3C39" ><img src="https://via.placeholder.com/40/3A3C39/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wood</td>
-<td>Artist Range</td>
-<td>96</td>
-<td>72</td>
-<td>62</td>
-<td>#60483E</td>
-<td style="background-color: #60483E" ><img src="https://via.placeholder.com/40/60483E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Code</td>
-<td>Warfront  Range</td>
-<td>255</td>
-<td>203</td>
-<td>6</td>
-<td>#FFCB06</td>
-<td style="background-color: #FFCB06" ><img src="https://via.placeholder.com/40/FFCB06/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Ocre</td>
-<td>Artist Range</td>
-<td>160</td>
-<td>112</td>
-<td>46</td>
-<td>#A0702E</td>
-<td style="background-color: #A0702E" ><img src="https://via.placeholder.com/40/A0702E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Oxide</td>
-<td>Artist Range</td>
-<td>75</td>
-<td>53</td>
-<td>39</td>
-<td>#4B3527</td>
-<td style="background-color: #4B3527" ><img src="https://via.placeholder.com/40/4B3527/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zombie Skin</td>
-<td>Instant Colors Range</td>
-<td>166</td>
-<td>168</td>
-<td>105</td>
-<td>#A6A869</td>
-<td style="background-color: #A6A869" ><img src="https://via.placeholder.com/40/A6A869/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zucchini Green</td>
-<td>Instant Colors Range</td>
-<td>64</td>
-<td>91</td>
-<td>50</td>
-<td>#405B32</td>
-<td style="background-color: #405B32" ><img src="https://via.placeholder.com/40/405B32/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+![Scale75](../logos/Scale75.png "Scale75")
+
+|Name|Set|R|G|B|Hex|
+|---|---|---|---|---|---|
+|Abyssal Blue|Scale Color Range|41|42|47|![#292A2F](https://placehold.co/15x15/292A2F/292A2F.png) `#292A2F`|
+|Acid Green|Instant Colors Range|196|217|100|![#C4D964](https://placehold.co/15x15/C4D964/C4D964.png) `#C4D964`|
+|Acid Pink|FX Range|248|29|254|![#F81DFE](https://placehold.co/15x15/F81DFE/F81DFE.png) `#F81DFE`|
+|Adriatic Blue|Scale Color Range|18|138|155|![#128A9B](https://placehold.co/15x15/128A9B/128A9B.png) `#128A9B`|
+|African Shadow|Scale Color Range|86|66|75|![#56424B](https://placehold.co/15x15/56424B/56424B.png) `#56424B`|
+|Airnrhod Blue|Fantasy & Games Range|57|57|143|![#39398F](https://placehold.co/15x15/39398F/39398F.png) `#39398F`|
+|Aldebaran Red|Scale Color Range|190|51|30|![#BE331E](https://placehold.co/15x15/BE331E/BE331E.png) `#BE331E`|
+|Alizarin Green|Artist Range|38|148|75|![#26944B](https://placehold.co/15x15/26944B/26944B.png) `#26944B`|
+|Amarth Blue|Fantasy & Games Range|5|130|197|![#0582C5](https://placehold.co/15x15/0582C5/0582C5.png) `#0582C5`|
+|Amber Alchemy|Metal N Alchemy Range|184|158|133|![#B89E85](https://placehold.co/15x15/B89E85/B89E85.png) `#B89E85`|
+|American Olive|Warfront  Range|115|103|55|![#736737](https://placehold.co/15x15/736737/736737.png) `#736737`|
+|Amethyst Alchemy|Metal N Alchemy Range|159|142|176|![#9F8EB0](https://placehold.co/15x15/9F8EB0/9F8EB0.png) `#9F8EB0`|
+|Ancestral Blue|Instant Colors Range|97|171|196|![#61ABC4](https://placehold.co/15x15/61ABC4/61ABC4.png) `#61ABC4`|
+|Antares Red|Scale Color Range|193|30|33|![#C11E21](https://placehold.co/15x15/C11E21/C11E21.png) `#C11E21`|
+|Anthartic Grey|Scale Color Range|66|66|76|![#42424C](https://placehold.co/15x15/42424C/42424C.png) `#42424C`|
+|Arabic Shadow|Scale Color Range|124|104|51|![#7C6833](https://placehold.co/15x15/7C6833/7C6833.png) `#7C6833`|
+|Arbuckles Brown|Fantasy & Games Range|60|41|34|![#3C2922](https://placehold.co/15x15/3C2922/3C2922.png) `#3C2922`|
+|Arcane Purple|Instant Colors Range|53|13|76|![#350D4C](https://placehold.co/15x15/350D4C/350D4C.png) `#350D4C`|
+|Ardenes Green|Scale Color Range|86|99|69|![#566345](https://placehold.co/15x15/566345/566345.png) `#566345`|
+|Arphen Jade|Fantasy & Games Range|3|93|83|![#035D53](https://placehold.co/15x15/035D53/035D53.png) `#035D53`|
+|Art Black|Artist Range|16|16|16|![#101010](https://placehold.co/15x15/101010/101010.png) `#101010`|
+|Art White|Artist Range|254|254|254|![#FEFEFE](https://placehold.co/15x15/FEFEFE/FEFEFE.png) `#FEFEFE`|
+|Artic Blue|Artist Range|136|143|161|![#888FA1](https://placehold.co/15x15/888FA1/888FA1.png) `#888FA1`|
+|Artic Blue|Scale Color Range|159|179|188|![#9FB3BC](https://placehold.co/15x15/9FB3BC/9FB3BC.png) `#9FB3BC`|
+|Baal Crimson|Fantasy & Games Range|225|26|57|![#E11A39](https://placehold.co/15x15/E11A39/E11A39.png) `#E11A39`|
+|Basic Flesh|Scale Color Range|208|179|147|![#D0B393](https://placehold.co/15x15/D0B393/D0B393.png) `#D0B393`|
+|Basilisk Green|Instant Colors Range|61|81|82|![#3D5152](https://placehold.co/15x15/3D5152/3D5152.png) `#3D5152`|
+|Beherit Red|Fantasy & Games Range|226|57|14|![#E2390E](https://placehold.co/15x15/E2390E/E2390E.png) `#E2390E`|
+|Belladonna Green|Instant Colors Range|76|165|121|![#4CA579](https://placehold.co/15x15/4CA579/4CA579.png) `#4CA579`|
+|Bering Blue|Scale Color Range|108|137|151|![#6C8997](https://placehold.co/15x15/6C8997/6C8997.png) `#6C8997`|
+|Birch|Scale Color Range|239|210|176|![#EFD2B0](https://placehold.co/15x15/EFD2B0/EFD2B0.png) `#EFD2B0`|
+|Black|Scale Color Range|44|44|44|![#2C2C2C](https://placehold.co/15x15/2C2C2C/2C2C2C.png) `#2C2C2C`|
+|Black Forest Green|Scale Color Range|0|72|52|![#004834](https://placehold.co/15x15/004834/004834.png) `#004834`|
+|Black Ink|Artist Range|27|26|24|![#1B1A18](https://placehold.co/15x15/1B1A18/1B1A18.png) `#1B1A18`|
+|Black Leather|Scale Color Range|66|42|42|![#422A2A](https://placehold.co/15x15/422A2A/422A2A.png) `#422A2A`|
+|Black Metal|Metal N Alchemy Range|72|72|72|![#484848](https://placehold.co/15x15/484848/484848.png) `#484848`|
+|Blackert Brown|Fantasy & Games Range|184|130|92|![#B8825C](https://placehold.co/15x15/B8825C/B8825C.png) `#B8825C`|
+|Blood Red|Scale Color Range|145|39|39|![#912727](https://placehold.co/15x15/912727/912727.png) `#912727`|
+|Bloodfest Crimson|Fantasy & Games Range|106|3|59|![#6A033B](https://placehold.co/15x15/6A033B/6A033B.png) `#6A033B`|
+|Boreal Green|Scale Color Range|0|86|62|![#00563E](https://placehold.co/15x15/00563E/00563E.png) `#00563E`|
+|Bosh Chesnut|Fantasy & Games Range|105|69|47|![#69452F](https://placehold.co/15x15/69452F/69452F.png) `#69452F`|
+|Braineater Azure|Fantasy & Games Range|103|106|175|![#676AAF](https://placehold.co/15x15/676AAF/676AAF.png) `#676AAF`|
+|Braun|Warfront  Range|229|200|158|![#E5C89E](https://placehold.co/15x15/E5C89E/E5C89E.png) `#E5C89E`|
+|Brilli White|FX Range|254|254|254|![#FEFEFE](https://placehold.co/15x15/FEFEFE/FEFEFE.png) `#FEFEFE`|
+|Brown Gray|Scale Color Range|123|113|112|![#7B7170](https://placehold.co/15x15/7B7170/7B7170.png) `#7B7170`|
+|Brown Leather|Scale Color Range|77|44|29|![#4D2C1D](https://placehold.co/15x15/4D2C1D/4D2C1D.png) `#4D2C1D`|
+|Buff|Artist Range|178|157|130|![#B29D82](https://placehold.co/15x15/B29D82/B29D82.png) `#B29D82`|
+|Burgundy Wine Red|Artist Range|90|34|18|![#5A2212](https://placehold.co/15x15/5A2212/5A2212.png) `#5A2212`|
+|Burnt Sienna|Artist Range|124|45|6|![#7C2D06](https://placehold.co/15x15/7C2D06/7C2D06.png) `#7C2D06`|
+|Burnt Sienna Umber|Artist Range|76|42|32|![#4C2A20](https://placehold.co/15x15/4C2A20/4C2A20.png) `#4C2A20`|
+|Burnt Skin|Artist Range|101|64|35|![#654023](https://placehold.co/15x15/654023/654023.png) `#654023`|
+|Burnt Umber|Artist Range|81|64|44|![#51402C](https://placehold.co/15x15/51402C/51402C.png) `#51402C`|
+|Cantabric Blue|Scale Color Range|22|71|101|![#164765](https://placehold.co/15x15/164765/164765.png) `#164765`|
+|Caribbean Blue|Scale Color Range|117|182|176|![#75B6B0](https://placehold.co/15x15/75B6B0/75B6B0.png) `#75B6B0`|
+|Caspian Blue|Scale Color Range|42|79|88|![#2A4F58](https://placehold.co/15x15/2A4F58/2A4F58.png) `#2A4F58`|
+|Chesknut Ink|Artist Range|64|54|45|![#40362D](https://placehold.co/15x15/40362D/40362D.png) `#40362D`|
+|Chink Orange|Fantasy & Games Range|178|98|27|![#B2621B](https://placehold.co/15x15/B2621B/B2621B.png) `#B2621B`|
+|Citrine Alchemy|Metal N Alchemy Range|239|225|199|![#EFE1C7](https://placehold.co/15x15/EFE1C7/EFE1C7.png) `#EFE1C7`|
+|City Dust|Soil Works|198|193|189|![#C6C1BD](https://placehold.co/15x15/C6C1BD/C6C1BD.png) `#C6C1BD`|
+|Cobalt Blue|Artist Range|0|94|145|![#005E91](https://placehold.co/15x15/005E91/005E91.png) `#005E91`|
+|Cobalt Metal|Metal N Alchemy Range|127|162|181|![#7FA2B5](https://placehold.co/15x15/7FA2B5/7FA2B5.png) `#7FA2B5`|
+|Cobalt Violet Grey|Artist Range|115|118|139|![#73768B](https://placehold.co/15x15/73768B/73768B.png) `#73768B`|
+|Cokum Copper|Fantasy & Games Range|163|112|33|![#A37021](https://placehold.co/15x15/A37021/A37021.png) `#A37021`|
+|Coral Red|Artist Range|247|55|36|![#F73724](https://placehold.co/15x15/F73724/F73724.png) `#F73724`|
+|Cork Brown|Artist Range|159|141|120|![#9F8D78](https://placehold.co/15x15/9F8D78/9F8D78.png) `#9F8D78`|
+|Corrupted Stamina|Instant Colors Range|105|157|12|![#699D0C](https://placehold.co/15x15/699D0C/699D0C.png) `#699D0C`|
+|Cremeweiss|Warfront  Range|252|252|224|![#FCFCE0](https://placehold.co/15x15/FCFCE0/FCFCE0.png) `#FCFCE0`|
+|Crimsom|Artist Range|194|35|53|![#C22335](https://placehold.co/15x15/C22335/C22335.png) `#C22335`|
+|Crimson Ink|Artist Range|159|28|43|![#9F1C2B](https://placehold.co/15x15/9F1C2B/9F1C2B.png) `#9F1C2B`|
+|Dark Brown Ochre|Artist Range|30|19|23|![#1E1317](https://placehold.co/15x15/1E1317/1E1317.png) `#1E1317`|
+|Dark Earth|Warfront  Range|100|55|34|![#643722](https://placehold.co/15x15/643722/643722.png) `#643722`|
+|Dark Kraken|Instant Colors Range|25|74|91|![#194A5B](https://placehold.co/15x15/194A5B/194A5B.png) `#194A5B`|
+|Dark Mud|Soil Works|33|2|0|![#210200](https://placehold.co/15x15/210200/210200.png) `#210200`|
+|Dark Prussian Blue|Artist Range|37|36|48|![#252430](https://placehold.co/15x15/252430/252430.png) `#252430`|
+|Dark Rust|Soil Works|107|55|41|![#6B3729](https://placehold.co/15x15/6B3729/6B3729.png) `#6B3729`|
+|Dark Sand|Soil Works|212|187|146|![#D4BB92](https://placehold.co/15x15/D4BB92/D4BB92.png) `#D4BB92`|
+|Dark Stains|Soil Works|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Dark Ultramarine|Artist Range|50|41|122|![#32297A](https://placehold.co/15x15/32297A/32297A.png) `#32297A`|
+|Dark Violet|Artist Range|72|26|63|![#481A3F](https://placehold.co/15x15/481A3F/481A3F.png) `#481A3F`|
+|Dead Flesh|Instant Colors Range|127|102|98|![#7F6662](https://placehold.co/15x15/7F6662/7F6662.png) `#7F6662`|
+|Decay Black|Fantasy & Games Range|28|28|28|![#1C1C1C](https://placehold.co/15x15/1C1C1C/1C1C1C.png) `#1C1C1C`|
+|Decayed Metal|Metal N Alchemy Range|93|64|56|![#5D4038](https://placehold.co/15x15/5D4038/5D4038.png) `#5D4038`|
+|Deep Blue|Scale Color Range|56|59|74|![#383B4A](https://placehold.co/15x15/383B4A/383B4A.png) `#383B4A`|
+|Deep Ocean|Warfront  Range|0|11|43|![#000B2B](https://placehold.co/15x15/000B2B/000B2B.png) `#000B2B`|
+|Deep Red|Scale Color Range|112|27|32|![#701B20](https://placehold.co/15x15/701B20/701B20.png) `#701B20`|
+|Demon Brown|Instant Colors Range|102|39|30|![#66271E](https://placehold.co/15x15/66271E/66271E.png) `#66271E`|
+|Desert Yellow|Warfront  Range|217|175|117|![#D9AF75](https://placehold.co/15x15/D9AF75/D9AF75.png) `#D9AF75`|
+|Despair Green|Fantasy & Games Range|23|56|61|![#17383D](https://placehold.co/15x15/17383D/17383D.png) `#17383D`|
+|Dragon Blood|Instant Colors Range|129|6|34|![#810622](https://placehold.co/15x15/810622/810622.png) `#810622`|
+|Drain Life|Instant Colors Range|230|148|100|![#E69464](https://placehold.co/15x15/E69464/E69464.png) `#E69464`|
+|Dubai Brown|Scale Color Range|88|61|34|![#583D22](https://placehold.co/15x15/583D22/583D22.png) `#583D22`|
+|Dunkelbraun Brown|Warfront  Range|65|48|40|![#413028](https://placehold.co/15x15/413028/413028.png) `#413028`|
+|Dunkelgelb 44|Warfront  Range|222|209|177|![#DED1B1](https://placehold.co/15x15/DED1B1/DED1B1.png) `#DED1B1`|
+|Dunkelgelb Yellow|Warfront  Range|203|181|80|![#CBB550](https://placehold.co/15x15/CBB550/CBB550.png) `#CBB550`|
+|Dunkelgrau Gray|Warfront  Range|87|88|90|![#57585A](https://placehold.co/15x15/57585A/57585A.png) `#57585A`|
+|Dust In Summertime|Soil Works|114|117|86|![#727556](https://placehold.co/15x15/727556/727556.png) `#727556`|
+|Dwarven Gold|Metal N Alchemy Range|214|141|47|![#D68D2F](https://placehold.co/15x15/D68D2F/D68D2F.png) `#D68D2F`|
+|Earth Green|Artist Range|74|60|47|![#4A3C2F](https://placehold.co/15x15/4A3C2F/4A3C2F.png) `#4A3C2F`|
+|Eclipse Grey|Scale Color Range|54|54|54|![#363636](https://placehold.co/15x15/363636/363636.png) `#363636`|
+|Eldandil Violet|Fantasy & Games Range|43|26|60|![#2B1A3C](https://placehold.co/15x15/2B1A3C/2B1A3C.png) `#2B1A3C`|
+|Electric Blue|FX Range|2|26|254|![#021AFE](https://placehold.co/15x15/021AFE/021AFE.png) `#021AFE`|
+|Elixir Green|Instant Colors Range|0|92|77|![#005C4D](https://placehold.co/15x15/005C4D/005C4D.png) `#005C4D`|
+|Elven Gold|Metal N Alchemy Range|205|171|71|![#CDAB47](https://placehold.co/15x15/CDAB47/CDAB47.png) `#CDAB47`|
+|Emerald Alchemy|Metal N Alchemy Range|120|160|152|![#78A098](https://placehold.co/15x15/78A098/78A098.png) `#78A098`|
+|Emerald Green|Artist Range|22|83|65|![#165341](https://placehold.co/15x15/165341/165341.png) `#165341`|
+|Endurance Brown|Instant Colors Range|119|63|28|![#773F1C](https://placehold.co/15x15/773F1C/773F1C.png) `#773F1C`|
+|Estus Yellow|Instant Colors Range|254|228|89|![#FEE459](https://placehold.co/15x15/FEE459/FEE459.png) `#FEE459`|
+|Evil Root|Instant Colors Range|240|126|74|![#F07E4A](https://placehold.co/15x15/F07E4A/F07E4A.png) `#F07E4A`|
+|Fairy Blood|Instant Colors Range|65|72|116|![#414874](https://placehold.co/15x15/414874/414874.png) `#414874`|
+|Fall Green|Scale Color Range|201|209|97|![#C9D161](https://placehold.co/15x15/C9D161/C9D161.png) `#C9D161`|
+|Field Gray|Scale Color Range|102|115|108|![#66736C](https://placehold.co/15x15/66736C/66736C.png) `#66736C`|
+|Field Grey 1|Warfront  Range|57|85|60|![#39553C](https://placehold.co/15x15/39553C/39553C.png) `#39553C`|
+|Field Grey 2|Warfront  Range|63|76|69|![#3F4C45](https://placehold.co/15x15/3F4C45/3F4C45.png) `#3F4C45`|
+|Flat Black|Warfront  Range|28|28|28|![#1C1C1C](https://placehold.co/15x15/1C1C1C/1C1C1C.png) `#1C1C1C`|
+|Flight Blue|Warfront  Range|1|104|139|![#01688B](https://placehold.co/15x15/01688B/01688B.png) `#01688B`|
+|Frenzy Orange|Instant Colors Range|236|96|1|![#EC6001](https://placehold.co/15x15/EC6001/EC6001.png) `#EC6001`|
+|Fuchsia|Scale Color Range|170|51|107|![#AA336B](https://placehold.co/15x15/AA336B/AA336B.png) `#AA336B`|
+|Fuel And Grease|Soil Works|238|234|233|![#EEEAE9](https://placehold.co/15x15/EEEAE9/EEEAE9.png) `#EEEAE9`|
+|Full Healing|Instant Colors Range|254|239|0|![#FEEF00](https://placehold.co/15x15/FEEF00/FEEF00.png) `#FEEF00`|
+|Garnet Alchemy|Metal N Alchemy Range|136|66|77|![#88424D](https://placehold.co/15x15/88424D/88424D.png) `#88424D`|
+|Gelbraun Brown|Warfront  Range|213|172|116|![#D5AC74](https://placehold.co/15x15/D5AC74/D5AC74.png) `#D5AC74`|
+|Gobi Brown|Scale Color Range|110|90|63|![#6E5A3F](https://placehold.co/15x15/6E5A3F/6E5A3F.png) `#6E5A3F`|
+|Goblin Flesh|Fantasy & Games Range|119|184|64|![#77B840](https://placehold.co/15x15/77B840/77B840.png) `#77B840`|
+|Golden Flesh|Artist Range|226|167|109|![#E2A76D](https://placehold.co/15x15/E2A76D/E2A76D.png) `#E2A76D`|
+|Golden Skin|Scale Color Range|237|200|156|![#EDC89C](https://placehold.co/15x15/EDC89C/EDC89C.png) `#EDC89C`|
+|Golem Grey|Instant Colors Range|44|48|49|![#2C3031](https://placehold.co/15x15/2C3031/2C3031.png) `#2C3031`|
+|Graphene Gray|Scale Color Range|74|81|91|![#4A515B](https://placehold.co/15x15/4A515B/4A515B.png) `#4A515B`|
+|Graphite|Scale Color Range|139|140|135|![#8B8C87](https://placehold.co/15x15/8B8C87/8B8C87.png) `#8B8C87`|
+|Grau|Warfront  Range|232|213|196|![#E8D5C4](https://placehold.co/15x15/E8D5C4/E8D5C4.png) `#E8D5C4`|
+|Graugrun Gray|Warfront  Range|160|136|72|![#A08848](https://placehold.co/15x15/A08848/A08848.png) `#A08848`|
+|Grease|Soil Works|62|45|37|![#3E2D25](https://placehold.co/15x15/3E2D25/3E2D25.png) `#3E2D25`|
+|Green Grey|Artist Range|44|48|51|![#2C3033](https://placehold.co/15x15/2C3033/2C3033.png) `#2C3033`|
+|Green Moss|Soil Works|28|124|35|![#1C7C23](https://placehold.co/15x15/1C7C23/1C7C23.png) `#1C7C23`|
+|Green Ochre|Warfront  Range|148|129|35|![#948123](https://placehold.co/15x15/948123/948123.png) `#948123`|
+|Greenskin Flesh|Fantasy & Games Range|0|111|52|![#006F34](https://placehold.co/15x15/006F34/006F34.png) `#006F34`|
+|Grey Spell|Instant Colors Range|128|143|176|![#808FB0](https://placehold.co/15x15/808FB0/808FB0.png) `#808FB0`|
+|Grizzly Brown|Instant Colors Range|80|24|27|![#50181B](https://placehold.co/15x15/50181B/50181B.png) `#50181B`|
+|Harvester Flesh|Fantasy & Games Range|208|167|145|![#D0A791](https://placehold.co/15x15/D0A791/D0A791.png) `#D0A791`|
+|Hastur Purple|Fantasy & Games Range|116|3|49|![#740331](https://placehold.co/15x15/740331/740331.png) `#740331`|
+|Health Red|Instant Colors Range|195|22|16|![#C31610](https://placehold.co/15x15/C31610/C31610.png) `#C31610`|
+|Heavy Metal|Metal N Alchemy Range|156|157|161|![#9C9DA1](https://placehold.co/15x15/9C9DA1/9C9DA1.png) `#9C9DA1`|
+|Hellbound Flesh|Fantasy & Games Range|156|177|172|![#9CB1AC](https://placehold.co/15x15/9CB1AC/9CB1AC.png) `#9CB1AC`|
+|Hiril Blue|Fantasy & Games Range|74|169|191|![#4AA9BF](https://placehold.co/15x15/4AA9BF/4AA9BF.png) `#4AA9BF`|
+|Huldra Blue|Fantasy & Games Range|35|66|86|![#234256](https://placehold.co/15x15/234256/234256.png) `#234256`|
+|Human Flesh|Instant Colors Range|218|171|151|![#DAAB97](https://placehold.co/15x15/DAAB97/DAAB97.png) `#DAAB97`|
+|Hykey Yellow|Fantasy & Games Range|239|212|145|![#EFD491](https://placehold.co/15x15/EFD491/EFD491.png) `#EFD491`|
+|Indian Shadow|Scale Color Range|103|61|63|![#673D3F](https://placehold.co/15x15/673D3F/673D3F.png) `#673D3F`|
+|Inktense Black|Inktensity Range|41|41|41|![#292929](https://placehold.co/15x15/292929/292929.png) `#292929`|
+|Inktense Blue|Inktensity Range|1|40|97|![#012861](https://placehold.co/15x15/012861/012861.png) `#012861`|
+|Inktense Chesnut|Inktensity Range|128|60|21|![#803C15](https://placehold.co/15x15/803C15/803C15.png) `#803C15`|
+|Inktense Green|Inktensity Range|4|62|50|![#043E32](https://placehold.co/15x15/043E32/043E32.png) `#043E32`|
+|Inktense Red|Inktensity Range|169|30|33|![#A91E21](https://placehold.co/15x15/A91E21/A91E21.png) `#A91E21`|
+|Inktense Violet|Inktensity Range|73|25|111|![#49196F](https://placehold.co/15x15/49196F/49196F.png) `#49196F`|
+|Inktense Wood|Inktensity Range|73|51|38|![#493326](https://placehold.co/15x15/493326/493326.png) `#493326`|
+|Inktense Yellow|Inktensity Range|227|190|21|![#E3BE15](https://placehold.co/15x15/E3BE15/E3BE15.png) `#E3BE15`|
+|Innsmouth Blue|Fantasy & Games Range|0|89|107|![#00596B](https://placehold.co/15x15/00596B/00596B.png) `#00596B`|
+|Intense Yellow|Artist Range|242|203|2|![#F2CB02](https://placehold.co/15x15/F2CB02/F2CB02.png) `#F2CB02`|
+|Irati Green|Scale Color Range|0|135|33|![#008721](https://placehold.co/15x15/008721/008721.png) `#008721`|
+|Iroko|Scale Color Range|178|143|77|![#B28F4D](https://placehold.co/15x15/B28F4D/B28F4D.png) `#B28F4D`|
+|Ishtar Pink|Fantasy & Games Range|252|147|99|![#FC9363](https://placehold.co/15x15/FC9363/FC9363.png) `#FC9363`|
+|Jade Green|Artist Range|47|190|175|![#2FBEAF](https://placehold.co/15x15/2FBEAF/2FBEAF.png) `#2FBEAF`|
+|Jorildyn Turquoise|Fantasy & Games Range|6|125|167|![#067DA7](https://placehold.co/15x15/067DA7/067DA7.png) `#067DA7`|
+|Kalahari Orange|Scale Color Range|163|86|60|![#A3563C](https://placehold.co/15x15/A3563C/A3563C.png) `#A3563C`|
+|Kunzite Alchemy|Metal N Alchemy Range|202|159|187|![#CA9FBB](https://placehold.co/15x15/CA9FBB/CA9FBB.png) `#CA9FBB`|
+|Leaden Sky|Warfront  Range|64|79|112|![#404F70](https://placehold.co/15x15/404F70/404F70.png) `#404F70`|
+|Lemon Yellow|Artist Range|235|234|82|![#EBEA52](https://placehold.co/15x15/EBEA52/EBEA52.png) `#EBEA52`|
+|Lendanis Grey|Fantasy & Games Range|139|141|164|![#8B8DA4](https://placehold.co/15x15/8B8DA4/8B8DA4.png) `#8B8DA4`|
+|Leviathan Blue|Instant Colors Range|0|94|112|![#005E70](https://placehold.co/15x15/005E70/005E70.png) `#005E70`|
+|Life Red|Instant Colors Range|230|50|23|![#E63217](https://placehold.co/15x15/E63217/E63217.png) `#E63217`|
+|Light Moss Green|Artist Range|97|112|27|![#61701B](https://placehold.co/15x15/61701B/61701B.png) `#61701B`|
+|Light Rust|Soil Works|193|104|44|![#C1682C](https://placehold.co/15x15/C1682C/C1682C.png) `#C1682C`|
+|Light Skin|Scale Color Range|226|184|144|![#E2B890](https://placehold.co/15x15/E2B890/E2B890.png) `#E2B890`|
+|Light Skin|Artist Range|211|181|173|![#D3B5AD](https://placehold.co/15x15/D3B5AD/D3B5AD.png) `#D3B5AD`|
+|Light Sky|Warfront  Range|120|144|180|![#7890B4](https://placehold.co/15x15/7890B4/7890B4.png) `#7890B4`|
+|Light Ultramarine|Artist Range|38|62|136|![#263E88](https://placehold.co/15x15/263E88/263E88.png) `#263E88`|
+|Lilith Yellow|Fantasy & Games Range|253|234|131|![#FDEA83](https://placehold.co/15x15/FDEA83/FDEA83.png) `#FDEA83`|
+|Lime Green|Artist Range|172|228|74|![#ACE44A](https://placehold.co/15x15/ACE44A/ACE44A.png) `#ACE44A`|
+|Love Affair|Instant Colors Range|233|43|55|![#E92B37](https://placehold.co/15x15/E92B37/E92B37.png) `#E92B37`|
+|Magenta|Artist Range|198|10|133|![#C60A85](https://placehold.co/15x15/C60A85/C60A85.png) `#C60A85`|
+|Magic Blue|Instant Colors Range|20|119|151|![#147797](https://placehold.co/15x15/147797/147797.png) `#147797`|
+|Mana Regeneration|Instant Colors Range|1|132|210|![#0184D2](https://placehold.co/15x15/0184D2/0184D2.png) `#0184D2`|
+|Marduk Yellow|Fantasy & Games Range|255|239|0|![#FFEF00](https://placehold.co/15x15/FFEF00/FFEF00.png) `#FFEF00`|
+|Mars Orange|Scale Color Range|175|102|49|![#AF6631](https://placehold.co/15x15/AF6631/AF6631.png) `#AF6631`|
+|Mayhem Red|Fantasy & Games Range|159|13|32|![#9F0D20](https://placehold.co/15x15/9F0D20/9F0D20.png) `#9F0D20`|
+|Mediterranean Blue|Scale Color Range|77|115|178|![#4D73B2](https://placehold.co/15x15/4D73B2/4D73B2.png) `#4D73B2`|
+|Medium Wet|Soil Works|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Merm Green|Fantasy & Games Range|69|82|54|![#455236](https://placehold.co/15x15/455236/455236.png) `#455236`|
+|Mid Ground / Earth|Soil Works|200|173|126|![#C8AD7E](https://placehold.co/15x15/C8AD7E/C8AD7E.png) `#C8AD7E`|
+|Misfits Green|Fantasy & Games Range|0|75|49|![#004B31](https://placehold.co/15x15/004B31/004B31.png) `#004B31`|
+|Miskatonic Grey|Fantasy & Games Range|187|183|180|![#BBB7B4](https://placehold.co/15x15/BBB7B4/BBB7B4.png) `#BBB7B4`|
+|Mojave White|Scale Color Range|210|206|181|![#D2CEB5](https://placehold.co/15x15/D2CEB5/D2CEB5.png) `#D2CEB5`|
+|Moonray Flesh|Fantasy & Games Range|240|215|161|![#F0D7A1](https://placehold.co/15x15/F0D7A1/F0D7A1.png) `#F0D7A1`|
+|Moonstone Alchemy|Metal N Alchemy Range|188|147|127|![#BC937F](https://placehold.co/15x15/BC937F/BC937F.png) `#BC937F`|
+|Moss Green|Artist Range|67|73|47|![#43492F](https://placehold.co/15x15/43492F/43492F.png) `#43492F`|
+|Nacar|Scale Color Range|155|159|144|![#9B9F90](https://placehold.co/15x15/9B9F90/9B9F90.png) `#9B9F90`|
+|Naples Yellow|Artist Range|218|172|34|![#DAAC22](https://placehold.co/15x15/DAAC22/DAAC22.png) `#DAAC22`|
+|Navy Blue|Scale Color Range|37|59|109|![#253B6D](https://placehold.co/15x15/253B6D/253B6D.png) `#253B6D`|
+|Necro Gold|Metal N Alchemy Range|87|78|49|![#574E31](https://placehold.co/15x15/574E31/574E31.png) `#574E31`|
+|Necro Grey|Fantasy & Games Range|48|48|56|![#303038](https://placehold.co/15x15/303038/303038.png) `#303038`|
+|Neon Blue|Artist Range|14|129|214|![#0E81D6](https://placehold.co/15x15/0E81D6/0E81D6.png) `#0E81D6`|
+|Neon Green|Artist Range|98|246|135|![#62F687](https://placehold.co/15x15/62F687/62F687.png) `#62F687`|
+|Neon Orange|Artist Range|255|158|14|![#FF9E0E](https://placehold.co/15x15/FF9E0E/FF9E0E.png) `#FF9E0E`|
+|Neon Pink|Artist Range|254|63|71|![#FE3F47](https://placehold.co/15x15/FE3F47/FE3F47.png) `#FE3F47`|
+|Neon Red|Artist Range|239|50|29|![#EF321D](https://placehold.co/15x15/EF321D/EF321D.png) `#EF321D`|
+|Neon Yellow|Artist Range|237|254|90|![#EDFE5A](https://placehold.co/15x15/EDFE5A/EDFE5A.png) `#EDFE5A`|
+|Ocean Blue|Warfront  Range|12|33|64|![#0C2140](https://placehold.co/15x15/0C2140/0C2140.png) `#0C2140`|
+|Ocean Gray|Warfront  Range|85|100|119|![#556477](https://placehold.co/15x15/556477/556477.png) `#556477`|
+|Odorless Thinner|Soil Works|223|223|223|![#DFDFDF](https://placehold.co/15x15/DFDFDF/DFDFDF.png) `#DFDFDF`|
+|Off White|Artist Range|223|211|185|![#DFD3B9](https://placehold.co/15x15/DFD3B9/DFD3B9.png) `#DFD3B9`|
+|Ogre Brown|Instant Colors Range|192|119|4|![#C07704](https://placehold.co/15x15/C07704/C07704.png) `#C07704`|
+|Old Copper|Metal N Alchemy Range|151|96|76|![#97604C](https://placehold.co/15x15/97604C/97604C.png) `#97604C`|
+|Olive Brown|Warfront  Range|67|70|49|![#434631](https://placehold.co/15x15/434631/434631.png) `#434631`|
+|Olive Green|Artist Range|88|81|53|![#585135](https://placehold.co/15x15/585135/585135.png) `#585135`|
+|Olivegrun 44|Warfront  Range|147|164|93|![#93A45D](https://placehold.co/15x15/93A45D/93A45D.png) `#93A45D`|
+|Olivegrun Green|Warfront  Range|90|100|50|![#5A6432](https://placehold.co/15x15/5A6432/5A6432.png) `#5A6432`|
+|Orange|Warfront  Range|233|103|15|![#E9670F](https://placehold.co/15x15/E9670F/E9670F.png) `#E9670F`|
+|Orange|Artist Range|212|91|20|![#D45B14](https://placehold.co/15x15/D45B14/D45B14.png) `#D45B14`|
+|Orange Leather|Scale Color Range|160|99|55|![#A06337](https://placehold.co/15x15/A06337/A06337.png) `#A06337`|
+|Orange Neon|FX Range|249|100|1|![#F96401](https://placehold.co/15x15/F96401/F96401.png) `#F96401`|
+|Orcish Dermis|Fantasy & Games Range|219|125|115|![#DB7D73](https://placehold.co/15x15/DB7D73/DB7D73.png) `#DB7D73`|
+|Oxford Blue|Artist Range|67|78|168|![#434EA8](https://placehold.co/15x15/434EA8/434EA8.png) `#434EA8`|
+|Pale Dust|Soil Works|234|209|187|![#EAD1BB](https://placehold.co/15x15/EAD1BB/EAD1BB.png) `#EAD1BB`|
+|Pale Earth|Warfront  Range|95|65|37|![#5F4125](https://placehold.co/15x15/5F4125/5F4125.png) `#5F4125`|
+|Pale Skin|Scale Color Range|241|217|207|![#F1D9CF](https://placehold.co/15x15/F1D9CF/F1D9CF.png) `#F1D9CF`|
+|Pale Skin|Artist Range|243|214|207|![#F3D6CF](https://placehold.co/15x15/F3D6CF/F3D6CF.png) `#F3D6CF`|
+|Panzer Grey|Warfront  Range|48|56|59|![#30383B](https://placehold.co/15x15/30383B/30383B.png) `#30383B`|
+|Panzer Yellow|Warfront  Range|214|199|140|![#D6C78C](https://placehold.co/15x15/D6C78C/D6C78C.png) `#D6C78C`|
+|Paralyze Blue|Instant Colors Range|53|121|192|![#3579C0](https://placehold.co/15x15/3579C0/3579C0.png) `#3579C0`|
+|Pastel Blue|Artist Range|68|100|111|![#44646F](https://placehold.co/15x15/44646F/44646F.png) `#44646F`|
+|Pastel Green|Artist Range|146|157|151|![#929D97](https://placehold.co/15x15/929D97/929D97.png) `#929D97`|
+|Pastel Pink|Artist Range|217|122|186|![#D97ABA](https://placehold.co/15x15/D97ABA/D97ABA.png) `#D97ABA`|
+|Pastel Violet|Artist Range|128|74|149|![#804A95](https://placehold.co/15x15/804A95/804A95.png) `#804A95`|
+|Peanut Butter|Fantasy & Games Range|187|129|3|![#BB8103](https://placehold.co/15x15/BB8103/BB8103.png) `#BB8103`|
+|Pearl Grey|Artist Range|134|121|128|![#867980](https://placehold.co/15x15/867980/867980.png) `#867980`|
+|Peridot Alchemy|Metal N Alchemy Range|138|141|120|![#8A8D78](https://placehold.co/15x15/8A8D78/8A8D78.png) `#8A8D78`|
+|Permanent Orange|Artist Range|255|107|13|![#FF6B0D](https://placehold.co/15x15/FF6B0D/FF6B0D.png) `#FF6B0D`|
+|Petroleum Gray|Scale Color Range|85|77|75|![#554D4B](https://placehold.co/15x15/554D4B/554D4B.png) `#554D4B`|
+|Phoenix Egg|Instant Colors Range|229|208|163|![#E5D0A3](https://placehold.co/15x15/E5D0A3/E5D0A3.png) `#E5D0A3`|
+|Phoenix Feather|Instant Colors Range|209|138|92|![#D18A5C](https://placehold.co/15x15/D18A5C/D18A5C.png) `#D18A5C`|
+|Pink Flesh|Scale Color Range|209|146|141|![#D1928D](https://placehold.co/15x15/D1928D/D1928D.png) `#D1928D`|
+|Pink Flesh|Artist Range|189|112|102|![#BD7066](https://placehold.co/15x15/BD7066/BD7066.png) `#BD7066`|
+|Pistachio Green Ink|Artist Range|192|207|24|![#C0CF18](https://placehold.co/15x15/C0CF18/C0CF18.png) `#C0CF18`|
+|Primary Blue|Artist Range|26|118|181|![#1A76B5](https://placehold.co/15x15/1A76B5/1A76B5.png) `#1A76B5`|
+|Primary Red|Artist Range|213|48|54|![#D53036](https://placehold.co/15x15/D53036/D53036.png) `#D53036`|
+|Primary Yellow|Artist Range|244|233|21|![#F4E915](https://placehold.co/15x15/F4E915/F4E915.png) `#F4E915`|
+|Primer Surface Black|Primers|16|19|24|![#101318](https://placehold.co/15x15/101318/101318.png) `#101318`|
+|Primer Surface Gray|Primers|100|100|100|![#646464](https://placehold.co/15x15/646464/646464.png) `#646464`|
+|Primer Surface White|Primers|201|207|213|![#C9CFD5](https://placehold.co/15x15/C9CFD5/C9CFD5.png) `#C9CFD5`|
+|Prusian Blue|Artist Range|6|41|61|![#06293D](https://placehold.co/15x15/06293D/06293D.png) `#06293D`|
+|Psychedelic Purple|FX Range|187|28|255|![#BB1CFF](https://placehold.co/15x15/BB1CFF/BB1CFF.png) `#BB1CFF`|
+|Pure Copper|Metal N Alchemy Range|204|116|76|![#CC744C](https://placehold.co/15x15/CC744C/CC744C.png) `#CC744C`|
+|Purity White|Fantasy & Games Range|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Purple|Artist Range|145|35|96|![#912360](https://placehold.co/15x15/912360/912360.png) `#912360`|
+|Rage Brown|Instant Colors Range|124|43|22|![#7C2B16](https://placehold.co/15x15/7C2B16/7C2B16.png) `#7C2B16`|
+|Ragweed Orange|Instant Colors Range|223|106|39|![#DF6A27](https://placehold.co/15x15/DF6A27/DF6A27.png) `#DF6A27`|
+|Rainy Gray|Scale Color Range|139|134|131|![#8B8683](https://placehold.co/15x15/8B8683/8B8683.png) `#8B8683`|
+|Raw Sienna|Artist Range|101|66|38|![#654226](https://placehold.co/15x15/654226/654226.png) `#654226`|
+|Raw Umber|Artist Range|118|95|51|![#765F33](https://placehold.co/15x15/765F33/765F33.png) `#765F33`|
+|Red Ecstasy|FX Range|248|24|3|![#F81803](https://placehold.co/15x15/F81803/F81803.png) `#F81803`|
+|Red Label|Warfront  Range|223|6|23|![#DF0617](https://placehold.co/15x15/DF0617/DF0617.png) `#DF0617`|
+|Red Leather|Scale Color Range|95|54|52|![#5F3634](https://placehold.co/15x15/5F3634/5F3634.png) `#5F3634`|
+|Red Ochre|Artist Range|128|54|45|![#80362D](https://placehold.co/15x15/80362D/80362D.png) `#80362D`|
+|Remove Mana|Instant Colors Range|13|39|54|![#0D2736](https://placehold.co/15x15/0D2736/0D2736.png) `#0D2736`|
+|Replenish Blue|Instant Colors Range|1|71|156|![#01479C](https://placehold.co/15x15/01479C/01479C.png) `#01479C`|
+|Resurrection Flesh|Fantasy & Games Range|187|139|101|![#BB8B65](https://placehold.co/15x15/BB8B65/BB8B65.png) `#BB8B65`|
+|Riff Green|Fantasy & Games Range|26|45|41|![#1A2D29](https://placehold.co/15x15/1A2D29/1A2D29.png) `#1A2D29`|
+|Rlyeh Grey|Fantasy & Games Range|70|75|78|![#464B4E](https://placehold.co/15x15/464B4E/464B4E.png) `#464B4E`|
+|Rotbraun 44|Warfront  Range|144|80|36|![#905024](https://placehold.co/15x15/905024/905024.png) `#905024`|
+|Rotbraun Primer Red|Warfront  Range|146|84|71|![#925447](https://placehold.co/15x15/925447/925447.png) `#925447`|
+|Rotbraun Red|Warfront  Range|82|52|26|![#52341A](https://placehold.co/15x15/52341A/52341A.png) `#52341A`|
+|Rotten Pus|Instant Colors Range|251|180|0|![#FBB400](https://placehold.co/15x15/FBB400/FBB400.png) `#FBB400`|
+|Ruby Alchemy|Metal N Alchemy Range|211|120|135|![#D37887](https://placehold.co/15x15/D37887/D37887.png) `#D37887`|
+|Russian Green|Warfront  Range|88|79|38|![#584F26](https://placehold.co/15x15/584F26/584F26.png) `#584F26`|
+|Russian Light Green|Warfront  Range|99|81|17|![#635111](https://placehold.co/15x15/635111/635111.png) `#635111`|
+|Russian Uniform|Warfront  Range|105|89|40|![#695928](https://placehold.co/15x15/695928/695928.png) `#695928`|
+|SS Camo Golden Brown|Warfront  Range|240|160|1|![#F0A001](https://placehold.co/15x15/F0A001/F0A001.png) `#F0A001`|
+|Sahara Sand|Warfront  Range|239|208|102|![#EFD066](https://placehold.co/15x15/EFD066/EFD066.png) `#EFD066`|
+|Sahara Yellow|Scale Color Range|170|133|45|![#AA852D](https://placehold.co/15x15/AA852D/AA852D.png) `#AA852D`|
+|Salmon Fury|Instant Colors Range|235|86|80|![#EB5650](https://placehold.co/15x15/EB5650/EB5650.png) `#EB5650`|
+|Sand Yellow|Warfront  Range|234|197|129|![#EAC581](https://placehold.co/15x15/EAC581/EAC581.png) `#EAC581`|
+|Sandalwood|Scale Color Range|184|144|134|![#B89086](https://placehold.co/15x15/B89086/B89086.png) `#B89086`|
+|Sap Green|Artist Range|3|52|23|![#033417](https://placehold.co/15x15/033417/033417.png) `#033417`|
+|Savage Beige|Instant Colors Range|243|215|131|![#F3D783](https://placehold.co/15x15/F3D783/F3D783.png) `#F3D783`|
+|Shadow Black|Instant Colors Range|29|31|28|![#1D1F1C](https://placehold.co/15x15/1D1F1C/1D1F1C.png) `#1D1F1C`|
+|Shadow Blue|Warfront  Range|42|50|69|![#2A3245](https://placehold.co/15x15/2A3245/2A3245.png) `#2A3245`|
+|Sharpnel Red|Fantasy & Games Range|110|41|10|![#6E290A](https://placehold.co/15x15/6E290A/6E290A.png) `#6E290A`|
+|Sherwood Green|Scale Color Range|125|133|58|![#7D853A](https://placehold.co/15x15/7D853A/7D853A.png) `#7D853A`|
+|Sky Blue|Scale Color Range|36|150|200|![#2496C8](https://placehold.co/15x15/2496C8/2496C8.png) `#2496C8`|
+|Sky Blue|Artist Range|192|228|237|![#C0E4ED](https://placehold.co/15x15/C0E4ED/C0E4ED.png) `#C0E4ED`|
+|Slate Gray|Warfront  Range|55|43|21|![#372B15](https://placehold.co/15x15/372B15/372B15.png) `#372B15`|
+|Slimer Green|Fantasy & Games Range|90|144|50|![#5A9032](https://placehold.co/15x15/5A9032/5A9032.png) `#5A9032`|
+|Smoke Gray|Warfront  Range|136|104|89|![#886859](https://placehold.co/15x15/886859/886859.png) `#886859`|
+|Sol Yellow|Scale Color Range|236|203|0|![#ECCB00](https://placehold.co/15x15/ECCB00/ECCB00.png) `#ECCB00`|
+|Spectral Wolf|Instant Colors Range|171|159|161|![#AB9FA1](https://placehold.co/15x15/AB9FA1/AB9FA1.png) `#AB9FA1`|
+|Speed Metal|Metal N Alchemy Range|212|212|214|![#D4D4D6](https://placehold.co/15x15/D4D4D6/D4D4D6.png) `#D4D4D6`|
+|Speed Yellow|FX Range|255|254|0|![#FFFE00](https://placehold.co/15x15/FFFE00/FFFE00.png) `#FFFE00`|
+|Spring Green|Artist Range|93|159|53|![#5D9F35](https://placehold.co/15x15/5D9F35/5D9F35.png) `#5D9F35`|
+|Spring Green|Scale Color Range|127|185|83|![#7FB953](https://placehold.co/15x15/7FB953/7FB953.png) `#7FB953`|
+|Ss Camo Dark Brown|Warfront  Range|34|11|5|![#220B05](https://placehold.co/15x15/220B05/220B05.png) `#220B05`|
+|Ss Camo Dark Green|Warfront  Range|42|51|30|![#2A331E](https://placehold.co/15x15/2A331E/2A331E.png) `#2A331E`|
+|Ss Camo Gray Brown|Warfront  Range|111|79|54|![#6F4F36](https://placehold.co/15x15/6F4F36/6F4F36.png) `#6F4F36`|
+|Ss Camo Grey|Warfront  Range|143|128|99|![#8F8063](https://placehold.co/15x15/8F8063/8F8063.png) `#8F8063`|
+|Ss Camo Highlights|Warfront  Range|250|184|97|![#FAB861](https://placehold.co/15x15/FAB861/FAB861.png) `#FAB861`|
+|Ss Camo Italian Green|Warfront  Range|63|82|50|![#3F5232](https://placehold.co/15x15/3F5232/3F5232.png) `#3F5232`|
+|Ss Camo Light Green|Warfront  Range|126|129|38|![#7E8126](https://placehold.co/15x15/7E8126/7E8126.png) `#7E8126`|
+|Ss Camo Medium Brown|Warfront  Range|130|93|49|![#825D31](https://placehold.co/15x15/825D31/825D31.png) `#825D31`|
+|Ss Camo Medium Green|Warfront  Range|77|80|37|![#4D5025](https://placehold.co/15x15/4D5025/4D5025.png) `#4D5025`|
+|Ss Camo Ocher Brown|Warfront  Range|207|174|95|![#CFAE5F](https://placehold.co/15x15/CFAE5F/CFAE5F.png) `#CFAE5F`|
+|Ss Camo Red Brown|Warfront  Range|89|58|27|![#593A1B](https://placehold.co/15x15/593A1B/593A1B.png) `#593A1B`|
+|Ss Camo Top Lights|Warfront  Range|251|199|126|![#FBC77E](https://placehold.co/15x15/FBC77E/FBC77E.png) `#FBC77E`|
+|Ss Camo Top Shadows|Warfront  Range|52|52|40|![#343428](https://placehold.co/15x15/343428/343428.png) `#343428`|
+|Ss Camo Yellow Sand|Warfront  Range|192|165|110|![#C0A56E](https://placehold.co/15x15/C0A56E/C0A56E.png) `#C0A56E`|
+|Sulfur Yellow|Instant Colors Range|254|213|0|![#FED500](https://placehold.co/15x15/FED500/FED500.png) `#FED500`|
+|Sunset Purple|Scale Color Range|98|46|84|![#622E54](https://placehold.co/15x15/622E54/622E54.png) `#622E54`|
+|Surfer Orc Flesh|Fantasy & Games Range|0|165|139|![#00A58B](https://placehold.co/15x15/00A58B/00A58B.png) `#00A58B`|
+|Techno Green|FX Range|68|250|5|![#44FA05](https://placehold.co/15x15/44FA05/44FA05.png) `#44FA05`|
+|Tenere Yellow|Scale Color Range|229|199|111|![#E5C76F](https://placehold.co/15x15/E5C76F/E5C76F.png) `#E5C76F`|
+|Tesla Blue|Scale Color Range|65|77|151|![#414D97](https://placehold.co/15x15/414D97/414D97.png) `#414D97`|
+|Thar Brown|Scale Color Range|176|159|129|![#B09F81](https://placehold.co/15x15/B09F81/B09F81.png) `#B09F81`|
+|Thrash Metal|Metal N Alchemy Range|84|73|67|![#544943](https://placehold.co/15x15/544943/544943.png) `#544943`|
+|Tiamat Orange|Fantasy & Games Range|233|115|41|![#E97329](https://placehold.co/15x15/E97329/E97329.png) `#E97329`|
+|Tindalos Red|Fantasy & Games Range|91|41|34|![#5B2922](https://placehold.co/15x15/5B2922/5B2922.png) `#5B2922`|
+|Titanium Gray|Warfront  Range|65|52|43|![#41342B](https://placehold.co/15x15/41342B/41342B.png) `#41342B`|
+|Titanium Grey|Artist Range|64|68|69|![#404445](https://placehold.co/15x15/404445/404445.png) `#404445`|
+|Toad Green|Instant Colors Range|71|81|57|![#475139](https://placehold.co/15x15/475139/475139.png) `#475139`|
+|Tourmaline Alchemy|Metal N Alchemy Range|231|168|179|![#E7A8B3](https://placehold.co/15x15/E7A8B3/E7A8B3.png) `#E7A8B3`|
+|Toxic Waste Green|Fantasy & Games Range|199|213|56|![#C7D538](https://placehold.co/15x15/C7D538/C7D538.png) `#C7D538`|
+|Turquoise|Artist Range|3|67|95|![#03435F](https://placehold.co/15x15/03435F/03435F.png) `#03435F`|
+|Turquoise Blue|Artist Range|21|153|142|![#15998E](https://placehold.co/15x15/15998E/15998E.png) `#15998E`|
+|Turquoise Ink|Artist Range|32|76|80|![#204C50](https://placehold.co/15x15/204C50/204C50.png) `#204C50`|
+|Undead Dragon|Instant Colors Range|182|200|188|![#B6C8BC](https://placehold.co/15x15/B6C8BC/B6C8BC.png) `#B6C8BC`|
+|Undead Flesh|Fantasy & Games Range|168|177|112|![#A8B170](https://placehold.co/15x15/A8B170/A8B170.png) `#A8B170`|
+|Us Dark Brown|Warfront  Range|174|138|114|![#AE8A72](https://placehold.co/15x15/AE8A72/AE8A72.png) `#AE8A72`|
+|Us Green|Warfront  Range|71|70|50|![#474632](https://placehold.co/15x15/474632/474632.png) `#474632`|
+|Us Medium Brown|Warfront  Range|212|173|132|![#D4AD84](https://placehold.co/15x15/D4AD84/D4AD84.png) `#D4AD84`|
+|Vanilla White|Artist Range|237|232|212|![#EDE8D4](https://placehold.co/15x15/EDE8D4/EDE8D4.png) `#EDE8D4`|
+|Vanilla Yellow|Artist Range|216|204|104|![#D8CC68](https://placehold.co/15x15/D8CC68/D8CC68.png) `#D8CC68`|
+|Victorian Brass|Metal N Alchemy Range|182|132|59|![#B6843B](https://placehold.co/15x15/B6843B/B6843B.png) `#B6843B`|
+|Viking Gold|Metal N Alchemy Range|141|89|31|![#8D591F](https://placehold.co/15x15/8D591F/8D591F.png) `#8D591F`|
+|Violet|Artist Range|42|28|81|![#2A1C51](https://placehold.co/15x15/2A1C51/2A1C51.png) `#2A1C51`|
+|Violet Blue|Scale Color Range|96|70|115|![#604673](https://placehold.co/15x15/604673/604673.png) `#604673`|
+|Violet Grey|Artist Range|114|114|124|![#72727C](https://placehold.co/15x15/72727C/72727C.png) `#72727C`|
+|Walnut|Scale Color Range|125|100|80|![#7D6450](https://placehold.co/15x15/7D6450/7D6450.png) `#7D6450`|
+|Werewolf Brown|Instant Colors Range|85|60|53|![#553C35](https://placehold.co/15x15/553C35/553C35.png) `#553C35`|
+|White|Warfront  Range|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|White|Scale Color Range|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|White Ink|Artist Range|247|247|247|![#F7F7F7](https://placehold.co/15x15/F7F7F7/F7F7F7.png) `#F7F7F7`|
+|White Metal|Metal N Alchemy Range|241|241|241|![#F1F1F1](https://placehold.co/15x15/F1F1F1/F1F1F1.png) `#F1F1F1`|
+|White Sands|Scale Color Range|246|225|198|![#F6E1C6](https://placehold.co/15x15/F6E1C6/F6E1C6.png) `#F6E1C6`|
+|Wild Beast|Instant Colors Range|202|133|78|![#CA854E](https://placehold.co/15x15/CA854E/CA854E.png) `#CA854E`|
+|Winter Grey|Warfront  Range|110|110|112|![#6E6E70](https://placehold.co/15x15/6E6E70/6E6E70.png) `#6E6E70`|
+|Winter Shadow|Warfront  Range|58|60|57|![#3A3C39](https://placehold.co/15x15/3A3C39/3A3C39.png) `#3A3C39`|
+|Wood|Artist Range|96|72|62|![#60483E](https://placehold.co/15x15/60483E/60483E.png) `#60483E`|
+|Yellow Code|Warfront  Range|255|203|6|![#FFCB06](https://placehold.co/15x15/FFCB06/FFCB06.png) `#FFCB06`|
+|Yellow Ocre|Artist Range|160|112|46|![#A0702E](https://placehold.co/15x15/A0702E/A0702E.png) `#A0702E`|
+|Yellow Oxide|Artist Range|75|53|39|![#4B3527](https://placehold.co/15x15/4B3527/4B3527.png) `#4B3527`|
+|Zombie Skin|Instant Colors Range|166|168|105|![#A6A869](https://placehold.co/15x15/A6A869/A6A869.png) `#A6A869`|
+|Zucchini Green|Instant Colors Range|64|91|50|![#405B32](https://placehold.co/15x15/405B32/405B32.png) `#405B32`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">

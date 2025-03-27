@@ -1,813 +1,96 @@
 # Revell
-<img src="../logos/Revell.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Africa Brown</td>
-<td>Email Color - Matt</td>
-<td>212</td>
-<td>156</td>
-<td>97</td>
-<td>#D49C61</td>
-<td style="background-color: #D49C61" ><img src="https://via.placeholder.com/40/D49C61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Aluminium</td>
-<td>Email Color - Metallic</td>
-<td>186</td>
-<td>191</td>
-<td>194</td>
-<td>#BABFC2</td>
-<td style="background-color: #BABFC2" ><img src="https://via.placeholder.com/40/BABFC2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Anthracite Grey</td>
-<td>Email Color - Matt</td>
-<td>46</td>
-<td>47</td>
-<td>52</td>
-<td>#2E2F34</td>
-<td style="background-color: #2E2F34" ><img src="https://via.placeholder.com/40/2E2F34/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Beige</td>
-<td>Email Color - Matt</td>
-<td>167</td>
-<td>147</td>
-<td>123</td>
-<td>#A7937B</td>
-<td style="background-color: #A7937B" ><img src="https://via.placeholder.com/40/A7937B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Beige</td>
-<td>Email Color - Silk</td>
-<td>207</td>
-<td>180</td>
-<td>135</td>
-<td>#CFB487</td>
-<td style="background-color: #CFB487" ><img src="https://via.placeholder.com/40/CFB487/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Email Color - Gloss</td>
-<td>23</td>
-<td>24</td>
-<td>28</td>
-<td>#17181C</td>
-<td style="background-color: #17181C" ><img src="https://via.placeholder.com/40/17181C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Email Color - Silk</td>
-<td>20</td>
-<td>21</td>
-<td>25</td>
-<td>#141519</td>
-<td style="background-color: #141519" ><img src="https://via.placeholder.com/40/141519/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Email Color - Matt</td>
-<td>33</td>
-<td>32</td>
-<td>38</td>
-<td>#212026</td>
-<td style="background-color: #212026" ><img src="https://via.placeholder.com/40/212026/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Green</td>
-<td>Email Color - Matt</td>
-<td>1</td>
-<td>56</td>
-<td>50</td>
-<td>#013832</td>
-<td style="background-color: #013832" ><img src="https://via.placeholder.com/40/013832/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue</td>
-<td>Email Color - Matt</td>
-<td>0</td>
-<td>112</td>
-<td>180</td>
-<td>#0070B4</td>
-<td style="background-color: #0070B4" ><img src="https://via.placeholder.com/40/0070B4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue</td>
-<td>Email Color - Gloss</td>
-<td>1</td>
-<td>68</td>
-<td>138</td>
-<td>#01448A</td>
-<td style="background-color: #01448A" ><img src="https://via.placeholder.com/40/01448A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brass</td>
-<td>Email Color - Metallic</td>
-<td>190</td>
-<td>143</td>
-<td>3</td>
-<td>#BE8F03</td>
-<td style="background-color: #BE8F03" ><img src="https://via.placeholder.com/40/BE8F03/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bronze</td>
-<td>Email Color - Metallic</td>
-<td>156</td>
-<td>101</td>
-<td>60</td>
-<td>#9C653C</td>
-<td style="background-color: #9C653C" ><img src="https://via.placeholder.com/40/9C653C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bronze Green</td>
-<td>Email Color - Matt</td>
-<td>74</td>
-<td>86</td>
-<td>62</td>
-<td>#4A563E</td>
-<td style="background-color: #4A563E" ><img src="https://via.placeholder.com/40/4A563E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown</td>
-<td>Email Color - Silk</td>
-<td>118</td>
-<td>92</td>
-<td>77</td>
-<td>#765C4D</td>
-<td style="background-color: #765C4D" ><img src="https://via.placeholder.com/40/765C4D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown</td>
-<td>Email Color - Matt</td>
-<td>164</td>
-<td>93</td>
-<td>51</td>
-<td>#A45D33</td>
-<td style="background-color: #A45D33" ><img src="https://via.placeholder.com/40/A45D33/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Carmine Red</td>
-<td>Email Color - Matt</td>
-<td>153</td>
-<td>21</td>
-<td>35</td>
-<td>#991523</td>
-<td style="background-color: #991523" ><img src="https://via.placeholder.com/40/991523/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Clear</td>
-<td>Email Color - Gloss</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Clear</td>
-<td>Email Color - Matt</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Clear Blue</td>
-<td>Email Color - Gloss</td>
-<td>168</td>
-<td>222</td>
-<td>248</td>
-<td>#A8DEF8</td>
-<td style="background-color: #A8DEF8" ><img src="https://via.placeholder.com/40/A8DEF8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Clear Orange</td>
-<td>Email Color - Gloss</td>
-<td>254</td>
-<td>140</td>
-<td>69</td>
-<td>#FE8C45</td>
-<td style="background-color: #FE8C45" ><img src="https://via.placeholder.com/40/FE8C45/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Clear Red</td>
-<td>Email Color - Gloss</td>
-<td>254</td>
-<td>98</td>
-<td>85</td>
-<td>#FE6255</td>
-<td style="background-color: #FE6255" ><img src="https://via.placeholder.com/40/FE6255/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Copper</td>
-<td>Email Color - Metallic</td>
-<td>179</td>
-<td>116</td>
-<td>81</td>
-<td>#B37451</td>
-<td style="background-color: #B37451" ><img src="https://via.placeholder.com/40/B37451/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Blue</td>
-<td>Email Color - Silk</td>
-<td>31</td>
-<td>45</td>
-<td>82</td>
-<td>#1F2D52</td>
-<td style="background-color: #1F2D52" ><img src="https://via.placeholder.com/40/1F2D52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Earth (RAF)</td>
-<td>Email Color - Matt</td>
-<td>140</td>
-<td>103</td>
-<td>59</td>
-<td>#8C673B</td>
-<td style="background-color: #8C673B" ><img src="https://via.placeholder.com/40/8C673B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>Email Color - Silk</td>
-<td>57</td>
-<td>71</td>
-<td>54</td>
-<td>#394736</td>
-<td style="background-color: #394736" ><img src="https://via.placeholder.com/40/394736/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>Email Color - Matt</td>
-<td>28</td>
-<td>90</td>
-<td>69</td>
-<td>#1C5A45</td>
-<td style="background-color: #1C5A45" ><img src="https://via.placeholder.com/40/1C5A45/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green (RAF)</td>
-<td>Email Color - Matt</td>
-<td>39</td>
-<td>72</td>
-<td>55</td>
-<td>#274837</td>
-<td style="background-color: #274837" ><img src="https://via.placeholder.com/40/274837/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Grey</td>
-<td>Email Color - Silk</td>
-<td>86</td>
-<td>94</td>
-<td>97</td>
-<td>#565E61</td>
-<td style="background-color: #565E61" ><img src="https://via.placeholder.com/40/565E61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dust Grey</td>
-<td>Email Color - Matt</td>
-<td>86</td>
-<td>94</td>
-<td>97</td>
-<td>#565E61</td>
-<td style="background-color: #565E61" ><img src="https://via.placeholder.com/40/565E61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Earth Brown</td>
-<td>Email Color - Matt</td>
-<td>118</td>
-<td>106</td>
-<td>92</td>
-<td>#766A5C</td>
-<td style="background-color: #766A5C" ><img src="https://via.placeholder.com/40/766A5C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald Green</td>
-<td>Email Color - Gloss</td>
-<td>1</td>
-<td>110</td>
-<td>68</td>
-<td>#016E44</td>
-<td style="background-color: #016E44" ><img src="https://via.placeholder.com/40/016E44/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fiery Red</td>
-<td>Email Color - Gloss</td>
-<td>159</td>
-<td>41</td>
-<td>39</td>
-<td>#9F2927</td>
-<td style="background-color: #9F2927" ><img src="https://via.placeholder.com/40/9F2927/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fiery Red</td>
-<td>Email Color - Silk</td>
-<td>160</td>
-<td>38</td>
-<td>37</td>
-<td>#A02625</td>
-<td style="background-color: #A02625" ><img src="https://via.placeholder.com/40/A02625/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh</td>
-<td>Email Color - Matt</td>
-<td>239</td>
-<td>168</td>
-<td>124</td>
-<td>#EFA87C</td>
-<td style="background-color: #EFA87C" ><img src="https://via.placeholder.com/40/EFA87C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gold</td>
-<td>Email Color - Metallic</td>
-<td>205</td>
-<td>178</td>
-<td>133</td>
-<td>#CDB285</td>
-<td style="background-color: #CDB285" ><img src="https://via.placeholder.com/40/CDB285/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Granite Grey</td>
-<td>Email Color - Matt</td>
-<td>53</td>
-<td>64</td>
-<td>68</td>
-<td>#354044</td>
-<td style="background-color: #354044" ><img src="https://via.placeholder.com/40/354044/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green</td>
-<td>Email Color - Silk</td>
-<td>86</td>
-<td>115</td>
-<td>61</td>
-<td>#56733D</td>
-<td style="background-color: #56733D" ><img src="https://via.placeholder.com/40/56733D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Greenish Grey</td>
-<td>Email Color - Matt</td>
-<td>88</td>
-<td>93</td>
-<td>86</td>
-<td>#585D56</td>
-<td style="background-color: #585D56" ><img src="https://via.placeholder.com/40/585D56/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
-<td>Email Color - Matt</td>
-<td>121</td>
-<td>135</td>
-<td>144</td>
-<td>#798790</td>
-<td style="background-color: #798790" ><img src="https://via.placeholder.com/40/798790/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
-<td>Email Color - Silk</td>
-<td>140</td>
-<td>150</td>
-<td>159</td>
-<td>#8C969F</td>
-<td style="background-color: #8C969F" ><img src="https://via.placeholder.com/40/8C969F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey (USAF)</td>
-<td>Email Color - Matt</td>
-<td>136</td>
-<td>144</td>
-<td>147</td>
-<td>#889093</td>
-<td style="background-color: #889093" ><img src="https://via.placeholder.com/40/889093/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Greyish Blue</td>
-<td>Email Color - Matt</td>
-<td>91</td>
-<td>104</td>
-<td>112</td>
-<td>#5B6870</td>
-<td style="background-color: #5B6870" ><img src="https://via.placeholder.com/40/5B6870/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Greyish Green</td>
-<td>Email Color - Silk</td>
-<td>118</td>
-<td>118</td>
-<td>90</td>
-<td>#76765A</td>
-<td style="background-color: #76765A" ><img src="https://via.placeholder.com/40/76765A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunship Grey</td>
-<td>Email Color - Matt</td>
-<td>94</td>
-<td>99</td>
-<td>105</td>
-<td>#5E6369</td>
-<td style="background-color: #5E6369" ><img src="https://via.placeholder.com/40/5E6369/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Italian Red</td>
-<td>Email Color - Gloss</td>
-<td>200</td>
-<td>2</td>
-<td>37</td>
-<td>#C80225</td>
-<td style="background-color: #C80225" ><img src="https://via.placeholder.com/40/C80225/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leaf Green</td>
-<td>Email Color - Silk</td>
-<td>39</td>
-<td>109</td>
-<td>59</td>
-<td>#276D3B</td>
-<td style="background-color: #276D3B" ><img src="https://via.placeholder.com/40/276D3B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leather Brown</td>
-<td>Email Color - Matt</td>
-<td>88</td>
-<td>62</td>
-<td>65</td>
-<td>#583E41</td>
-<td style="background-color: #583E41" ><img src="https://via.placeholder.com/40/583E41/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Blue</td>
-<td>Email Color - Gloss</td>
-<td>40</td>
-<td>129</td>
-<td>187</td>
-<td>#2881BB</td>
-<td style="background-color: #2881BB" ><img src="https://via.placeholder.com/40/2881BB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Blue</td>
-<td>Email Color - Matt</td>
-<td>134</td>
-<td>185</td>
-<td>180</td>
-<td>#86B9B4</td>
-<td style="background-color: #86B9B4" ><img src="https://via.placeholder.com/40/86B9B4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Green</td>
-<td>Email Color - Matt</td>
-<td>118</td>
-<td>186</td>
-<td>187</td>
-<td>#76BABB</td>
-<td style="background-color: #76BABB" ><img src="https://via.placeholder.com/40/76BABB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Grey</td>
-<td>Email Color - Silk</td>
-<td>196</td>
-<td>202</td>
-<td>202</td>
-<td>#C4CACA</td>
-<td style="background-color: #C4CACA" ><img src="https://via.placeholder.com/40/C4CACA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Grey (USAF)</td>
-<td>Email Color - Matt</td>
-<td>157</td>
-<td>162</td>
-<td>166</td>
-<td>#9DA2A6</td>
-<td style="background-color: #9DA2A6" ><img src="https://via.placeholder.com/40/9DA2A6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Light Olive</td>
-<td>Email Color - Matt</td>
-<td>121</td>
-<td>121</td>
-<td>109</td>
-<td>#79796D</td>
-<td style="background-color: #79796D" ><img src="https://via.placeholder.com/40/79796D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Luminous Orange</td>
-<td>Email Color - Matt</td>
-<td>250</td>
-<td>2</td>
-<td>0</td>
-<td>#FA0200</td>
-<td style="background-color: #FA0200" ><img src="https://via.placeholder.com/40/FA0200/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Luminous Red</td>
-<td>Email Color - Silk</td>
-<td>191</td>
-<td>17</td>
-<td>27</td>
-<td>#BF111B</td>
-<td style="background-color: #BF111B" ><img src="https://via.placeholder.com/40/BF111B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Luminous Yellow</td>
-<td>Email Color - Silk</td>
-<td>236</td>
-<td>234</td>
-<td>64</td>
-<td>#ECEA40</td>
-<td style="background-color: #ECEA40" ><img src="https://via.placeholder.com/40/ECEA40/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mouse Grey</td>
-<td>Email Color - Matt</td>
-<td>108</td>
-<td>112</td>
-<td>111</td>
-<td>#6C706F</td>
-<td style="background-color: #6C706F" ><img src="https://via.placeholder.com/40/6C706F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mud Brown</td>
-<td>Email Color - Gloss</td>
-<td>129</td>
-<td>83</td>
-<td>49</td>
-<td>#815331</td>
-<td style="background-color: #815331" ><img src="https://via.placeholder.com/40/815331/000000?text=+" /></td>
-</tr>
-<tr>
-<td>NATO Olive</td>
-<td>Email Color - Matt</td>
-<td>86</td>
-<td>82</td>
-<td>70</td>
-<td>#565246</td>
-<td style="background-color: #565246" ><img src="https://via.placeholder.com/40/565246/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Night Blue</td>
-<td>Email Color - Gloss</td>
-<td>40</td>
-<td>40</td>
-<td>94</td>
-<td>#28285E</td>
-<td style="background-color: #28285E" ><img src="https://via.placeholder.com/40/28285E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre Brown</td>
-<td>Email Color - Matt</td>
-<td>174</td>
-<td>133</td>
-<td>81</td>
-<td>#AE8551</td>
-<td style="background-color: #AE8551" ><img src="https://via.placeholder.com/40/AE8551/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Brown</td>
-<td>Email Color - Matt</td>
-<td>117</td>
-<td>101</td>
-<td>68</td>
-<td>#756544</td>
-<td style="background-color: #756544" ><img src="https://via.placeholder.com/40/756544/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Green</td>
-<td>Email Color - Silk</td>
-<td>79</td>
-<td>84</td>
-<td>61</td>
-<td>#4F543D</td>
-<td style="background-color: #4F543D" ><img src="https://via.placeholder.com/40/4F543D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Grey</td>
-<td>Email Color - Matt</td>
-<td>86</td>
-<td>88</td>
-<td>87</td>
-<td>#565857</td>
-<td style="background-color: #565857" ><img src="https://via.placeholder.com/40/565857/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive Yellow</td>
-<td>Email Color - Matt</td>
-<td>66</td>
-<td>67</td>
-<td>53</td>
-<td>#424335</td>
-<td style="background-color: #424335" ><img src="https://via.placeholder.com/40/424335/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>Email Color - Gloss</td>
-<td>229</td>
-<td>85</td>
-<td>15</td>
-<td>#E5550F</td>
-<td style="background-color: #E5550F" ><img src="https://via.placeholder.com/40/E5550F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Patina Green</td>
-<td>Email Color - Silk</td>
-<td>49</td>
-<td>118</td>
-<td>99</td>
-<td>#317663</td>
-<td style="background-color: #317663" ><img src="https://via.placeholder.com/40/317663/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple Red</td>
-<td>Email Color - Silk</td>
-<td>107</td>
-<td>26</td>
-<td>41</td>
-<td>#6B1A29</td>
-<td style="background-color: #6B1A29" ><img src="https://via.placeholder.com/40/6B1A29/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Reddish Brown</td>
-<td>Email Color - Matt</td>
-<td>108</td>
-<td>49</td>
-<td>43</td>
-<td>#6C312B</td>
-<td style="background-color: #6C312B" ><img src="https://via.placeholder.com/40/6C312B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rust</td>
-<td>Email Color - Matt</td>
-<td>137</td>
-<td>78</td>
-<td>74</td>
-<td>#894E4A</td>
-<td style="background-color: #894E4A" ><img src="https://via.placeholder.com/40/894E4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sandy Yellow</td>
-<td>Email Color - Matt</td>
-<td>184</td>
-<td>150</td>
-<td>79</td>
-<td>#B8964F</td>
-<td style="background-color: #B8964F" ><img src="https://via.placeholder.com/40/B8964F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sea Green</td>
-<td>Email Color - Gloss</td>
-<td>74</td>
-<td>86</td>
-<td>62</td>
-<td>#4A563E</td>
-<td style="background-color: #4A563E" ><img src="https://via.placeholder.com/40/4A563E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sea Green</td>
-<td>Email Color - Matt</td>
-<td>44</td>
-<td>84</td>
-<td>76</td>
-<td>#2C544C</td>
-<td style="background-color: #2C544C" ><img src="https://via.placeholder.com/40/2C544C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>Email Color - Metallic</td>
-<td>166</td>
-<td>169</td>
-<td>174</td>
-<td>#A6A9AE</td>
-<td style="background-color: #A6A9AE" ><img src="https://via.placeholder.com/40/A6A9AE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sky (RAF)</td>
-<td>Email Color - Matt</td>
-<td>195</td>
-<td>212</td>
-<td>178</td>
-<td>#C3D4B2</td>
-<td style="background-color: #C3D4B2" ><img src="https://via.placeholder.com/40/C3D4B2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Steel</td>
-<td>Email Color - Metallic</td>
-<td>117</td>
-<td>122</td>
-<td>128</td>
-<td>#757A80</td>
-<td style="background-color: #757A80" ><img src="https://via.placeholder.com/40/757A80/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Stone Grey</td>
-<td>Email Color - Matt</td>
-<td>144</td>
-<td>144</td>
-<td>136</td>
-<td>#909088</td>
-<td style="background-color: #909088" ><img src="https://via.placeholder.com/40/909088/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tank Grey</td>
-<td>Email Color - Matt</td>
-<td>72</td>
-<td>75</td>
-<td>82</td>
-<td>#484B52</td>
-<td style="background-color: #484B52" ><img src="https://via.placeholder.com/40/484B52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tar Black</td>
-<td>Email Color - Matt</td>
-<td>37</td>
-<td>36</td>
-<td>41</td>
-<td>#252429</td>
-<td style="background-color: #252429" ><img src="https://via.placeholder.com/40/252429/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ultramarine Blue</td>
-<td>Email Color - Gloss</td>
-<td>24</td>
-<td>47</td>
-<td>123</td>
-<td>#182F7B</td>
-<td style="background-color: #182F7B" ><img src="https://via.placeholder.com/40/182F7B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Email Color - Matt</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Email Color - Silk</td>
-<td>186</td>
-<td>191</td>
-<td>194</td>
-<td>#BABFC2</td>
-<td style="background-color: #BABFC2" ><img src="https://via.placeholder.com/40/BABFC2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Email Color - Gloss</td>
-<td>243</td>
-<td>242</td>
-<td>237</td>
-<td>#F3F2ED</td>
-<td style="background-color: #F3F2ED" ><img src="https://via.placeholder.com/40/F3F2ED/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wood Brown</td>
-<td>Email Color - Silk</td>
-<td>156</td>
-<td>104</td>
-<td>54</td>
-<td>#9C6836</td>
-<td style="background-color: #9C6836" ><img src="https://via.placeholder.com/40/9C6836/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
-<td>Email Color - Gloss</td>
-<td>253</td>
-<td>218</td>
-<td>56</td>
-<td>#FDDA38</td>
-<td style="background-color: #FDDA38" ><img src="https://via.placeholder.com/40/FDDA38/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
-<td>Email Color - Matt</td>
-<td>252</td>
-<td>217</td>
-<td>55</td>
-<td>#FCD937</td>
-<td style="background-color: #FCD937" ><img src="https://via.placeholder.com/40/FCD937/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
-<td>Email Color - Silk</td>
-<td>254</td>
-<td>165</td>
-<td>0</td>
-<td>#FEA500</td>
-<td style="background-color: #FEA500" ><img src="https://via.placeholder.com/40/FEA500/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+![Revell](../logos/Revell.png "Revell")
+
+|Name|Set|R|G|B|Hex|
+|---|---|---|---|---|---|
+|Africa Brown|Email Color - Matt|212|156|97|![#D49C61](https://placehold.co/15x15/D49C61/D49C61.png) `#D49C61`|
+|Aluminium|Email Color - Metallic|186|191|194|![#BABFC2](https://placehold.co/15x15/BABFC2/BABFC2.png) `#BABFC2`|
+|Anthracite Grey|Email Color - Matt|46|47|52|![#2E2F34](https://placehold.co/15x15/2E2F34/2E2F34.png) `#2E2F34`|
+|Beige|Email Color - Matt|167|147|123|![#A7937B](https://placehold.co/15x15/A7937B/A7937B.png) `#A7937B`|
+|Beige|Email Color - Silk|207|180|135|![#CFB487](https://placehold.co/15x15/CFB487/CFB487.png) `#CFB487`|
+|Black|Email Color - Gloss|23|24|28|![#17181C](https://placehold.co/15x15/17181C/17181C.png) `#17181C`|
+|Black|Email Color - Silk|20|21|25|![#141519](https://placehold.co/15x15/141519/141519.png) `#141519`|
+|Black|Email Color - Matt|33|32|38|![#212026](https://placehold.co/15x15/212026/212026.png) `#212026`|
+|Black Green|Email Color - Matt|1|56|50|![#013832](https://placehold.co/15x15/013832/013832.png) `#013832`|
+|Blue|Email Color - Matt|0|112|180|![#0070B4](https://placehold.co/15x15/0070B4/0070B4.png) `#0070B4`|
+|Blue|Email Color - Gloss|1|68|138|![#01448A](https://placehold.co/15x15/01448A/01448A.png) `#01448A`|
+|Brass|Email Color - Metallic|190|143|3|![#BE8F03](https://placehold.co/15x15/BE8F03/BE8F03.png) `#BE8F03`|
+|Bronze|Email Color - Metallic|156|101|60|![#9C653C](https://placehold.co/15x15/9C653C/9C653C.png) `#9C653C`|
+|Bronze Green|Email Color - Matt|74|86|62|![#4A563E](https://placehold.co/15x15/4A563E/4A563E.png) `#4A563E`|
+|Brown|Email Color - Silk|118|92|77|![#765C4D](https://placehold.co/15x15/765C4D/765C4D.png) `#765C4D`|
+|Brown|Email Color - Matt|164|93|51|![#A45D33](https://placehold.co/15x15/A45D33/A45D33.png) `#A45D33`|
+|Carmine Red|Email Color - Matt|153|21|35|![#991523](https://placehold.co/15x15/991523/991523.png) `#991523`|
+|Clear|Email Color - Gloss|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Clear|Email Color - Matt|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Clear Blue|Email Color - Gloss|168|222|248|![#A8DEF8](https://placehold.co/15x15/A8DEF8/A8DEF8.png) `#A8DEF8`|
+|Clear Orange|Email Color - Gloss|254|140|69|![#FE8C45](https://placehold.co/15x15/FE8C45/FE8C45.png) `#FE8C45`|
+|Clear Red|Email Color - Gloss|254|98|85|![#FE6255](https://placehold.co/15x15/FE6255/FE6255.png) `#FE6255`|
+|Copper|Email Color - Metallic|179|116|81|![#B37451](https://placehold.co/15x15/B37451/B37451.png) `#B37451`|
+|Dark Blue|Email Color - Silk|31|45|82|![#1F2D52](https://placehold.co/15x15/1F2D52/1F2D52.png) `#1F2D52`|
+|Dark Earth (RAF)|Email Color - Matt|140|103|59|![#8C673B](https://placehold.co/15x15/8C673B/8C673B.png) `#8C673B`|
+|Dark Green|Email Color - Silk|57|71|54|![#394736](https://placehold.co/15x15/394736/394736.png) `#394736`|
+|Dark Green|Email Color - Matt|28|90|69|![#1C5A45](https://placehold.co/15x15/1C5A45/1C5A45.png) `#1C5A45`|
+|Dark Green (RAF)|Email Color - Matt|39|72|55|![#274837](https://placehold.co/15x15/274837/274837.png) `#274837`|
+|Dark Grey|Email Color - Silk|86|94|97|![#565E61](https://placehold.co/15x15/565E61/565E61.png) `#565E61`|
+|Dust Grey|Email Color - Matt|86|94|97|![#565E61](https://placehold.co/15x15/565E61/565E61.png) `#565E61`|
+|Earth Brown|Email Color - Matt|118|106|92|![#766A5C](https://placehold.co/15x15/766A5C/766A5C.png) `#766A5C`|
+|Emerald Green|Email Color - Gloss|1|110|68|![#016E44](https://placehold.co/15x15/016E44/016E44.png) `#016E44`|
+|Fiery Red|Email Color - Gloss|159|41|39|![#9F2927](https://placehold.co/15x15/9F2927/9F2927.png) `#9F2927`|
+|Fiery Red|Email Color - Silk|160|38|37|![#A02625](https://placehold.co/15x15/A02625/A02625.png) `#A02625`|
+|Flesh|Email Color - Matt|239|168|124|![#EFA87C](https://placehold.co/15x15/EFA87C/EFA87C.png) `#EFA87C`|
+|Gold|Email Color - Metallic|205|178|133|![#CDB285](https://placehold.co/15x15/CDB285/CDB285.png) `#CDB285`|
+|Granite Grey|Email Color - Matt|53|64|68|![#354044](https://placehold.co/15x15/354044/354044.png) `#354044`|
+|Green|Email Color - Silk|86|115|61|![#56733D](https://placehold.co/15x15/56733D/56733D.png) `#56733D`|
+|Greenish Grey|Email Color - Matt|88|93|86|![#585D56](https://placehold.co/15x15/585D56/585D56.png) `#585D56`|
+|Grey|Email Color - Matt|121|135|144|![#798790](https://placehold.co/15x15/798790/798790.png) `#798790`|
+|Grey|Email Color - Silk|140|150|159|![#8C969F](https://placehold.co/15x15/8C969F/8C969F.png) `#8C969F`|
+|Grey (USAF)|Email Color - Matt|136|144|147|![#889093](https://placehold.co/15x15/889093/889093.png) `#889093`|
+|Greyish Blue|Email Color - Matt|91|104|112|![#5B6870](https://placehold.co/15x15/5B6870/5B6870.png) `#5B6870`|
+|Greyish Green|Email Color - Silk|118|118|90|![#76765A](https://placehold.co/15x15/76765A/76765A.png) `#76765A`|
+|Gunship Grey|Email Color - Matt|94|99|105|![#5E6369](https://placehold.co/15x15/5E6369/5E6369.png) `#5E6369`|
+|Italian Red|Email Color - Gloss|200|2|37|![#C80225](https://placehold.co/15x15/C80225/C80225.png) `#C80225`|
+|Leaf Green|Email Color - Silk|39|109|59|![#276D3B](https://placehold.co/15x15/276D3B/276D3B.png) `#276D3B`|
+|Leather Brown|Email Color - Matt|88|62|65|![#583E41](https://placehold.co/15x15/583E41/583E41.png) `#583E41`|
+|Light Blue|Email Color - Gloss|40|129|187|![#2881BB](https://placehold.co/15x15/2881BB/2881BB.png) `#2881BB`|
+|Light Blue|Email Color - Matt|134|185|180|![#86B9B4](https://placehold.co/15x15/86B9B4/86B9B4.png) `#86B9B4`|
+|Light Green|Email Color - Matt|118|186|187|![#76BABB](https://placehold.co/15x15/76BABB/76BABB.png) `#76BABB`|
+|Light Grey|Email Color - Silk|196|202|202|![#C4CACA](https://placehold.co/15x15/C4CACA/C4CACA.png) `#C4CACA`|
+|Light Grey (USAF)|Email Color - Matt|157|162|166|![#9DA2A6](https://placehold.co/15x15/9DA2A6/9DA2A6.png) `#9DA2A6`|
+|Light Olive|Email Color - Matt|121|121|109|![#79796D](https://placehold.co/15x15/79796D/79796D.png) `#79796D`|
+|Luminous Orange|Email Color - Matt|250|2|0|![#FA0200](https://placehold.co/15x15/FA0200/FA0200.png) `#FA0200`|
+|Luminous Red|Email Color - Silk|191|17|27|![#BF111B](https://placehold.co/15x15/BF111B/BF111B.png) `#BF111B`|
+|Luminous Yellow|Email Color - Silk|236|234|64|![#ECEA40](https://placehold.co/15x15/ECEA40/ECEA40.png) `#ECEA40`|
+|Mouse Grey|Email Color - Matt|108|112|111|![#6C706F](https://placehold.co/15x15/6C706F/6C706F.png) `#6C706F`|
+|Mud Brown|Email Color - Gloss|129|83|49|![#815331](https://placehold.co/15x15/815331/815331.png) `#815331`|
+|NATO Olive|Email Color - Matt|86|82|70|![#565246](https://placehold.co/15x15/565246/565246.png) `#565246`|
+|Night Blue|Email Color - Gloss|40|40|94|![#28285E](https://placehold.co/15x15/28285E/28285E.png) `#28285E`|
+|Ochre Brown|Email Color - Matt|174|133|81|![#AE8551](https://placehold.co/15x15/AE8551/AE8551.png) `#AE8551`|
+|Olive Brown|Email Color - Matt|117|101|68|![#756544](https://placehold.co/15x15/756544/756544.png) `#756544`|
+|Olive Green|Email Color - Silk|79|84|61|![#4F543D](https://placehold.co/15x15/4F543D/4F543D.png) `#4F543D`|
+|Olive Grey|Email Color - Matt|86|88|87|![#565857](https://placehold.co/15x15/565857/565857.png) `#565857`|
+|Olive Yellow|Email Color - Matt|66|67|53|![#424335](https://placehold.co/15x15/424335/424335.png) `#424335`|
+|Orange|Email Color - Gloss|229|85|15|![#E5550F](https://placehold.co/15x15/E5550F/E5550F.png) `#E5550F`|
+|Patina Green|Email Color - Silk|49|118|99|![#317663](https://placehold.co/15x15/317663/317663.png) `#317663`|
+|Purple Red|Email Color - Silk|107|26|41|![#6B1A29](https://placehold.co/15x15/6B1A29/6B1A29.png) `#6B1A29`|
+|Reddish Brown|Email Color - Matt|108|49|43|![#6C312B](https://placehold.co/15x15/6C312B/6C312B.png) `#6C312B`|
+|Rust|Email Color - Matt|137|78|74|![#894E4A](https://placehold.co/15x15/894E4A/894E4A.png) `#894E4A`|
+|Sandy Yellow|Email Color - Matt|184|150|79|![#B8964F](https://placehold.co/15x15/B8964F/B8964F.png) `#B8964F`|
+|Sea Green|Email Color - Gloss|74|86|62|![#4A563E](https://placehold.co/15x15/4A563E/4A563E.png) `#4A563E`|
+|Sea Green|Email Color - Matt|44|84|76|![#2C544C](https://placehold.co/15x15/2C544C/2C544C.png) `#2C544C`|
+|Silver|Email Color - Metallic|166|169|174|![#A6A9AE](https://placehold.co/15x15/A6A9AE/A6A9AE.png) `#A6A9AE`|
+|Sky (RAF)|Email Color - Matt|195|212|178|![#C3D4B2](https://placehold.co/15x15/C3D4B2/C3D4B2.png) `#C3D4B2`|
+|Steel|Email Color - Metallic|117|122|128|![#757A80](https://placehold.co/15x15/757A80/757A80.png) `#757A80`|
+|Stone Grey|Email Color - Matt|144|144|136|![#909088](https://placehold.co/15x15/909088/909088.png) `#909088`|
+|Tank Grey|Email Color - Matt|72|75|82|![#484B52](https://placehold.co/15x15/484B52/484B52.png) `#484B52`|
+|Tar Black|Email Color - Matt|37|36|41|![#252429](https://placehold.co/15x15/252429/252429.png) `#252429`|
+|Ultramarine Blue|Email Color - Gloss|24|47|123|![#182F7B](https://placehold.co/15x15/182F7B/182F7B.png) `#182F7B`|
+|White|Email Color - Matt|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|White|Email Color - Silk|186|191|194|![#BABFC2](https://placehold.co/15x15/BABFC2/BABFC2.png) `#BABFC2`|
+|White|Email Color - Gloss|243|242|237|![#F3F2ED](https://placehold.co/15x15/F3F2ED/F3F2ED.png) `#F3F2ED`|
+|Wood Brown|Email Color - Silk|156|104|54|![#9C6836](https://placehold.co/15x15/9C6836/9C6836.png) `#9C6836`|
+|Yellow|Email Color - Gloss|253|218|56|![#FDDA38](https://placehold.co/15x15/FDDA38/FDDA38.png) `#FDDA38`|
+|Yellow|Email Color - Matt|252|217|55|![#FCD937](https://placehold.co/15x15/FCD937/FCD937.png) `#FCD937`|
+|Yellow|Email Color - Silk|254|165|0|![#FEA500](https://placehold.co/15x15/FEA500/FEA500.png) `#FEA500`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">

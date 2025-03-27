@@ -1,1623 +1,186 @@
 # Warcolours
-<img src="../logos/Warcolours.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Black</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Inks for Shading and Glazing</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black</td>
-<td>Paints for undercoating</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue 1</td>
-<td>Layer paints</td>
-<td>158</td>
-<td>219</td>
-<td>238</td>
-<td>#9EDBEE</td>
-<td style="background-color: #9EDBEE" ><img src="https://via.placeholder.com/40/9EDBEE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue 2</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>141</td>
-<td>181</td>
-<td>#008DB5</td>
-<td style="background-color: #008DB5" ><img src="https://via.placeholder.com/40/008DB5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue 3</td>
-<td>Layer paints</td>
-<td>4</td>
-<td>100</td>
-<td>177</td>
-<td>#0464B1</td>
-<td style="background-color: #0464B1" ><img src="https://via.placeholder.com/40/0464B1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue 4</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>67</td>
-<td>172</td>
-<td>#0043AC</td>
-<td style="background-color: #0043AC" ><img src="https://via.placeholder.com/40/0043AC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue 5</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>32</td>
-<td>83</td>
-<td>#002053</td>
-<td style="background-color: #002053" ><img src="https://via.placeholder.com/40/002053/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Glaze</td>
-<td>Glazing paints</td>
-<td>78</td>
-<td>145</td>
-<td>200</td>
-<td>#4E91C8</td>
-<td style="background-color: #4E91C8" ><img src="https://via.placeholder.com/40/4E91C8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey 1</td>
-<td>Layer paints</td>
-<td>209</td>
-<td>225</td>
-<td>250</td>
-<td>#D1E1FA</td>
-<td style="background-color: #D1E1FA" ><img src="https://via.placeholder.com/40/D1E1FA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey 2</td>
-<td>Layer paints</td>
-<td>153</td>
-<td>179</td>
-<td>216</td>
-<td>#99B3D8</td>
-<td style="background-color: #99B3D8" ><img src="https://via.placeholder.com/40/99B3D8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey 3</td>
-<td>Layer paints</td>
-<td>112</td>
-<td>139</td>
-<td>182</td>
-<td>#708BB6</td>
-<td style="background-color: #708BB6" ><img src="https://via.placeholder.com/40/708BB6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey 4</td>
-<td>Layer paints</td>
-<td>82</td>
-<td>105</td>
-<td>137</td>
-<td>#526989</td>
-<td style="background-color: #526989" ><img src="https://via.placeholder.com/40/526989/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Grey 5</td>
-<td>Layer paints</td>
-<td>41</td>
-<td>53</td>
-<td>67</td>
-<td>#293543</td>
-<td style="background-color: #293543" ><img src="https://via.placeholder.com/40/293543/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown 1</td>
-<td>Layer paints</td>
-<td>225</td>
-<td>119</td>
-<td>103</td>
-<td>#E17767</td>
-<td style="background-color: #E17767" ><img src="https://via.placeholder.com/40/E17767/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown 2</td>
-<td>Layer paints</td>
-<td>158</td>
-<td>55</td>
-<td>36</td>
-<td>#9E3724</td>
-<td style="background-color: #9E3724" ><img src="https://via.placeholder.com/40/9E3724/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown 3</td>
-<td>Layer paints</td>
-<td>112</td>
-<td>38</td>
-<td>25</td>
-<td>#702619</td>
-<td style="background-color: #702619" ><img src="https://via.placeholder.com/40/702619/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown 4</td>
-<td>Layer paints</td>
-<td>93</td>
-<td>66</td>
-<td>57</td>
-<td>#5D4239</td>
-<td style="background-color: #5D4239" ><img src="https://via.placeholder.com/40/5D4239/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown 5</td>
-<td>Layer paints</td>
-<td>66</td>
-<td>59</td>
-<td>67</td>
-<td>#423B43</td>
-<td style="background-color: #423B43" ><img src="https://via.placeholder.com/40/423B43/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown Glaze</td>
-<td>Glazing paints</td>
-<td>192</td>
-<td>126</td>
-<td>113</td>
-<td>#C07E71</td>
-<td style="background-color: #C07E71" ><img src="https://via.placeholder.com/40/C07E71/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burnt Sienna</td>
-<td>Inks for Shading and Glazing</td>
-<td>206</td>
-<td>43</td>
-<td>0</td>
-<td>#CE2B00</td>
-<td style="background-color: #CE2B00" ><img src="https://via.placeholder.com/40/CE2B00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Grey 1</td>
-<td>Layer paints</td>
-<td>198</td>
-<td>198</td>
-<td>198</td>
-<td>#C6C6C6</td>
-<td style="background-color: #C6C6C6" ><img src="https://via.placeholder.com/40/C6C6C6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Grey 2</td>
-<td>Layer paints</td>
-<td>165</td>
-<td>165</td>
-<td>165</td>
-<td>#A5A5A5</td>
-<td style="background-color: #A5A5A5" ><img src="https://via.placeholder.com/40/A5A5A5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Grey 3</td>
-<td>Layer paints</td>
-<td>130</td>
-<td>130</td>
-<td>130</td>
-<td>#828282</td>
-<td style="background-color: #828282" ><img src="https://via.placeholder.com/40/828282/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Grey 4</td>
-<td>Layer paints</td>
-<td>76</td>
-<td>76</td>
-<td>76</td>
-<td>#4C4C4C</td>
-<td style="background-color: #4C4C4C" ><img src="https://via.placeholder.com/40/4C4C4C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Grey 5</td>
-<td>Layer paints</td>
-<td>25</td>
-<td>25</td>
-<td>25</td>
-<td>#191919</td>
-<td style="background-color: #191919" ><img src="https://via.placeholder.com/40/191919/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Green</td>
-<td>Inks for Shading and Glazing</td>
-<td>0</td>
-<td>98</td>
-<td>21</td>
-<td>#006215</td>
-<td style="background-color: #006215" ><img src="https://via.placeholder.com/40/006215/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald 1</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>229</td>
-<td>146</td>
-<td>#00E592</td>
-<td style="background-color: #00E592" ><img src="https://via.placeholder.com/40/00E592/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald 2</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>197</td>
-<td>125</td>
-<td>#00C57D</td>
-<td style="background-color: #00C57D" ><img src="https://via.placeholder.com/40/00C57D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald 3</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>153</td>
-<td>96</td>
-<td>#009960</td>
-<td style="background-color: #009960" ><img src="https://via.placeholder.com/40/009960/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald 4</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>114</td>
-<td>71</td>
-<td>#007247</td>
-<td style="background-color: #007247" ><img src="https://via.placeholder.com/40/007247/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald 5</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>85</td>
-<td>50</td>
-<td>#005532</td>
-<td style="background-color: #005532" ><img src="https://via.placeholder.com/40/005532/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh 1</td>
-<td>Layer paints</td>
-<td>254</td>
-<td>248</td>
-<td>188</td>
-<td>#FEF8BC</td>
-<td style="background-color: #FEF8BC" ><img src="https://via.placeholder.com/40/FEF8BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh 2</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>233</td>
-<td>186</td>
-<td>#FFE9BA</td>
-<td style="background-color: #FFE9BA" ><img src="https://via.placeholder.com/40/FFE9BA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh 3</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>198</td>
-<td>155</td>
-<td>#FFC69B</td>
-<td style="background-color: #FFC69B" ><img src="https://via.placeholder.com/40/FFC69B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh 4</td>
-<td>Layer paints</td>
-<td>215</td>
-<td>119</td>
-<td>121</td>
-<td>#D77779</td>
-<td style="background-color: #D77779" ><img src="https://via.placeholder.com/40/D77779/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh 5</td>
-<td>Layer paints</td>
-<td>160</td>
-<td>124</td>
-<td>98</td>
-<td>#A07C62</td>
-<td style="background-color: #A07C62" ><img src="https://via.placeholder.com/40/A07C62/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fluorescent Green</td>
-<td>Layer paints</td>
-<td>142</td>
-<td>255</td>
-<td>0</td>
-<td>#8EFF00</td>
-<td style="background-color: #8EFF00" ><img src="https://via.placeholder.com/40/8EFF00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fluorescent Orange</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>190</td>
-<td>0</td>
-<td>#FFBE00</td>
-<td style="background-color: #FFBE00" ><img src="https://via.placeholder.com/40/FFBE00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fluorescent Pink</td>
-<td>Layer paints</td>
-<td>254</td>
-<td>0</td>
-<td>164</td>
-<td>#FE00A4</td>
-<td style="background-color: #FE00A4" ><img src="https://via.placeholder.com/40/FE00A4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fluorescent Yellow</td>
-<td>Layer paints</td>
-<td>233</td>
-<td>255</td>
-<td>0</td>
-<td>#E9FF00</td>
-<td style="background-color: #E9FF00" ><img src="https://via.placeholder.com/40/E9FF00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green 1</td>
-<td>Layer paints</td>
-<td>226</td>
-<td>255</td>
-<td>17</td>
-<td>#E2FF11</td>
-<td style="background-color: #E2FF11" ><img src="https://via.placeholder.com/40/E2FF11/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green 2</td>
-<td>Layer paints</td>
-<td>110</td>
-<td>255</td>
-<td>0</td>
-<td>#6EFF00</td>
-<td style="background-color: #6EFF00" ><img src="https://via.placeholder.com/40/6EFF00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green 3</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>183</td>
-<td>56</td>
-<td>#00B738</td>
-<td style="background-color: #00B738" ><img src="https://via.placeholder.com/40/00B738/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green 4</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>154</td>
-<td>45</td>
-<td>#009A2D</td>
-<td style="background-color: #009A2D" ><img src="https://via.placeholder.com/40/009A2D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green 5</td>
-<td>Layer paints</td>
-<td>2</td>
-<td>103</td>
-<td>33</td>
-<td>#026721</td>
-<td style="background-color: #026721" ><img src="https://via.placeholder.com/40/026721/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Glaze</td>
-<td>Glazing paints</td>
-<td>154</td>
-<td>255</td>
-<td>79</td>
-<td>#9AFF4F</td>
-<td style="background-color: #9AFF4F" ><img src="https://via.placeholder.com/40/9AFF4F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey</td>
-<td>Paints for undercoating</td>
-<td>130</td>
-<td>130</td>
-<td>130</td>
-<td>#828282</td>
-<td style="background-color: #828282" ><img src="https://via.placeholder.com/40/828282/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine 1</td>
-<td>Layer paints</td>
-<td>139</td>
-<td>197</td>
-<td>237</td>
-<td>#8BC5ED</td>
-<td style="background-color: #8BC5ED" ><img src="https://via.placeholder.com/40/8BC5ED/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine 2</td>
-<td>Layer paints</td>
-<td>74</td>
-<td>168</td>
-<td>238</td>
-<td>#4AA8EE</td>
-<td style="background-color: #4AA8EE" ><img src="https://via.placeholder.com/40/4AA8EE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine 3</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>125</td>
-<td>218</td>
-<td>#007DDA</td>
-<td style="background-color: #007DDA" ><img src="https://via.placeholder.com/40/007DDA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine 4</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>90</td>
-<td>163</td>
-<td>#005AA3</td>
-<td style="background-color: #005AA3" ><img src="https://via.placeholder.com/40/005AA3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine 5</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>58</td>
-<td>82</td>
-<td>#003A52</td>
-<td style="background-color: #003A52" ><img src="https://via.placeholder.com/40/003A52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Antique Gold</td>
-<td>Metallic paints</td>
-<td>197</td>
-<td>171</td>
-<td>24</td>
-<td>#C5AB18</td>
-<td style="background-color: #C5AB18" ><img src="https://via.placeholder.com/40/C5AB18/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Black</td>
-<td>Metallic paints</td>
-<td>55</td>
-<td>55</td>
-<td>55</td>
-<td>#373737</td>
-<td style="background-color: #373737" ><img src="https://via.placeholder.com/40/373737/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Black Copper</td>
-<td>Metallic paints</td>
-<td>75</td>
-<td>28</td>
-<td>20</td>
-<td>#4B1C14</td>
-<td style="background-color: #4B1C14" ><img src="https://via.placeholder.com/40/4B1C14/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Blue</td>
-<td>Metallic paints</td>
-<td>41</td>
-<td>47</td>
-<td>255</td>
-<td>#292FFF</td>
-<td style="background-color: #292FFF" ><img src="https://via.placeholder.com/40/292FFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Bright Gold</td>
-<td>Metallic paints</td>
-<td>223</td>
-<td>179</td>
-<td>8</td>
-<td>#DFB308</td>
-<td style="background-color: #DFB308" ><img src="https://via.placeholder.com/40/DFB308/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Brown</td>
-<td>Metallic paints</td>
-<td>208</td>
-<td>169</td>
-<td>30</td>
-<td>#D0A91E</td>
-<td style="background-color: #D0A91E" ><img src="https://via.placeholder.com/40/D0A91E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Choco</td>
-<td>Metallic paints</td>
-<td>198</td>
-<td>127</td>
-<td>35</td>
-<td>#C67F23</td>
-<td style="background-color: #C67F23" ><img src="https://via.placeholder.com/40/C67F23/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Copper</td>
-<td>Metallic paints</td>
-<td>170</td>
-<td>68</td>
-<td>30</td>
-<td>#AA441E</td>
-<td style="background-color: #AA441E" ><img src="https://via.placeholder.com/40/AA441E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Crimson</td>
-<td>Metallic paints</td>
-<td>254</td>
-<td>74</td>
-<td>73</td>
-<td>#FE4A49</td>
-<td style="background-color: #FE4A49" ><img src="https://via.placeholder.com/40/FE4A49/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Dark Copper</td>
-<td>Metallic paints</td>
-<td>121</td>
-<td>60</td>
-<td>42</td>
-<td>#793C2A</td>
-<td style="background-color: #793C2A" ><img src="https://via.placeholder.com/40/793C2A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Dark Green</td>
-<td>Metallic paints</td>
-<td>116</td>
-<td>222</td>
-<td>62</td>
-<td>#74DE3E</td>
-<td style="background-color: #74DE3E" ><img src="https://via.placeholder.com/40/74DE3E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Emerald</td>
-<td>Metallic paints</td>
-<td>41</td>
-<td>139</td>
-<td>82</td>
-<td>#298B52</td>
-<td style="background-color: #298B52" ><img src="https://via.placeholder.com/40/298B52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Green</td>
-<td>Metallic paints</td>
-<td>228</td>
-<td>255</td>
-<td>86</td>
-<td>#E4FF56</td>
-<td style="background-color: #E4FF56" ><img src="https://via.placeholder.com/40/E4FF56/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Lemon</td>
-<td>Metallic paints</td>
-<td>197</td>
-<td>134</td>
-<td>65</td>
-<td>#C58641</td>
-<td style="background-color: #C58641" ><img src="https://via.placeholder.com/40/C58641/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Pale Gold</td>
-<td>Metallic paints</td>
-<td>254</td>
-<td>225</td>
-<td>133</td>
-<td>#FEE185</td>
-<td style="background-color: #FEE185" ><img src="https://via.placeholder.com/40/FEE185/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Pewter</td>
-<td>Metallic paints</td>
-<td>116</td>
-<td>116</td>
-<td>116</td>
-<td>#747474</td>
-<td style="background-color: #747474" ><img src="https://via.placeholder.com/40/747474/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Pink</td>
-<td>Metallic paints</td>
-<td>254</td>
-<td>105</td>
-<td>186</td>
-<td>#FE69BA</td>
-<td style="background-color: #FE69BA" ><img src="https://via.placeholder.com/40/FE69BA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Red</td>
-<td>Metallic paints</td>
-<td>241</td>
-<td>23</td>
-<td>24</td>
-<td>#F11718</td>
-<td style="background-color: #F11718" ><img src="https://via.placeholder.com/40/F11718/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Sand</td>
-<td>Metallic paints</td>
-<td>254</td>
-<td>255</td>
-<td>95</td>
-<td>#FEFF5F</td>
-<td style="background-color: #FEFF5F" ><img src="https://via.placeholder.com/40/FEFF5F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Silver</td>
-<td>Metallic paints</td>
-<td>151</td>
-<td>151</td>
-<td>151</td>
-<td>#979797</td>
-<td style="background-color: #979797" ><img src="https://via.placeholder.com/40/979797/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Sky</td>
-<td>Metallic paints</td>
-<td>68</td>
-<td>145</td>
-<td>253</td>
-<td>#4491FD</td>
-<td style="background-color: #4491FD" ><img src="https://via.placeholder.com/40/4491FD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Turquoise</td>
-<td>Metallic paints</td>
-<td>56</td>
-<td>219</td>
-<td>90</td>
-<td>#38DB5A</td>
-<td style="background-color: #38DB5A" ><img src="https://via.placeholder.com/40/38DB5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Ultramarine</td>
-<td>Metallic paints</td>
-<td>126</td>
-<td>53</td>
-<td>255</td>
-<td>#7E35FF</td>
-<td style="background-color: #7E35FF" ><img src="https://via.placeholder.com/40/7E35FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Violet</td>
-<td>Metallic paints</td>
-<td>121</td>
-<td>6</td>
-<td>171</td>
-<td>#7906AB</td>
-<td style="background-color: #7906AB" ><img src="https://via.placeholder.com/40/7906AB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic White</td>
-<td>Metallic paints</td>
-<td>201</td>
-<td>201</td>
-<td>201</td>
-<td>#C9C9C9</td>
-<td style="background-color: #C9C9C9" ><img src="https://via.placeholder.com/40/C9C9C9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Metallic Yellow</td>
-<td>Metallic paints</td>
-<td>137</td>
-<td>129</td>
-<td>31</td>
-<td>#89811F</td>
-<td style="background-color: #89811F" ><img src="https://via.placeholder.com/40/89811F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre 1</td>
-<td>Layer paints</td>
-<td>229</td>
-<td>225</td>
-<td>187</td>
-<td>#E5E1BB</td>
-<td style="background-color: #E5E1BB" ><img src="https://via.placeholder.com/40/E5E1BB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre 2</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>214</td>
-<td>106</td>
-<td>#FFD66A</td>
-<td style="background-color: #FFD66A" ><img src="https://via.placeholder.com/40/FFD66A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre 3</td>
-<td>Layer paints</td>
-<td>219</td>
-<td>157</td>
-<td>44</td>
-<td>#DB9D2C</td>
-<td style="background-color: #DB9D2C" ><img src="https://via.placeholder.com/40/DB9D2C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre 4</td>
-<td>Layer paints</td>
-<td>205</td>
-<td>143</td>
-<td>22</td>
-<td>#CD8F16</td>
-<td style="background-color: #CD8F16" ><img src="https://via.placeholder.com/40/CD8F16/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre 5</td>
-<td>Layer paints</td>
-<td>184</td>
-<td>127</td>
-<td>24</td>
-<td>#B87F18</td>
-<td style="background-color: #B87F18" ><img src="https://via.placeholder.com/40/B87F18/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive 1</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>247</td>
-<td>100</td>
-<td>#FFF764</td>
-<td style="background-color: #FFF764" ><img src="https://via.placeholder.com/40/FFF764/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive 2</td>
-<td>Layer paints</td>
-<td>202</td>
-<td>229</td>
-<td>0</td>
-<td>#CAE500</td>
-<td style="background-color: #CAE500" ><img src="https://via.placeholder.com/40/CAE500/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive 3</td>
-<td>Layer paints</td>
-<td>147</td>
-<td>168</td>
-<td>11</td>
-<td>#93A80B</td>
-<td style="background-color: #93A80B" ><img src="https://via.placeholder.com/40/93A80B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive 4</td>
-<td>Layer paints</td>
-<td>89</td>
-<td>104</td>
-<td>1</td>
-<td>#596801</td>
-<td style="background-color: #596801" ><img src="https://via.placeholder.com/40/596801/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive 5</td>
-<td>Layer paints</td>
-<td>63</td>
-<td>73</td>
-<td>0</td>
-<td>#3F4900</td>
-<td style="background-color: #3F4900" ><img src="https://via.placeholder.com/40/3F4900/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Baby-blue</td>
-<td>One-coat paints</td>
-<td>76</td>
-<td>132</td>
-<td>255</td>
-<td>#4C84FF</td>
-<td style="background-color: #4C84FF" ><img src="https://via.placeholder.com/40/4C84FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Beige</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>215</td>
-<td>117</td>
-<td>#FFD775</td>
-<td style="background-color: #FFD775" ><img src="https://via.placeholder.com/40/FFD775/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Black</td>
-<td>One-coat paints</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Blue</td>
-<td>One-coat paints</td>
-<td>76</td>
-<td>0</td>
-<td>255</td>
-<td>#4C00FF</td>
-<td style="background-color: #4C00FF" ><img src="https://via.placeholder.com/40/4C00FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Green</td>
-<td>One-coat paints</td>
-<td>1</td>
-<td>182</td>
-<td>43</td>
-<td>#01B62B</td>
-<td style="background-color: #01B62B" ><img src="https://via.placeholder.com/40/01B62B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Magenta</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>1</td>
-<td>161</td>
-<td>#FF01A1</td>
-<td style="background-color: #FF01A1" ><img src="https://via.placeholder.com/40/FF01A1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Ochre</td>
-<td>One-coat paints</td>
-<td>219</td>
-<td>157</td>
-<td>44</td>
-<td>#DB9D2C</td>
-<td style="background-color: #DB9D2C" ><img src="https://via.placeholder.com/40/DB9D2C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Orange</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>119</td>
-<td>1</td>
-<td>#FF7701</td>
-<td style="background-color: #FF7701" ><img src="https://via.placeholder.com/40/FF7701/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Pink</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>98</td>
-<td>215</td>
-<td>#FF62D7</td>
-<td style="background-color: #FF62D7" ><img src="https://via.placeholder.com/40/FF62D7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Purple</td>
-<td>One-coat paints</td>
-<td>189</td>
-<td>47</td>
-<td>133</td>
-<td>#BD2F85</td>
-<td style="background-color: #BD2F85" ><img src="https://via.placeholder.com/40/BD2F85/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Red</td>
-<td>One-coat paints</td>
-<td>221</td>
-<td>0</td>
-<td>12</td>
-<td>#DD000C</td>
-<td style="background-color: #DD000C" ><img src="https://via.placeholder.com/40/DD000C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Red-orange</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>68</td>
-<td>0</td>
-<td>#FF4400</td>
-<td style="background-color: #FF4400" ><img src="https://via.placeholder.com/40/FF4400/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Turquoise</td>
-<td>One-coat paints</td>
-<td>1</td>
-<td>183</td>
-<td>143</td>
-<td>#01B78F</td>
-<td style="background-color: #01B78F" ><img src="https://via.placeholder.com/40/01B78F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Violet</td>
-<td>One-coat paints</td>
-<td>189</td>
-<td>38</td>
-<td>255</td>
-<td>#BD26FF</td>
-<td style="background-color: #BD26FF" ><img src="https://via.placeholder.com/40/BD26FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Yellow</td>
-<td>One-coat paints</td>
-<td>255</td>
-<td>240</td>
-<td>0</td>
-<td>#FFF000</td>
-<td style="background-color: #FFF000" ><img src="https://via.placeholder.com/40/FFF000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>One-coat Yellow-green</td>
-<td>One-coat paints</td>
-<td>152</td>
-<td>234</td>
-<td>36</td>
-<td>#98EA24</td>
-<td style="background-color: #98EA24" ><img src="https://via.placeholder.com/40/98EA24/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>Inks for Shading and Glazing</td>
-<td>255</td>
-<td>104</td>
-<td>1</td>
-<td>#FF6801</td>
-<td style="background-color: #FF6801" ><img src="https://via.placeholder.com/40/FF6801/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange 1</td>
-<td>Layer paints</td>
-<td>250</td>
-<td>207</td>
-<td>139</td>
-<td>#FACF8B</td>
-<td style="background-color: #FACF8B" ><img src="https://via.placeholder.com/40/FACF8B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange 2</td>
-<td>Layer paints</td>
-<td>253</td>
-<td>184</td>
-<td>67</td>
-<td>#FDB843</td>
-<td style="background-color: #FDB843" ><img src="https://via.placeholder.com/40/FDB843/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange 3</td>
-<td>Layer paints</td>
-<td>244</td>
-<td>129</td>
-<td>36</td>
-<td>#F48124</td>
-<td style="background-color: #F48124" ><img src="https://via.placeholder.com/40/F48124/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange 4</td>
-<td>Layer paints</td>
-<td>229</td>
-<td>89</td>
-<td>38</td>
-<td>#E55926</td>
-<td style="background-color: #E55926" ><img src="https://via.placeholder.com/40/E55926/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange 5</td>
-<td>Layer paints</td>
-<td>227</td>
-<td>63</td>
-<td>62</td>
-<td>#E33F3E</td>
-<td style="background-color: #E33F3E" ><img src="https://via.placeholder.com/40/E33F3E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink 1</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>193</td>
-<td>222</td>
-<td>#FFC1DE</td>
-<td style="background-color: #FFC1DE" ><img src="https://via.placeholder.com/40/FFC1DE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink 2</td>
-<td>Layer paints</td>
-<td>242</td>
-<td>135</td>
-<td>181</td>
-<td>#F287B5</td>
-<td style="background-color: #F287B5" ><img src="https://via.placeholder.com/40/F287B5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink 3</td>
-<td>Layer paints</td>
-<td>191</td>
-<td>37</td>
-<td>89</td>
-<td>#BF2559</td>
-<td style="background-color: #BF2559" ><img src="https://via.placeholder.com/40/BF2559/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink 4</td>
-<td>Layer paints</td>
-<td>145</td>
-<td>29</td>
-<td>66</td>
-<td>#911D42</td>
-<td style="background-color: #911D42" ><img src="https://via.placeholder.com/40/911D42/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink 5</td>
-<td>Layer paints</td>
-<td>64</td>
-<td>11</td>
-<td>29</td>
-<td>#400B1D</td>
-<td style="background-color: #400B1D" ><img src="https://via.placeholder.com/40/400B1D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pink Glaze</td>
-<td>Glazing paints</td>
-<td>235</td>
-<td>137</td>
-<td>168</td>
-<td>#EB89A8</td>
-<td style="background-color: #EB89A8" ><img src="https://via.placeholder.com/40/EB89A8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple 1</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>201</td>
-<td>233</td>
-<td>#FFC9E9</td>
-<td style="background-color: #FFC9E9" ><img src="https://via.placeholder.com/40/FFC9E9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple 2</td>
-<td>Layer paints</td>
-<td>230</td>
-<td>94</td>
-<td>178</td>
-<td>#E65EB2</td>
-<td style="background-color: #E65EB2" ><img src="https://via.placeholder.com/40/E65EB2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple 3</td>
-<td>Layer paints</td>
-<td>189</td>
-<td>47</td>
-<td>133</td>
-<td>#BD2F85</td>
-<td style="background-color: #BD2F85" ><img src="https://via.placeholder.com/40/BD2F85/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple 4</td>
-<td>Layer paints</td>
-<td>106</td>
-<td>44</td>
-<td>81</td>
-<td>#6A2C51</td>
-<td style="background-color: #6A2C51" ><img src="https://via.placeholder.com/40/6A2C51/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple 5</td>
-<td>Layer paints</td>
-<td>38</td>
-<td>18</td>
-<td>29</td>
-<td>#26121D</td>
-<td style="background-color: #26121D" ><img src="https://via.placeholder.com/40/26121D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Raw Sienna</td>
-<td>Inks for Shading and Glazing</td>
-<td>216</td>
-<td>129</td>
-<td>0</td>
-<td>#D88100</td>
-<td style="background-color: #D88100" ><img src="https://via.placeholder.com/40/D88100/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red</td>
-<td>Inks for Shading and Glazing</td>
-<td>224</td>
-<td>8</td>
-<td>9</td>
-<td>#E00809</td>
-<td style="background-color: #E00809" ><img src="https://via.placeholder.com/40/E00809/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red 1</td>
-<td>Layer paints</td>
-<td>218</td>
-<td>33</td>
-<td>39</td>
-<td>#DA2127</td>
-<td style="background-color: #DA2127" ><img src="https://via.placeholder.com/40/DA2127/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red 2</td>
-<td>Layer paints</td>
-<td>192</td>
-<td>31</td>
-<td>39</td>
-<td>#C01F27</td>
-<td style="background-color: #C01F27" ><img src="https://via.placeholder.com/40/C01F27/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red 3</td>
-<td>Layer paints</td>
-<td>167</td>
-<td>26</td>
-<td>34</td>
-<td>#A71A22</td>
-<td style="background-color: #A71A22" ><img src="https://via.placeholder.com/40/A71A22/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red 4</td>
-<td>Layer paints</td>
-<td>131</td>
-<td>20</td>
-<td>26</td>
-<td>#83141A</td>
-<td style="background-color: #83141A" ><img src="https://via.placeholder.com/40/83141A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red 5</td>
-<td>Layer paints</td>
-<td>67</td>
-<td>11</td>
-<td>12</td>
-<td>#430B0C</td>
-<td style="background-color: #430B0C" ><img src="https://via.placeholder.com/40/430B0C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Glaze</td>
-<td>Glazing paints</td>
-<td>236</td>
-<td>138</td>
-<td>142</td>
-<td>#EC8A8E</td>
-<td style="background-color: #EC8A8E" ><img src="https://via.placeholder.com/40/EC8A8E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sepia</td>
-<td>Inks for Shading and Glazing</td>
-<td>139</td>
-<td>66</td>
-<td>1</td>
-<td>#8B4201</td>
-<td style="background-color: #8B4201" ><img src="https://via.placeholder.com/40/8B4201/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Black</td>
-<td>Transparent paints</td>
-<td>38</td>
-<td>38</td>
-<td>36</td>
-<td>#262624</td>
-<td style="background-color: #262624" ><img src="https://via.placeholder.com/40/262624/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Blue</td>
-<td>Transparent paints</td>
-<td>87</td>
-<td>157</td>
-<td>208</td>
-<td>#579DD0</td>
-<td style="background-color: #579DD0" ><img src="https://via.placeholder.com/40/579DD0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Blue Grey</td>
-<td>Transparent paints</td>
-<td>95</td>
-<td>103</td>
-<td>114</td>
-<td>#5F6772</td>
-<td style="background-color: #5F6772" ><img src="https://via.placeholder.com/40/5F6772/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Brown</td>
-<td>Transparent paints</td>
-<td>184</td>
-<td>110</td>
-<td>97</td>
-<td>#B86E61</td>
-<td style="background-color: #B86E61" ><img src="https://via.placeholder.com/40/B86E61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Cool Grey</td>
-<td>Transparent paints</td>
-<td>121</td>
-<td>121</td>
-<td>121</td>
-<td>#797979</td>
-<td style="background-color: #797979" ><img src="https://via.placeholder.com/40/797979/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Emerald</td>
-<td>Transparent paints</td>
-<td>72</td>
-<td>154</td>
-<td>131</td>
-<td>#489A83</td>
-<td style="background-color: #489A83" ><img src="https://via.placeholder.com/40/489A83/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Flesh</td>
-<td>Transparent paints</td>
-<td>152</td>
-<td>136</td>
-<td>121</td>
-<td>#988879</td>
-<td style="background-color: #988879" ><img src="https://via.placeholder.com/40/988879/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Green</td>
-<td>Transparent paints</td>
-<td>110</td>
-<td>146</td>
-<td>118</td>
-<td>#6E9276</td>
-<td style="background-color: #6E9276" ><img src="https://via.placeholder.com/40/6E9276/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Marine</td>
-<td>Transparent paints</td>
-<td>112</td>
-<td>139</td>
-<td>194</td>
-<td>#708BC2</td>
-<td style="background-color: #708BC2" ><img src="https://via.placeholder.com/40/708BC2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Ochre</td>
-<td>Transparent paints</td>
-<td>158</td>
-<td>132</td>
-<td>75</td>
-<td>#9E844B</td>
-<td style="background-color: #9E844B" ><img src="https://via.placeholder.com/40/9E844B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Olive</td>
-<td>Transparent paints</td>
-<td>130</td>
-<td>140</td>
-<td>88</td>
-<td>#828C58</td>
-<td style="background-color: #828C58" ><img src="https://via.placeholder.com/40/828C58/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Orange</td>
-<td>Transparent paints</td>
-<td>255</td>
-<td>142</td>
-<td>110</td>
-<td>#FF8E6E</td>
-<td style="background-color: #FF8E6E" ><img src="https://via.placeholder.com/40/FF8E6E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Pink</td>
-<td>Transparent paints</td>
-<td>232</td>
-<td>124</td>
-<td>158</td>
-<td>#E87C9E</td>
-<td style="background-color: #E87C9E" ><img src="https://via.placeholder.com/40/E87C9E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Purple</td>
-<td>Transparent paints</td>
-<td>215</td>
-<td>116</td>
-<td>160</td>
-<td>#D774A0</td>
-<td style="background-color: #D774A0" ><img src="https://via.placeholder.com/40/D774A0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Red</td>
-<td>Transparent paints</td>
-<td>232</td>
-<td>106</td>
-<td>110</td>
-<td>#E86A6E</td>
-<td style="background-color: #E86A6E" ><img src="https://via.placeholder.com/40/E86A6E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Turquoise</td>
-<td>Transparent paints</td>
-<td>89</td>
-<td>155</td>
-<td>167</td>
-<td>#599BA7</td>
-<td style="background-color: #599BA7" ><img src="https://via.placeholder.com/40/599BA7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Violet</td>
-<td>Transparent paints</td>
-<td>152</td>
-<td>122</td>
-<td>186</td>
-<td>#987ABA</td>
-<td style="background-color: #987ABA" ><img src="https://via.placeholder.com/40/987ABA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Warm Grey</td>
-<td>Transparent paints</td>
-<td>144</td>
-<td>141</td>
-<td>136</td>
-<td>#908D88</td>
-<td style="background-color: #908D88" ><img src="https://via.placeholder.com/40/908D88/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent White</td>
-<td>Transparent paints</td>
-<td>237</td>
-<td>237</td>
-<td>237</td>
-<td>#EDEDED</td>
-<td style="background-color: #EDEDED" ><img src="https://via.placeholder.com/40/EDEDED/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Transparent Yellow</td>
-<td>Transparent paints</td>
-<td>254</td>
-<td>245</td>
-<td>82</td>
-<td>#FEF552</td>
-<td style="background-color: #FEF552" ><img src="https://via.placeholder.com/40/FEF552/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise 1</td>
-<td>Layer paints</td>
-<td>51</td>
-<td>224</td>
-<td>218</td>
-<td>#33E0DA</td>
-<td style="background-color: #33E0DA" ><img src="https://via.placeholder.com/40/33E0DA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise 2</td>
-<td>Layer paints</td>
-<td>1</td>
-<td>177</td>
-<td>174</td>
-<td>#01B1AE</td>
-<td style="background-color: #01B1AE" ><img src="https://via.placeholder.com/40/01B1AE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise 3</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>147</td>
-<td>165</td>
-<td>#0093A5</td>
-<td style="background-color: #0093A5" ><img src="https://via.placeholder.com/40/0093A5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise 4</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>83</td>
-<td>91</td>
-<td>#00535B</td>
-<td style="background-color: #00535B" ><img src="https://via.placeholder.com/40/00535B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise 5</td>
-<td>Layer paints</td>
-<td>0</td>
-<td>35</td>
-<td>39</td>
-<td>#002327</td>
-<td style="background-color: #002327" ><img src="https://via.placeholder.com/40/002327/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ultramarine</td>
-<td>Inks for Shading and Glazing</td>
-<td>66</td>
-<td>12</td>
-<td>255</td>
-<td>#420CFF</td>
-<td style="background-color: #420CFF" ><img src="https://via.placeholder.com/40/420CFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vermilion</td>
-<td>Inks for Shading and Glazing</td>
-<td>167</td>
-<td>0</td>
-<td>3</td>
-<td>#A70003</td>
-<td style="background-color: #A70003" ><img src="https://via.placeholder.com/40/A70003/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet 1</td>
-<td>Layer paints</td>
-<td>202</td>
-<td>178</td>
-<td>254</td>
-<td>#CAB2FE</td>
-<td style="background-color: #CAB2FE" ><img src="https://via.placeholder.com/40/CAB2FE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet 2</td>
-<td>Layer paints</td>
-<td>155</td>
-<td>102</td>
-<td>255</td>
-<td>#9B66FF</td>
-<td style="background-color: #9B66FF" ><img src="https://via.placeholder.com/40/9B66FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet 3</td>
-<td>Layer paints</td>
-<td>132</td>
-<td>0</td>
-<td>146</td>
-<td>#840092</td>
-<td style="background-color: #840092" ><img src="https://via.placeholder.com/40/840092/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet 4</td>
-<td>Layer paints</td>
-<td>86</td>
-<td>1</td>
-<td>130</td>
-<td>#560182</td>
-<td style="background-color: #560182" ><img src="https://via.placeholder.com/40/560182/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet 5</td>
-<td>Layer paints</td>
-<td>37</td>
-<td>0</td>
-<td>56</td>
-<td>#250038</td>
-<td style="background-color: #250038" ><img src="https://via.placeholder.com/40/250038/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Grey 1</td>
-<td>Layer paints</td>
-<td>192</td>
-<td>189</td>
-<td>182</td>
-<td>#C0BDB6</td>
-<td style="background-color: #C0BDB6" ><img src="https://via.placeholder.com/40/C0BDB6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Grey 2</td>
-<td>Layer paints</td>
-<td>170</td>
-<td>162</td>
-<td>149</td>
-<td>#AAA295</td>
-<td style="background-color: #AAA295" ><img src="https://via.placeholder.com/40/AAA295/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Grey 3</td>
-<td>Layer paints</td>
-<td>118</td>
-<td>114</td>
-<td>105</td>
-<td>#767269</td>
-<td style="background-color: #767269" ><img src="https://via.placeholder.com/40/767269/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Grey 4</td>
-<td>Layer paints</td>
-<td>73</td>
-<td>70</td>
-<td>65</td>
-<td>#494641</td>
-<td style="background-color: #494641" ><img src="https://via.placeholder.com/40/494641/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Grey 5</td>
-<td>Layer paints</td>
-<td>30</td>
-<td>29</td>
-<td>27</td>
-<td>#1E1D1B</td>
-<td style="background-color: #1E1D1B" ><img src="https://via.placeholder.com/40/1E1D1B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Paints for undercoating</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Inks for Shading and Glazing</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
-<td>Inks for Shading and Glazing</td>
-<td>255</td>
-<td>194</td>
-<td>8</td>
-<td>#FFC208</td>
-<td style="background-color: #FFC208" ><img src="https://via.placeholder.com/40/FFC208/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow 1</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>252</td>
-<td>223</td>
-<td>#FFFCDF</td>
-<td style="background-color: #FFFCDF" ><img src="https://via.placeholder.com/40/FFFCDF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow 2</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>240</td>
-<td>0</td>
-<td>#FFF000</td>
-<td style="background-color: #FFF000" ><img src="https://via.placeholder.com/40/FFF000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow 3</td>
-<td>Layer paints</td>
-<td>255</td>
-<td>212</td>
-<td>22</td>
-<td>#FFD416</td>
-<td style="background-color: #FFD416" ><img src="https://via.placeholder.com/40/FFD416/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow 4</td>
-<td>Layer paints</td>
-<td>252</td>
-<td>194</td>
-<td>24</td>
-<td>#FCC218</td>
-<td style="background-color: #FCC218" ><img src="https://via.placeholder.com/40/FCC218/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow 5</td>
-<td>Layer paints</td>
-<td>249</td>
-<td>166</td>
-<td>38</td>
-<td>#F9A626</td>
-<td style="background-color: #F9A626" ><img src="https://via.placeholder.com/40/F9A626/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Glaze</td>
-<td>Glazing paints</td>
-<td>254</td>
-<td>246</td>
-<td>93</td>
-<td>#FEF65D</td>
-<td style="background-color: #FEF65D" ><img src="https://via.placeholder.com/40/FEF65D/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+![Warcolours](../logos/Warcolours.png "Warcolours")
+
+|Name|Set|R|G|B|Hex|
+|---|---|---|---|---|---|
+|Black|Layer paints|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Black|Inks for Shading and Glazing|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Black|Paints for undercoating|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Blue 1|Layer paints|158|219|238|![#9EDBEE](https://placehold.co/15x15/9EDBEE/9EDBEE.png) `#9EDBEE`|
+|Blue 2|Layer paints|0|141|181|![#008DB5](https://placehold.co/15x15/008DB5/008DB5.png) `#008DB5`|
+|Blue 3|Layer paints|4|100|177|![#0464B1](https://placehold.co/15x15/0464B1/0464B1.png) `#0464B1`|
+|Blue 4|Layer paints|0|67|172|![#0043AC](https://placehold.co/15x15/0043AC/0043AC.png) `#0043AC`|
+|Blue 5|Layer paints|0|32|83|![#002053](https://placehold.co/15x15/002053/002053.png) `#002053`|
+|Blue Glaze|Glazing paints|78|145|200|![#4E91C8](https://placehold.co/15x15/4E91C8/4E91C8.png) `#4E91C8`|
+|Blue Grey 1|Layer paints|209|225|250|![#D1E1FA](https://placehold.co/15x15/D1E1FA/D1E1FA.png) `#D1E1FA`|
+|Blue Grey 2|Layer paints|153|179|216|![#99B3D8](https://placehold.co/15x15/99B3D8/99B3D8.png) `#99B3D8`|
+|Blue Grey 3|Layer paints|112|139|182|![#708BB6](https://placehold.co/15x15/708BB6/708BB6.png) `#708BB6`|
+|Blue Grey 4|Layer paints|82|105|137|![#526989](https://placehold.co/15x15/526989/526989.png) `#526989`|
+|Blue Grey 5|Layer paints|41|53|67|![#293543](https://placehold.co/15x15/293543/293543.png) `#293543`|
+|Brown 1|Layer paints|225|119|103|![#E17767](https://placehold.co/15x15/E17767/E17767.png) `#E17767`|
+|Brown 2|Layer paints|158|55|36|![#9E3724](https://placehold.co/15x15/9E3724/9E3724.png) `#9E3724`|
+|Brown 3|Layer paints|112|38|25|![#702619](https://placehold.co/15x15/702619/702619.png) `#702619`|
+|Brown 4|Layer paints|93|66|57|![#5D4239](https://placehold.co/15x15/5D4239/5D4239.png) `#5D4239`|
+|Brown 5|Layer paints|66|59|67|![#423B43](https://placehold.co/15x15/423B43/423B43.png) `#423B43`|
+|Brown Glaze|Glazing paints|192|126|113|![#C07E71](https://placehold.co/15x15/C07E71/C07E71.png) `#C07E71`|
+|Burnt Sienna|Inks for Shading and Glazing|206|43|0|![#CE2B00](https://placehold.co/15x15/CE2B00/CE2B00.png) `#CE2B00`|
+|Cool Grey 1|Layer paints|198|198|198|![#C6C6C6](https://placehold.co/15x15/C6C6C6/C6C6C6.png) `#C6C6C6`|
+|Cool Grey 2|Layer paints|165|165|165|![#A5A5A5](https://placehold.co/15x15/A5A5A5/A5A5A5.png) `#A5A5A5`|
+|Cool Grey 3|Layer paints|130|130|130|![#828282](https://placehold.co/15x15/828282/828282.png) `#828282`|
+|Cool Grey 4|Layer paints|76|76|76|![#4C4C4C](https://placehold.co/15x15/4C4C4C/4C4C4C.png) `#4C4C4C`|
+|Cool Grey 5|Layer paints|25|25|25|![#191919](https://placehold.co/15x15/191919/191919.png) `#191919`|
+|Dark Green|Inks for Shading and Glazing|0|98|21|![#006215](https://placehold.co/15x15/006215/006215.png) `#006215`|
+|Emerald 1|Layer paints|0|229|146|![#00E592](https://placehold.co/15x15/00E592/00E592.png) `#00E592`|
+|Emerald 2|Layer paints|0|197|125|![#00C57D](https://placehold.co/15x15/00C57D/00C57D.png) `#00C57D`|
+|Emerald 3|Layer paints|0|153|96|![#009960](https://placehold.co/15x15/009960/009960.png) `#009960`|
+|Emerald 4|Layer paints|0|114|71|![#007247](https://placehold.co/15x15/007247/007247.png) `#007247`|
+|Emerald 5|Layer paints|0|85|50|![#005532](https://placehold.co/15x15/005532/005532.png) `#005532`|
+|Flesh 1|Layer paints|254|248|188|![#FEF8BC](https://placehold.co/15x15/FEF8BC/FEF8BC.png) `#FEF8BC`|
+|Flesh 2|Layer paints|255|233|186|![#FFE9BA](https://placehold.co/15x15/FFE9BA/FFE9BA.png) `#FFE9BA`|
+|Flesh 3|Layer paints|255|198|155|![#FFC69B](https://placehold.co/15x15/FFC69B/FFC69B.png) `#FFC69B`|
+|Flesh 4|Layer paints|215|119|121|![#D77779](https://placehold.co/15x15/D77779/D77779.png) `#D77779`|
+|Flesh 5|Layer paints|160|124|98|![#A07C62](https://placehold.co/15x15/A07C62/A07C62.png) `#A07C62`|
+|Fluorescent Green|Layer paints|142|255|0|![#8EFF00](https://placehold.co/15x15/8EFF00/8EFF00.png) `#8EFF00`|
+|Fluorescent Orange|Layer paints|255|190|0|![#FFBE00](https://placehold.co/15x15/FFBE00/FFBE00.png) `#FFBE00`|
+|Fluorescent Pink|Layer paints|254|0|164|![#FE00A4](https://placehold.co/15x15/FE00A4/FE00A4.png) `#FE00A4`|
+|Fluorescent Yellow|Layer paints|233|255|0|![#E9FF00](https://placehold.co/15x15/E9FF00/E9FF00.png) `#E9FF00`|
+|Green 1|Layer paints|226|255|17|![#E2FF11](https://placehold.co/15x15/E2FF11/E2FF11.png) `#E2FF11`|
+|Green 2|Layer paints|110|255|0|![#6EFF00](https://placehold.co/15x15/6EFF00/6EFF00.png) `#6EFF00`|
+|Green 3|Layer paints|0|183|56|![#00B738](https://placehold.co/15x15/00B738/00B738.png) `#00B738`|
+|Green 4|Layer paints|0|154|45|![#009A2D](https://placehold.co/15x15/009A2D/009A2D.png) `#009A2D`|
+|Green 5|Layer paints|2|103|33|![#026721](https://placehold.co/15x15/026721/026721.png) `#026721`|
+|Green Glaze|Glazing paints|154|255|79|![#9AFF4F](https://placehold.co/15x15/9AFF4F/9AFF4F.png) `#9AFF4F`|
+|Grey|Paints for undercoating|130|130|130|![#828282](https://placehold.co/15x15/828282/828282.png) `#828282`|
+|Marine 1|Layer paints|139|197|237|![#8BC5ED](https://placehold.co/15x15/8BC5ED/8BC5ED.png) `#8BC5ED`|
+|Marine 2|Layer paints|74|168|238|![#4AA8EE](https://placehold.co/15x15/4AA8EE/4AA8EE.png) `#4AA8EE`|
+|Marine 3|Layer paints|0|125|218|![#007DDA](https://placehold.co/15x15/007DDA/007DDA.png) `#007DDA`|
+|Marine 4|Layer paints|0|90|163|![#005AA3](https://placehold.co/15x15/005AA3/005AA3.png) `#005AA3`|
+|Marine 5|Layer paints|0|58|82|![#003A52](https://placehold.co/15x15/003A52/003A52.png) `#003A52`|
+|Metallic Antique Gold|Metallic paints|197|171|24|![#C5AB18](https://placehold.co/15x15/C5AB18/C5AB18.png) `#C5AB18`|
+|Metallic Black|Metallic paints|55|55|55|![#373737](https://placehold.co/15x15/373737/373737.png) `#373737`|
+|Metallic Black Copper|Metallic paints|75|28|20|![#4B1C14](https://placehold.co/15x15/4B1C14/4B1C14.png) `#4B1C14`|
+|Metallic Blue|Metallic paints|41|47|255|![#292FFF](https://placehold.co/15x15/292FFF/292FFF.png) `#292FFF`|
+|Metallic Bright Gold|Metallic paints|223|179|8|![#DFB308](https://placehold.co/15x15/DFB308/DFB308.png) `#DFB308`|
+|Metallic Brown|Metallic paints|208|169|30|![#D0A91E](https://placehold.co/15x15/D0A91E/D0A91E.png) `#D0A91E`|
+|Metallic Choco|Metallic paints|198|127|35|![#C67F23](https://placehold.co/15x15/C67F23/C67F23.png) `#C67F23`|
+|Metallic Copper|Metallic paints|170|68|30|![#AA441E](https://placehold.co/15x15/AA441E/AA441E.png) `#AA441E`|
+|Metallic Crimson|Metallic paints|254|74|73|![#FE4A49](https://placehold.co/15x15/FE4A49/FE4A49.png) `#FE4A49`|
+|Metallic Dark Copper|Metallic paints|121|60|42|![#793C2A](https://placehold.co/15x15/793C2A/793C2A.png) `#793C2A`|
+|Metallic Dark Green|Metallic paints|116|222|62|![#74DE3E](https://placehold.co/15x15/74DE3E/74DE3E.png) `#74DE3E`|
+|Metallic Emerald|Metallic paints|41|139|82|![#298B52](https://placehold.co/15x15/298B52/298B52.png) `#298B52`|
+|Metallic Green|Metallic paints|228|255|86|![#E4FF56](https://placehold.co/15x15/E4FF56/E4FF56.png) `#E4FF56`|
+|Metallic Lemon|Metallic paints|197|134|65|![#C58641](https://placehold.co/15x15/C58641/C58641.png) `#C58641`|
+|Metallic Pale Gold|Metallic paints|254|225|133|![#FEE185](https://placehold.co/15x15/FEE185/FEE185.png) `#FEE185`|
+|Metallic Pewter|Metallic paints|116|116|116|![#747474](https://placehold.co/15x15/747474/747474.png) `#747474`|
+|Metallic Pink|Metallic paints|254|105|186|![#FE69BA](https://placehold.co/15x15/FE69BA/FE69BA.png) `#FE69BA`|
+|Metallic Red|Metallic paints|241|23|24|![#F11718](https://placehold.co/15x15/F11718/F11718.png) `#F11718`|
+|Metallic Sand|Metallic paints|254|255|95|![#FEFF5F](https://placehold.co/15x15/FEFF5F/FEFF5F.png) `#FEFF5F`|
+|Metallic Silver|Metallic paints|151|151|151|![#979797](https://placehold.co/15x15/979797/979797.png) `#979797`|
+|Metallic Sky|Metallic paints|68|145|253|![#4491FD](https://placehold.co/15x15/4491FD/4491FD.png) `#4491FD`|
+|Metallic Turquoise|Metallic paints|56|219|90|![#38DB5A](https://placehold.co/15x15/38DB5A/38DB5A.png) `#38DB5A`|
+|Metallic Ultramarine|Metallic paints|126|53|255|![#7E35FF](https://placehold.co/15x15/7E35FF/7E35FF.png) `#7E35FF`|
+|Metallic Violet|Metallic paints|121|6|171|![#7906AB](https://placehold.co/15x15/7906AB/7906AB.png) `#7906AB`|
+|Metallic White|Metallic paints|201|201|201|![#C9C9C9](https://placehold.co/15x15/C9C9C9/C9C9C9.png) `#C9C9C9`|
+|Metallic Yellow|Metallic paints|137|129|31|![#89811F](https://placehold.co/15x15/89811F/89811F.png) `#89811F`|
+|Ochre 1|Layer paints|229|225|187|![#E5E1BB](https://placehold.co/15x15/E5E1BB/E5E1BB.png) `#E5E1BB`|
+|Ochre 2|Layer paints|255|214|106|![#FFD66A](https://placehold.co/15x15/FFD66A/FFD66A.png) `#FFD66A`|
+|Ochre 3|Layer paints|219|157|44|![#DB9D2C](https://placehold.co/15x15/DB9D2C/DB9D2C.png) `#DB9D2C`|
+|Ochre 4|Layer paints|205|143|22|![#CD8F16](https://placehold.co/15x15/CD8F16/CD8F16.png) `#CD8F16`|
+|Ochre 5|Layer paints|184|127|24|![#B87F18](https://placehold.co/15x15/B87F18/B87F18.png) `#B87F18`|
+|Olive 1|Layer paints|255|247|100|![#FFF764](https://placehold.co/15x15/FFF764/FFF764.png) `#FFF764`|
+|Olive 2|Layer paints|202|229|0|![#CAE500](https://placehold.co/15x15/CAE500/CAE500.png) `#CAE500`|
+|Olive 3|Layer paints|147|168|11|![#93A80B](https://placehold.co/15x15/93A80B/93A80B.png) `#93A80B`|
+|Olive 4|Layer paints|89|104|1|![#596801](https://placehold.co/15x15/596801/596801.png) `#596801`|
+|Olive 5|Layer paints|63|73|0|![#3F4900](https://placehold.co/15x15/3F4900/3F4900.png) `#3F4900`|
+|One-coat Baby-blue|One-coat paints|76|132|255|![#4C84FF](https://placehold.co/15x15/4C84FF/4C84FF.png) `#4C84FF`|
+|One-coat Beige|One-coat paints|255|215|117|![#FFD775](https://placehold.co/15x15/FFD775/FFD775.png) `#FFD775`|
+|One-coat Black|One-coat paints|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|One-coat Blue|One-coat paints|76|0|255|![#4C00FF](https://placehold.co/15x15/4C00FF/4C00FF.png) `#4C00FF`|
+|One-coat Green|One-coat paints|1|182|43|![#01B62B](https://placehold.co/15x15/01B62B/01B62B.png) `#01B62B`|
+|One-coat Magenta|One-coat paints|255|1|161|![#FF01A1](https://placehold.co/15x15/FF01A1/FF01A1.png) `#FF01A1`|
+|One-coat Ochre|One-coat paints|219|157|44|![#DB9D2C](https://placehold.co/15x15/DB9D2C/DB9D2C.png) `#DB9D2C`|
+|One-coat Orange|One-coat paints|255|119|1|![#FF7701](https://placehold.co/15x15/FF7701/FF7701.png) `#FF7701`|
+|One-coat Pink|One-coat paints|255|98|215|![#FF62D7](https://placehold.co/15x15/FF62D7/FF62D7.png) `#FF62D7`|
+|One-coat Purple|One-coat paints|189|47|133|![#BD2F85](https://placehold.co/15x15/BD2F85/BD2F85.png) `#BD2F85`|
+|One-coat Red|One-coat paints|221|0|12|![#DD000C](https://placehold.co/15x15/DD000C/DD000C.png) `#DD000C`|
+|One-coat Red-orange|One-coat paints|255|68|0|![#FF4400](https://placehold.co/15x15/FF4400/FF4400.png) `#FF4400`|
+|One-coat Turquoise|One-coat paints|1|183|143|![#01B78F](https://placehold.co/15x15/01B78F/01B78F.png) `#01B78F`|
+|One-coat Violet|One-coat paints|189|38|255|![#BD26FF](https://placehold.co/15x15/BD26FF/BD26FF.png) `#BD26FF`|
+|One-coat Yellow|One-coat paints|255|240|0|![#FFF000](https://placehold.co/15x15/FFF000/FFF000.png) `#FFF000`|
+|One-coat Yellow-green|One-coat paints|152|234|36|![#98EA24](https://placehold.co/15x15/98EA24/98EA24.png) `#98EA24`|
+|Orange|Inks for Shading and Glazing|255|104|1|![#FF6801](https://placehold.co/15x15/FF6801/FF6801.png) `#FF6801`|
+|Orange 1|Layer paints|250|207|139|![#FACF8B](https://placehold.co/15x15/FACF8B/FACF8B.png) `#FACF8B`|
+|Orange 2|Layer paints|253|184|67|![#FDB843](https://placehold.co/15x15/FDB843/FDB843.png) `#FDB843`|
+|Orange 3|Layer paints|244|129|36|![#F48124](https://placehold.co/15x15/F48124/F48124.png) `#F48124`|
+|Orange 4|Layer paints|229|89|38|![#E55926](https://placehold.co/15x15/E55926/E55926.png) `#E55926`|
+|Orange 5|Layer paints|227|63|62|![#E33F3E](https://placehold.co/15x15/E33F3E/E33F3E.png) `#E33F3E`|
+|Pink 1|Layer paints|255|193|222|![#FFC1DE](https://placehold.co/15x15/FFC1DE/FFC1DE.png) `#FFC1DE`|
+|Pink 2|Layer paints|242|135|181|![#F287B5](https://placehold.co/15x15/F287B5/F287B5.png) `#F287B5`|
+|Pink 3|Layer paints|191|37|89|![#BF2559](https://placehold.co/15x15/BF2559/BF2559.png) `#BF2559`|
+|Pink 4|Layer paints|145|29|66|![#911D42](https://placehold.co/15x15/911D42/911D42.png) `#911D42`|
+|Pink 5|Layer paints|64|11|29|![#400B1D](https://placehold.co/15x15/400B1D/400B1D.png) `#400B1D`|
+|Pink Glaze|Glazing paints|235|137|168|![#EB89A8](https://placehold.co/15x15/EB89A8/EB89A8.png) `#EB89A8`|
+|Purple 1|Layer paints|255|201|233|![#FFC9E9](https://placehold.co/15x15/FFC9E9/FFC9E9.png) `#FFC9E9`|
+|Purple 2|Layer paints|230|94|178|![#E65EB2](https://placehold.co/15x15/E65EB2/E65EB2.png) `#E65EB2`|
+|Purple 3|Layer paints|189|47|133|![#BD2F85](https://placehold.co/15x15/BD2F85/BD2F85.png) `#BD2F85`|
+|Purple 4|Layer paints|106|44|81|![#6A2C51](https://placehold.co/15x15/6A2C51/6A2C51.png) `#6A2C51`|
+|Purple 5|Layer paints|38|18|29|![#26121D](https://placehold.co/15x15/26121D/26121D.png) `#26121D`|
+|Raw Sienna|Inks for Shading and Glazing|216|129|0|![#D88100](https://placehold.co/15x15/D88100/D88100.png) `#D88100`|
+|Red|Inks for Shading and Glazing|224|8|9|![#E00809](https://placehold.co/15x15/E00809/E00809.png) `#E00809`|
+|Red 1|Layer paints|218|33|39|![#DA2127](https://placehold.co/15x15/DA2127/DA2127.png) `#DA2127`|
+|Red 2|Layer paints|192|31|39|![#C01F27](https://placehold.co/15x15/C01F27/C01F27.png) `#C01F27`|
+|Red 3|Layer paints|167|26|34|![#A71A22](https://placehold.co/15x15/A71A22/A71A22.png) `#A71A22`|
+|Red 4|Layer paints|131|20|26|![#83141A](https://placehold.co/15x15/83141A/83141A.png) `#83141A`|
+|Red 5|Layer paints|67|11|12|![#430B0C](https://placehold.co/15x15/430B0C/430B0C.png) `#430B0C`|
+|Red Glaze|Glazing paints|236|138|142|![#EC8A8E](https://placehold.co/15x15/EC8A8E/EC8A8E.png) `#EC8A8E`|
+|Sepia|Inks for Shading and Glazing|139|66|1|![#8B4201](https://placehold.co/15x15/8B4201/8B4201.png) `#8B4201`|
+|Transparent Black|Transparent paints|38|38|36|![#262624](https://placehold.co/15x15/262624/262624.png) `#262624`|
+|Transparent Blue|Transparent paints|87|157|208|![#579DD0](https://placehold.co/15x15/579DD0/579DD0.png) `#579DD0`|
+|Transparent Blue Grey|Transparent paints|95|103|114|![#5F6772](https://placehold.co/15x15/5F6772/5F6772.png) `#5F6772`|
+|Transparent Brown|Transparent paints|184|110|97|![#B86E61](https://placehold.co/15x15/B86E61/B86E61.png) `#B86E61`|
+|Transparent Cool Grey|Transparent paints|121|121|121|![#797979](https://placehold.co/15x15/797979/797979.png) `#797979`|
+|Transparent Emerald|Transparent paints|72|154|131|![#489A83](https://placehold.co/15x15/489A83/489A83.png) `#489A83`|
+|Transparent Flesh|Transparent paints|152|136|121|![#988879](https://placehold.co/15x15/988879/988879.png) `#988879`|
+|Transparent Green|Transparent paints|110|146|118|![#6E9276](https://placehold.co/15x15/6E9276/6E9276.png) `#6E9276`|
+|Transparent Marine|Transparent paints|112|139|194|![#708BC2](https://placehold.co/15x15/708BC2/708BC2.png) `#708BC2`|
+|Transparent Ochre|Transparent paints|158|132|75|![#9E844B](https://placehold.co/15x15/9E844B/9E844B.png) `#9E844B`|
+|Transparent Olive|Transparent paints|130|140|88|![#828C58](https://placehold.co/15x15/828C58/828C58.png) `#828C58`|
+|Transparent Orange|Transparent paints|255|142|110|![#FF8E6E](https://placehold.co/15x15/FF8E6E/FF8E6E.png) `#FF8E6E`|
+|Transparent Pink|Transparent paints|232|124|158|![#E87C9E](https://placehold.co/15x15/E87C9E/E87C9E.png) `#E87C9E`|
+|Transparent Purple|Transparent paints|215|116|160|![#D774A0](https://placehold.co/15x15/D774A0/D774A0.png) `#D774A0`|
+|Transparent Red|Transparent paints|232|106|110|![#E86A6E](https://placehold.co/15x15/E86A6E/E86A6E.png) `#E86A6E`|
+|Transparent Turquoise|Transparent paints|89|155|167|![#599BA7](https://placehold.co/15x15/599BA7/599BA7.png) `#599BA7`|
+|Transparent Violet|Transparent paints|152|122|186|![#987ABA](https://placehold.co/15x15/987ABA/987ABA.png) `#987ABA`|
+|Transparent Warm Grey|Transparent paints|144|141|136|![#908D88](https://placehold.co/15x15/908D88/908D88.png) `#908D88`|
+|Transparent White|Transparent paints|237|237|237|![#EDEDED](https://placehold.co/15x15/EDEDED/EDEDED.png) `#EDEDED`|
+|Transparent Yellow|Transparent paints|254|245|82|![#FEF552](https://placehold.co/15x15/FEF552/FEF552.png) `#FEF552`|
+|Turquoise 1|Layer paints|51|224|218|![#33E0DA](https://placehold.co/15x15/33E0DA/33E0DA.png) `#33E0DA`|
+|Turquoise 2|Layer paints|1|177|174|![#01B1AE](https://placehold.co/15x15/01B1AE/01B1AE.png) `#01B1AE`|
+|Turquoise 3|Layer paints|0|147|165|![#0093A5](https://placehold.co/15x15/0093A5/0093A5.png) `#0093A5`|
+|Turquoise 4|Layer paints|0|83|91|![#00535B](https://placehold.co/15x15/00535B/00535B.png) `#00535B`|
+|Turquoise 5|Layer paints|0|35|39|![#002327](https://placehold.co/15x15/002327/002327.png) `#002327`|
+|Ultramarine|Inks for Shading and Glazing|66|12|255|![#420CFF](https://placehold.co/15x15/420CFF/420CFF.png) `#420CFF`|
+|Vermilion|Inks for Shading and Glazing|167|0|3|![#A70003](https://placehold.co/15x15/A70003/A70003.png) `#A70003`|
+|Violet 1|Layer paints|202|178|254|![#CAB2FE](https://placehold.co/15x15/CAB2FE/CAB2FE.png) `#CAB2FE`|
+|Violet 2|Layer paints|155|102|255|![#9B66FF](https://placehold.co/15x15/9B66FF/9B66FF.png) `#9B66FF`|
+|Violet 3|Layer paints|132|0|146|![#840092](https://placehold.co/15x15/840092/840092.png) `#840092`|
+|Violet 4|Layer paints|86|1|130|![#560182](https://placehold.co/15x15/560182/560182.png) `#560182`|
+|Violet 5|Layer paints|37|0|56|![#250038](https://placehold.co/15x15/250038/250038.png) `#250038`|
+|Warm Grey 1|Layer paints|192|189|182|![#C0BDB6](https://placehold.co/15x15/C0BDB6/C0BDB6.png) `#C0BDB6`|
+|Warm Grey 2|Layer paints|170|162|149|![#AAA295](https://placehold.co/15x15/AAA295/AAA295.png) `#AAA295`|
+|Warm Grey 3|Layer paints|118|114|105|![#767269](https://placehold.co/15x15/767269/767269.png) `#767269`|
+|Warm Grey 4|Layer paints|73|70|65|![#494641](https://placehold.co/15x15/494641/494641.png) `#494641`|
+|Warm Grey 5|Layer paints|30|29|27|![#1E1D1B](https://placehold.co/15x15/1E1D1B/1E1D1B.png) `#1E1D1B`|
+|White|Layer paints|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|White|Paints for undercoating|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|White|Inks for Shading and Glazing|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Yellow|Inks for Shading and Glazing|255|194|8|![#FFC208](https://placehold.co/15x15/FFC208/FFC208.png) `#FFC208`|
+|Yellow 1|Layer paints|255|252|223|![#FFFCDF](https://placehold.co/15x15/FFFCDF/FFFCDF.png) `#FFFCDF`|
+|Yellow 2|Layer paints|255|240|0|![#FFF000](https://placehold.co/15x15/FFF000/FFF000.png) `#FFF000`|
+|Yellow 3|Layer paints|255|212|22|![#FFD416](https://placehold.co/15x15/FFD416/FFD416.png) `#FFD416`|
+|Yellow 4|Layer paints|252|194|24|![#FCC218](https://placehold.co/15x15/FCC218/FCC218.png) `#FCC218`|
+|Yellow 5|Layer paints|249|166|38|![#F9A626](https://placehold.co/15x15/F9A626/F9A626.png) `#F9A626`|
+|Yellow Glaze|Glazing paints|254|246|93|![#FEF65D](https://placehold.co/15x15/FEF65D/FEF65D.png) `#FEF65D`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">

@@ -1,412 +1,47 @@
 # Kimera Kolors
-<img src="../logos/KimeraKolors.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Code</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alizarin Crimson</td>
-<td>PR 179</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>98</td>
-<td>25</td>
-<td>47</td>
-<td>#62192F</td>
-<td style="background-color: #62192F" ><img src="https://via.placeholder.com/40/62192F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Carbon Black</td>
-<td>PBK7</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>45</td>
-<td>42</td>
-<td>45</td>
-<td>#2D2A2D</td>
-<td style="background-color: #2D2A2D" ><img src="https://via.placeholder.com/40/2D2A2D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cartacci Red</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>208</td>
-<td>44</td>
-<td>42</td>
-<td>#D02C2A</td>
-<td style="background-color: #D02C2A" ><img src="https://via.placeholder.com/40/D02C2A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Caucasian Skintone</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>194</td>
-<td>131</td>
-<td>92</td>
-<td>#C2835C</td>
-<td style="background-color: #C2835C" ><img src="https://via.placeholder.com/40/C2835C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cloudy Sky</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>169</td>
-<td>158</td>
-<td>133</td>
-<td>#A99E85</td>
-<td style="background-color: #A99E85" ><img src="https://via.placeholder.com/40/A99E85/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cobalt Bluegreen</td>
-<td>PB 36</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>40</td>
-<td>94</td>
-<td>104</td>
-<td>#285E68</td>
-<td style="background-color: #285E68" ><img src="https://via.placeholder.com/40/285E68/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cold Yellow</td>
-<td>PY151</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>229</td>
-<td>216</td>
-<td>40</td>
-<td>#E5D828</td>
-<td style="background-color: #E5D828" ><img src="https://via.placeholder.com/40/E5D828/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Ochre</td>
-<td>PBR 48</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>149</td>
-<td>107</td>
-<td>35</td>
-<td>#956B23</td>
-<td style="background-color: #956B23" ><img src="https://via.placeholder.com/40/956B23/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Diarylide Yellow</td>
-<td>PY 170</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>234</td>
-<td>163</td>
-<td>57</td>
-<td>#EAA339</td>
-<td style="background-color: #EAA339" ><img src="https://via.placeholder.com/40/EAA339/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fallen Grass</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>111</td>
-<td>124</td>
-<td>99</td>
-<td>#6F7C63</td>
-<td style="background-color: #6F7C63" ><img src="https://via.placeholder.com/40/6F7C63/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Golden Brown</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>136</td>
-<td>90</td>
-<td>30</td>
-<td>#885A1E</td>
-<td style="background-color: #885A1E" ><img src="https://via.placeholder.com/40/885A1E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ground Brown</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>84</td>
-<td>72</td>
-<td>60</td>
-<td>#54483C</td>
-<td style="background-color: #54483C" ><img src="https://via.placeholder.com/40/54483C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Honey Moon Yellow</td>
-<td>PBR 24</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>199</td>
-<td>145</td>
-<td>49</td>
-<td>#C79131</td>
-<td style="background-color: #C79131" ><img src="https://via.placeholder.com/40/C79131/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Iron Hue</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>117</td>
-<td>121</td>
-<td>115</td>
-<td>#757973</td>
-<td style="background-color: #757973" ><img src="https://via.placeholder.com/40/757973/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kiwi Brown</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>102</td>
-<td>91</td>
-<td>40</td>
-<td>#665B28</td>
-<td style="background-color: #665B28" ><img src="https://via.placeholder.com/40/665B28/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magenta</td>
-<td>PR122</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>161</td>
-<td>25</td>
-<td>91</td>
-<td>#A1195B</td>
-<td style="background-color: #A1195B" ><img src="https://via.placeholder.com/40/A1195B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mars Orange</td>
-<td>PR 101</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>154</td>
-<td>86</td>
-<td>34</td>
-<td>#9A5622</td>
-<td style="background-color: #9A5622" ><img src="https://via.placeholder.com/40/9A5622/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Morning Sky</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>93</td>
-<td>132</td>
-<td>153</td>
-<td>#5D8499</td>
-<td style="background-color: #5D8499" ><img src="https://via.placeholder.com/40/5D8499/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>PO34</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>203</td>
-<td>85</td>
-<td>46</td>
-<td>#CB552E</td>
-<td style="background-color: #CB552E" ><img src="https://via.placeholder.com/40/CB552E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxide Brown Dark</td>
-<td>PBR 11 Dark</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>75</td>
-<td>50</td>
-<td>41</td>
-<td>#4B3229</td>
-<td style="background-color: #4B3229" ><img src="https://via.placeholder.com/40/4B3229/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxide Brown Light</td>
-<td>PBR 11 Light</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>125</td>
-<td>91</td>
-<td>68</td>
-<td>#7D5B44</td>
-<td style="background-color: #7D5B44" ><img src="https://via.placeholder.com/40/7D5B44/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxide Brown Medium</td>
-<td>PBR 11 Medium</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>107</td>
-<td>72</td>
-<td>66</td>
-<td>#6B4842</td>
-<td style="background-color: #6B4842" ><img src="https://via.placeholder.com/40/6B4842/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxide Green</td>
-<td>PG 17</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>80</td>
-<td>108</td>
-<td>72</td>
-<td>#506C48</td>
-<td style="background-color: #506C48" ><img src="https://via.placeholder.com/40/506C48/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phtalo Green</td>
-<td>PG7</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>52</td>
-<td>76</td>
-<td>80</td>
-<td>#344C50</td>
-<td style="background-color: #344C50" ><img src="https://via.placeholder.com/40/344C50/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phthalo Blu (Green Shade)</td>
-<td>PB15.4</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>32</td>
-<td>52</td>
-<td>121</td>
-<td>#203479</td>
-<td style="background-color: #203479" ><img src="https://via.placeholder.com/40/203479/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phthalo Blu (Red Shade)</td>
-<td>PB15.2</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>68</td>
-<td>48</td>
-<td>123</td>
-<td>#44307B</td>
-<td style="background-color: #44307B" ><img src="https://via.placeholder.com/40/44307B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple</td>
-<td>PV 19</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>135</td>
-<td>33</td>
-<td>122</td>
-<td>#87217A</td>
-<td style="background-color: #87217A" ><img src="https://via.placeholder.com/40/87217A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Oxide</td>
-<td>PR101</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>107</td>
-<td>47</td>
-<td>12</td>
-<td>#6B2F0C</td>
-<td style="background-color: #6B2F0C" ><img src="https://via.placeholder.com/40/6B2F0C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Royal Brown</td>
-<td>PBR 25</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>101</td>
-<td>39</td>
-<td>29</td>
-<td>#65271D</td>
-<td style="background-color: #65271D" ><img src="https://via.placeholder.com/40/65271D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Samurai Green</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>48</td>
-<td>110</td>
-<td>100</td>
-<td>#306E64</td>
-<td style="background-color: #306E64" ><img src="https://via.placeholder.com/40/306E64/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Silver Grey</td>
-<td></td>
-<td>Kimera Kolors Danilo Cartacci Signature Set</td>
-<td>120</td>
-<td>131</td>
-<td>136</td>
-<td>#788388</td>
-<td style="background-color: #788388" ><img src="https://via.placeholder.com/40/788388/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sun Ray</td>
-<td></td>
-<td>Kimera Kolors Michal Pisarski Signature Set</td>
-<td>253</td>
-<td>246</td>
-<td>173</td>
-<td>#FDF6AD</td>
-<td style="background-color: #FDF6AD" ><img src="https://via.placeholder.com/40/FDF6AD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>The Red</td>
-<td>PR170</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>168</td>
-<td>33</td>
-<td>53</td>
-<td>#A82135</td>
-<td style="background-color: #A82135" ><img src="https://via.placeholder.com/40/A82135/000000?text=+" /></td>
-</tr>
-<tr>
-<td>The White</td>
-<td>PW6</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>228</td>
-<td>228</td>
-<td>228</td>
-<td>#E4E4E4</td>
-<td style="background-color: #E4E4E4" ><img src="https://via.placeholder.com/40/E4E4E4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Toluidine Red</td>
-<td>PR 3</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>213</td>
-<td>80</td>
-<td>43</td>
-<td>#D5502B</td>
-<td style="background-color: #D5502B" ><img src="https://via.placeholder.com/40/D5502B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ultramarine Blue</td>
-<td>PB 29</td>
-<td>Kimera Kolors Expansion Set 1</td>
-<td>46</td>
-<td>73</td>
-<td>147</td>
-<td>#2E4993</td>
-<td style="background-color: #2E4993" ><img src="https://via.placeholder.com/40/2E4993/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet</td>
-<td>PV23</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>62</td>
-<td>15</td>
-<td>127</td>
-<td>#3E0F7F</td>
-<td style="background-color: #3E0F7F" ><img src="https://via.placeholder.com/40/3E0F7F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warm Yellow</td>
-<td>PY83</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>230</td>
-<td>169</td>
-<td>29</td>
-<td>#E6A91D</td>
-<td style="background-color: #E6A91D" ><img src="https://via.placeholder.com/40/E6A91D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Oxide</td>
-<td>PY42</td>
-<td>Kimera Kolors Pure Pigments</td>
-<td>198</td>
-<td>152</td>
-<td>37</td>
-<td>#C69825</td>
-<td style="background-color: #C69825" ><img src="https://via.placeholder.com/40/C69825/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+![KimeraKolors](../logos/KimeraKolors.png "KimeraKolors")
+
+|Name|Code|Set|R|G|B|Hex|
+|---|---|---|---|---|---|---|
+|Alizarin Crimson|PR 179|Kimera Kolors Expansion Set 1|98|25|47|![#62192F](https://placehold.co/15x15/62192F/62192F.png) `#62192F`|
+|Carbon Black|PBK7|Kimera Kolors Pure Pigments|45|42|45|![#2D2A2D](https://placehold.co/15x15/2D2A2D/2D2A2D.png) `#2D2A2D`|
+|Cartacci Red|null|Kimera Kolors Danilo Cartacci Signature Set|208|44|42|![#D02C2A](https://placehold.co/15x15/D02C2A/D02C2A.png) `#D02C2A`|
+|Caucasian Skintone|null|Kimera Kolors Danilo Cartacci Signature Set|194|131|92|![#C2835C](https://placehold.co/15x15/C2835C/C2835C.png) `#C2835C`|
+|Cloudy Sky|null|Kimera Kolors Michal Pisarski Signature Set|169|158|133|![#A99E85](https://placehold.co/15x15/A99E85/A99E85.png) `#A99E85`|
+|Cobalt Bluegreen|PB 36|Kimera Kolors Expansion Set 1|40|94|104|![#285E68](https://placehold.co/15x15/285E68/285E68.png) `#285E68`|
+|Cold Yellow|PY151|Kimera Kolors Pure Pigments|229|216|40|![#E5D828](https://placehold.co/15x15/E5D828/E5D828.png) `#E5D828`|
+|Dark Ochre|PBR 48|Kimera Kolors Expansion Set 1|149|107|35|![#956B23](https://placehold.co/15x15/956B23/956B23.png) `#956B23`|
+|Diarylide Yellow|PY 170|Kimera Kolors Expansion Set 1|234|163|57|![#EAA339](https://placehold.co/15x15/EAA339/EAA339.png) `#EAA339`|
+|Fallen Grass|null|Kimera Kolors Michal Pisarski Signature Set|111|124|99|![#6F7C63](https://placehold.co/15x15/6F7C63/6F7C63.png) `#6F7C63`|
+|Golden Brown|null|Kimera Kolors Danilo Cartacci Signature Set|136|90|30|![#885A1E](https://placehold.co/15x15/885A1E/885A1E.png) `#885A1E`|
+|Ground Brown|null|Kimera Kolors Michal Pisarski Signature Set|84|72|60|![#54483C](https://placehold.co/15x15/54483C/54483C.png) `#54483C`|
+|Honey Moon Yellow|PBR 24|Kimera Kolors Expansion Set 1|199|145|49|![#C79131](https://placehold.co/15x15/C79131/C79131.png) `#C79131`|
+|Iron Hue|null|Kimera Kolors Michal Pisarski Signature Set|117|121|115|![#757973](https://placehold.co/15x15/757973/757973.png) `#757973`|
+|Kiwi Brown|null|Kimera Kolors Danilo Cartacci Signature Set|102|91|40|![#665B28](https://placehold.co/15x15/665B28/665B28.png) `#665B28`|
+|Magenta|PR122|Kimera Kolors Pure Pigments|161|25|91|![#A1195B](https://placehold.co/15x15/A1195B/A1195B.png) `#A1195B`|
+|Mars Orange|PR 101|Kimera Kolors Expansion Set 1|154|86|34|![#9A5622](https://placehold.co/15x15/9A5622/9A5622.png) `#9A5622`|
+|Morning Sky|null|Kimera Kolors Michal Pisarski Signature Set|93|132|153|![#5D8499](https://placehold.co/15x15/5D8499/5D8499.png) `#5D8499`|
+|Orange|PO34|Kimera Kolors Pure Pigments|203|85|46|![#CB552E](https://placehold.co/15x15/CB552E/CB552E.png) `#CB552E`|
+|Oxide Brown Dark|PBR 11 Dark|Kimera Kolors Expansion Set 1|75|50|41|![#4B3229](https://placehold.co/15x15/4B3229/4B3229.png) `#4B3229`|
+|Oxide Brown Light|PBR 11 Light|Kimera Kolors Expansion Set 1|125|91|68|![#7D5B44](https://placehold.co/15x15/7D5B44/7D5B44.png) `#7D5B44`|
+|Oxide Brown Medium|PBR 11 Medium|Kimera Kolors Expansion Set 1|107|72|66|![#6B4842](https://placehold.co/15x15/6B4842/6B4842.png) `#6B4842`|
+|Oxide Green|PG 17|Kimera Kolors Expansion Set 1|80|108|72|![#506C48](https://placehold.co/15x15/506C48/506C48.png) `#506C48`|
+|Phtalo Green|PG7|Kimera Kolors Pure Pigments|52|76|80|![#344C50](https://placehold.co/15x15/344C50/344C50.png) `#344C50`|
+|Phthalo Blu (Green Shade)|PB15.4|Kimera Kolors Pure Pigments|32|52|121|![#203479](https://placehold.co/15x15/203479/203479.png) `#203479`|
+|Phthalo Blu (Red Shade)|PB15.2|Kimera Kolors Pure Pigments|68|48|123|![#44307B](https://placehold.co/15x15/44307B/44307B.png) `#44307B`|
+|Purple|PV 19|Kimera Kolors Expansion Set 1|135|33|122|![#87217A](https://placehold.co/15x15/87217A/87217A.png) `#87217A`|
+|Red Oxide|PR101|Kimera Kolors Pure Pigments|107|47|12|![#6B2F0C](https://placehold.co/15x15/6B2F0C/6B2F0C.png) `#6B2F0C`|
+|Royal Brown|PBR 25|Kimera Kolors Expansion Set 1|101|39|29|![#65271D](https://placehold.co/15x15/65271D/65271D.png) `#65271D`|
+|Samurai Green|null|Kimera Kolors Danilo Cartacci Signature Set|48|110|100|![#306E64](https://placehold.co/15x15/306E64/306E64.png) `#306E64`|
+|Silver Grey|null|Kimera Kolors Danilo Cartacci Signature Set|120|131|136|![#788388](https://placehold.co/15x15/788388/788388.png) `#788388`|
+|Sun Ray|null|Kimera Kolors Michal Pisarski Signature Set|253|246|173|![#FDF6AD](https://placehold.co/15x15/FDF6AD/FDF6AD.png) `#FDF6AD`|
+|The Red|PR170|Kimera Kolors Pure Pigments|168|33|53|![#A82135](https://placehold.co/15x15/A82135/A82135.png) `#A82135`|
+|The White|PW6|Kimera Kolors Pure Pigments|228|228|228|![#E4E4E4](https://placehold.co/15x15/E4E4E4/E4E4E4.png) `#E4E4E4`|
+|Toluidine Red|PR 3|Kimera Kolors Expansion Set 1|213|80|43|![#D5502B](https://placehold.co/15x15/D5502B/D5502B.png) `#D5502B`|
+|Ultramarine Blue|PB 29|Kimera Kolors Expansion Set 1|46|73|147|![#2E4993](https://placehold.co/15x15/2E4993/2E4993.png) `#2E4993`|
+|Violet|PV23|Kimera Kolors Pure Pigments|62|15|127|![#3E0F7F](https://placehold.co/15x15/3E0F7F/3E0F7F.png) `#3E0F7F`|
+|Warm Yellow|PY83|Kimera Kolors Pure Pigments|230|169|29|![#E6A91D](https://placehold.co/15x15/E6A91D/E6A91D.png) `#E6A91D`|
+|Yellow Oxide|PY42|Kimera Kolors Pure Pigments|198|152|37|![#C69825](https://placehold.co/15x15/C69825/C69825.png) `#C69825`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">

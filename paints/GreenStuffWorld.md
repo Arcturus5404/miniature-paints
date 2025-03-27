@@ -1,2009 +1,228 @@
-<style>
-    .bgg-1 {
-        background-color: #00134B;
-        
-    }
-</style>
-
 # Green Stuff World
+![GreenStuffWorld](../logos/GreenStuffWorld.png "GreenStuffWorld")
 
-<img src="../logos/GreenStuffWorld.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Abyss Blue</td>
-<td>Acrylic Colors</td>
-<td>0</td>
-<td>19</td>
-<td>75</td>
-<td>#00134B</td>
-<td class="bgg-1"></td>
-</tr>
-<tr>
-<td>Acid Green Dip</td>
-<td>Dipping Inks</td>
-<td>69</td>
-<td>92</td>
-<td>14</td>
-<td> ![#455C0E](https://placehold.co/15x15/455C0E/455C0E.png) `#455C0E` </td>
-<td style="background-color: #455C0E" ><img src="https://via.placeholder.com/40/455C0E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Aether Blue</td>
-<td>Wash Ink</td>
-<td>102</td>
-<td>110</td>
-<td>208</td>
-<td>#666ED0</td>
-<td style="background-color: #666ED0" ><img src="https://via.placeholder.com/40/666ED0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amber Orange</td>
-<td>Candy Ink Metallic</td>
-<td>244</td>
-<td>177</td>
-<td>26</td>
-<td>#F4B11A</td>
-<td style="background-color: #F4B11A" ><img src="https://via.placeholder.com/40/F4B11A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amberglow Dip</td>
-<td>Dipping Inks</td>
-<td>100</td>
-<td>45</td>
-<td>15</td>
-<td>#642D0F</td>
-<td style="background-color: #642D0F" ><img src="https://via.placeholder.com/40/642D0F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amethyst Purple</td>
-<td>Candy Ink Metallic</td>
-<td>215</td>
-<td>167</td>
-<td>241</td>
-<td>#D7A7F1</td>
-<td style="background-color: #D7A7F1" ><img src="https://via.placeholder.com/40/D7A7F1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ancient Sepia</td>
-<td>Wash Ink</td>
-<td>170</td>
-<td>161</td>
-<td>104</td>
-<td>#AAA168</td>
-<td style="background-color: #AAA168" ><img src="https://via.placeholder.com/40/AAA168/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Andalusian Earth</td>
-<td>Wash Ink</td>
-<td>118</td>
-<td>107</td>
-<td>89</td>
-<td>#766B59</td>
-<td style="background-color: #766B59" ><img src="https://via.placeholder.com/40/766B59/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Anthrax Metal</td>
-<td>Metallic Colors</td>
-<td>123</td>
-<td>126</td>
-<td>131</td>
-<td>#7B7E83</td>
-<td style="background-color: #7B7E83" ><img src="https://via.placeholder.com/40/7B7E83/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Antique Gold</td>
-<td>Metallic Colors</td>
-<td>149</td>
-<td>126</td>
-<td>56</td>
-<td>#957E38</td>
-<td style="background-color: #957E38" ><img src="https://via.placeholder.com/40/957E38/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Aqua Turquoise</td>
-<td>Metallic Colors</td>
-<td>155</td>
-<td>209</td>
-<td>209</td>
-<td>#9BD1D1</td>
-<td style="background-color: #9BD1D1" ><img src="https://via.placeholder.com/40/9BD1D1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arachnid Green</td>
-<td>Acrylic Colors</td>
-<td>18</td>
-<td>66</td>
-<td>68</td>
-<td>#124244</td>
-<td style="background-color: #124244" ><img src="https://via.placeholder.com/40/124244/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arctic Blue</td>
-<td>Acrylic Colors</td>
-<td>20</td>
-<td>173</td>
-<td>204</td>
-<td>#14ADCC</td>
-<td style="background-color: #14ADCC" ><img src="https://via.placeholder.com/40/14ADCC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Arrakis Brown</td>
-<td>Acrylic Colors</td>
-<td>227</td>
-<td>156</td>
-<td>40</td>
-<td>#E39C28</td>
-<td style="background-color: #E39C28" ><img src="https://via.placeholder.com/40/E39C28/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Atramentum Black</td>
-<td>Wash Ink</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>#515151</td>
-<td style="background-color: #515151" ><img src="https://via.placeholder.com/40/515151/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Azure Dip</td>
-<td>Dipping Inks</td>
-<td>9</td>
-<td>68</td>
-<td>72</td>
-<td>#094448</td>
-<td style="background-color: #094448" ><img src="https://via.placeholder.com/40/094448/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Banana Split</td>
-<td>Acrylic Colors</td>
-<td>240</td>
-<td>226</td>
-<td>41</td>
-<td>#F0E229</td>
-<td style="background-color: #F0E229" ><img src="https://via.placeholder.com/40/F0E229/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Barrel Grey</td>
-<td>Acrylic Colors</td>
-<td>37</td>
-<td>34</td>
-<td>27</td>
-<td>#25221B</td>
-<td style="background-color: #25221B" ><img src="https://via.placeholder.com/40/25221B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bestial Brown</td>
-<td>Acrylic Colors</td>
-<td>45</td>
-<td>30</td>
-<td>1</td>
-<td>#2D1E01</td>
-<td style="background-color: #2D1E01" ><img src="https://via.placeholder.com/40/2D1E01/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Green Stone Dip</td>
-<td>Dipping Inks</td>
-<td>62</td>
-<td>70</td>
-<td>57</td>
-<td>#3E4639</td>
-<td style="background-color: #3E4639" ><img src="https://via.placeholder.com/40/3E4639/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Black Stallion</td>
-<td>Acrylic Colors</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>#000000</td>
-<td style="background-color: #000000" ><img src="https://via.placeholder.com/40/000000/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blackroot Grey</td>
-<td>Acrylic Colors</td>
-<td>52</td>
-<td>52</td>
-<td>54</td>
-<td>#343436</td>
-<td style="background-color: #343436" ><img src="https://via.placeholder.com/40/343436/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue</td>
-<td>Fluor Metallic</td>
-<td>94</td>
-<td>136</td>
-<td>255</td>
-<td>#5E88FF</td>
-<td style="background-color: #5E88FF" ><img src="https://via.placeholder.com/40/5E88FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Glacier Dip</td>
-<td>Dipping Inks</td>
-<td>83</td>
-<td>167</td>
-<td>203</td>
-<td>#53A7CB</td>
-<td style="background-color: #53A7CB" ><img src="https://via.placeholder.com/40/53A7CB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bluebird Grey</td>
-<td>Acrylic Colors</td>
-<td>111</td>
-<td>101</td>
-<td>125</td>
-<td>#6F657D</td>
-<td style="background-color: #6F657D" ><img src="https://via.placeholder.com/40/6F657D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bluegrey Dusk</td>
-<td>Acrylic Colors</td>
-<td>42</td>
-<td>44</td>
-<td>65</td>
-<td>#2A2C41</td>
-<td style="background-color: #2A2C41" ><img src="https://via.placeholder.com/40/2A2C41/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blush Red</td>
-<td>Wash Ink</td>
-<td>219</td>
-<td>116</td>
-<td>109</td>
-<td>#DB746D</td>
-<td style="background-color: #DB746D" ><img src="https://via.placeholder.com/40/DB746D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blushing Flesh</td>
-<td>Acrylic Colors</td>
-<td>218</td>
-<td>82</td>
-<td>58</td>
-<td>#DA523A</td>
-<td style="background-color: #DA523A" ><img src="https://via.placeholder.com/40/DA523A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Borealis Green</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>122</td>
-<td>201</td>
-<td>214</td>
-<td>#7AC9D6</td>
-<td style="background-color: #7AC9D6" ><img src="https://via.placeholder.com/40/7AC9D6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Brown Skin</td>
-<td>Acrylic Colors</td>
-<td>128</td>
-<td>39</td>
-<td>9</td>
-<td>#802709</td>
-<td style="background-color: #802709" ><img src="https://via.placeholder.com/40/802709/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burgundy Dip</td>
-<td>Dipping Inks</td>
-<td>79</td>
-<td>35</td>
-<td>48</td>
-<td>#4F2330</td>
-<td style="background-color: #4F2330" ><img src="https://via.placeholder.com/40/4F2330/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Burning Gold</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>242</td>
-<td>222</td>
-<td>47</td>
-<td>#F2DE2F</td>
-<td style="background-color: #F2DE2F" ><img src="https://via.placeholder.com/40/F2DE2F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Caesar Red</td>
-<td>Metallic Colors</td>
-<td>200</td>
-<td>96</td>
-<td>107</td>
-<td>#C8606B</td>
-<td style="background-color: #C8606B" ><img src="https://via.placeholder.com/40/C8606B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Camouflage Green</td>
-<td>Acrylic Colors</td>
-<td>99</td>
-<td>96</td>
-<td>27</td>
-<td>#63601B</td>
-<td style="background-color: #63601B" ><img src="https://via.placeholder.com/40/63601B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Canary Green</td>
-<td>Acrylic Colors</td>
-<td>211</td>
-<td>220</td>
-<td>101</td>
-<td>#D3DC65</td>
-<td style="background-color: #D3DC65" ><img src="https://via.placeholder.com/40/D3DC65/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Carnage Red</td>
-<td>Acrylic Colors</td>
-<td>194</td>
-<td>43</td>
-<td>36</td>
-<td>#C22B24</td>
-<td style="background-color: #C22B24" ><img src="https://via.placeholder.com/40/C22B24/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Celestial Azure</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>124</td>
-<td>200</td>
-<td>214</td>
-<td>#7CC8D6</td>
-<td style="background-color: #7CC8D6" ><img src="https://via.placeholder.com/40/7CC8D6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chancellor Blue</td>
-<td>Acrylic Colors</td>
-<td>50</td>
-<td>48</td>
-<td>69</td>
-<td>#323045</td>
-<td style="background-color: #323045" ><img src="https://via.placeholder.com/40/323045/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Choco Brown</td>
-<td>Acrylic Colors</td>
-<td>63</td>
-<td>32</td>
-<td>1</td>
-<td>#3F2001</td>
-<td style="background-color: #3F2001" ><img src="https://via.placeholder.com/40/3F2001/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chrome Paint</td>
-<td>Metallic Colors</td>
-<td>252</td>
-<td>253</td>
-<td>255</td>
-<td>#FCFDFF</td>
-<td style="background-color: #FCFDFF" ><img src="https://via.placeholder.com/40/FCFDFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Citrine Yellow</td>
-<td>Candy Ink Metallic</td>
-<td>255</td>
-<td>246</td>
-<td>79</td>
-<td>#FFF64F</td>
-<td style="background-color: #FFF64F" ><img src="https://via.placeholder.com/40/FFF64F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cobalt Blue</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>68</td>
-<td>118</td>
-<td>215</td>
-<td>#4476D7</td>
-<td style="background-color: #4476D7" ><img src="https://via.placeholder.com/40/4476D7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cool Blue Dip</td>
-<td>Dipping Inks</td>
-<td>56</td>
-<td>121</td>
-<td>113</td>
-<td>#387971</td>
-<td style="background-color: #387971" ><img src="https://via.placeholder.com/40/387971/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Coyote Brown</td>
-<td>Acrylic Colors</td>
-<td>128</td>
-<td>107</td>
-<td>62</td>
-<td>#806B3E</td>
-<td style="background-color: #806B3E" ><img src="https://via.placeholder.com/40/806B3E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Crimson Magenta</td>
-<td>Intensity Ink</td>
-<td>255</td>
-<td>90</td>
-<td>148</td>
-<td>#FF5A94</td>
-<td style="background-color: #FF5A94" ><img src="https://via.placeholder.com/40/FF5A94/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cutthroat Red</td>
-<td>Acrylic Colors</td>
-<td>142</td>
-<td>19</td>
-<td>22</td>
-<td>#8E1316</td>
-<td style="background-color: #8E1316" ><img src="https://via.placeholder.com/40/8E1316/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cyber Yellow</td>
-<td>Acrylic Colors</td>
-<td>242</td>
-<td>209</td>
-<td>44</td>
-<td>#F2D12C</td>
-<td style="background-color: #F2D12C" ><img src="https://via.placeholder.com/40/F2D12C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Beige</td>
-<td>Acrylic Colors</td>
-<td>113</td>
-<td>92</td>
-<td>65</td>
-<td>#715C41</td>
-<td style="background-color: #715C41" ><img src="https://via.placeholder.com/40/715C41/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Elder Bronze</td>
-<td>Metallic Colors</td>
-<td>62</td>
-<td>44</td>
-<td>20</td>
-<td>#3E2C14</td>
-<td style="background-color: #3E2C14" ><img src="https://via.placeholder.com/40/3E2C14/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Umber</td>
-<td>Acrylic Colors</td>
-<td>59</td>
-<td>48</td>
-<td>46</td>
-<td>#3B302E</td>
-<td style="background-color: #3B302E" ><img src="https://via.placeholder.com/40/3B302E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Darth Blue</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>68</td>
-<td>118</td>
-<td>217</td>
-<td>#4476D9</td>
-<td style="background-color: #4476D9" ><img src="https://via.placeholder.com/40/4476D9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Deck Grey</td>
-<td>Acrylic Colors</td>
-<td>209</td>
-<td>194</td>
-<td>163</td>
-<td>#D1C2A3</td>
-<td style="background-color: #D1C2A3" ><img src="https://via.placeholder.com/40/D1C2A3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Deep Black Dip</td>
-<td>Dipping Inks</td>
-<td>37</td>
-<td>37</td>
-<td>37</td>
-<td>#252525</td>
-<td style="background-color: #252525" ><img src="https://via.placeholder.com/40/252525/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Desert Camo</td>
-<td>Acrylic Colors</td>
-<td>148</td>
-<td>123</td>
-<td>59</td>
-<td>#947B3B</td>
-<td style="background-color: #947B3B" ><img src="https://via.placeholder.com/40/947B3B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dusty Blue Dip</td>
-<td>Dipping Inks</td>
-<td>44</td>
-<td>70</td>
-<td>85</td>
-<td>#2C4655</td>
-<td style="background-color: #2C4655" ><img src="https://via.placeholder.com/40/2C4655/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dusty Rose</td>
-<td>Acrylic Colors</td>
-<td>240</td>
-<td>99</td>
-<td>107</td>
-<td>#F0636B</td>
-<td style="background-color: #F0636B" ><img src="https://via.placeholder.com/40/F0636B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dwarven Flesh</td>
-<td>Acrylic Colors</td>
-<td>255</td>
-<td>125</td>
-<td>75</td>
-<td>#FF7D4B</td>
-<td style="background-color: #FF7D4B" ><img src="https://via.placeholder.com/40/FF7D4B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>El Dorado</td>
-<td>Metallic Colors</td>
-<td>186</td>
-<td>147</td>
-<td>28</td>
-<td>#BA931C</td>
-<td style="background-color: #BA931C" ><img src="https://via.placeholder.com/40/BA931C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elfwood Brown Dip</td>
-<td>Dipping Inks</td>
-<td>76</td>
-<td>54</td>
-<td>31</td>
-<td>#4C361F</td>
-<td style="background-color: #4C361F" ><img src="https://via.placeholder.com/40/4C361F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elven Flesh</td>
-<td>Acrylic Colors</td>
-<td>242</td>
-<td>170</td>
-<td>130</td>
-<td>#F2AA82</td>
-<td style="background-color: #F2AA82" ><img src="https://via.placeholder.com/40/F2AA82/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ember Orange</td>
-<td>Acrylic Colors</td>
-<td>217</td>
-<td>74</td>
-<td>34</td>
-<td>#D94A22</td>
-<td style="background-color: #D94A22" ><img src="https://via.placeholder.com/40/D94A22/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emerald Getaway</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>51</td>
-<td>174</td>
-<td>146</td>
-<td>#33AE92</td>
-<td style="background-color: #33AE92" ><img src="https://via.placeholder.com/40/33AE92/000000?text=+" /></td>
-</tr>
-<tr>
-<td>English Field Brown</td>
-<td>Acrylic Colors</td>
-<td>108</td>
-<td>70</td>
-<td>21</td>
-<td>#6C4615</td>
-<td style="background-color: #6C4615" ><img src="https://via.placeholder.com/40/6C4615/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Evil Forest</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>83</td>
-<td>21</td>
-<td>22</td>
-<td>#531516</td>
-<td style="background-color: #531516" ><img src="https://via.placeholder.com/40/531516/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Faded Orange</td>
-<td>Acrylic Colors</td>
-<td>244</td>
-<td>121</td>
-<td>61</td>
-<td>#F4793D</td>
-<td style="background-color: #F4793D" ><img src="https://via.placeholder.com/40/F4793D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fang White</td>
-<td>Acrylic Colors</td>
-<td>255</td>
-<td>251</td>
-<td>221</td>
-<td>#FFFBDD</td>
-<td style="background-color: #FFFBDD" ><img src="https://via.placeholder.com/40/FFFBDD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Field Green-grey</td>
-<td>Acrylic Colors</td>
-<td>27</td>
-<td>71</td>
-<td>36</td>
-<td>#1B4724</td>
-<td style="background-color: #1B4724" ><img src="https://via.placeholder.com/40/1B4724/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flaming Orange</td>
-<td>Acrylic Colors</td>
-<td>234</td>
-<td>112</td>
-<td>27</td>
-<td>#EA701B</td>
-<td style="background-color: #EA701B" ><img src="https://via.placeholder.com/40/EA701B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh Rose</td>
-<td>Acrylic Colors</td>
-<td>209</td>
-<td>104</td>
-<td>85</td>
-<td>#D16855</td>
-<td style="background-color: #D16855" ><img src="https://via.placeholder.com/40/D16855/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flubber Green</td>
-<td>Acrylic Colors</td>
-<td>136</td>
-<td>183</td>
-<td>25</td>
-<td>#88B719</td>
-<td style="background-color: #88B719" ><img src="https://via.placeholder.com/40/88B719/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Forest Green</td>
-<td>Acrylic Colors</td>
-<td>0</td>
-<td>57</td>
-<td>16</td>
-<td>#003910</td>
-<td style="background-color: #003910" ><img src="https://via.placeholder.com/40/003910/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Foxhide Brown</td>
-<td>Acrylic Colors</td>
-<td>193</td>
-<td>96</td>
-<td>1</td>
-<td>#C16001</td>
-<td style="background-color: #C16001" ><img src="https://via.placeholder.com/40/C16001/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gangrene</td>
-<td>Acrylic Colors</td>
-<td>59</td>
-<td>67</td>
-<td>18</td>
-<td>#3B4312</td>
-<td style="background-color: #3B4312" ><img src="https://via.placeholder.com/40/3B4312/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Garnet Purple Dip</td>
-<td>Dipping Inks</td>
-<td>113</td>
-<td>47</td>
-<td>83</td>
-<td>#712F53</td>
-<td style="background-color: #712F53" ><img src="https://via.placeholder.com/40/712F53/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gengis Khaki</td>
-<td>Acrylic Colors</td>
-<td>102</td>
-<td>91</td>
-<td>59</td>
-<td>#665B3B</td>
-<td style="background-color: #665B3B" ><img src="https://via.placeholder.com/40/665B3B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gladius Bronze</td>
-<td>Metallic Colors</td>
-<td>225</td>
-<td>167</td>
-<td>103</td>
-<td>#E1A767</td>
-<td style="background-color: #E1A767" ><img src="https://via.placeholder.com/40/E1A767/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Glorious Magenta Dip</td>
-<td>Dipping Inks</td>
-<td>122</td>
-<td>46</td>
-<td>74</td>
-<td>#7A2E4A</td>
-<td style="background-color: #7A2E4A" ><img src="https://via.placeholder.com/40/7A2E4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Go Mango</td>
-<td>Acrylic Colors</td>
-<td>255</td>
-<td>160</td>
-<td>50</td>
-<td>#FFA032</td>
-<td style="background-color: #FFA032" ><img src="https://via.placeholder.com/40/FFA032/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Golden Cream</td>
-<td>Acrylic Colors</td>
-<td>255</td>
-<td>206</td>
-<td>83</td>
-<td>#FFCE53</td>
-<td style="background-color: #FFCE53" ><img src="https://via.placeholder.com/40/FFCE53/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gorgon Dark Green</td>
-<td>Intensity Ink</td>
-<td>110</td>
-<td>168</td>
-<td>127</td>
-<td>#6EA87F</td>
-<td style="background-color: #6EA87F" ><img src="https://via.placeholder.com/40/6EA87F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Goth Skin Dip</td>
-<td>Dipping Inks</td>
-<td>99</td>
-<td>45</td>
-<td>43</td>
-<td>#632D2B</td>
-<td style="background-color: #632D2B" ><img src="https://via.placeholder.com/40/632D2B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Ghost Dip</td>
-<td>Dipping Inks</td>
-<td>29</td>
-<td>81</td>
-<td>19</td>
-<td>#1D5113</td>
-<td style="background-color: #1D5113" ><img src="https://via.placeholder.com/40/1D5113/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Shark Skin Dip</td>
-<td>Dipping Inks</td>
-<td>0</td>
-<td>69</td>
-<td>66</td>
-<td>#004542</td>
-<td style="background-color: #004542" ><img src="https://via.placeholder.com/40/004542/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey Mist Dip</td>
-<td>Dipping Inks</td>
-<td>120</td>
-<td>120</td>
-<td>120</td>
-<td>#787878</td>
-<td style="background-color: #787878" ><img src="https://via.placeholder.com/40/787878/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Grey Teal</td>
-<td>Acrylic Colors</td>
-<td>100</td>
-<td>133</td>
-<td>126</td>
-<td>#64857E</td>
-<td style="background-color: #64857E" ><img src="https://via.placeholder.com/40/64857E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gunmetal Grey</td>
-<td>Metallic Colors</td>
-<td>172</td>
-<td>177</td>
-<td>183</td>
-<td>#ACB1B7</td>
-<td style="background-color: #ACB1B7" ><img src="https://via.placeholder.com/40/ACB1B7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hellfire Red</td>
-<td>Acrylic Colors</td>
-<td>203</td>
-<td>22</td>
-<td>15</td>
-<td>#CB160F</td>
-<td style="background-color: #CB160F" ><img src="https://via.placeholder.com/40/CB160F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hulky Green Dip</td>
-<td>Dipping Inks</td>
-<td>9</td>
-<td>70</td>
-<td>37</td>
-<td>#094625</td>
-<td style="background-color: #094625" ><img src="https://via.placeholder.com/40/094625/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hunter Green</td>
-<td>Acrylic Colors</td>
-<td>1</td>
-<td>118</td>
-<td>1</td>
-<td>#017601</td>
-<td style="background-color: #017601" ><img src="https://via.placeholder.com/40/017601/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hydromiel Yellow</td>
-<td>Intensity Ink</td>
-<td>245</td>
-<td>240</td>
-<td>146</td>
-<td>#F5F092</td>
-<td style="background-color: #F5F092" ><img src="https://via.placeholder.com/40/F5F092/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Imperium Blue</td>
-<td>Acrylic Colors</td>
-<td>26</td>
-<td>48</td>
-<td>133</td>
-<td>#1A3085</td>
-<td style="background-color: #1A3085" ><img src="https://via.placeholder.com/40/1A3085/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Indigo Blue Dip</td>
-<td>Dipping Inks</td>
-<td>28</td>
-<td>47</td>
-<td>89</td>
-<td>#1C2F59</td>
-<td style="background-color: #1C2F59" ><img src="https://via.placeholder.com/40/1C2F59/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ivory Tusk</td>
-<td>Acrylic Colors</td>
-<td>243</td>
-<td>223</td>
-<td>190</td>
-<td>#F3DFBE</td>
-<td style="background-color: #F3DFBE" ><img src="https://via.placeholder.com/40/F3DFBE/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Jade Green</td>
-<td>Candy Ink Metallic</td>
-<td>155</td>
-<td>255</td>
-<td>212</td>
-<td>#9BFFD4</td>
-<td style="background-color: #9BFFD4" ><img src="https://via.placeholder.com/40/9BFFD4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Komodo Khaki</td>
-<td>Acrylic Colors</td>
-<td>136</td>
-<td>90</td>
-<td>41</td>
-<td>#885A29</td>
-<td style="background-color: #885A29" ><img src="https://via.placeholder.com/40/885A29/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kraken Green</td>
-<td>Acrylic Colors</td>
-<td>3</td>
-<td>76</td>
-<td>57</td>
-<td>#034C39</td>
-<td style="background-color: #034C39" ><img src="https://via.placeholder.com/40/034C39/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lapislazuli</td>
-<td>Acrylic Colors</td>
-<td>23</td>
-<td>44</td>
-<td>99</td>
-<td>#172C63</td>
-<td style="background-color: #172C63" ><img src="https://via.placeholder.com/40/172C63/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leather Brown</td>
-<td>Acrylic Colors</td>
-<td>175</td>
-<td>104</td>
-<td>22</td>
-<td>#AF6816</td>
-<td style="background-color: #AF6816" ><img src="https://via.placeholder.com/40/AF6816/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Liche Purple</td>
-<td>Acrylic Colors</td>
-<td>68</td>
-<td>28</td>
-<td>90</td>
-<td>#441C5A</td>
-<td style="background-color: #441C5A" ><img src="https://via.placeholder.com/40/441C5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lilac Purple</td>
-<td>Acrylic Colors</td>
-<td>176</td>
-<td>118</td>
-<td>179</td>
-<td>#B076B3</td>
-<td style="background-color: #B076B3" ><img src="https://via.placeholder.com/40/B076B3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lime</td>
-<td>Fluor Metallic</td>
-<td>78</td>
-<td>255</td>
-<td>113</td>
-<td>#4EFF71</td>
-<td style="background-color: #4EFF71" ><img src="https://via.placeholder.com/40/4EFF71/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Limelight Dip</td>
-<td>Dipping Inks</td>
-<td>96</td>
-<td>90</td>
-<td>2</td>
-<td>#605A02</td>
-<td style="background-color: #605A02" ><img src="https://via.placeholder.com/40/605A02/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Lollipop Magenta</td>
-<td>Acrylic Colors</td>
-<td>171</td>
-<td>0</td>
-<td>97</td>
-<td>#AB0061</td>
-<td style="background-color: #AB0061" ><img src="https://via.placeholder.com/40/AB0061/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Majin Pink</td>
-<td>Acrylic Colors</td>
-<td>213</td>
-<td>97</td>
-<td>142</td>
-<td>#D5618E</td>
-<td style="background-color: #D5618E" ><img src="https://via.placeholder.com/40/D5618E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Malefic Purple</td>
-<td>Acrylic Colors</td>
-<td>17</td>
-<td>11</td>
-<td>73</td>
-<td>#110B49</td>
-<td style="background-color: #110B49" ><img src="https://via.placeholder.com/40/110B49/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine Blue</td>
-<td>Acrylic Colors</td>
-<td>18</td>
-<td>64</td>
-<td>126</td>
-<td>#12407E</td>
-<td style="background-color: #12407E" ><img src="https://via.placeholder.com/40/12407E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Martian Green</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>134</td>
-<td>155</td>
-<td>98</td>
-<td>#869B62</td>
-<td style="background-color: #869B62" ><img src="https://via.placeholder.com/40/869B62/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Military Green</td>
-<td>Acrylic Colors</td>
-<td>34</td>
-<td>38</td>
-<td>15</td>
-<td>#22260F</td>
-<td style="background-color: #22260F" ><img src="https://via.placeholder.com/40/22260F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mint Twister</td>
-<td>Acrylic Colors</td>
-<td>0</td>
-<td>186</td>
-<td>163</td>
-<td>#00BAA3</td>
-<td style="background-color: #00BAA3" ><img src="https://via.placeholder.com/40/00BAA3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mirage Blue</td>
-<td>Acrylic Colors</td>
-<td>54</td>
-<td>69</td>
-<td>90</td>
-<td>#36455A</td>
-<td style="background-color: #36455A" ><img src="https://via.placeholder.com/40/36455A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Misted Yellow Dip</td>
-<td>Dipping Inks</td>
-<td>141</td>
-<td>97</td>
-<td>26</td>
-<td>#8D611A</td>
-<td style="background-color: #8D611A" ><img src="https://via.placeholder.com/40/8D611A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moon Mist Grey</td>
-<td>Acrylic Colors</td>
-<td>220</td>
-<td>207</td>
-<td>201</td>
-<td>#DCCFC9</td>
-<td style="background-color: #DCCFC9" ><img src="https://via.placeholder.com/40/DCCFC9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moonstone Grey</td>
-<td>Acrylic Colors</td>
-<td>140</td>
-<td>140</td>
-<td>140</td>
-<td>#8C8C8C</td>
-<td style="background-color: #8C8C8C" ><img src="https://via.placeholder.com/40/8C8C8C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Morrow Purple Dip</td>
-<td>Dipping Inks</td>
-<td>120</td>
-<td>102</td>
-<td>150</td>
-<td>#786696</td>
-<td style="background-color: #786696" ><img src="https://via.placeholder.com/40/786696/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Moss Green</td>
-<td>Wash Ink</td>
-<td>110</td>
-<td>172</td>
-<td>86</td>
-<td>#6EAC56</td>
-<td style="background-color: #6EAC56" ><img src="https://via.placeholder.com/40/6EAC56/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mustard Yellow</td>
-<td>Acrylic Colors</td>
-<td>147</td>
-<td>102</td>
-<td>17</td>
-<td>#936611</td>
-<td style="background-color: #936611" ><img src="https://via.placeholder.com/40/936611/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mystic Gold</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>242</td>
-<td>222</td>
-<td>47</td>
-<td>#F2DE2F</td>
-<td style="background-color: #F2DE2F" ><img src="https://via.placeholder.com/40/F2DE2F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mystic White</td>
-<td>Metallic Colors</td>
-<td>239</td>
-<td>240</td>
-<td>244</td>
-<td>#EFF0F4</td>
-<td style="background-color: #EFF0F4" ><img src="https://via.placeholder.com/40/EFF0F4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Nebula Copper</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>201</td>
-<td>79</td>
-<td>166</td>
-<td>#C94FA6</td>
-<td style="background-color: #C94FA6" ><img src="https://via.placeholder.com/40/C94FA6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neptunus Blue</td>
-<td>Metallic Colors</td>
-<td>96</td>
-<td>186</td>
-<td>248</td>
-<td>#60BAF8</td>
-<td style="background-color: #60BAF8" ><img src="https://via.placeholder.com/40/60BAF8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Nightsahde Purple Dip</td>
-<td>Dipping Inks</td>
-<td>71</td>
-<td>45</td>
-<td>90</td>
-<td>#472D5A</td>
-<td style="background-color: #472D5A" ><img src="https://via.placeholder.com/40/472D5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Nuclear White</td>
-<td>Acrylic Colors</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Nude Skin Dip</td>
-<td>Dipping Inks</td>
-<td>222</td>
-<td>147</td>
-<td>144</td>
-<td>#DE9390</td>
-<td style="background-color: #DE9390" ><img src="https://via.placeholder.com/40/DE9390/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ochre Desert</td>
-<td>Acrylic Colors</td>
-<td>224</td>
-<td>133</td>
-<td>0</td>
-<td>#E08500</td>
-<td style="background-color: #E08500" ><img src="https://via.placeholder.com/40/E08500/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olive-brown Ops</td>
-<td>Acrylic Colors</td>
-<td>55</td>
-<td>45</td>
-<td>10</td>
-<td>#372D0A</td>
-<td style="background-color: #372D0A" ><img src="https://via.placeholder.com/40/372D0A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Olivegrove Green</td>
-<td>Acrylic Colors</td>
-<td>27</td>
-<td>41</td>
-<td>15</td>
-<td>#1B290F</td>
-<td style="background-color: #1B290F" ><img src="https://via.placeholder.com/40/1B290F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Opulentus Black</td>
-<td>Intensity Ink</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>#515151</td>
-<td style="background-color: #515151" ><img src="https://via.placeholder.com/40/515151/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange</td>
-<td>Fluor Metallic</td>
-<td>249</td>
-<td>110</td>
-<td>51</td>
-<td>#F96E33</td>
-<td style="background-color: #F96E33" ><img src="https://via.placeholder.com/40/F96E33/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orchid Purple</td>
-<td>Metallic Colors</td>
-<td>115</td>
-<td>68</td>
-<td>114</td>
-<td>#734472</td>
-<td style="background-color: #734472" ><img src="https://via.placeholder.com/40/734472/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ork Flesh Dip</td>
-<td>Dipping Inks</td>
-<td>19</td>
-<td>51</td>
-<td>27</td>
-<td>#13331B</td>
-<td style="background-color: #13331B" ><img src="https://via.placeholder.com/40/13331B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Overlord Olive</td>
-<td>Acrylic Colors</td>
-<td>55</td>
-<td>50</td>
-<td>31</td>
-<td>#37321F</td>
-<td style="background-color: #37321F" ><img src="https://via.placeholder.com/40/37321F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Flesh</td>
-<td>Acrylic Colors</td>
-<td>232</td>
-<td>185</td>
-<td>167</td>
-<td>#E8B9A7</td>
-<td style="background-color: #E8B9A7" ><img src="https://via.placeholder.com/40/E8B9A7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Papyrus Dip</td>
-<td>Dipping Inks</td>
-<td>110</td>
-<td>78</td>
-<td>27</td>
-<td>#6E4E1B</td>
-<td style="background-color: #6E4E1B" ><img src="https://via.placeholder.com/40/6E4E1B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Parchment</td>
-<td>Acrylic Colors</td>
-<td>225</td>
-<td>192</td>
-<td>149</td>
-<td>#E1C095</td>
-<td style="background-color: #E1C095" ><img src="https://via.placeholder.com/40/E1C095/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Peach Flesh</td>
-<td>Acrylic Colors</td>
-<td>228</td>
-<td>119</td>
-<td>0</td>
-<td>#E47700</td>
-<td style="background-color: #E47700" ><img src="https://via.placeholder.com/40/E47700/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pecatum Flesh</td>
-<td>Wash Ink</td>
-<td>244</td>
-<td>146</td>
-<td>159</td>
-<td>#F4929F</td>
-<td style="background-color: #F4929F" ><img src="https://via.placeholder.com/40/F4929F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Persian Violet</td>
-<td>Metallic Colors</td>
-<td>65</td>
-<td>36</td>
-<td>128</td>
-<td>#412480</td>
-<td style="background-color: #412480" ><img src="https://via.placeholder.com/40/412480/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phantom Violet</td>
-<td>Acrylic Colors</td>
-<td>125</td>
-<td>54</td>
-<td>124</td>
-<td>#7D367C</td>
-<td style="background-color: #7D367C" ><img src="https://via.placeholder.com/40/7D367C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Phoenix Orange</td>
-<td>Intensity Ink</td>
-<td>241</td>
-<td>167</td>
-<td>96</td>
-<td>#F1A760</td>
-<td style="background-color: #F1A760" ><img src="https://via.placeholder.com/40/F1A760/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pinky Blue</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>120</td>
-<td>205</td>
-<td>210</td>
-<td>#78CDD2</td>
-<td style="background-color: #78CDD2" ><img src="https://via.placeholder.com/40/78CDD2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Black</td>
-<td>Gloss Surface</td>
-<td>32</td>
-<td>32</td>
-<td>32</td>
-<td>#202020</td>
-<td style="background-color: #202020" ><img src="https://via.placeholder.com/40/202020/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Black</td>
-<td>Matt Surface</td>
-<td>26</td>
-<td>26</td>
-<td>26</td>
-<td>#1A1A1A</td>
-<td style="background-color: #1A1A1A" ><img src="https://via.placeholder.com/40/1A1A1A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Green</td>
-<td>Matt Surface</td>
-<td>72</td>
-<td>90</td>
-<td>4</td>
-<td>#485A04</td>
-<td style="background-color: #485A04" ><img src="https://via.placeholder.com/40/485A04/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Grey</td>
-<td>Matt Surface</td>
-<td>204</td>
-<td>204</td>
-<td>204</td>
-<td>#CCCCCC</td>
-<td style="background-color: #CCCCCC" ><img src="https://via.placeholder.com/40/CCCCCC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer Red</td>
-<td>Matt Surface</td>
-<td>136</td>
-<td>42</td>
-<td>30</td>
-<td>#882A1E</td>
-<td style="background-color: #882A1E" ><img src="https://via.placeholder.com/40/882A1E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Primer White</td>
-<td>Matt Surface</td>
-<td>253</td>
-<td>253</td>
-<td>253</td>
-<td>#FDFDFD</td>
-<td style="background-color: #FDFDFD" ><img src="https://via.placeholder.com/40/FDFDFD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Prussian Blue</td>
-<td>Acrylic Colors</td>
-<td>0</td>
-<td>65</td>
-<td>107</td>
-<td>#00416B</td>
-<td style="background-color: #00416B" ><img src="https://via.placeholder.com/40/00416B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Prussian Green</td>
-<td>Acrylic Colors</td>
-<td>21</td>
-<td>46</td>
-<td>27</td>
-<td>#152E1B</td>
-<td style="background-color: #152E1B" ><img src="https://via.placeholder.com/40/152E1B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Psychotic Illusions</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>105</td>
-<td>172</td>
-<td>181</td>
-<td>#69ACB5</td>
-<td style="background-color: #69ACB5" ><img src="https://via.placeholder.com/40/69ACB5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple Vanity Dip</td>
-<td>Dipping Inks</td>
-<td>57</td>
-<td>46</td>
-<td>86</td>
-<td>#392E56</td>
-<td style="background-color: #392E56" ><img src="https://via.placeholder.com/40/392E56/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Quartz Magenta</td>
-<td>Candy Ink Metallic</td>
-<td>234</td>
-<td>134</td>
-<td>170</td>
-<td>#EA86AA</td>
-<td style="background-color: #EA86AA" ><img src="https://via.placeholder.com/40/EA86AA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Quicksand Brown</td>
-<td>Acrylic Colors</td>
-<td>125</td>
-<td>74</td>
-<td>27</td>
-<td>#7D4A1B</td>
-<td style="background-color: #7D4A1B" ><img src="https://via.placeholder.com/40/7D4A1B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Quicksilver</td>
-<td>Metallic Colors</td>
-<td>224</td>
-<td>227</td>
-<td>232</td>
-<td>#E0E3E8</td>
-<td style="background-color: #E0E3E8" ><img src="https://via.placeholder.com/40/E0E3E8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Radiant Orange Dip</td>
-<td>Dipping Inks</td>
-<td>132</td>
-<td>68</td>
-<td>6</td>
-<td>#844406</td>
-<td style="background-color: #844406" ><img src="https://via.placeholder.com/40/844406/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ranger Green</td>
-<td>Acrylic Colors</td>
-<td>56</td>
-<td>53</td>
-<td>46</td>
-<td>#38352E</td>
-<td style="background-color: #38352E" ><img src="https://via.placeholder.com/40/38352E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red</td>
-<td>Fluor Metallic</td>
-<td>240</td>
-<td>60</td>
-<td>37</td>
-<td>#F03C25</td>
-<td style="background-color: #F03C25" ><img src="https://via.placeholder.com/40/F03C25/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Cloak Dip</td>
-<td>Dipping Inks</td>
-<td>178</td>
-<td>101</td>
-<td>93</td>
-<td>#B2655D</td>
-<td style="background-color: #B2655D" ><img src="https://via.placeholder.com/40/B2655D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Goblin</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>169</td>
-<td>186</td>
-<td>115</td>
-<td>#A9BA73</td>
-<td style="background-color: #A9BA73" ><img src="https://via.placeholder.com/40/A9BA73/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Opulence Dip</td>
-<td>Dipping Inks</td>
-<td>187</td>
-<td>35</td>
-<td>32</td>
-<td>#BB2320</td>
-<td style="background-color: #BB2320" ><img src="https://via.placeholder.com/40/BB2320/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Truth</td>
-<td>Acrylic Colors</td>
-<td>236</td>
-<td>32</td>
-<td>5</td>
-<td>#EC2005</td>
-<td style="background-color: #EC2005" ><img src="https://via.placeholder.com/40/EC2005/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Redwood Brown</td>
-<td>Acrylic Colors</td>
-<td>62</td>
-<td>13</td>
-<td>0</td>
-<td>#3E0D00</td>
-<td style="background-color: #3E0D00" ><img src="https://via.placeholder.com/40/3E0D00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rocket Green</td>
-<td>Acrylic Colors</td>
-<td>65</td>
-<td>94</td>
-<td>36</td>
-<td>#415E24</td>
-<td style="background-color: #415E24" ><img src="https://via.placeholder.com/40/415E24/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rose</td>
-<td>Fluor Metallic</td>
-<td>244</td>
-<td>112</td>
-<td>161</td>
-<td>#F470A1</td>
-<td style="background-color: #F470A1" ><img src="https://via.placeholder.com/40/F470A1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rotten Green</td>
-<td>Acrylic Colors</td>
-<td>119</td>
-<td>147</td>
-<td>44</td>
-<td>#77932C</td>
-<td style="background-color: #77932C" ><img src="https://via.placeholder.com/40/77932C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Royal Burgundy</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>144</td>
-<td>163</td>
-<td>117</td>
-<td>#90A375</td>
-<td style="background-color: #90A375" ><img src="https://via.placeholder.com/40/90A375/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ruby Red</td>
-<td>Candy Ink Metallic</td>
-<td>245</td>
-<td>144</td>
-<td>76</td>
-<td>#F5904C</td>
-<td style="background-color: #F5904C" ><img src="https://via.placeholder.com/40/F5904C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sacra Purple</td>
-<td>Intensity Ink</td>
-<td>136</td>
-<td>105</td>
-<td>185</td>
-<td>#8869B9</td>
-<td style="background-color: #8869B9" ><img src="https://via.placeholder.com/40/8869B9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sandstorm</td>
-<td>Acrylic Colors</td>
-<td>191</td>
-<td>159</td>
-<td>102</td>
-<td>#BF9F66</td>
-<td style="background-color: #BF9F66" ><img src="https://via.placeholder.com/40/BF9F66/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sangria Red</td>
-<td>Acrylic Colors</td>
-<td>94</td>
-<td>10</td>
-<td>10</td>
-<td>#5E0A0A</td>
-<td style="background-color: #5E0A0A" ><img src="https://via.placeholder.com/40/5E0A0A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sanguinem Red</td>
-<td>Intensity Ink</td>
-<td>255</td>
-<td>96</td>
-<td>80</td>
-<td>#FF6050</td>
-<td style="background-color: #FF6050" ><img src="https://via.placeholder.com/40/FF6050/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sapphire Blue</td>
-<td>Candy Ink Metallic</td>
-<td>172</td>
-<td>201</td>
-<td>255</td>
-<td>#ACC9FF</td>
-<td style="background-color: #ACC9FF" ><img src="https://via.placeholder.com/40/ACC9FF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Scorched Wood</td>
-<td>Acrylic Colors</td>
-<td>36</td>
-<td>17</td>
-<td>10</td>
-<td>#24110A</td>
-<td style="background-color: #24110A" ><img src="https://via.placeholder.com/40/24110A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sepia Vetus</td>
-<td>Intensity Ink</td>
-<td>171</td>
-<td>162</td>
-<td>105</td>
-<td>#ABA269</td>
-<td style="background-color: #ABA269" ><img src="https://via.placeholder.com/40/ABA269/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Seraphim Flesh Dip</td>
-<td>Dipping Inks</td>
-<td>188</td>
-<td>111</td>
-<td>81</td>
-<td>#BC6F51</td>
-<td style="background-color: #BC6F51" ><img src="https://via.placeholder.com/40/BC6F51/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sharkfin Blue</td>
-<td>Metallic Colors</td>
-<td>149</td>
-<td>202</td>
-<td>246</td>
-<td>#95CAF6</td>
-<td style="background-color: #95CAF6" ><img src="https://via.placeholder.com/40/95CAF6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Shiny Gold</td>
-<td>Metallic Colors</td>
-<td>191</td>
-<td>162</td>
-<td>44</td>
-<td>#BFA22C</td>
-<td style="background-color: #BFA22C" ><img src="https://via.placeholder.com/40/BFA22C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sirenscale Green</td>
-<td>Metallic Colors</td>
-<td>5</td>
-<td>193</td>
-<td>142</td>
-<td>#05C18E</td>
-<td style="background-color: #05C18E" ><img src="https://via.placeholder.com/40/05C18E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Skeleton Brown Dip</td>
-<td>Dipping Inks</td>
-<td>78</td>
-<td>62</td>
-<td>37</td>
-<td>#4E3E25</td>
-<td style="background-color: #4E3E25" ><img src="https://via.placeholder.com/40/4E3E25/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Skull Linen Dip</td>
-<td>Dipping Inks</td>
-<td>162</td>
-<td>161</td>
-<td>157</td>
-<td>#A2A19D</td>
-<td style="background-color: #A2A19D" ><img src="https://via.placeholder.com/40/A2A19D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Slate Grey</td>
-<td>Acrylic Colors</td>
-<td>86</td>
-<td>86</td>
-<td>86</td>
-<td>#565656</td>
-<td style="background-color: #565656" ><img src="https://via.placeholder.com/40/565656/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Smoked Blue</td>
-<td>Acrylic Colors</td>
-<td>85</td>
-<td>103</td>
-<td>127</td>
-<td>#55677F</td>
-<td style="background-color: #55677F" ><img src="https://via.placeholder.com/40/55677F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Solar Anomalie</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>209</td>
-<td>84</td>
-<td>162</td>
-<td>#D154A2</td>
-<td style="background-color: #D154A2" ><img src="https://via.placeholder.com/40/D154A2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Starship Grey</td>
-<td>Acrylic Colors</td>
-<td>125</td>
-<td>108</td>
-<td>114</td>
-<td>#7D6C72</td>
-<td style="background-color: #7D6C72" ><img src="https://via.placeholder.com/40/7D6C72/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Steampunk Copper</td>
-<td>Metallic Colors</td>
-<td>221</td>
-<td>163</td>
-<td>126</td>
-<td>#DDA37E</td>
-<td style="background-color: #DDA37E" ><img src="https://via.placeholder.com/40/DDA37E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Steel Grey</td>
-<td>Acrylic Colors</td>
-<td>42</td>
-<td>51</td>
-<td>60</td>
-<td>#2A333C</td>
-<td style="background-color: #2A333C" ><img src="https://via.placeholder.com/40/2A333C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Storm Surge Green</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>97</td>
-<td>166</td>
-<td>148</td>
-<td>#61A694</td>
-<td style="background-color: #61A694" ><img src="https://via.placeholder.com/40/61A694/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Summersea Blue</td>
-<td>Acrylic Colors</td>
-<td>2</td>
-<td>104</td>
-<td>176</td>
-<td>#0268B0</td>
-<td style="background-color: #0268B0" ><img src="https://via.placeholder.com/40/0268B0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sun-bleached Bone</td>
-<td>Acrylic Colors</td>
-<td>209</td>
-<td>144</td>
-<td>78</td>
-<td>#D1904E</td>
-<td style="background-color: #D1904E" ><img src="https://via.placeholder.com/40/D1904E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Swamp Brown</td>
-<td>Intensity Ink</td>
-<td>168</td>
-<td>93</td>
-<td>70</td>
-<td>#A85D46</td>
-<td style="background-color: #A85D46" ><img src="https://via.placeholder.com/40/A85D46/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Temple Ochre</td>
-<td>Acrylic Colors</td>
-<td>202</td>
-<td>159</td>
-<td>91</td>
-<td>#CA9F5B</td>
-<td style="background-color: #CA9F5B" ><img src="https://via.placeholder.com/40/CA9F5B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tenebris Blue</td>
-<td>Intensity Ink</td>
-<td>103</td>
-<td>111</td>
-<td>209</td>
-<td>#676FD1</td>
-<td style="background-color: #676FD1" ><img src="https://via.placeholder.com/40/676FD1/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tiger Brown</td>
-<td>Acrylic Colors</td>
-<td>241</td>
-<td>146</td>
-<td>0</td>
-<td>#F19200</td>
-<td style="background-color: #F19200" ><img src="https://via.placeholder.com/40/F19200/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tiger Eye Brown</td>
-<td>Candy Ink Metallic</td>
-<td>232</td>
-<td>193</td>
-<td>150</td>
-<td>#E8C196</td>
-<td style="background-color: #E8C196" ><img src="https://via.placeholder.com/40/E8C196/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tinmetal Grey</td>
-<td>Metallic Colors</td>
-<td>185</td>
-<td>173</td>
-<td>173</td>
-<td>#B9ADAD</td>
-<td style="background-color: #B9ADAD" ><img src="https://via.placeholder.com/40/B9ADAD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Toxic Purple</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>122</td>
-<td>57</td>
-<td>141</td>
-<td>#7A398D</td>
-<td style="background-color: #7A398D" ><img src="https://via.placeholder.com/40/7A398D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tropical Green</td>
-<td>Chameleon Colorshift Metallic</td>
-<td>179</td>
-<td>217</td>
-<td>36</td>
-<td>#B3D924</td>
-<td style="background-color: #B3D924" ><img src="https://via.placeholder.com/40/B3D924/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tropical Turquoise</td>
-<td>Acrylic Colors</td>
-<td>51</td>
-<td>175</td>
-<td>165</td>
-<td>#33AFA5</td>
-<td style="background-color: #33AFA5" ><img src="https://via.placeholder.com/40/33AFA5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Turquoise Ghost Dip</td>
-<td>Dipping Inks</td>
-<td>5</td>
-<td>81</td>
-<td>69</td>
-<td>#055145</td>
-<td style="background-color: #055145" ><img src="https://via.placeholder.com/40/055145/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ultramar Blue</td>
-<td>Acrylic Colors</td>
-<td>52</td>
-<td>52</td>
-<td>104</td>
-<td>#343468</td>
-<td style="background-color: #343468" ><img src="https://via.placeholder.com/40/343468/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Valkyrie Yellow</td>
-<td>Acrylic Colors</td>
-<td>231</td>
-<td>217</td>
-<td>108</td>
-<td>#E7D96C</td>
-<td style="background-color: #E7D96C" ><img src="https://via.placeholder.com/40/E7D96C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vanilla Drop</td>
-<td>Acrylic Colors</td>
-<td>254</td>
-<td>229</td>
-<td>145</td>
-<td>#FEE591</td>
-<td style="background-color: #FEE591" ><img src="https://via.placeholder.com/40/FEE591/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vicious Purple</td>
-<td>Wash Ink</td>
-<td>135</td>
-<td>103</td>
-<td>186</td>
-<td>#8767BA</td>
-<td style="background-color: #8767BA" ><img src="https://via.placeholder.com/40/8767BA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet</td>
-<td>Fluor Metallic</td>
-<td>190</td>
-<td>104</td>
-<td>227</td>
-<td>#BE68E3</td>
-<td style="background-color: #BE68E3" ><img src="https://via.placeholder.com/40/BE68E3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Violet Hint Dip</td>
-<td>Dipping Inks</td>
-<td>154</td>
-<td>130</td>
-<td>188</td>
-<td>#9A82BC</td>
-<td style="background-color: #9A82BC" ><img src="https://via.placeholder.com/40/9A82BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Viridian Green</td>
-<td>Acrylic Colors</td>
-<td>1</td>
-<td>154</td>
-<td>136</td>
-<td>#019A88</td>
-<td style="background-color: #019A88" ><img src="https://via.placeholder.com/40/019A88/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Viridis Green</td>
-<td>Intensity Ink</td>
-<td>90</td>
-<td>163</td>
-<td>143</td>
-<td>#5AA38F</td>
-<td style="background-color: #5AA38F" ><img src="https://via.placeholder.com/40/5AA38F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Walnut Brown</td>
-<td>Intensity Ink</td>
-<td>119</td>
-<td>108</td>
-<td>90</td>
-<td>#776C5A</td>
-<td style="background-color: #776C5A" ><img src="https://via.placeholder.com/40/776C5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Warcry Green</td>
-<td>Acrylic Colors</td>
-<td>62</td>
-<td>97</td>
-<td>33</td>
-<td>#3E6121</td>
-<td style="background-color: #3E6121" ><img src="https://via.placeholder.com/40/3E6121/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White</td>
-<td>Fluor Metallic</td>
-<td>255</td>
-<td>255</td>
-<td>255</td>
-<td>#FFFFFF</td>
-<td style="background-color: #FFFFFF" ><img src="https://via.placeholder.com/40/FFFFFF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Whitecap Beige</td>
-<td>Acrylic Colors</td>
-<td>214</td>
-<td>196</td>
-<td>176</td>
-<td>#D6C4B0</td>
-<td style="background-color: #D6C4B0" ><img src="https://via.placeholder.com/40/D6C4B0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wolven Grey</td>
-<td>Acrylic Colors</td>
-<td>176</td>
-<td>182</td>
-<td>198</td>
-<td>#B0B6C6</td>
-<td style="background-color: #B0B6C6" ><img src="https://via.placeholder.com/40/B0B6C6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wonka Violet</td>
-<td>Acrylic Colors</td>
-<td>119</td>
-<td>22</td>
-<td>65</td>
-<td>#771641</td>
-<td style="background-color: #771641" ><img src="https://via.placeholder.com/40/771641/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow</td>
-<td>Fluor Metallic</td>
-<td>248</td>
-<td>251</td>
-<td>72</td>
-<td>#F8FB48</td>
-<td style="background-color: #F8FB48" ><img src="https://via.placeholder.com/40/F8FB48/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Submarine Dip</td>
-<td>Dipping Inks</td>
-<td>189</td>
-<td>156</td>
-<td>15</td>
-<td>#BD9C0F</td>
-<td style="background-color: #BD9C0F" ><img src="https://via.placeholder.com/40/BD9C0F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow-brown Ops</td>
-<td>Acrylic Colors</td>
-<td>138</td>
-<td>94</td>
-<td>33</td>
-<td>#8A5E21</td>
-<td style="background-color: #8A5E21" ><img src="https://via.placeholder.com/40/8A5E21/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow-orange</td>
-<td>Fluor Metallic</td>
-<td>248</td>
-<td>157</td>
-<td>104</td>
-<td>#F89D68</td>
-<td style="background-color: #F89D68" ><img src="https://via.placeholder.com/40/F89D68/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yoda Green</td>
-<td>Acrylic Colors</td>
-<td>85</td>
-<td>124</td>
-<td>93</td>
-<td>#557C5D</td>
-<td style="background-color: #557C5D" ><img src="https://via.placeholder.com/40/557C5D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zima Blue</td>
-<td>Acrylic Colors</td>
-<td>72</td>
-<td>163</td>
-<td>192</td>
-<td>#48A3C0</td>
-<td style="background-color: #48A3C0" ><img src="https://via.placeholder.com/40/48A3C0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zombie Dip</td>
-<td>Dipping Inks</td>
-<td>55</td>
-<td>59</td>
-<td>34</td>
-<td>#373B22</td>
-<td style="background-color: #373B22" ><img src="https://via.placeholder.com/40/373B22/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zombie Flesh</td>
-<td>Acrylic Colors</td>
-<td>201</td>
-<td>172</td>
-<td>106</td>
-<td>#C9AC6A</td>
-<td style="background-color: #C9AC6A" ><img src="https://via.placeholder.com/40/C9AC6A/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+|Name|Set|R|G|B|Hex|
+|---|---|---|---|---|---|
+|Abyss Blue|Acrylic Colors|0|19|75|![#00134B](https://placehold.co/15x15/00134B/00134B.png) `#00134B`|
+|Acid Green Dip|Dipping Inks|69|92|14|![#455C0E](https://placehold.co/15x15/455C0E/455C0E.png) `#455C0E`|
+|Aether Blue|Wash Ink|102|110|208|![#666ED0](https://placehold.co/15x15/666ED0/666ED0.png) `#666ED0`|
+|Amber Orange|Candy Ink Metallic|244|177|26|![#F4B11A](https://placehold.co/15x15/F4B11A/F4B11A.png) `#F4B11A`|
+|Amberglow Dip|Dipping Inks|100|45|15|![#642D0F](https://placehold.co/15x15/642D0F/642D0F.png) `#642D0F`|
+|Amethyst Purple|Candy Ink Metallic|215|167|241|![#D7A7F1](https://placehold.co/15x15/D7A7F1/D7A7F1.png) `#D7A7F1`|
+|Ancient Sepia|Wash Ink|170|161|104|![#AAA168](https://placehold.co/15x15/AAA168/AAA168.png) `#AAA168`|
+|Andalusian Earth|Wash Ink|118|107|89|![#766B59](https://placehold.co/15x15/766B59/766B59.png) `#766B59`|
+|Anthrax Metal|Metallic Colors|123|126|131|![#7B7E83](https://placehold.co/15x15/7B7E83/7B7E83.png) `#7B7E83`|
+|Antique Gold|Metallic Colors|149|126|56|![#957E38](https://placehold.co/15x15/957E38/957E38.png) `#957E38`|
+|Aqua Turquoise|Metallic Colors|155|209|209|![#9BD1D1](https://placehold.co/15x15/9BD1D1/9BD1D1.png) `#9BD1D1`|
+|Arachnid Green|Acrylic Colors|18|66|68|![#124244](https://placehold.co/15x15/124244/124244.png) `#124244`|
+|Arctic Blue|Acrylic Colors|20|173|204|![#14ADCC](https://placehold.co/15x15/14ADCC/14ADCC.png) `#14ADCC`|
+|Arrakis Brown|Acrylic Colors|227|156|40|![#E39C28](https://placehold.co/15x15/E39C28/E39C28.png) `#E39C28`|
+|Atramentum Black|Wash Ink|81|81|81|![#515151](https://placehold.co/15x15/515151/515151.png) `#515151`|
+|Azure Dip|Dipping Inks|9|68|72|![#094448](https://placehold.co/15x15/094448/094448.png) `#094448`|
+|Banana Split|Acrylic Colors|240|226|41|![#F0E229](https://placehold.co/15x15/F0E229/F0E229.png) `#F0E229`|
+|Barrel Grey|Acrylic Colors|37|34|27|![#25221B](https://placehold.co/15x15/25221B/25221B.png) `#25221B`|
+|Bestial Brown|Acrylic Colors|45|30|1|![#2D1E01](https://placehold.co/15x15/2D1E01/2D1E01.png) `#2D1E01`|
+|Black Green Stone Dip|Dipping Inks|62|70|57|![#3E4639](https://placehold.co/15x15/3E4639/3E4639.png) `#3E4639`|
+|Black Stallion|Acrylic Colors|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Blackroot Grey|Acrylic Colors|52|52|54|![#343436](https://placehold.co/15x15/343436/343436.png) `#343436`|
+|Blue|Fluor Metallic|94|136|255|![#5E88FF](https://placehold.co/15x15/5E88FF/5E88FF.png) `#5E88FF`|
+|Blue Glacier Dip|Dipping Inks|83|167|203|![#53A7CB](https://placehold.co/15x15/53A7CB/53A7CB.png) `#53A7CB`|
+|Bluebird Grey|Acrylic Colors|111|101|125|![#6F657D](https://placehold.co/15x15/6F657D/6F657D.png) `#6F657D`|
+|Bluegrey Dusk|Acrylic Colors|42|44|65|![#2A2C41](https://placehold.co/15x15/2A2C41/2A2C41.png) `#2A2C41`|
+|Blush Red|Wash Ink|219|116|109|![#DB746D](https://placehold.co/15x15/DB746D/DB746D.png) `#DB746D`|
+|Blushing Flesh|Acrylic Colors|218|82|58|![#DA523A](https://placehold.co/15x15/DA523A/DA523A.png) `#DA523A`|
+|Borealis Green|Chameleon Colorshift Metallic|122|201|214|![#7AC9D6](https://placehold.co/15x15/7AC9D6/7AC9D6.png) `#7AC9D6`|
+|Brown Skin|Acrylic Colors|128|39|9|![#802709](https://placehold.co/15x15/802709/802709.png) `#802709`|
+|Burgundy Dip|Dipping Inks|79|35|48|![#4F2330](https://placehold.co/15x15/4F2330/4F2330.png) `#4F2330`|
+|Burning Gold|Chameleon Colorshift Metallic|242|222|47|![#F2DE2F](https://placehold.co/15x15/F2DE2F/F2DE2F.png) `#F2DE2F`|
+|Caesar Red|Metallic Colors|200|96|107|![#C8606B](https://placehold.co/15x15/C8606B/C8606B.png) `#C8606B`|
+|Camouflage Green|Acrylic Colors|99|96|27|![#63601B](https://placehold.co/15x15/63601B/63601B.png) `#63601B`|
+|Canary Green|Acrylic Colors|211|220|101|![#D3DC65](https://placehold.co/15x15/D3DC65/D3DC65.png) `#D3DC65`|
+|Carnage Red|Acrylic Colors|194|43|36|![#C22B24](https://placehold.co/15x15/C22B24/C22B24.png) `#C22B24`|
+|Celestial Azure|Chameleon Colorshift Metallic|124|200|214|![#7CC8D6](https://placehold.co/15x15/7CC8D6/7CC8D6.png) `#7CC8D6`|
+|Chancellor Blue|Acrylic Colors|50|48|69|![#323045](https://placehold.co/15x15/323045/323045.png) `#323045`|
+|Choco Brown|Acrylic Colors|63|32|1|![#3F2001](https://placehold.co/15x15/3F2001/3F2001.png) `#3F2001`|
+|Chrome Paint|Metallic Colors|252|253|255|![#FCFDFF](https://placehold.co/15x15/FCFDFF/FCFDFF.png) `#FCFDFF`|
+|Citrine Yellow|Candy Ink Metallic|255|246|79|![#FFF64F](https://placehold.co/15x15/FFF64F/FFF64F.png) `#FFF64F`|
+|Cobalt Blue|Chameleon Colorshift Metallic|68|118|215|![#4476D7](https://placehold.co/15x15/4476D7/4476D7.png) `#4476D7`|
+|Cool Blue Dip|Dipping Inks|56|121|113|![#387971](https://placehold.co/15x15/387971/387971.png) `#387971`|
+|Coyote Brown|Acrylic Colors|128|107|62|![#806B3E](https://placehold.co/15x15/806B3E/806B3E.png) `#806B3E`|
+|Crimson Magenta|Intensity Ink|255|90|148|![#FF5A94](https://placehold.co/15x15/FF5A94/FF5A94.png) `#FF5A94`|
+|Cutthroat Red|Acrylic Colors|142|19|22|![#8E1316](https://placehold.co/15x15/8E1316/8E1316.png) `#8E1316`|
+|Cyber Yellow|Acrylic Colors|242|209|44|![#F2D12C](https://placehold.co/15x15/F2D12C/F2D12C.png) `#F2D12C`|
+|Dark Beige|Acrylic Colors|113|92|65|![#715C41](https://placehold.co/15x15/715C41/715C41.png) `#715C41`|
+|Dark Elder Bronze|Metallic Colors|62|44|20|![#3E2C14](https://placehold.co/15x15/3E2C14/3E2C14.png) `#3E2C14`|
+|Dark Umber|Acrylic Colors|59|48|46|![#3B302E](https://placehold.co/15x15/3B302E/3B302E.png) `#3B302E`|
+|Darth Blue|Chameleon Colorshift Metallic|68|118|217|![#4476D9](https://placehold.co/15x15/4476D9/4476D9.png) `#4476D9`|
+|Deck Grey|Acrylic Colors|209|194|163|![#D1C2A3](https://placehold.co/15x15/D1C2A3/D1C2A3.png) `#D1C2A3`|
+|Deep Black Dip|Dipping Inks|37|37|37|![#252525](https://placehold.co/15x15/252525/252525.png) `#252525`|
+|Desert Camo|Acrylic Colors|148|123|59|![#947B3B](https://placehold.co/15x15/947B3B/947B3B.png) `#947B3B`|
+|Dusty Blue Dip|Dipping Inks|44|70|85|![#2C4655](https://placehold.co/15x15/2C4655/2C4655.png) `#2C4655`|
+|Dusty Rose|Acrylic Colors|240|99|107|![#F0636B](https://placehold.co/15x15/F0636B/F0636B.png) `#F0636B`|
+|Dwarven Flesh|Acrylic Colors|255|125|75|![#FF7D4B](https://placehold.co/15x15/FF7D4B/FF7D4B.png) `#FF7D4B`|
+|El Dorado|Metallic Colors|186|147|28|![#BA931C](https://placehold.co/15x15/BA931C/BA931C.png) `#BA931C`|
+|Elfwood Brown Dip|Dipping Inks|76|54|31|![#4C361F](https://placehold.co/15x15/4C361F/4C361F.png) `#4C361F`|
+|Elven Flesh|Acrylic Colors|242|170|130|![#F2AA82](https://placehold.co/15x15/F2AA82/F2AA82.png) `#F2AA82`|
+|Ember Orange|Acrylic Colors|217|74|34|![#D94A22](https://placehold.co/15x15/D94A22/D94A22.png) `#D94A22`|
+|Emerald Getaway|Chameleon Colorshift Metallic|51|174|146|![#33AE92](https://placehold.co/15x15/33AE92/33AE92.png) `#33AE92`|
+|English Field Brown|Acrylic Colors|108|70|21|![#6C4615](https://placehold.co/15x15/6C4615/6C4615.png) `#6C4615`|
+|Evil Forest|Chameleon Colorshift Metallic|83|21|22|![#531516](https://placehold.co/15x15/531516/531516.png) `#531516`|
+|Faded Orange|Acrylic Colors|244|121|61|![#F4793D](https://placehold.co/15x15/F4793D/F4793D.png) `#F4793D`|
+|Fang White|Acrylic Colors|255|251|221|![#FFFBDD](https://placehold.co/15x15/FFFBDD/FFFBDD.png) `#FFFBDD`|
+|Field Green-grey|Acrylic Colors|27|71|36|![#1B4724](https://placehold.co/15x15/1B4724/1B4724.png) `#1B4724`|
+|Flaming Orange|Acrylic Colors|234|112|27|![#EA701B](https://placehold.co/15x15/EA701B/EA701B.png) `#EA701B`|
+|Flesh Rose|Acrylic Colors|209|104|85|![#D16855](https://placehold.co/15x15/D16855/D16855.png) `#D16855`|
+|Flubber Green|Acrylic Colors|136|183|25|![#88B719](https://placehold.co/15x15/88B719/88B719.png) `#88B719`|
+|Forest Green|Acrylic Colors|0|57|16|![#003910](https://placehold.co/15x15/003910/003910.png) `#003910`|
+|Foxhide Brown|Acrylic Colors|193|96|1|![#C16001](https://placehold.co/15x15/C16001/C16001.png) `#C16001`|
+|Gangrene|Acrylic Colors|59|67|18|![#3B4312](https://placehold.co/15x15/3B4312/3B4312.png) `#3B4312`|
+|Garnet Purple Dip|Dipping Inks|113|47|83|![#712F53](https://placehold.co/15x15/712F53/712F53.png) `#712F53`|
+|Gengis Khaki|Acrylic Colors|102|91|59|![#665B3B](https://placehold.co/15x15/665B3B/665B3B.png) `#665B3B`|
+|Gladius Bronze|Metallic Colors|225|167|103|![#E1A767](https://placehold.co/15x15/E1A767/E1A767.png) `#E1A767`|
+|Glorious Magenta Dip|Dipping Inks|122|46|74|![#7A2E4A](https://placehold.co/15x15/7A2E4A/7A2E4A.png) `#7A2E4A`|
+|Go Mango|Acrylic Colors|255|160|50|![#FFA032](https://placehold.co/15x15/FFA032/FFA032.png) `#FFA032`|
+|Golden Cream|Acrylic Colors|255|206|83|![#FFCE53](https://placehold.co/15x15/FFCE53/FFCE53.png) `#FFCE53`|
+|Gorgon Dark Green|Intensity Ink|110|168|127|![#6EA87F](https://placehold.co/15x15/6EA87F/6EA87F.png) `#6EA87F`|
+|Goth Skin Dip|Dipping Inks|99|45|43|![#632D2B](https://placehold.co/15x15/632D2B/632D2B.png) `#632D2B`|
+|Green Ghost Dip|Dipping Inks|29|81|19|![#1D5113](https://placehold.co/15x15/1D5113/1D5113.png) `#1D5113`|
+|Green Shark Skin Dip|Dipping Inks|0|69|66|![#004542](https://placehold.co/15x15/004542/004542.png) `#004542`|
+|Grey Mist Dip|Dipping Inks|120|120|120|![#787878](https://placehold.co/15x15/787878/787878.png) `#787878`|
+|Grey Teal|Acrylic Colors|100|133|126|![#64857E](https://placehold.co/15x15/64857E/64857E.png) `#64857E`|
+|Gunmetal Grey|Metallic Colors|172|177|183|![#ACB1B7](https://placehold.co/15x15/ACB1B7/ACB1B7.png) `#ACB1B7`|
+|Hellfire Red|Acrylic Colors|203|22|15|![#CB160F](https://placehold.co/15x15/CB160F/CB160F.png) `#CB160F`|
+|Hulky Green Dip|Dipping Inks|9|70|37|![#094625](https://placehold.co/15x15/094625/094625.png) `#094625`|
+|Hunter Green|Acrylic Colors|1|118|1|![#017601](https://placehold.co/15x15/017601/017601.png) `#017601`|
+|Hydromiel Yellow|Intensity Ink|245|240|146|![#F5F092](https://placehold.co/15x15/F5F092/F5F092.png) `#F5F092`|
+|Imperium Blue|Acrylic Colors|26|48|133|![#1A3085](https://placehold.co/15x15/1A3085/1A3085.png) `#1A3085`|
+|Indigo Blue Dip|Dipping Inks|28|47|89|![#1C2F59](https://placehold.co/15x15/1C2F59/1C2F59.png) `#1C2F59`|
+|Ivory Tusk|Acrylic Colors|243|223|190|![#F3DFBE](https://placehold.co/15x15/F3DFBE/F3DFBE.png) `#F3DFBE`|
+|Jade Green|Candy Ink Metallic|155|255|212|![#9BFFD4](https://placehold.co/15x15/9BFFD4/9BFFD4.png) `#9BFFD4`|
+|Komodo Khaki|Acrylic Colors|136|90|41|![#885A29](https://placehold.co/15x15/885A29/885A29.png) `#885A29`|
+|Kraken Green|Acrylic Colors|3|76|57|![#034C39](https://placehold.co/15x15/034C39/034C39.png) `#034C39`|
+|Lapislazuli|Acrylic Colors|23|44|99|![#172C63](https://placehold.co/15x15/172C63/172C63.png) `#172C63`|
+|Leather Brown|Acrylic Colors|175|104|22|![#AF6816](https://placehold.co/15x15/AF6816/AF6816.png) `#AF6816`|
+|Liche Purple|Acrylic Colors|68|28|90|![#441C5A](https://placehold.co/15x15/441C5A/441C5A.png) `#441C5A`|
+|Lilac Purple|Acrylic Colors|176|118|179|![#B076B3](https://placehold.co/15x15/B076B3/B076B3.png) `#B076B3`|
+|Lime|Fluor Metallic|78|255|113|![#4EFF71](https://placehold.co/15x15/4EFF71/4EFF71.png) `#4EFF71`|
+|Limelight Dip|Dipping Inks|96|90|2|![#605A02](https://placehold.co/15x15/605A02/605A02.png) `#605A02`|
+|Lollipop Magenta|Acrylic Colors|171|0|97|![#AB0061](https://placehold.co/15x15/AB0061/AB0061.png) `#AB0061`|
+|Majin Pink|Acrylic Colors|213|97|142|![#D5618E](https://placehold.co/15x15/D5618E/D5618E.png) `#D5618E`|
+|Malefic Purple|Acrylic Colors|17|11|73|![#110B49](https://placehold.co/15x15/110B49/110B49.png) `#110B49`|
+|Marine Blue|Acrylic Colors|18|64|126|![#12407E](https://placehold.co/15x15/12407E/12407E.png) `#12407E`|
+|Martian Green|Chameleon Colorshift Metallic|134|155|98|![#869B62](https://placehold.co/15x15/869B62/869B62.png) `#869B62`|
+|Military Green|Acrylic Colors|34|38|15|![#22260F](https://placehold.co/15x15/22260F/22260F.png) `#22260F`|
+|Mint Twister|Acrylic Colors|0|186|163|![#00BAA3](https://placehold.co/15x15/00BAA3/00BAA3.png) `#00BAA3`|
+|Mirage Blue|Acrylic Colors|54|69|90|![#36455A](https://placehold.co/15x15/36455A/36455A.png) `#36455A`|
+|Misted Yellow Dip|Dipping Inks|141|97|26|![#8D611A](https://placehold.co/15x15/8D611A/8D611A.png) `#8D611A`|
+|Moon Mist Grey|Acrylic Colors|220|207|201|![#DCCFC9](https://placehold.co/15x15/DCCFC9/DCCFC9.png) `#DCCFC9`|
+|Moonstone Grey|Acrylic Colors|140|140|140|![#8C8C8C](https://placehold.co/15x15/8C8C8C/8C8C8C.png) `#8C8C8C`|
+|Morrow Purple Dip|Dipping Inks|120|102|150|![#786696](https://placehold.co/15x15/786696/786696.png) `#786696`|
+|Moss Green|Wash Ink|110|172|86|![#6EAC56](https://placehold.co/15x15/6EAC56/6EAC56.png) `#6EAC56`|
+|Mustard Yellow|Acrylic Colors|147|102|17|![#936611](https://placehold.co/15x15/936611/936611.png) `#936611`|
+|Mystic Gold|Chameleon Colorshift Metallic|242|222|47|![#F2DE2F](https://placehold.co/15x15/F2DE2F/F2DE2F.png) `#F2DE2F`|
+|Mystic White|Metallic Colors|239|240|244|![#EFF0F4](https://placehold.co/15x15/EFF0F4/EFF0F4.png) `#EFF0F4`|
+|Nebula Copper|Chameleon Colorshift Metallic|201|79|166|![#C94FA6](https://placehold.co/15x15/C94FA6/C94FA6.png) `#C94FA6`|
+|Neptunus Blue|Metallic Colors|96|186|248|![#60BAF8](https://placehold.co/15x15/60BAF8/60BAF8.png) `#60BAF8`|
+|Nightsahde Purple Dip|Dipping Inks|71|45|90|![#472D5A](https://placehold.co/15x15/472D5A/472D5A.png) `#472D5A`|
+|Nuclear White|Acrylic Colors|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Nude Skin Dip|Dipping Inks|222|147|144|![#DE9390](https://placehold.co/15x15/DE9390/DE9390.png) `#DE9390`|
+|Ochre Desert|Acrylic Colors|224|133|0|![#E08500](https://placehold.co/15x15/E08500/E08500.png) `#E08500`|
+|Olive-brown Ops|Acrylic Colors|55|45|10|![#372D0A](https://placehold.co/15x15/372D0A/372D0A.png) `#372D0A`|
+|Olivegrove Green|Acrylic Colors|27|41|15|![#1B290F](https://placehold.co/15x15/1B290F/1B290F.png) `#1B290F`|
+|Opulentus Black|Intensity Ink|81|81|81|![#515151](https://placehold.co/15x15/515151/515151.png) `#515151`|
+|Orange|Fluor Metallic|249|110|51|![#F96E33](https://placehold.co/15x15/F96E33/F96E33.png) `#F96E33`|
+|Orchid Purple|Metallic Colors|115|68|114|![#734472](https://placehold.co/15x15/734472/734472.png) `#734472`|
+|Ork Flesh Dip|Dipping Inks|19|51|27|![#13331B](https://placehold.co/15x15/13331B/13331B.png) `#13331B`|
+|Overlord Olive|Acrylic Colors|55|50|31|![#37321F](https://placehold.co/15x15/37321F/37321F.png) `#37321F`|
+|Pale Flesh|Acrylic Colors|232|185|167|![#E8B9A7](https://placehold.co/15x15/E8B9A7/E8B9A7.png) `#E8B9A7`|
+|Papyrus Dip|Dipping Inks|110|78|27|![#6E4E1B](https://placehold.co/15x15/6E4E1B/6E4E1B.png) `#6E4E1B`|
+|Parchment|Acrylic Colors|225|192|149|![#E1C095](https://placehold.co/15x15/E1C095/E1C095.png) `#E1C095`|
+|Peach Flesh|Acrylic Colors|228|119|0|![#E47700](https://placehold.co/15x15/E47700/E47700.png) `#E47700`|
+|Pecatum Flesh|Wash Ink|244|146|159|![#F4929F](https://placehold.co/15x15/F4929F/F4929F.png) `#F4929F`|
+|Persian Violet|Metallic Colors|65|36|128|![#412480](https://placehold.co/15x15/412480/412480.png) `#412480`|
+|Phantom Violet|Acrylic Colors|125|54|124|![#7D367C](https://placehold.co/15x15/7D367C/7D367C.png) `#7D367C`|
+|Phoenix Orange|Intensity Ink|241|167|96|![#F1A760](https://placehold.co/15x15/F1A760/F1A760.png) `#F1A760`|
+|Pinky Blue|Chameleon Colorshift Metallic|120|205|210|![#78CDD2](https://placehold.co/15x15/78CDD2/78CDD2.png) `#78CDD2`|
+|Primer Black|Gloss Surface|32|32|32|![#202020](https://placehold.co/15x15/202020/202020.png) `#202020`|
+|Primer Black|Matt Surface|26|26|26|![#1A1A1A](https://placehold.co/15x15/1A1A1A/1A1A1A.png) `#1A1A1A`|
+|Primer Green|Matt Surface|72|90|4|![#485A04](https://placehold.co/15x15/485A04/485A04.png) `#485A04`|
+|Primer Grey|Matt Surface|204|204|204|![#CCCCCC](https://placehold.co/15x15/CCCCCC/CCCCCC.png) `#CCCCCC`|
+|Primer Red|Matt Surface|136|42|30|![#882A1E](https://placehold.co/15x15/882A1E/882A1E.png) `#882A1E`|
+|Primer White|Matt Surface|253|253|253|![#FDFDFD](https://placehold.co/15x15/FDFDFD/FDFDFD.png) `#FDFDFD`|
+|Prussian Blue|Acrylic Colors|0|65|107|![#00416B](https://placehold.co/15x15/00416B/00416B.png) `#00416B`|
+|Prussian Green|Acrylic Colors|21|46|27|![#152E1B](https://placehold.co/15x15/152E1B/152E1B.png) `#152E1B`|
+|Psychotic Illusions|Chameleon Colorshift Metallic|105|172|181|![#69ACB5](https://placehold.co/15x15/69ACB5/69ACB5.png) `#69ACB5`|
+|Purple Vanity Dip|Dipping Inks|57|46|86|![#392E56](https://placehold.co/15x15/392E56/392E56.png) `#392E56`|
+|Quartz Magenta|Candy Ink Metallic|234|134|170|![#EA86AA](https://placehold.co/15x15/EA86AA/EA86AA.png) `#EA86AA`|
+|Quicksand Brown|Acrylic Colors|125|74|27|![#7D4A1B](https://placehold.co/15x15/7D4A1B/7D4A1B.png) `#7D4A1B`|
+|Quicksilver|Metallic Colors|224|227|232|![#E0E3E8](https://placehold.co/15x15/E0E3E8/E0E3E8.png) `#E0E3E8`|
+|Radiant Orange Dip|Dipping Inks|132|68|6|![#844406](https://placehold.co/15x15/844406/844406.png) `#844406`|
+|Ranger Green|Acrylic Colors|56|53|46|![#38352E](https://placehold.co/15x15/38352E/38352E.png) `#38352E`|
+|Red|Fluor Metallic|240|60|37|![#F03C25](https://placehold.co/15x15/F03C25/F03C25.png) `#F03C25`|
+|Red Cloak Dip|Dipping Inks|178|101|93|![#B2655D](https://placehold.co/15x15/B2655D/B2655D.png) `#B2655D`|
+|Red Goblin|Chameleon Colorshift Metallic|169|186|115|![#A9BA73](https://placehold.co/15x15/A9BA73/A9BA73.png) `#A9BA73`|
+|Red Opulence Dip|Dipping Inks|187|35|32|![#BB2320](https://placehold.co/15x15/BB2320/BB2320.png) `#BB2320`|
+|Red Truth|Acrylic Colors|236|32|5|![#EC2005](https://placehold.co/15x15/EC2005/EC2005.png) `#EC2005`|
+|Redwood Brown|Acrylic Colors|62|13|0|![#3E0D00](https://placehold.co/15x15/3E0D00/3E0D00.png) `#3E0D00`|
+|Rocket Green|Acrylic Colors|65|94|36|![#415E24](https://placehold.co/15x15/415E24/415E24.png) `#415E24`|
+|Rose|Fluor Metallic|244|112|161|![#F470A1](https://placehold.co/15x15/F470A1/F470A1.png) `#F470A1`|
+|Rotten Green|Acrylic Colors|119|147|44|![#77932C](https://placehold.co/15x15/77932C/77932C.png) `#77932C`|
+|Royal Burgundy|Chameleon Colorshift Metallic|144|163|117|![#90A375](https://placehold.co/15x15/90A375/90A375.png) `#90A375`|
+|Ruby Red|Candy Ink Metallic|245|144|76|![#F5904C](https://placehold.co/15x15/F5904C/F5904C.png) `#F5904C`|
+|Sacra Purple|Intensity Ink|136|105|185|![#8869B9](https://placehold.co/15x15/8869B9/8869B9.png) `#8869B9`|
+|Sandstorm|Acrylic Colors|191|159|102|![#BF9F66](https://placehold.co/15x15/BF9F66/BF9F66.png) `#BF9F66`|
+|Sangria Red|Acrylic Colors|94|10|10|![#5E0A0A](https://placehold.co/15x15/5E0A0A/5E0A0A.png) `#5E0A0A`|
+|Sanguinem Red|Intensity Ink|255|96|80|![#FF6050](https://placehold.co/15x15/FF6050/FF6050.png) `#FF6050`|
+|Sapphire Blue|Candy Ink Metallic|172|201|255|![#ACC9FF](https://placehold.co/15x15/ACC9FF/ACC9FF.png) `#ACC9FF`|
+|Scorched Wood|Acrylic Colors|36|17|10|![#24110A](https://placehold.co/15x15/24110A/24110A.png) `#24110A`|
+|Sepia Vetus|Intensity Ink|171|162|105|![#ABA269](https://placehold.co/15x15/ABA269/ABA269.png) `#ABA269`|
+|Seraphim Flesh Dip|Dipping Inks|188|111|81|![#BC6F51](https://placehold.co/15x15/BC6F51/BC6F51.png) `#BC6F51`|
+|Sharkfin Blue|Metallic Colors|149|202|246|![#95CAF6](https://placehold.co/15x15/95CAF6/95CAF6.png) `#95CAF6`|
+|Shiny Gold|Metallic Colors|191|162|44|![#BFA22C](https://placehold.co/15x15/BFA22C/BFA22C.png) `#BFA22C`|
+|Sirenscale Green|Metallic Colors|5|193|142|![#05C18E](https://placehold.co/15x15/05C18E/05C18E.png) `#05C18E`|
+|Skeleton Brown Dip|Dipping Inks|78|62|37|![#4E3E25](https://placehold.co/15x15/4E3E25/4E3E25.png) `#4E3E25`|
+|Skull Linen Dip|Dipping Inks|162|161|157|![#A2A19D](https://placehold.co/15x15/A2A19D/A2A19D.png) `#A2A19D`|
+|Slate Grey|Acrylic Colors|86|86|86|![#565656](https://placehold.co/15x15/565656/565656.png) `#565656`|
+|Smoked Blue|Acrylic Colors|85|103|127|![#55677F](https://placehold.co/15x15/55677F/55677F.png) `#55677F`|
+|Solar Anomalie|Chameleon Colorshift Metallic|209|84|162|![#D154A2](https://placehold.co/15x15/D154A2/D154A2.png) `#D154A2`|
+|Starship Grey|Acrylic Colors|125|108|114|![#7D6C72](https://placehold.co/15x15/7D6C72/7D6C72.png) `#7D6C72`|
+|Steampunk Copper|Metallic Colors|221|163|126|![#DDA37E](https://placehold.co/15x15/DDA37E/DDA37E.png) `#DDA37E`|
+|Steel Grey|Acrylic Colors|42|51|60|![#2A333C](https://placehold.co/15x15/2A333C/2A333C.png) `#2A333C`|
+|Storm Surge Green|Chameleon Colorshift Metallic|97|166|148|![#61A694](https://placehold.co/15x15/61A694/61A694.png) `#61A694`|
+|Summersea Blue|Acrylic Colors|2|104|176|![#0268B0](https://placehold.co/15x15/0268B0/0268B0.png) `#0268B0`|
+|Sun-bleached Bone|Acrylic Colors|209|144|78|![#D1904E](https://placehold.co/15x15/D1904E/D1904E.png) `#D1904E`|
+|Swamp Brown|Intensity Ink|168|93|70|![#A85D46](https://placehold.co/15x15/A85D46/A85D46.png) `#A85D46`|
+|Temple Ochre|Acrylic Colors|202|159|91|![#CA9F5B](https://placehold.co/15x15/CA9F5B/CA9F5B.png) `#CA9F5B`|
+|Tenebris Blue|Intensity Ink|103|111|209|![#676FD1](https://placehold.co/15x15/676FD1/676FD1.png) `#676FD1`|
+|Tiger Brown|Acrylic Colors|241|146|0|![#F19200](https://placehold.co/15x15/F19200/F19200.png) `#F19200`|
+|Tiger Eye Brown|Candy Ink Metallic|232|193|150|![#E8C196](https://placehold.co/15x15/E8C196/E8C196.png) `#E8C196`|
+|Tinmetal Grey|Metallic Colors|185|173|173|![#B9ADAD](https://placehold.co/15x15/B9ADAD/B9ADAD.png) `#B9ADAD`|
+|Toxic Purple|Chameleon Colorshift Metallic|122|57|141|![#7A398D](https://placehold.co/15x15/7A398D/7A398D.png) `#7A398D`|
+|Tropical Green|Chameleon Colorshift Metallic|179|217|36|![#B3D924](https://placehold.co/15x15/B3D924/B3D924.png) `#B3D924`|
+|Tropical Turquoise|Acrylic Colors|51|175|165|![#33AFA5](https://placehold.co/15x15/33AFA5/33AFA5.png) `#33AFA5`|
+|Turquoise Ghost Dip|Dipping Inks|5|81|69|![#055145](https://placehold.co/15x15/055145/055145.png) `#055145`|
+|Ultramar Blue|Acrylic Colors|52|52|104|![#343468](https://placehold.co/15x15/343468/343468.png) `#343468`|
+|Valkyrie Yellow|Acrylic Colors|231|217|108|![#E7D96C](https://placehold.co/15x15/E7D96C/E7D96C.png) `#E7D96C`|
+|Vanilla Drop|Acrylic Colors|254|229|145|![#FEE591](https://placehold.co/15x15/FEE591/FEE591.png) `#FEE591`|
+|Vicious Purple|Wash Ink|135|103|186|![#8767BA](https://placehold.co/15x15/8767BA/8767BA.png) `#8767BA`|
+|Violet|Fluor Metallic|190|104|227|![#BE68E3](https://placehold.co/15x15/BE68E3/BE68E3.png) `#BE68E3`|
+|Violet Hint Dip|Dipping Inks|154|130|188|![#9A82BC](https://placehold.co/15x15/9A82BC/9A82BC.png) `#9A82BC`|
+|Viridian Green|Acrylic Colors|1|154|136|![#019A88](https://placehold.co/15x15/019A88/019A88.png) `#019A88`|
+|Viridis Green|Intensity Ink|90|163|143|![#5AA38F](https://placehold.co/15x15/5AA38F/5AA38F.png) `#5AA38F`|
+|Walnut Brown|Intensity Ink|119|108|90|![#776C5A](https://placehold.co/15x15/776C5A/776C5A.png) `#776C5A`|
+|Warcry Green|Acrylic Colors|62|97|33|![#3E6121](https://placehold.co/15x15/3E6121/3E6121.png) `#3E6121`|
+|White|Fluor Metallic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Whitecap Beige|Acrylic Colors|214|196|176|![#D6C4B0](https://placehold.co/15x15/D6C4B0/D6C4B0.png) `#D6C4B0`|
+|Wolven Grey|Acrylic Colors|176|182|198|![#B0B6C6](https://placehold.co/15x15/B0B6C6/B0B6C6.png) `#B0B6C6`|
+|Wonka Violet|Acrylic Colors|119|22|65|![#771641](https://placehold.co/15x15/771641/771641.png) `#771641`|
+|Yellow|Fluor Metallic|248|251|72|![#F8FB48](https://placehold.co/15x15/F8FB48/F8FB48.png) `#F8FB48`|
+|Yellow Submarine Dip|Dipping Inks|189|156|15|![#BD9C0F](https://placehold.co/15x15/BD9C0F/BD9C0F.png) `#BD9C0F`|
+|Yellow-brown Ops|Acrylic Colors|138|94|33|![#8A5E21](https://placehold.co/15x15/8A5E21/8A5E21.png) `#8A5E21`|
+|Yellow-orange|Fluor Metallic|248|157|104|![#F89D68](https://placehold.co/15x15/F89D68/F89D68.png) `#F89D68`|
+|Yoda Green|Acrylic Colors|85|124|93|![#557C5D](https://placehold.co/15x15/557C5D/557C5D.png) `#557C5D`|
+|Zima Blue|Acrylic Colors|72|163|192|![#48A3C0](https://placehold.co/15x15/48A3C0/48A3C0.png) `#48A3C0`|
+|Zombie Dip|Dipping Inks|55|59|34|![#373B22](https://placehold.co/15x15/373B22/373B22.png) `#373B22`|
+|Zombie Flesh|Acrylic Colors|201|172|106|![#C9AC6A](https://placehold.co/15x15/C9AC6A/C9AC6A.png) `#C9AC6A`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">

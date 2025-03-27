@@ -1,1641 +1,188 @@
 # Duncan
-<img src="../logos/Duncan.png" height="200" />
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Set</th>
-<th>R</th>
-<th>G</th>
-<th>B</th>
-<th>Hex</th>
-<th>Color</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Abyss Blue</td>
-<td>Wave 2</td>
-<td>51</td>
-<td>74</td>
-<td>102</td>
-<td>#334A66</td>
-<td style="background-color: #334A66" ><img src="https://via.placeholder.com/40/334A66/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ambush Yellow</td>
-<td>Wave 3</td>
-<td>227</td>
-<td>204</td>
-<td>115</td>
-<td>#E3CC73</td>
-<td style="background-color: #E3CC73" ><img src="https://via.placeholder.com/40/E3CC73/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amethyst Rayne</td>
-<td>Wave 1</td>
-<td>82</td>
-<td>65</td>
-<td>105</td>
-<td>#524169</td>
-<td style="background-color: #524169" ><img src="https://via.placeholder.com/40/524169/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amphora Red</td>
-<td>Wave 3</td>
-<td>72</td>
-<td>33</td>
-<td>36</td>
-<td>#482124</td>
-<td style="background-color: #482124" ><img src="https://via.placeholder.com/40/482124/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Amulet Purple</td>
-<td>Wave 2</td>
-<td>190</td>
-<td>172</td>
-<td>210</td>
-<td>#BEACD2</td>
-<td style="background-color: #BEACD2" ><img src="https://via.placeholder.com/40/BEACD2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ancient Forest</td>
-<td>Wave 1</td>
-<td>113</td>
-<td>91</td>
-<td>82</td>
-<td>#715B52</td>
-<td style="background-color: #715B52" ><img src="https://via.placeholder.com/40/715B52/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ancient Gold</td>
-<td>Wave 3</td>
-<td>119</td>
-<td>103</td>
-<td>66</td>
-<td>#776742</td>
-<td style="background-color: #776742" ><img src="https://via.placeholder.com/40/776742/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Antiquity Green</td>
-<td>Wave 3</td>
-<td>54</td>
-<td>125</td>
-<td>122</td>
-<td>#367D7A</td>
-<td style="background-color: #367D7A" ><img src="https://via.placeholder.com/40/367D7A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Apocalypse Sky</td>
-<td>Wave 3</td>
-<td>227</td>
-<td>78</td>
-<td>63</td>
-<td>#E34E3F</td>
-<td style="background-color: #E34E3F" ><img src="https://via.placeholder.com/40/E34E3F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Archaic Sepia Wash</td>
-<td>Wave 1</td>
-<td>164</td>
-<td>135</td>
-<td>115</td>
-<td>#A48773</td>
-<td style="background-color: #A48773" ><img src="https://via.placeholder.com/40/A48773/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ares Flesh</td>
-<td>Wave 2</td>
-<td>222</td>
-<td>194</td>
-<td>135</td>
-<td>#DEC287</td>
-<td style="background-color: #DEC287" ><img src="https://via.placeholder.com/40/DEC287/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Argonaut Skin</td>
-<td>Wave 2</td>
-<td>167</td>
-<td>142</td>
-<td>108</td>
-<td>#A78E6C</td>
-<td style="background-color: #A78E6C" ><img src="https://via.placeholder.com/40/A78E6C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ashen Grey</td>
-<td>Wave 2</td>
-<td>78</td>
-<td>82</td>
-<td>72</td>
-<td>#4E5248</td>
-<td style="background-color: #4E5248" ><img src="https://via.placeholder.com/40/4E5248/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Asmodeus Red</td>
-<td>Wave 2</td>
-<td>142</td>
-<td>72</td>
-<td>71</td>
-<td>#8E4847</td>
-<td style="background-color: #8E4847" ><img src="https://via.placeholder.com/40/8E4847/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Aztec Turquoise Wash</td>
-<td>Wave 3</td>
-<td>147</td>
-<td>158</td>
-<td>160</td>
-<td>#939EA0</td>
-<td style="background-color: #939EA0" ><img src="https://via.placeholder.com/40/939EA0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Barbarian Brawn</td>
-<td>Wave 1</td>
-<td>143</td>
-<td>94</td>
-<td>84</td>
-<td>#8F5E54</td>
-<td style="background-color: #8F5E54" ><img src="https://via.placeholder.com/40/8F5E54/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bard Skin</td>
-<td>Wave 2</td>
-<td>149</td>
-<td>111</td>
-<td>97</td>
-<td>#956F61</td>
-<td style="background-color: #956F61" ><img src="https://via.placeholder.com/40/956F61/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Batle Axe Brass</td>
-<td>Wave 2</td>
-<td>212</td>
-<td>169</td>
-<td>125</td>
-<td>#D4A97D</td>
-<td style="background-color: #D4A97D" ><img src="https://via.placeholder.com/40/D4A97D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Battle Mud Wash</td>
-<td>Wave 1</td>
-<td>121</td>
-<td>106</td>
-<td>93</td>
-<td>#796A5D</td>
-<td style="background-color: #796A5D" ><img src="https://via.placeholder.com/40/796A5D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Berserker Red</td>
-<td>Wave 1</td>
-<td>77</td>
-<td>26</td>
-<td>21</td>
-<td>#4D1A15</td>
-<td style="background-color: #4D1A15" ><img src="https://via.placeholder.com/40/4D1A15/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Glaze</td>
-<td>Wave 2</td>
-<td>90</td>
-<td>121</td>
-<td>188</td>
-<td>#5A79BC</td>
-<td style="background-color: #5A79BC" ><img src="https://via.placeholder.com/40/5A79BC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Blue Steel</td>
-<td>Wave 3</td>
-<td>127</td>
-<td>140</td>
-<td>139</td>
-<td>#7F8C8B</td>
-<td style="background-color: #7F8C8B" ><img src="https://via.placeholder.com/40/7F8C8B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Boar Hide</td>
-<td>Wave 1</td>
-<td>114</td>
-<td>68</td>
-<td>56</td>
-<td>#724438</td>
-<td style="background-color: #724438" ><img src="https://via.placeholder.com/40/724438/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Bone Wash</td>
-<td>Wave 3</td>
-<td>182</td>
-<td>168</td>
-<td>169</td>
-<td>#B6A8A9</td>
-<td style="background-color: #B6A8A9" ><img src="https://via.placeholder.com/40/B6A8A9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Boot Strap Brown</td>
-<td>Wave 3</td>
-<td>142</td>
-<td>103</td>
-<td>75</td>
-<td>#8E674B</td>
-<td style="background-color: #8E674B" ><img src="https://via.placeholder.com/40/8E674B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Carapace Green</td>
-<td>Wave 3</td>
-<td>79</td>
-<td>149</td>
-<td>90</td>
-<td>#4F955A</td>
-<td style="background-color: #4F955A" ><img src="https://via.placeholder.com/40/4F955A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Carcharodon Grey</td>
-<td>Wave 1</td>
-<td>149</td>
-<td>148</td>
-<td>150</td>
-<td>#959496</td>
-<td style="background-color: #959496" ><img src="https://via.placeholder.com/40/959496/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Celestial Blue</td>
-<td>Wave 1</td>
-<td>105</td>
-<td>145</td>
-<td>192</td>
-<td>#6991C0</td>
-<td style="background-color: #6991C0" ><img src="https://via.placeholder.com/40/6991C0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Centurion Red</td>
-<td>Wave 3</td>
-<td>230</td>
-<td>49</td>
-<td>50</td>
-<td>#E63132</td>
-<td style="background-color: #E63132" ><img src="https://via.placeholder.com/40/E63132/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cerberus Brown</td>
-<td>Wave 2</td>
-<td>223</td>
-<td>173</td>
-<td>88</td>
-<td>#DFAD58</td>
-<td style="background-color: #DFAD58" ><img src="https://via.placeholder.com/40/DFAD58/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Chaos Bronze</td>
-<td>Wave 3</td>
-<td>166</td>
-<td>139</td>
-<td>109</td>
-<td>#A68B6D</td>
-<td style="background-color: #A68B6D" ><img src="https://via.placeholder.com/40/A68B6D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cold Corpse Blue</td>
-<td>Wave 1</td>
-<td>80</td>
-<td>85</td>
-<td>92</td>
-<td>#50555C</td>
-<td style="background-color: #50555C" ><img src="https://via.placeholder.com/40/50555C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Contagion Green</td>
-<td>Wave 3</td>
-<td>139</td>
-<td>158</td>
-<td>123</td>
-<td>#8B9E7B</td>
-<td style="background-color: #8B9E7B" ><img src="https://via.placeholder.com/40/8B9E7B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Craven Yellow</td>
-<td>Wave 2</td>
-<td>236</td>
-<td>235</td>
-<td>105</td>
-<td>#ECEB69</td>
-<td style="background-color: #ECEB69" ><img src="https://via.placeholder.com/40/ECEB69/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cuirass Leather</td>
-<td>Wave 1</td>
-<td>81</td>
-<td>66</td>
-<td>57</td>
-<td>#514239</td>
-<td style="background-color: #514239" ><img src="https://via.placeholder.com/40/514239/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cursed Blue</td>
-<td>Wave 2</td>
-<td>65</td>
-<td>153</td>
-<td>179</td>
-<td>#4199B3</td>
-<td style="background-color: #4199B3" ><img src="https://via.placeholder.com/40/4199B3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Cyber Pink</td>
-<td>Wave 3</td>
-<td>198</td>
-<td>75</td>
-<td>138</td>
-<td>#C64B8A</td>
-<td style="background-color: #C64B8A" ><img src="https://via.placeholder.com/40/C64B8A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dark Sun Yellow</td>
-<td>Wave 1</td>
-<td>195</td>
-<td>134</td>
-<td>57</td>
-<td>#C38639</td>
-<td style="background-color: #C38639" ><img src="https://via.placeholder.com/40/C38639/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Death Metal</td>
-<td>Wave 3</td>
-<td>105</td>
-<td>101</td>
-<td>93</td>
-<td>#69655D</td>
-<td style="background-color: #69655D" ><img src="https://via.placeholder.com/40/69655D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Death Reaper</td>
-<td>Wave 1</td>
-<td>67</td>
-<td>65</td>
-<td>66</td>
-<td>#434142</td>
-<td style="background-color: #434142" ><img src="https://via.placeholder.com/40/434142/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Decadent Purple</td>
-<td>Wave 3</td>
-<td>193</td>
-<td>190</td>
-<td>211</td>
-<td>#C1BED3</td>
-<td style="background-color: #C1BED3" ><img src="https://via.placeholder.com/40/C1BED3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Demon Red</td>
-<td>Wave 1</td>
-<td>210</td>
-<td>17</td>
-<td>22</td>
-<td>#D21116</td>
-<td style="background-color: #D21116" ><img src="https://via.placeholder.com/40/D21116/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Doom Death Black</td>
-<td>Wave 1</td>
-<td>60</td>
-<td>57</td>
-<td>54</td>
-<td>#3C3936</td>
-<td style="background-color: #3C3936" ><img src="https://via.placeholder.com/40/3C3936/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dragon Fang</td>
-<td>Wave 1</td>
-<td>158</td>
-<td>132</td>
-<td>97</td>
-<td>#9E8461</td>
-<td style="background-color: #9E8461" ><img src="https://via.placeholder.com/40/9E8461/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dragon's Gold</td>
-<td>Wave 1</td>
-<td>205</td>
-<td>162</td>
-<td>78</td>
-<td>#CDA24E</td>
-<td style="background-color: #CDA24E" ><img src="https://via.placeholder.com/40/CDA24E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dread Red</td>
-<td>Wave 2</td>
-<td>110</td>
-<td>62</td>
-<td>62</td>
-<td>#6E3E3E</td>
-<td style="background-color: #6E3E3E" ><img src="https://via.placeholder.com/40/6E3E3E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Druid Flesh</td>
-<td>Wave 2</td>
-<td>83</td>
-<td>61</td>
-<td>51</td>
-<td>#533D33</td>
-<td style="background-color: #533D33" ><img src="https://via.placeholder.com/40/533D33/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dry Rust Brown</td>
-<td>Wave 2</td>
-<td>186</td>
-<td>119</td>
-<td>63</td>
-<td>#BA773F</td>
-<td style="background-color: #BA773F" ><img src="https://via.placeholder.com/40/BA773F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dungeon Stone Grey</td>
-<td>Wave 1</td>
-<td>92</td>
-<td>94</td>
-<td>95</td>
-<td>#5C5E5F</td>
-<td style="background-color: #5C5E5F" ><img src="https://via.placeholder.com/40/5C5E5F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dust Bowl</td>
-<td>Wave 1</td>
-<td>125</td>
-<td>99</td>
-<td>73</td>
-<td>#7D6349</td>
-<td style="background-color: #7D6349" ><img src="https://via.placeholder.com/40/7D6349/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dwarven Iron</td>
-<td>Wave 2</td>
-<td>137</td>
-<td>136</td>
-<td>132</td>
-<td>#898884</td>
-<td style="background-color: #898884" ><img src="https://via.placeholder.com/40/898884/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Dwarven Skin</td>
-<td>Wave 1</td>
-<td>176</td>
-<td>124</td>
-<td>98</td>
-<td>#B07C62</td>
-<td style="background-color: #B07C62" ><img src="https://via.placeholder.com/40/B07C62/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Eidolon Grey</td>
-<td>Wave 2</td>
-<td>83</td>
-<td>85</td>
-<td>72</td>
-<td>#535548</td>
-<td style="background-color: #535548" ><img src="https://via.placeholder.com/40/535548/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elder Robe</td>
-<td>Wave 3</td>
-<td>34</td>
-<td>89</td>
-<td>160</td>
-<td>#2259A0</td>
-<td style="background-color: #2259A0" ><img src="https://via.placeholder.com/40/2259A0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elixir Green</td>
-<td>Wave 3</td>
-<td>126</td>
-<td>198</td>
-<td>143</td>
-<td>#7EC68F</td>
-<td style="background-color: #7EC68F" ><img src="https://via.placeholder.com/40/7EC68F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elven Skin</td>
-<td>Wave 1</td>
-<td>196</td>
-<td>151</td>
-<td>116</td>
-<td>#C49774</td>
-<td style="background-color: #C49774" ><img src="https://via.placeholder.com/40/C49774/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Elysium Blue</td>
-<td>Wave 1</td>
-<td>81</td>
-<td>121</td>
-<td>171</td>
-<td>#5179AB</td>
-<td style="background-color: #5179AB" ><img src="https://via.placeholder.com/40/5179AB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emperor Red</td>
-<td>Wave 3</td>
-<td>160</td>
-<td>49</td>
-<td>64</td>
-<td>#A03140</td>
-<td style="background-color: #A03140" ><img src="https://via.placeholder.com/40/A03140/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Emperor's Purple</td>
-<td>Wave 3</td>
-<td>122</td>
-<td>96</td>
-<td>137</td>
-<td>#7A6089</td>
-<td style="background-color: #7A6089" ><img src="https://via.placeholder.com/40/7A6089/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Enchantment Blue</td>
-<td>Wave 3</td>
-<td>52</td>
-<td>125</td>
-<td>170</td>
-<td>#347DAA</td>
-<td style="background-color: #347DAA" ><img src="https://via.placeholder.com/40/347DAA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Enchantress Purple</td>
-<td>Wave 3</td>
-<td>89</td>
-<td>54</td>
-<td>98</td>
-<td>#593662</td>
-<td style="background-color: #593662" ><img src="https://via.placeholder.com/40/593662/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Enticing Purple</td>
-<td>Wave 3</td>
-<td>127</td>
-<td>122</td>
-<td>139</td>
-<td>#7F7A8B</td>
-<td style="background-color: #7F7A8B" ><img src="https://via.placeholder.com/40/7F7A8B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ethereal Green</td>
-<td>Wave 1</td>
-<td>86</td>
-<td>127</td>
-<td>45</td>
-<td>#567F2D</td>
-<td style="background-color: #567F2D" ><img src="https://via.placeholder.com/40/567F2D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Evil Eye Red</td>
-<td>Wave 2</td>
-<td>193</td>
-<td>93</td>
-<td>79</td>
-<td>#C15D4F</td>
-<td style="background-color: #C15D4F" ><img src="https://via.placeholder.com/40/C15D4F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fanatic Orange</td>
-<td>Wave 1</td>
-<td>217</td>
-<td>74</td>
-<td>46</td>
-<td>#D94A2E</td>
-<td style="background-color: #D94A2E" ><img src="https://via.placeholder.com/40/D94A2E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Faust Blue</td>
-<td>Wave 3</td>
-<td>69</td>
-<td>81</td>
-<td>91</td>
-<td>#45515B</td>
-<td style="background-color: #45515B" ><img src="https://via.placeholder.com/40/45515B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Field Grey</td>
-<td>Wave 2</td>
-<td>108</td>
-<td>113</td>
-<td>94</td>
-<td>#6C715E</td>
-<td style="background-color: #6C715E" ><img src="https://via.placeholder.com/40/6C715E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fire Opal</td>
-<td>Wave 3</td>
-<td>195</td>
-<td>110</td>
-<td>74</td>
-<td>#C36E4A</td>
-<td style="background-color: #C36E4A" ><img src="https://via.placeholder.com/40/C36E4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flak Gun Yellow</td>
-<td>Wave 3</td>
-<td>197</td>
-<td>170</td>
-<td>90</td>
-<td>#C5AA5A</td>
-<td style="background-color: #C5AA5A" ><img src="https://via.placeholder.com/40/C5AA5A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flaming Forge Orange</td>
-<td>Wave 2</td>
-<td>233</td>
-<td>165</td>
-<td>68</td>
-<td>#E9A544</td>
-<td style="background-color: #E9A544" ><img src="https://via.placeholder.com/40/E9A544/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Flesh Wash</td>
-<td>Wave 1</td>
-<td>196</td>
-<td>166</td>
-<td>120</td>
-<td>#C4A678</td>
-<td style="background-color: #C4A678" ><img src="https://via.placeholder.com/40/C4A678/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Frost Blue</td>
-<td>Wave 3</td>
-<td>120</td>
-<td>150</td>
-<td>157</td>
-<td>#78969D</td>
-<td style="background-color: #78969D" ><img src="https://via.placeholder.com/40/78969D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Fury Green</td>
-<td>Wave 2</td>
-<td>108</td>
-<td>107</td>
-<td>75</td>
-<td>#6C6B4B</td>
-<td style="background-color: #6C6B4B" ><img src="https://via.placeholder.com/40/6C6B4B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ghoul Green</td>
-<td>Wave 2</td>
-<td>82</td>
-<td>189</td>
-<td>151</td>
-<td>#52BD97</td>
-<td style="background-color: #52BD97" ><img src="https://via.placeholder.com/40/52BD97/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gigawatt Blue</td>
-<td>Wave 2</td>
-<td>87</td>
-<td>183</td>
-<td>232</td>
-<td>#57B7E8</td>
-<td style="background-color: #57B7E8" ><img src="https://via.placeholder.com/40/57B7E8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Glistening Gold</td>
-<td>Wave 1</td>
-<td>155</td>
-<td>134</td>
-<td>100</td>
-<td>#9B8664</td>
-<td style="background-color: #9B8664" ><img src="https://via.placeholder.com/40/9B8664/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Glistening Gums</td>
-<td>Wave 1</td>
-<td>153</td>
-<td>87</td>
-<td>121</td>
-<td>#995779</td>
-<td style="background-color: #995779" ><img src="https://via.placeholder.com/40/995779/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gloss Varnish</td>
-<td>Wave 3</td>
-<td>165</td>
-<td>165</td>
-<td>164</td>
-<td>#A5A5A4</td>
-<td style="background-color: #A5A5A4" ><img src="https://via.placeholder.com/40/A5A5A4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Goblinoid Green</td>
-<td>Wave 2</td>
-<td>137</td>
-<td>183</td>
-<td>106</td>
-<td>#89B76A</td>
-<td style="background-color: #89B76A" ><img src="https://via.placeholder.com/40/89B76A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gravestone Blue</td>
-<td>Wave 1</td>
-<td>122</td>
-<td>136</td>
-<td>150</td>
-<td>#7A8896</td>
-<td style="background-color: #7A8896" ><img src="https://via.placeholder.com/40/7A8896/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Beret</td>
-<td>Wave 2</td>
-<td>171</td>
-<td>171</td>
-<td>135</td>
-<td>#ABAB87</td>
-<td style="background-color: #ABAB87" ><img src="https://via.placeholder.com/40/ABAB87/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Green Glaze</td>
-<td>Wave 2</td>
-<td>149</td>
-<td>203</td>
-<td>116</td>
-<td>#95CB74</td>
-<td style="background-color: #95CB74" ><img src="https://via.placeholder.com/40/95CB74/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Griffon Claw</td>
-<td>Wave 1</td>
-<td>158</td>
-<td>144</td>
-<td>132</td>
-<td>#9E9084</td>
-<td style="background-color: #9E9084" ><img src="https://via.placeholder.com/40/9E9084/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gung-ho Green</td>
-<td>Wave 2</td>
-<td>168</td>
-<td>162</td>
-<td>100</td>
-<td>#A8A264</td>
-<td style="background-color: #A8A264" ><img src="https://via.placeholder.com/40/A8A264/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Gyzmo Fur</td>
-<td>Wave 2</td>
-<td>210</td>
-<td>137</td>
-<td>80</td>
-<td>#D28950</td>
-<td style="background-color: #D28950" ><img src="https://via.placeholder.com/40/D28950/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hazard Yellow Wash</td>
-<td>Wave 3</td>
-<td>229</td>
-<td>192</td>
-<td>180</td>
-<td>#E5C0B4</td>
-<td style="background-color: #E5C0B4" ><img src="https://via.placeholder.com/40/E5C0B4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Heirloom Gold</td>
-<td>Wave 3</td>
-<td>198</td>
-<td>156</td>
-<td>83</td>
-<td>#C69C53</td>
-<td style="background-color: #C69C53" ><img src="https://via.placeholder.com/40/C69C53/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Helion Red Wash</td>
-<td>Wave 2</td>
-<td>134</td>
-<td>84</td>
-<td>83</td>
-<td>#865453</td>
-<td style="background-color: #865453" ><img src="https://via.placeholder.com/40/865453/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hellspawn Red</td>
-<td>Wave 2</td>
-<td>190</td>
-<td>57</td>
-<td>46</td>
-<td>#BE392E</td>
-<td style="background-color: #BE392E" ><img src="https://via.placeholder.com/40/BE392E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hot Pink</td>
-<td>Wave 2</td>
-<td>225</td>
-<td>132</td>
-<td>165</td>
-<td>#E184A5</td>
-<td style="background-color: #E184A5" ><img src="https://via.placeholder.com/40/E184A5/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Hydra Green</td>
-<td>Wave 2</td>
-<td>52</td>
-<td>75</td>
-<td>77</td>
-<td>#344B4D</td>
-<td style="background-color: #344B4D" ><img src="https://via.placeholder.com/40/344B4D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Incubus Purple</td>
-<td>Wave 3</td>
-<td>106</td>
-<td>105</td>
-<td>108</td>
-<td>#6A696C</td>
-<td style="background-color: #6A696C" ><img src="https://via.placeholder.com/40/6A696C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Inferno Orange</td>
-<td>Wave 3</td>
-<td>206</td>
-<td>74</td>
-<td>50</td>
-<td>#CE4A32</td>
-<td style="background-color: #CE4A32" ><img src="https://via.placeholder.com/40/CE4A32/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ion Blue</td>
-<td>Wave 3</td>
-<td>183</td>
-<td>213</td>
-<td>216</td>
-<td>#B7D5D8</td>
-<td style="background-color: #B7D5D8" ><img src="https://via.placeholder.com/40/B7D5D8/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ivory Tusk</td>
-<td>Wave 1</td>
-<td>210</td>
-<td>199</td>
-<td>191</td>
-<td>#D2C7BF</td>
-<td style="background-color: #D2C7BF" ><img src="https://via.placeholder.com/40/D2C7BF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Jade Green</td>
-<td>Wave 2</td>
-<td>46</td>
-<td>121</td>
-<td>104</td>
-<td>#2E7968</td>
-<td style="background-color: #2E7968" ><img src="https://via.placeholder.com/40/2E7968/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Keleton Legion</td>
-<td>Wave 1</td>
-<td>175</td>
-<td>150</td>
-<td>108</td>
-<td>#AF966C</td>
-<td style="background-color: #AF966C" ><img src="https://via.placeholder.com/40/AF966C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kobold Grey</td>
-<td>Wave 2</td>
-<td>133</td>
-<td>139</td>
-<td>117</td>
-<td>#858B75</td>
-<td style="background-color: #858B75" ><img src="https://via.placeholder.com/40/858B75/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Kronos Flesh</td>
-<td>Wave 2</td>
-<td>191</td>
-<td>154</td>
-<td>111</td>
-<td>#BF9A6F</td>
-<td style="background-color: #BF9A6F" ><img src="https://via.placeholder.com/40/BF9A6F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Legion Green</td>
-<td>Wave 3</td>
-<td>42</td>
-<td>106</td>
-<td>102</td>
-<td>#2A6A66</td>
-<td style="background-color: #2A6A66" ><img src="https://via.placeholder.com/40/2A6A66/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Leviathan Blue</td>
-<td>Wave 2</td>
-<td>58</td>
-<td>123</td>
-<td>191</td>
-<td>#3A7BBF</td>
-<td style="background-color: #3A7BBF" ><img src="https://via.placeholder.com/40/3A7BBF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Magi Purple Wash</td>
-<td>Wave 2</td>
-<td>79</td>
-<td>51</td>
-<td>80</td>
-<td>#4F3350</td>
-<td style="background-color: #4F3350" ><img src="https://via.placeholder.com/40/4F3350/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Manticore Ochre</td>
-<td>Wave 2</td>
-<td>214</td>
-<td>151</td>
-<td>68</td>
-<td>#D69744</td>
-<td style="background-color: #D69744" ><img src="https://via.placeholder.com/40/D69744/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Marine Blue</td>
-<td>Wave 1</td>
-<td>67</td>
-<td>73</td>
-<td>111</td>
-<td>#43496F</td>
-<td style="background-color: #43496F" ><img src="https://via.placeholder.com/40/43496F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Matt Varnish</td>
-<td>Wave 3</td>
-<td>220</td>
-<td>220</td>
-<td>221</td>
-<td>#DCDCDD</td>
-<td style="background-color: #DCDCDD" ><img src="https://via.placeholder.com/40/DCDCDD/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Merald Green</td>
-<td>Wave 1</td>
-<td>60</td>
-<td>92</td>
-<td>67</td>
-<td>#3C5C43</td>
-<td style="background-color: #3C5C43" ><img src="https://via.placeholder.com/40/3C5C43/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mythic Turquoise</td>
-<td>Wave 3</td>
-<td>89</td>
-<td>158</td>
-<td>156</td>
-<td>#599E9C</td>
-<td style="background-color: #599E9C" ><img src="https://via.placeholder.com/40/599E9C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Mythril Blade</td>
-<td>Wave 1</td>
-<td>125</td>
-<td>127</td>
-<td>127</td>
-<td>#7D7F7F</td>
-<td style="background-color: #7D7F7F" ><img src="https://via.placeholder.com/40/7D7F7F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Necrosis Green Wash</td>
-<td>Wave 1</td>
-<td>123</td>
-<td>138</td>
-<td>105</td>
-<td>#7B8A69</td>
-<td style="background-color: #7B8A69" ><img src="https://via.placeholder.com/40/7B8A69/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Neo Pink</td>
-<td>Wave 2</td>
-<td>243</td>
-<td>188</td>
-<td>215</td>
-<td>#F3BCD7</td>
-<td style="background-color: #F3BCD7" ><img src="https://via.placeholder.com/40/F3BCD7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Noble Steed Brown</td>
-<td>Wave 2</td>
-<td>117</td>
-<td>83</td>
-<td>57</td>
-<td>#755339</td>
-<td style="background-color: #755339" ><img src="https://via.placeholder.com/40/755339/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oblivion Black Wash</td>
-<td>Wave 1</td>
-<td>69</td>
-<td>67</td>
-<td>68</td>
-<td>#454344</td>
-<td style="background-color: #454344" ><img src="https://via.placeholder.com/40/454344/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Omega Blue</td>
-<td>Wave 3</td>
-<td>88</td>
-<td>185</td>
-<td>182</td>
-<td>#58B9B6</td>
-<td style="background-color: #58B9B6" ><img src="https://via.placeholder.com/40/58B9B6/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange Flare</td>
-<td>Wave 1</td>
-<td>235</td>
-<td>113</td>
-<td>64</td>
-<td>#EB7140</td>
-<td style="background-color: #EB7140" ><img src="https://via.placeholder.com/40/EB7140/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orange Glaze</td>
-<td>Wave 2</td>
-<td>248</td>
-<td>159</td>
-<td>91</td>
-<td>#F89F5B</td>
-<td style="background-color: #F89F5B" ><img src="https://via.placeholder.com/40/F89F5B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Orc Hide</td>
-<td>Wave 2</td>
-<td>123</td>
-<td>155</td>
-<td>104</td>
-<td>#7B9B68</td>
-<td style="background-color: #7B9B68" ><img src="https://via.placeholder.com/40/7B9B68/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Overlord Brass</td>
-<td>Wave 2</td>
-<td>214</td>
-<td>175</td>
-<td>131</td>
-<td>#D6AF83</td>
-<td style="background-color: #D6AF83" ><img src="https://via.placeholder.com/40/D6AF83/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Oxidation Green</td>
-<td>Wave 3</td>
-<td>52</td>
-<td>68</td>
-<td>76</td>
-<td>#34444C</td>
-<td style="background-color: #34444C" ><img src="https://via.placeholder.com/40/34444C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Paladin Flesh</td>
-<td>Wave 2</td>
-<td>118</td>
-<td>86</td>
-<td>75</td>
-<td>#76564B</td>
-<td style="background-color: #76564B" ><img src="https://via.placeholder.com/40/76564B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pale Skin</td>
-<td>Wave 3</td>
-<td>202</td>
-<td>170</td>
-<td>122</td>
-<td>#CAAA7A</td>
-<td style="background-color: #CAAA7A" ><img src="https://via.placeholder.com/40/CAAA7A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Panzer Yellow</td>
-<td>Wave 3</td>
-<td>165</td>
-<td>142</td>
-<td>66</td>
-<td>#A58E42</td>
-<td style="background-color: #A58E42" ><img src="https://via.placeholder.com/40/A58E42/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Perisher Pink</td>
-<td>Wave 2</td>
-<td>186</td>
-<td>99</td>
-<td>104</td>
-<td>#BA6368</td>
-<td style="background-color: #BA6368" ><img src="https://via.placeholder.com/40/BA6368/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Pestilence Green</td>
-<td>Wave 3</td>
-<td>211</td>
-<td>223</td>
-<td>149</td>
-<td>#D3DF95</td>
-<td style="background-color: #D3DF95" ><img src="https://via.placeholder.com/40/D3DF95/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Plate Armour</td>
-<td>Wave 1</td>
-<td>120</td>
-<td>121</td>
-<td>121</td>
-<td>#787979</td>
-<td style="background-color: #787979" ><img src="https://via.placeholder.com/40/787979/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Platinum Crown</td>
-<td>Wave 2</td>
-<td>206</td>
-<td>194</td>
-<td>164</td>
-<td>#CEC2A4</td>
-<td style="background-color: #CEC2A4" ><img src="https://via.placeholder.com/40/CEC2A4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Purple Glaze</td>
-<td>Wave 2</td>
-<td>182</td>
-<td>121</td>
-<td>170</td>
-<td>#B679AA</td>
-<td style="background-color: #B679AA" ><img src="https://via.placeholder.com/40/B679AA/000000?text=+" /></td>
-</tr>
-<tr>
-<td>RC Flesh Wash</td>
-<td>Wave 1</td>
-<td>82</td>
-<td>133</td>
-<td>76</td>
-<td>#52854C</td>
-<td style="background-color: #52854C" ><img src="https://via.placeholder.com/40/52854C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ranger Cloak</td>
-<td>Wave 2</td>
-<td>125</td>
-<td>131</td>
-<td>81</td>
-<td>#7D8351</td>
-<td style="background-color: #7D8351" ><img src="https://via.placeholder.com/40/7D8351/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ray Gun Glow</td>
-<td>Wave 2</td>
-<td>71</td>
-<td>176</td>
-<td>194</td>
-<td>#47B0C2</td>
-<td style="background-color: #47B0C2" ><img src="https://via.placeholder.com/40/47B0C2/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Glaze</td>
-<td>Wave 2</td>
-<td>243</td>
-<td>131</td>
-<td>102</td>
-<td>#F38366</td>
-<td style="background-color: #F38366" ><img src="https://via.placeholder.com/40/F38366/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Red Rage</td>
-<td>Wave 3</td>
-<td>106</td>
-<td>52</td>
-<td>42</td>
-<td>#6A342A</td>
-<td style="background-color: #6A342A" ><img src="https://via.placeholder.com/40/6A342A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Relic Blue</td>
-<td>Wave 3</td>
-<td>43</td>
-<td>127</td>
-<td>187</td>
-<td>#2B7FBB</td>
-<td style="background-color: #2B7FBB" ><img src="https://via.placeholder.com/40/2B7FBB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ritz O'Tin</td>
-<td>Wave 3</td>
-<td>150</td>
-<td>130</td>
-<td>115</td>
-<td>#968273</td>
-<td style="background-color: #968273" ><img src="https://via.placeholder.com/40/968273/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rodent Grey</td>
-<td>Wave 2</td>
-<td>112</td>
-<td>114</td>
-<td>99</td>
-<td>#707263</td>
-<td style="background-color: #707263" ><img src="https://via.placeholder.com/40/707263/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Royal Cloak</td>
-<td>Wave 1</td>
-<td>91</td>
-<td>66</td>
-<td>73</td>
-<td>#5B4249</td>
-<td style="background-color: #5B4249" ><img src="https://via.placeholder.com/40/5B4249/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Runic Purple</td>
-<td>Wave 1</td>
-<td>155</td>
-<td>141</td>
-<td>180</td>
-<td>#9B8DB4</td>
-<td style="background-color: #9B8DB4" ><img src="https://via.placeholder.com/40/9B8DB4/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Rust Orange</td>
-<td>Wave 1</td>
-<td>185</td>
-<td>77</td>
-<td>55</td>
-<td>#B94D37</td>
-<td style="background-color: #B94D37" ><img src="https://via.placeholder.com/40/B94D37/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sandstone</td>
-<td>Wave 1</td>
-<td>146</td>
-<td>123</td>
-<td>104</td>
-<td>#927B68</td>
-<td style="background-color: #927B68" ><img src="https://via.placeholder.com/40/927B68/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sanguine Scarlet</td>
-<td>Wave 1</td>
-<td>150</td>
-<td>23</td>
-<td>20</td>
-<td>#961714</td>
-<td style="background-color: #961714" ><img src="https://via.placeholder.com/40/961714/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Satyr Brown</td>
-<td>Wave 2</td>
-<td>213</td>
-<td>150</td>
-<td>87</td>
-<td>#D59657</td>
-<td style="background-color: #D59657" ><img src="https://via.placeholder.com/40/D59657/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Scabbard Brown</td>
-<td>Wave 3</td>
-<td>123</td>
-<td>94</td>
-<td>70</td>
-<td>#7B5E46</td>
-<td style="background-color: #7B5E46" ><img src="https://via.placeholder.com/40/7B5E46/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Scarab Red</td>
-<td>Wave 3</td>
-<td>176</td>
-<td>64</td>
-<td>69</td>
-<td>#B04045</td>
-<td style="background-color: #B04045" ><img src="https://via.placeholder.com/40/B04045/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Scorched Earth</td>
-<td>Wave 1</td>
-<td>89</td>
-<td>76</td>
-<td>72</td>
-<td>#594C48</td>
-<td style="background-color: #594C48" ><img src="https://via.placeholder.com/40/594C48/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Seafarer Blue</td>
-<td>Wave 3</td>
-<td>74</td>
-<td>156</td>
-<td>199</td>
-<td>#4A9CC7</td>
-<td style="background-color: #4A9CC7" ><img src="https://via.placeholder.com/40/4A9CC7/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sentient Turquoise</td>
-<td>Wave 2</td>
-<td>58</td>
-<td>131</td>
-<td>160</td>
-<td>#3A83A0</td>
-<td style="background-color: #3A83A0" ><img src="https://via.placeholder.com/40/3A83A0/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Septric Green</td>
-<td>Wave 3</td>
-<td>171</td>
-<td>179</td>
-<td>55</td>
-<td>#ABB337</td>
-<td style="background-color: #ABB337" ><img src="https://via.placeholder.com/40/ABB337/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Serpent Eye Yellow</td>
-<td>Wave 3</td>
-<td>245</td>
-<td>209</td>
-<td>13</td>
-<td>#F5D10D</td>
-<td style="background-color: #F5D10D" ><img src="https://via.placeholder.com/40/F5D10D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Shadow Blue</td>
-<td>Wave 3</td>
-<td>79</td>
-<td>100</td>
-<td>107</td>
-<td>#4F646B</td>
-<td style="background-color: #4F646B" ><img src="https://via.placeholder.com/40/4F646B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sir Coates Silver</td>
-<td>Wave 1</td>
-<td>77</td>
-<td>79</td>
-<td>79</td>
-<td>#4D4F4F</td>
-<td style="background-color: #4D4F4F" ><img src="https://via.placeholder.com/40/4D4F4F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Skulker Yellow</td>
-<td>Wave 1</td>
-<td>244</td>
-<td>158</td>
-<td>0</td>
-<td>#F49E00</td>
-<td style="background-color: #F49E00" ><img src="https://via.placeholder.com/40/F49E00/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Smoke Grey Wash</td>
-<td>Wave 3</td>
-<td>251</td>
-<td>252</td>
-<td>251</td>
-<td>#FBFCFB</td>
-<td style="background-color: #FBFCFB" ><img src="https://via.placeholder.com/40/FBFCFB/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Solar Flare</td>
-<td>Wave 3</td>
-<td>238</td>
-<td>127</td>
-<td>33</td>
-<td>#EE7F21</td>
-<td style="background-color: #EE7F21" ><img src="https://via.placeholder.com/40/EE7F21/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sorceror's Cloak</td>
-<td>Wave 1</td>
-<td>120</td>
-<td>88</td>
-<td>141</td>
-<td>#78588D</td>
-<td style="background-color: #78588D" ><img src="https://via.placeholder.com/40/78588D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Spartan Bronze</td>
-<td>Wave 1</td>
-<td>100</td>
-<td>69</td>
-<td>52</td>
-<td>#644534</td>
-<td style="background-color: #644534" ><img src="https://via.placeholder.com/40/644534/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Spectral Purple</td>
-<td>Wave 3</td>
-<td>153</td>
-<td>90</td>
-<td>154</td>
-<td>#995A9A</td>
-<td style="background-color: #995A9A" ><img src="https://via.placeholder.com/40/995A9A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Steampunk Copper</td>
-<td>Wave 2</td>
-<td>181</td>
-<td>98</td>
-<td>60</td>
-<td>#B5623C</td>
-<td style="background-color: #B5623C" ><img src="https://via.placeholder.com/40/B5623C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sun Bleach Yellow</td>
-<td>Wave 3</td>
-<td>245</td>
-<td>227</td>
-<td>80</td>
-<td>#F5E350</td>
-<td style="background-color: #F5E350" ><img src="https://via.placeholder.com/40/F5E350/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Sword Hilt Burgundy</td>
-<td>Wave 1</td>
-<td>119</td>
-<td>61</td>
-<td>74</td>
-<td>#773D4A</td>
-<td style="background-color: #773D4A" ><img src="https://via.placeholder.com/40/773D4A/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Talisman Green</td>
-<td>Wave 2</td>
-<td>121</td>
-<td>192</td>
-<td>66</td>
-<td>#79C042</td>
-<td style="background-color: #79C042" ><img src="https://via.placeholder.com/40/79C042/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Tempest Blue Wash</td>
-<td>Wave 2</td>
-<td>62</td>
-<td>81</td>
-<td>101</td>
-<td>#3E5165</td>
-<td style="background-color: #3E5165" ><img src="https://via.placeholder.com/40/3E5165/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Temple Stone</td>
-<td>Wave 1</td>
-<td>163</td>
-<td>145</td>
-<td>121</td>
-<td>#A39179</td>
-<td style="background-color: #A39179" ><img src="https://via.placeholder.com/40/A39179/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Top Brass</td>
-<td>Wave 2</td>
-<td>181</td>
-<td>145</td>
-<td>85</td>
-<td>#B59155</td>
-<td style="background-color: #B59155" ><img src="https://via.placeholder.com/40/B59155/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Traitor Green</td>
-<td>Wave 3</td>
-<td>47</td>
-<td>83</td>
-<td>79</td>
-<td>#2F534F</td>
-<td style="background-color: #2F534F" ><img src="https://via.placeholder.com/40/2F534F/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Troll Snot Green</td>
-<td>Wave 2</td>
-<td>156</td>
-<td>197</td>
-<td>117</td>
-<td>#9CC575</td>
-<td style="background-color: #9CC575" ><img src="https://via.placeholder.com/40/9CC575/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Trooper White</td>
-<td>Wave 1</td>
-<td>236</td>
-<td>234</td>
-<td>223</td>
-<td>#ECEADF</td>
-<td style="background-color: #ECEADF" ><img src="https://via.placeholder.com/40/ECEADF/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Twin Suns Yellow</td>
-<td>Wave 3</td>
-<td>229</td>
-<td>230</td>
-<td>172</td>
-<td>#E5E6AC</td>
-<td style="background-color: #E5E6AC" ><img src="https://via.placeholder.com/40/E5E6AC/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Ur Cloak</td>
-<td>Wave 1</td>
-<td>145</td>
-<td>82</td>
-<td>77</td>
-<td>#91524D</td>
-<td style="background-color: #91524D" ><img src="https://via.placeholder.com/40/91524D/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vambrace Brown</td>
-<td>Wave 3</td>
-<td>156</td>
-<td>116</td>
-<td>92</td>
-<td>#9C745C</td>
-<td style="background-color: #9C745C" ><img src="https://via.placeholder.com/40/9C745C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Vampire Fang</td>
-<td>Wave 1</td>
-<td>203</td>
-<td>184</td>
-<td>155</td>
-<td>#CBB89B</td>
-<td style="background-color: #CBB89B" ><img src="https://via.placeholder.com/40/CBB89B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Von Evile Pimple</td>
-<td>Wave 3</td>
-<td>34</td>
-<td>1</td>
-<td>46</td>
-<td>#22012E</td>
-<td style="background-color: #22012E" ><img src="https://via.placeholder.com/40/22012E/000000?text=+" /></td>
-</tr>
-<tr>
-<td>War Master Green</td>
-<td>Wave 3</td>
-<td>58</td>
-<td>65</td>
-<td>64</td>
-<td>#3A4140</td>
-<td style="background-color: #3A4140" ><img src="https://via.placeholder.com/40/3A4140/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wasteland Brown</td>
-<td>Wave 1</td>
-<td>133</td>
-<td>108</td>
-<td>92</td>
-<td>#856C5C</td>
-<td style="background-color: #856C5C" ><img src="https://via.placeholder.com/40/856C5C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>White Star</td>
-<td>Wave 1</td>
-<td>249</td>
-<td>249</td>
-<td>249</td>
-<td>#F9F9F9</td>
-<td style="background-color: #F9F9F9" ><img src="https://via.placeholder.com/40/F9F9F9/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Witching Hour Blue</td>
-<td>Wave 2</td>
-<td>50</td>
-<td>106</td>
-<td>179</td>
-<td>#326AB3</td>
-<td style="background-color: #326AB3" ><img src="https://via.placeholder.com/40/326AB3/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wizard Grey</td>
-<td>Wave 1</td>
-<td>109</td>
-<td>107</td>
-<td>108</td>
-<td>#6D6B6C</td>
-<td style="background-color: #6D6B6C" ><img src="https://via.placeholder.com/40/6D6B6C/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wolf Grey</td>
-<td>Wave 1</td>
-<td>98</td>
-<td>117</td>
-<td>135</td>
-<td>#627587</td>
-<td style="background-color: #627587" ><img src="https://via.placeholder.com/40/627587/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Wyvern Green</td>
-<td>Wave 1</td>
-<td>64</td>
-<td>73</td>
-<td>66</td>
-<td>#404942</td>
-<td style="background-color: #404942" ><img src="https://via.placeholder.com/40/404942/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Flame</td>
-<td>Wave 1</td>
-<td>248</td>
-<td>175</td>
-<td>43</td>
-<td>#F8AF2B</td>
-<td style="background-color: #F8AF2B" ><img src="https://via.placeholder.com/40/F8AF2B/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Yellow Glaze</td>
-<td>Wave 2</td>
-<td>242</td>
-<td>240</td>
-<td>117</td>
-<td>#F2F075</td>
-<td style="background-color: #F2F075" ><img src="https://via.placeholder.com/40/F2F075/000000?text=+" /></td>
-</tr>
-<tr>
-<td>Zombie Rot</td>
-<td>Wave 3</td>
-<td>177</td>
-<td>182</td>
-<td>121</td>
-<td>#B1B679</td>
-<td style="background-color: #B1B679" ><img src="https://via.placeholder.com/40/B1B679/000000?text=+" /></td>
-</tr>
-<tr>
-</tbody>
-</table>
+![Duncan](../logos/Duncan.png "Duncan")
+
+|Name|Set|R|G|B|Hex|
+|---|---|---|---|---|---|
+|Abyss Blue|Wave 2|51|74|102|![#334A66](https://placehold.co/15x15/334A66/334A66.png) `#334A66`|
+|Ambush Yellow|Wave 3|227|204|115|![#E3CC73](https://placehold.co/15x15/E3CC73/E3CC73.png) `#E3CC73`|
+|Amethyst Rayne|Wave 1|82|65|105|![#524169](https://placehold.co/15x15/524169/524169.png) `#524169`|
+|Amphora Red|Wave 3|72|33|36|![#482124](https://placehold.co/15x15/482124/482124.png) `#482124`|
+|Amulet Purple|Wave 2|190|172|210|![#BEACD2](https://placehold.co/15x15/BEACD2/BEACD2.png) `#BEACD2`|
+|Ancient Forest|Wave 1|113|91|82|![#715B52](https://placehold.co/15x15/715B52/715B52.png) `#715B52`|
+|Ancient Gold|Wave 3|119|103|66|![#776742](https://placehold.co/15x15/776742/776742.png) `#776742`|
+|Antiquity Green|Wave 3|54|125|122|![#367D7A](https://placehold.co/15x15/367D7A/367D7A.png) `#367D7A`|
+|Apocalypse Sky|Wave 3|227|78|63|![#E34E3F](https://placehold.co/15x15/E34E3F/E34E3F.png) `#E34E3F`|
+|Archaic Sepia Wash|Wave 1|164|135|115|![#A48773](https://placehold.co/15x15/A48773/A48773.png) `#A48773`|
+|Ares Flesh|Wave 2|222|194|135|![#DEC287](https://placehold.co/15x15/DEC287/DEC287.png) `#DEC287`|
+|Argonaut Skin|Wave 2|167|142|108|![#A78E6C](https://placehold.co/15x15/A78E6C/A78E6C.png) `#A78E6C`|
+|Ashen Grey|Wave 2|78|82|72|![#4E5248](https://placehold.co/15x15/4E5248/4E5248.png) `#4E5248`|
+|Asmodeus Red|Wave 2|142|72|71|![#8E4847](https://placehold.co/15x15/8E4847/8E4847.png) `#8E4847`|
+|Aztec Turquoise Wash|Wave 3|147|158|160|![#939EA0](https://placehold.co/15x15/939EA0/939EA0.png) `#939EA0`|
+|Barbarian Brawn|Wave 1|143|94|84|![#8F5E54](https://placehold.co/15x15/8F5E54/8F5E54.png) `#8F5E54`|
+|Bard Skin|Wave 2|149|111|97|![#956F61](https://placehold.co/15x15/956F61/956F61.png) `#956F61`|
+|Batle Axe Brass|Wave 2|212|169|125|![#D4A97D](https://placehold.co/15x15/D4A97D/D4A97D.png) `#D4A97D`|
+|Battle Mud Wash|Wave 1|121|106|93|![#796A5D](https://placehold.co/15x15/796A5D/796A5D.png) `#796A5D`|
+|Berserker Red|Wave 1|77|26|21|![#4D1A15](https://placehold.co/15x15/4D1A15/4D1A15.png) `#4D1A15`|
+|Blue Glaze|Wave 2|90|121|188|![#5A79BC](https://placehold.co/15x15/5A79BC/5A79BC.png) `#5A79BC`|
+|Blue Steel|Wave 3|127|140|139|![#7F8C8B](https://placehold.co/15x15/7F8C8B/7F8C8B.png) `#7F8C8B`|
+|Boar Hide|Wave 1|114|68|56|![#724438](https://placehold.co/15x15/724438/724438.png) `#724438`|
+|Bone Wash|Wave 3|182|168|169|![#B6A8A9](https://placehold.co/15x15/B6A8A9/B6A8A9.png) `#B6A8A9`|
+|Boot Strap Brown|Wave 3|142|103|75|![#8E674B](https://placehold.co/15x15/8E674B/8E674B.png) `#8E674B`|
+|Carapace Green|Wave 3|79|149|90|![#4F955A](https://placehold.co/15x15/4F955A/4F955A.png) `#4F955A`|
+|Carcharodon Grey|Wave 1|149|148|150|![#959496](https://placehold.co/15x15/959496/959496.png) `#959496`|
+|Celestial Blue|Wave 1|105|145|192|![#6991C0](https://placehold.co/15x15/6991C0/6991C0.png) `#6991C0`|
+|Centurion Red|Wave 3|230|49|50|![#E63132](https://placehold.co/15x15/E63132/E63132.png) `#E63132`|
+|Cerberus Brown|Wave 2|223|173|88|![#DFAD58](https://placehold.co/15x15/DFAD58/DFAD58.png) `#DFAD58`|
+|Chaos Bronze|Wave 3|166|139|109|![#A68B6D](https://placehold.co/15x15/A68B6D/A68B6D.png) `#A68B6D`|
+|Cold Corpse Blue|Wave 1|80|85|92|![#50555C](https://placehold.co/15x15/50555C/50555C.png) `#50555C`|
+|Contagion Green|Wave 3|139|158|123|![#8B9E7B](https://placehold.co/15x15/8B9E7B/8B9E7B.png) `#8B9E7B`|
+|Craven Yellow|Wave 2|236|235|105|![#ECEB69](https://placehold.co/15x15/ECEB69/ECEB69.png) `#ECEB69`|
+|Cuirass Leather|Wave 1|81|66|57|![#514239](https://placehold.co/15x15/514239/514239.png) `#514239`|
+|Cursed Blue|Wave 2|65|153|179|![#4199B3](https://placehold.co/15x15/4199B3/4199B3.png) `#4199B3`|
+|Cyber Pink|Wave 3|198|75|138|![#C64B8A](https://placehold.co/15x15/C64B8A/C64B8A.png) `#C64B8A`|
+|Dark Sun Yellow|Wave 1|195|134|57|![#C38639](https://placehold.co/15x15/C38639/C38639.png) `#C38639`|
+|Death Metal|Wave 3|105|101|93|![#69655D](https://placehold.co/15x15/69655D/69655D.png) `#69655D`|
+|Death Reaper|Wave 1|67|65|66|![#434142](https://placehold.co/15x15/434142/434142.png) `#434142`|
+|Decadent Purple|Wave 3|193|190|211|![#C1BED3](https://placehold.co/15x15/C1BED3/C1BED3.png) `#C1BED3`|
+|Demon Red|Wave 1|210|17|22|![#D21116](https://placehold.co/15x15/D21116/D21116.png) `#D21116`|
+|Doom Death Black|Wave 1|60|57|54|![#3C3936](https://placehold.co/15x15/3C3936/3C3936.png) `#3C3936`|
+|Dragon Fang|Wave 1|158|132|97|![#9E8461](https://placehold.co/15x15/9E8461/9E8461.png) `#9E8461`|
+|Dragon's Gold|Wave 1|205|162|78|![#CDA24E](https://placehold.co/15x15/CDA24E/CDA24E.png) `#CDA24E`|
+|Dread Red|Wave 2|110|62|62|![#6E3E3E](https://placehold.co/15x15/6E3E3E/6E3E3E.png) `#6E3E3E`|
+|Druid Flesh|Wave 2|83|61|51|![#533D33](https://placehold.co/15x15/533D33/533D33.png) `#533D33`|
+|Dry Rust Brown|Wave 2|186|119|63|![#BA773F](https://placehold.co/15x15/BA773F/BA773F.png) `#BA773F`|
+|Dungeon Stone Grey|Wave 1|92|94|95|![#5C5E5F](https://placehold.co/15x15/5C5E5F/5C5E5F.png) `#5C5E5F`|
+|Dust Bowl|Wave 1|125|99|73|![#7D6349](https://placehold.co/15x15/7D6349/7D6349.png) `#7D6349`|
+|Dwarven Iron|Wave 2|137|136|132|![#898884](https://placehold.co/15x15/898884/898884.png) `#898884`|
+|Dwarven Skin|Wave 1|176|124|98|![#B07C62](https://placehold.co/15x15/B07C62/B07C62.png) `#B07C62`|
+|Eidolon Grey|Wave 2|83|85|72|![#535548](https://placehold.co/15x15/535548/535548.png) `#535548`|
+|Elder Robe|Wave 3|34|89|160|![#2259A0](https://placehold.co/15x15/2259A0/2259A0.png) `#2259A0`|
+|Elixir Green|Wave 3|126|198|143|![#7EC68F](https://placehold.co/15x15/7EC68F/7EC68F.png) `#7EC68F`|
+|Elven Skin|Wave 1|196|151|116|![#C49774](https://placehold.co/15x15/C49774/C49774.png) `#C49774`|
+|Elysium Blue|Wave 1|81|121|171|![#5179AB](https://placehold.co/15x15/5179AB/5179AB.png) `#5179AB`|
+|Emperor Red|Wave 3|160|49|64|![#A03140](https://placehold.co/15x15/A03140/A03140.png) `#A03140`|
+|Emperor's Purple|Wave 3|122|96|137|![#7A6089](https://placehold.co/15x15/7A6089/7A6089.png) `#7A6089`|
+|Enchantment Blue|Wave 3|52|125|170|![#347DAA](https://placehold.co/15x15/347DAA/347DAA.png) `#347DAA`|
+|Enchantress Purple|Wave 3|89|54|98|![#593662](https://placehold.co/15x15/593662/593662.png) `#593662`|
+|Enticing Purple|Wave 3|127|122|139|![#7F7A8B](https://placehold.co/15x15/7F7A8B/7F7A8B.png) `#7F7A8B`|
+|Ethereal Green|Wave 1|86|127|45|![#567F2D](https://placehold.co/15x15/567F2D/567F2D.png) `#567F2D`|
+|Evil Eye Red|Wave 2|193|93|79|![#C15D4F](https://placehold.co/15x15/C15D4F/C15D4F.png) `#C15D4F`|
+|Fanatic Orange|Wave 1|217|74|46|![#D94A2E](https://placehold.co/15x15/D94A2E/D94A2E.png) `#D94A2E`|
+|Faust Blue|Wave 3|69|81|91|![#45515B](https://placehold.co/15x15/45515B/45515B.png) `#45515B`|
+|Field Grey|Wave 2|108|113|94|![#6C715E](https://placehold.co/15x15/6C715E/6C715E.png) `#6C715E`|
+|Fire Opal|Wave 3|195|110|74|![#C36E4A](https://placehold.co/15x15/C36E4A/C36E4A.png) `#C36E4A`|
+|Flak Gun Yellow|Wave 3|197|170|90|![#C5AA5A](https://placehold.co/15x15/C5AA5A/C5AA5A.png) `#C5AA5A`|
+|Flaming Forge Orange|Wave 2|233|165|68|![#E9A544](https://placehold.co/15x15/E9A544/E9A544.png) `#E9A544`|
+|Flesh Wash|Wave 1|196|166|120|![#C4A678](https://placehold.co/15x15/C4A678/C4A678.png) `#C4A678`|
+|Frost Blue|Wave 3|120|150|157|![#78969D](https://placehold.co/15x15/78969D/78969D.png) `#78969D`|
+|Fury Green|Wave 2|108|107|75|![#6C6B4B](https://placehold.co/15x15/6C6B4B/6C6B4B.png) `#6C6B4B`|
+|Ghoul Green|Wave 2|82|189|151|![#52BD97](https://placehold.co/15x15/52BD97/52BD97.png) `#52BD97`|
+|Gigawatt Blue|Wave 2|87|183|232|![#57B7E8](https://placehold.co/15x15/57B7E8/57B7E8.png) `#57B7E8`|
+|Glistening Gold|Wave 1|155|134|100|![#9B8664](https://placehold.co/15x15/9B8664/9B8664.png) `#9B8664`|
+|Glistening Gums|Wave 1|153|87|121|![#995779](https://placehold.co/15x15/995779/995779.png) `#995779`|
+|Gloss Varnish|Wave 3|165|165|164|![#A5A5A4](https://placehold.co/15x15/A5A5A4/A5A5A4.png) `#A5A5A4`|
+|Goblinoid Green|Wave 2|137|183|106|![#89B76A](https://placehold.co/15x15/89B76A/89B76A.png) `#89B76A`|
+|Gravestone Blue|Wave 1|122|136|150|![#7A8896](https://placehold.co/15x15/7A8896/7A8896.png) `#7A8896`|
+|Green Beret|Wave 2|171|171|135|![#ABAB87](https://placehold.co/15x15/ABAB87/ABAB87.png) `#ABAB87`|
+|Green Glaze|Wave 2|149|203|116|![#95CB74](https://placehold.co/15x15/95CB74/95CB74.png) `#95CB74`|
+|Griffon Claw|Wave 1|158|144|132|![#9E9084](https://placehold.co/15x15/9E9084/9E9084.png) `#9E9084`|
+|Gung-ho Green|Wave 2|168|162|100|![#A8A264](https://placehold.co/15x15/A8A264/A8A264.png) `#A8A264`|
+|Gyzmo Fur|Wave 2|210|137|80|![#D28950](https://placehold.co/15x15/D28950/D28950.png) `#D28950`|
+|Hazard Yellow Wash|Wave 3|229|192|180|![#E5C0B4](https://placehold.co/15x15/E5C0B4/E5C0B4.png) `#E5C0B4`|
+|Heirloom Gold|Wave 3|198|156|83|![#C69C53](https://placehold.co/15x15/C69C53/C69C53.png) `#C69C53`|
+|Helion Red Wash|Wave 2|134|84|83|![#865453](https://placehold.co/15x15/865453/865453.png) `#865453`|
+|Hellspawn Red|Wave 2|190|57|46|![#BE392E](https://placehold.co/15x15/BE392E/BE392E.png) `#BE392E`|
+|Hot Pink|Wave 2|225|132|165|![#E184A5](https://placehold.co/15x15/E184A5/E184A5.png) `#E184A5`|
+|Hydra Green|Wave 2|52|75|77|![#344B4D](https://placehold.co/15x15/344B4D/344B4D.png) `#344B4D`|
+|Incubus Purple|Wave 3|106|105|108|![#6A696C](https://placehold.co/15x15/6A696C/6A696C.png) `#6A696C`|
+|Inferno Orange|Wave 3|206|74|50|![#CE4A32](https://placehold.co/15x15/CE4A32/CE4A32.png) `#CE4A32`|
+|Ion Blue|Wave 3|183|213|216|![#B7D5D8](https://placehold.co/15x15/B7D5D8/B7D5D8.png) `#B7D5D8`|
+|Ivory Tusk|Wave 1|210|199|191|![#D2C7BF](https://placehold.co/15x15/D2C7BF/D2C7BF.png) `#D2C7BF`|
+|Jade Green|Wave 2|46|121|104|![#2E7968](https://placehold.co/15x15/2E7968/2E7968.png) `#2E7968`|
+|Keleton Legion|Wave 1|175|150|108|![#AF966C](https://placehold.co/15x15/AF966C/AF966C.png) `#AF966C`|
+|Kobold Grey|Wave 2|133|139|117|![#858B75](https://placehold.co/15x15/858B75/858B75.png) `#858B75`|
+|Kronos Flesh|Wave 2|191|154|111|![#BF9A6F](https://placehold.co/15x15/BF9A6F/BF9A6F.png) `#BF9A6F`|
+|Legion Green|Wave 3|42|106|102|![#2A6A66](https://placehold.co/15x15/2A6A66/2A6A66.png) `#2A6A66`|
+|Leviathan Blue|Wave 2|58|123|191|![#3A7BBF](https://placehold.co/15x15/3A7BBF/3A7BBF.png) `#3A7BBF`|
+|Magi Purple Wash|Wave 2|79|51|80|![#4F3350](https://placehold.co/15x15/4F3350/4F3350.png) `#4F3350`|
+|Manticore Ochre|Wave 2|214|151|68|![#D69744](https://placehold.co/15x15/D69744/D69744.png) `#D69744`|
+|Marine Blue|Wave 1|67|73|111|![#43496F](https://placehold.co/15x15/43496F/43496F.png) `#43496F`|
+|Matt Varnish|Wave 3|220|220|221|![#DCDCDD](https://placehold.co/15x15/DCDCDD/DCDCDD.png) `#DCDCDD`|
+|Merald Green|Wave 1|60|92|67|![#3C5C43](https://placehold.co/15x15/3C5C43/3C5C43.png) `#3C5C43`|
+|Mythic Turquoise|Wave 3|89|158|156|![#599E9C](https://placehold.co/15x15/599E9C/599E9C.png) `#599E9C`|
+|Mythril Blade|Wave 1|125|127|127|![#7D7F7F](https://placehold.co/15x15/7D7F7F/7D7F7F.png) `#7D7F7F`|
+|Necrosis Green Wash|Wave 1|123|138|105|![#7B8A69](https://placehold.co/15x15/7B8A69/7B8A69.png) `#7B8A69`|
+|Neo Pink|Wave 2|243|188|215|![#F3BCD7](https://placehold.co/15x15/F3BCD7/F3BCD7.png) `#F3BCD7`|
+|Noble Steed Brown|Wave 2|117|83|57|![#755339](https://placehold.co/15x15/755339/755339.png) `#755339`|
+|Oblivion Black Wash|Wave 1|69|67|68|![#454344](https://placehold.co/15x15/454344/454344.png) `#454344`|
+|Omega Blue|Wave 3|88|185|182|![#58B9B6](https://placehold.co/15x15/58B9B6/58B9B6.png) `#58B9B6`|
+|Orange Flare|Wave 1|235|113|64|![#EB7140](https://placehold.co/15x15/EB7140/EB7140.png) `#EB7140`|
+|Orange Glaze|Wave 2|248|159|91|![#F89F5B](https://placehold.co/15x15/F89F5B/F89F5B.png) `#F89F5B`|
+|Orc Hide|Wave 2|123|155|104|![#7B9B68](https://placehold.co/15x15/7B9B68/7B9B68.png) `#7B9B68`|
+|Overlord Brass|Wave 2|214|175|131|![#D6AF83](https://placehold.co/15x15/D6AF83/D6AF83.png) `#D6AF83`|
+|Oxidation Green|Wave 3|52|68|76|![#34444C](https://placehold.co/15x15/34444C/34444C.png) `#34444C`|
+|Paladin Flesh|Wave 2|118|86|75|![#76564B](https://placehold.co/15x15/76564B/76564B.png) `#76564B`|
+|Pale Skin|Wave 3|202|170|122|![#CAAA7A](https://placehold.co/15x15/CAAA7A/CAAA7A.png) `#CAAA7A`|
+|Panzer Yellow|Wave 3|165|142|66|![#A58E42](https://placehold.co/15x15/A58E42/A58E42.png) `#A58E42`|
+|Perisher Pink|Wave 2|186|99|104|![#BA6368](https://placehold.co/15x15/BA6368/BA6368.png) `#BA6368`|
+|Pestilence Green|Wave 3|211|223|149|![#D3DF95](https://placehold.co/15x15/D3DF95/D3DF95.png) `#D3DF95`|
+|Plate Armour|Wave 1|120|121|121|![#787979](https://placehold.co/15x15/787979/787979.png) `#787979`|
+|Platinum Crown|Wave 2|206|194|164|![#CEC2A4](https://placehold.co/15x15/CEC2A4/CEC2A4.png) `#CEC2A4`|
+|Purple Glaze|Wave 2|182|121|170|![#B679AA](https://placehold.co/15x15/B679AA/B679AA.png) `#B679AA`|
+|RC Flesh Wash|Wave 1|82|133|76|![#52854C](https://placehold.co/15x15/52854C/52854C.png) `#52854C`|
+|Ranger Cloak|Wave 2|125|131|81|![#7D8351](https://placehold.co/15x15/7D8351/7D8351.png) `#7D8351`|
+|Ray Gun Glow|Wave 2|71|176|194|![#47B0C2](https://placehold.co/15x15/47B0C2/47B0C2.png) `#47B0C2`|
+|Red Glaze|Wave 2|243|131|102|![#F38366](https://placehold.co/15x15/F38366/F38366.png) `#F38366`|
+|Red Rage|Wave 3|106|52|42|![#6A342A](https://placehold.co/15x15/6A342A/6A342A.png) `#6A342A`|
+|Relic Blue|Wave 3|43|127|187|![#2B7FBB](https://placehold.co/15x15/2B7FBB/2B7FBB.png) `#2B7FBB`|
+|Ritz O'Tin|Wave 3|150|130|115|![#968273](https://placehold.co/15x15/968273/968273.png) `#968273`|
+|Rodent Grey|Wave 2|112|114|99|![#707263](https://placehold.co/15x15/707263/707263.png) `#707263`|
+|Royal Cloak|Wave 1|91|66|73|![#5B4249](https://placehold.co/15x15/5B4249/5B4249.png) `#5B4249`|
+|Runic Purple|Wave 1|155|141|180|![#9B8DB4](https://placehold.co/15x15/9B8DB4/9B8DB4.png) `#9B8DB4`|
+|Rust Orange|Wave 1|185|77|55|![#B94D37](https://placehold.co/15x15/B94D37/B94D37.png) `#B94D37`|
+|Sandstone|Wave 1|146|123|104|![#927B68](https://placehold.co/15x15/927B68/927B68.png) `#927B68`|
+|Sanguine Scarlet|Wave 1|150|23|20|![#961714](https://placehold.co/15x15/961714/961714.png) `#961714`|
+|Satyr Brown|Wave 2|213|150|87|![#D59657](https://placehold.co/15x15/D59657/D59657.png) `#D59657`|
+|Scabbard Brown|Wave 3|123|94|70|![#7B5E46](https://placehold.co/15x15/7B5E46/7B5E46.png) `#7B5E46`|
+|Scarab Red|Wave 3|176|64|69|![#B04045](https://placehold.co/15x15/B04045/B04045.png) `#B04045`|
+|Scorched Earth|Wave 1|89|76|72|![#594C48](https://placehold.co/15x15/594C48/594C48.png) `#594C48`|
+|Seafarer Blue|Wave 3|74|156|199|![#4A9CC7](https://placehold.co/15x15/4A9CC7/4A9CC7.png) `#4A9CC7`|
+|Sentient Turquoise|Wave 2|58|131|160|![#3A83A0](https://placehold.co/15x15/3A83A0/3A83A0.png) `#3A83A0`|
+|Septric Green|Wave 3|171|179|55|![#ABB337](https://placehold.co/15x15/ABB337/ABB337.png) `#ABB337`|
+|Serpent Eye Yellow|Wave 3|245|209|13|![#F5D10D](https://placehold.co/15x15/F5D10D/F5D10D.png) `#F5D10D`|
+|Shadow Blue|Wave 3|79|100|107|![#4F646B](https://placehold.co/15x15/4F646B/4F646B.png) `#4F646B`|
+|Sir Coates Silver|Wave 1|77|79|79|![#4D4F4F](https://placehold.co/15x15/4D4F4F/4D4F4F.png) `#4D4F4F`|
+|Skulker Yellow|Wave 1|244|158|0|![#F49E00](https://placehold.co/15x15/F49E00/F49E00.png) `#F49E00`|
+|Smoke Grey Wash|Wave 3|251|252|251|![#FBFCFB](https://placehold.co/15x15/FBFCFB/FBFCFB.png) `#FBFCFB`|
+|Solar Flare|Wave 3|238|127|33|![#EE7F21](https://placehold.co/15x15/EE7F21/EE7F21.png) `#EE7F21`|
+|Sorceror's Cloak|Wave 1|120|88|141|![#78588D](https://placehold.co/15x15/78588D/78588D.png) `#78588D`|
+|Spartan Bronze|Wave 1|100|69|52|![#644534](https://placehold.co/15x15/644534/644534.png) `#644534`|
+|Spectral Purple|Wave 3|153|90|154|![#995A9A](https://placehold.co/15x15/995A9A/995A9A.png) `#995A9A`|
+|Steampunk Copper|Wave 2|181|98|60|![#B5623C](https://placehold.co/15x15/B5623C/B5623C.png) `#B5623C`|
+|Sun Bleach Yellow|Wave 3|245|227|80|![#F5E350](https://placehold.co/15x15/F5E350/F5E350.png) `#F5E350`|
+|Sword Hilt Burgundy|Wave 1|119|61|74|![#773D4A](https://placehold.co/15x15/773D4A/773D4A.png) `#773D4A`|
+|Talisman Green|Wave 2|121|192|66|![#79C042](https://placehold.co/15x15/79C042/79C042.png) `#79C042`|
+|Tempest Blue Wash|Wave 2|62|81|101|![#3E5165](https://placehold.co/15x15/3E5165/3E5165.png) `#3E5165`|
+|Temple Stone|Wave 1|163|145|121|![#A39179](https://placehold.co/15x15/A39179/A39179.png) `#A39179`|
+|Top Brass|Wave 2|181|145|85|![#B59155](https://placehold.co/15x15/B59155/B59155.png) `#B59155`|
+|Traitor Green|Wave 3|47|83|79|![#2F534F](https://placehold.co/15x15/2F534F/2F534F.png) `#2F534F`|
+|Troll Snot Green|Wave 2|156|197|117|![#9CC575](https://placehold.co/15x15/9CC575/9CC575.png) `#9CC575`|
+|Trooper White|Wave 1|236|234|223|![#ECEADF](https://placehold.co/15x15/ECEADF/ECEADF.png) `#ECEADF`|
+|Twin Suns Yellow|Wave 3|229|230|172|![#E5E6AC](https://placehold.co/15x15/E5E6AC/E5E6AC.png) `#E5E6AC`|
+|Ur Cloak|Wave 1|145|82|77|![#91524D](https://placehold.co/15x15/91524D/91524D.png) `#91524D`|
+|Vambrace Brown|Wave 3|156|116|92|![#9C745C](https://placehold.co/15x15/9C745C/9C745C.png) `#9C745C`|
+|Vampire Fang|Wave 1|203|184|155|![#CBB89B](https://placehold.co/15x15/CBB89B/CBB89B.png) `#CBB89B`|
+|Von Evile Pimple|Wave 3|34|1|46|![#22012E](https://placehold.co/15x15/22012E/22012E.png) `#22012E`|
+|War Master Green|Wave 3|58|65|64|![#3A4140](https://placehold.co/15x15/3A4140/3A4140.png) `#3A4140`|
+|Wasteland Brown|Wave 1|133|108|92|![#856C5C](https://placehold.co/15x15/856C5C/856C5C.png) `#856C5C`|
+|White Star|Wave 1|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|
+|Witching Hour Blue|Wave 2|50|106|179|![#326AB3](https://placehold.co/15x15/326AB3/326AB3.png) `#326AB3`|
+|Wizard Grey|Wave 1|109|107|108|![#6D6B6C](https://placehold.co/15x15/6D6B6C/6D6B6C.png) `#6D6B6C`|
+|Wolf Grey|Wave 1|98|117|135|![#627587](https://placehold.co/15x15/627587/627587.png) `#627587`|
+|Wyvern Green|Wave 1|64|73|66|![#404942](https://placehold.co/15x15/404942/404942.png) `#404942`|
+|Yellow Flame|Wave 1|248|175|43|![#F8AF2B](https://placehold.co/15x15/F8AF2B/F8AF2B.png) `#F8AF2B`|
+|Yellow Glaze|Wave 2|242|240|117|![#F2F075](https://placehold.co/15x15/F2F075/F2F075.png) `#F2F075`|
+|Zombie Rot|Wave 3|177|182|121|![#B1B679](https://placehold.co/15x15/B1B679/B1B679.png) `#B1B679`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
 <p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
 <p align="center">
