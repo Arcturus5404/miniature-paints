@@ -7,7 +7,6 @@
 
 # Green Stuff World
 
-
 <img src="../logos/GreenStuffWorld.png" height="200" />
 <table>
 <thead>
@@ -37,7 +36,7 @@
 <td>69</td>
 <td>92</td>
 <td>14</td>
-<td>#455C0E</td>
+<td>`#455C0E`</td>
 <td style="background-color: #455C0E" ><img src="https://via.placeholder.com/40/455C0E/000000?text=+" /></td>
 </tr>
 <tr>
