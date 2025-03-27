@@ -20,7 +20,7 @@
 <td>19</td>
 <td>75</td>
 <td>#00134B</td>
-<td style="background-color: #00134B" ><img src="https://via.placeholder.com/40/00134B/000000?text=+" /></td>
+<td style="background-color: #00134B !important; width: 20px; height: 20px" ></td>
 </tr>
 <tr>
 <td>Acid Green Dip</td>
